@@ -53,8 +53,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 8 | 8 | 8 | 8 | 8 |
+| N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 8 | 8 | 7–9 | 7–9 | 7–9 |
@@ -70,8 +70,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 1.4% | 100% |  |
 | 7 | 30% | 98.6% |  |
-| 8 | 67% | 69% | Median |
-| 9 | 2% | 2% |  |
+| 8 | 62% | 68% | Median |
+| 9 | 7% | 7% |  |
 | 10 | 0% | 0% |  |
 
 
