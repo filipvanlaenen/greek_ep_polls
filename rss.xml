@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sun, 25 Feb 2018 12:43:57 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for Action 24, 25–29 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-29-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 21.9–26.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 34.1–39.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (—): 8.1–11.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 9.0–12.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (—): 5.4–7.9%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 1.8–3.4%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.8–3.4%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0.6–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-29-PulseRC.png"
+        length="254177"
+        type="image/png"/>
+      <pubDate>Sun, 25 Feb 2018 10:44:05 +0100</pubDate>
+      <dc:date>2018-02-25T10:44:05.473134+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Public Issue, 8–18 January 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-PublicIssue.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 4–5 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (—): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (—): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-PublicIssue-seats.png"
+        length="194730"
+        type="image/png"/>
+      <pubDate>Sun, 25 Feb 2018 11:16:57 +0100</pubDate>
+      <dc:date>2018-02-25T11:16:57.894984+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Public Issue, 8–18 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-PublicIssue.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-PublicIssue-coalitions-seats.png"
+        length="137020"
+        type="image/png"/>
+      <pubDate>Sun, 25 Feb 2018 11:16:57 +0100</pubDate>
+      <dc:date>2018-02-25T11:16:57.894984+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Public Issue, 8–18 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-PublicIssue.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 19.1–24.1%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 34.1–40.1%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (—): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 11.0–15.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (—): 6.1–9.3%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-PublicIssue.png"
+        length="237218"
+        type="image/png"/>
+      <pubDate>Sun, 25 Feb 2018 11:16:57 +0100</pubDate>
+      <dc:date>2018-02-25T11:16:57.894984+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Ραδιόφωνο 24/7, 16–18 January 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-Alco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (—): 2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (—): 1–2 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-Alco-seats.png"
+        length="184533"
+        type="image/png"/>
+      <pubDate>Sun, 25 Feb 2018 12:22:45 +0100</pubDate>
+      <dc:date>2018-02-25T12:22:45.085534+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Ραδιόφωνο 24/7, 16–18 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-Alco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-Alco-coalitions-seats.png"
+        length="130043"
+        type="image/png"/>
+      <pubDate>Sun, 25 Feb 2018 12:22:45 +0100</pubDate>
+      <dc:date>2018-02-25T12:22:45.085534+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco for Ραδιόφωνο 24/7, 16–18 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-Alco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 22.4–27.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 29.9–35.7%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (—): 7.7–11.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 8.0–11.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (—): 5.8–9.1%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-Alco.png"
+        length="256610"
+        type="image/png"/>
+      <pubDate>Sun, 25 Feb 2018 12:22:45 +0100</pubDate>
+      <dc:date>2018-02-25T12:22:45.085534+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for bankingnews.gr, 8–10 January 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-10-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (—): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (—): 1–2 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-10-PulseRC-seats.png"
+        length="154158"
+        type="image/png"/>
+      <pubDate>Sun, 25 Feb 2018 12:43:57 +0100</pubDate>
+      <dc:date>2018-02-25T12:43:57.316794+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for bankingnews.gr, 8–10 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-10-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-10-PulseRC-coalitions-seats.png"
+        length="111595"
+        type="image/png"/>
+      <pubDate>Sun, 25 Feb 2018 12:43:57 +0100</pubDate>
+      <dc:date>2018-02-25T12:43:57.316794+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for bankingnews.gr, 8–10 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-10-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 22.6–27.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 33.9–39.3%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (—): 7.1–10.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 8.4–11.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (—): 5.2–8.0%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 1.7–3.5%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.7–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-10-PulseRC.png"
+        length="221528"
+        type="image/png"/>
+      <pubDate>Sun, 25 Feb 2018 12:43:57 +0100</pubDate>
+      <dc:date>2018-02-25T12:43:57.316794+01:00</dc:date>
+    </item>
+    <dc:date>2018-02-25T12:43:57.316794+01:00</dc:date>
+  </channel>
+</rss>
