@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Feb 2018 14:36:26 +0100</pubDate>
+    <pubDate>Wed, 28 Feb 2018 18:31:04 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for Action 24, 25–29 January 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-29-PulseRC.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-Alco-seats.png"
         length="184533"
         type="image/png"/>
-      <pubDate>Sun, 25 Feb 2018 12:22:45 +0100</pubDate>
-      <dc:date>2018-02-25T12:22:45.085534+01:00</dc:date>
+      <pubDate>Wed, 28 Feb 2018 18:31:04 +0100</pubDate>
+      <dc:date>2018-02-28T18:31:04.790029+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Ραδιόφωνο 24/7, 16–18 January 2018 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-Alco-coalitions-seats.png"
         length="130043"
         type="image/png"/>
-      <pubDate>Sun, 25 Feb 2018 12:22:45 +0100</pubDate>
-      <dc:date>2018-02-25T12:22:45.085534+01:00</dc:date>
+      <pubDate>Wed, 28 Feb 2018 18:31:04 +0100</pubDate>
+      <dc:date>2018-02-28T18:31:04.790029+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Ραδιόφωνο 24/7, 16–18 January 2018 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-Alco.png"
         length="256610"
         type="image/png"/>
-      <pubDate>Sun, 25 Feb 2018 12:22:45 +0100</pubDate>
-      <dc:date>2018-02-25T12:22:45.085534+01:00</dc:date>
+      <pubDate>Wed, 28 Feb 2018 18:31:04 +0100</pubDate>
+      <dc:date>2018-02-28T18:31:04.790029+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for bankingnews.gr, 8–10 January 2018 – Seat Projections</title>
@@ -129,6 +129,6 @@
       <pubDate>Sun, 25 Feb 2018 12:43:57 +0100</pubDate>
       <dc:date>2018-02-25T12:43:57.316794+01:00</dc:date>
     </item>
-    <dc:date>2018-02-25T14:36:26.406275+01:00</dc:date>
+    <dc:date>2018-02-28T18:31:04.790029+01:00</dc:date>
   </channel>
 </rss>
