@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 01 Mar 2018 09:07:40 +0100</pubDate>
+    <pubDate>Thu, 01 Mar 2018 18:48:45 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for Action 24, 25–29 January 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-01-29-PulseRC.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-PublicIssue-seats.png"
         length="194730"
         type="image/png"/>
-      <pubDate>Sun, 25 Feb 2018 11:16:57 +0100</pubDate>
-      <dc:date>2018-02-25T11:16:57.894984+01:00</dc:date>
+      <pubDate>Thu, 01 Mar 2018 18:48:45 +0100</pubDate>
+      <dc:date>2018-03-01T18:48:45.206969+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Public Issue, 8–18 January 2018 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-PublicIssue-coalitions-seats.png"
         length="137020"
         type="image/png"/>
-      <pubDate>Sun, 25 Feb 2018 11:16:57 +0100</pubDate>
-      <dc:date>2018-02-25T11:16:57.894984+01:00</dc:date>
+      <pubDate>Thu, 01 Mar 2018 18:48:45 +0100</pubDate>
+      <dc:date>2018-03-01T18:48:45.206969+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Public Issue, 8–18 January 2018 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-18-PublicIssue.png"
         length="237218"
         type="image/png"/>
-      <pubDate>Sun, 25 Feb 2018 11:16:57 +0100</pubDate>
-      <dc:date>2018-02-25T11:16:57.894984+01:00</dc:date>
+      <pubDate>Thu, 01 Mar 2018 18:48:45 +0100</pubDate>
+      <dc:date>2018-03-01T18:48:45.206969+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Ραδιόφωνο 24/7, 16–18 January 2018 – Seat Projections</title>
@@ -129,6 +129,6 @@
       <pubDate>Thu, 01 Mar 2018 09:07:40 +0100</pubDate>
       <dc:date>2018-03-01T09:07:40.167989+01:00</dc:date>
     </item>
-    <dc:date>2018-03-01T09:07:40.167989+01:00</dc:date>
+    <dc:date>2018-03-01T18:48:45.206969+01:00</dc:date>
   </channel>
 </rss>
