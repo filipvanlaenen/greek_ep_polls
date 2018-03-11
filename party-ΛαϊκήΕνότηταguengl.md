@@ -41,9 +41,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
-| [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0–1 |
-| [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue |  |  |  |  |  |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -57,8 +57,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 17% | 17% |  |
 | 2 | 0% | 0% |  |
 
 
