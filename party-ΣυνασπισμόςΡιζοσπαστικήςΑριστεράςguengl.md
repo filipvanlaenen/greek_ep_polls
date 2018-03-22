@@ -10,7 +10,9 @@ Last result: **26.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 21.2–26.0% | 20.4–26.5% | 19.9–26.9% | 19.0–27.7% |
+| N/A | [Poll Average](average.html) | 24.1% | 21.3–26.0% | 20.6–26.5% | 20.0–26.9% | 19.1–27.7% |
+| [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24.5% | 23.0–26.0% | 22.6–26.5% | 22.2–26.9% | 21.5–27.6% |
+| [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 23.4% | 21.7–25.1% | 21.2–25.6% | 20.8–26.1% | 20.1–26.9% |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.4% |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 25.2% | 24.1–26.4% | 23.8–26.7% | 23.5–27.0% | 22.9–27.6% |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 24.0% | 22.6–25.4% | 22.2–25.8% | 21.9–26.2% | 21.2–26.9% |
@@ -26,15 +28,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 1.3% | 99.8% |  |
-| 19.5–20.5% | 4% | 98.5% |  |
-| 20.5–21.5% | 8% | 94% |  |
-| 21.5–22.5% | 10% | 87% |  |
-| 22.5–23.5% | 14% | 77% |  |
-| 23.5–24.5% | 21% | 63% | Median |
-| 24.5–25.5% | 23% | 41% |  |
-| 25.5–26.5% | 14% | 18% |  |
-| 26.5–27.5% | 4% | 5% | Last Result |
+| 18.5–19.5% | 1.0% | 99.8% |  |
+| 19.5–20.5% | 4% | 98.8% |  |
+| 20.5–21.5% | 7% | 95% |  |
+| 21.5–22.5% | 11% | 88% |  |
+| 22.5–23.5% | 15% | 77% |  |
+| 23.5–24.5% | 21% | 62% | Median |
+| 24.5–25.5% | 22% | 40% |  |
+| 25.5–26.5% | 13% | 18% |  |
+| 26.5–27.5% | 4% | 4% | Last Result |
 | 27.5–28.5% | 0.6% | 0.7% |  |
 | 28.5–29.5% | 0.1% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
@@ -49,6 +51,8 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -65,8 +69,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 8% | 100% |  |
-| 5 | 65% | 92% | Median |
-| 6 | 27% | 27% | Last Result |
+| 5 | 70% | 92% | Median |
+| 6 | 23% | 23% | Last Result |
 | 7 | 0% | 0% |  |
 
 
