@@ -61,7 +61,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 8 | 8 | 8 | 8 | 8 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 7 | 7 | 7 | 7 | 7 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 8 | 8 | 8 | 7–8 | 7–8 |
-| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 8 | 8 | 8 | 8 | 8 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 8 | 8 | 7–9 | 7–9 | 7–9 |
