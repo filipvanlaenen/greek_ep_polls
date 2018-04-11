@@ -61,7 +61,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 2 | 2 | 2 | 1–2 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 2 | 2 | 2 | 2 | 1–3 |
+| [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 2 | 2 | 2 | 2–3 | 2–3 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 2 | 2 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
@@ -73,8 +73,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.9% | 100% |  |
-| 2 | 67% | 99.1% | Median |
+| 1 | 0.7% | 100% |  |
+| 2 | 67% | 99.3% | Median |
 | 3 | 32% | 32% |  |
 | 4 | 0% | 0% |  |
 
