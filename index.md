@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–27% <br> 4–6 | 30–39% <br> 6–8 | 7–12% <br> 1–2 | 0–2% <br> 0 | 6–9% <br> 1–2 | 2–4% <br> 0–1 | 2–4% <br> 0–1 | 8–14% <br> 2–3 | 2–4% <br> 0–1 | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 20–27% <br> 4–6 | 30–39% <br> 7–8 | 7–12% <br> 1–2 | 0–2% <br> 0 | 6–9% <br> 1–2 | 2–4% <br> 0–1 | 2–4% <br> 0–1 | 8–14% <br> 2–3 | 2–4% <br> 0–1 | 1–2% <br> 0 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22–27% <br> 5–6 | 33–39% <br> 7–8 | 8–11% <br> 2 | N/A <br> N/A | 6–9% <br> 1–2 | 2–4% <br> 0–1 | 2–4% <br> 0–1 | 8–12% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 21–26% <br> 4–6 | 33–39% <br> 7–8 | 7–11% <br> 1–2 | N/A <br> N/A | 6–10% <br> 1–2 | 2–4% <br> 0–1 | 2–5% <br> 0–1 | 10–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 22–27% <br> 5–6 | 29–35% <br> 6–8 | 9–12% <br> 2–3 | N/A <br> N/A | 6–9% <br> 1–2 | 2–4% <br> 0–1 | 2–4% <br> 0–1 | 8–11% <br> 2 | 2–4% <br> 0–1 | N/A <br> N/A |
