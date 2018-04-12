@@ -271,7 +271,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 2% | 100% |  |
-| 7 | 33% | 98% |  |
+| 7 | 34% | 98% |  |
 | 8 | 62% | 64% | Median |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
@@ -284,8 +284,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 5% | 100% |  |
-| 2 | 94% | 95% | Median |
+| 1 | 4% | 100% |  |
+| 2 | 94% | 96% | Median |
 | 3 | 2% | 2% | Last Result |
 | 4 | 0% | 0% |  |
 
@@ -321,8 +321,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Median |
-| 1 | 28% | 28% | Last Result |
+| 0 | 73% | 100% | Median |
+| 1 | 27% | 27% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Ένωση Κεντρώων (ALDE)
@@ -349,7 +349,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0.7% | 100% |  |
 | 2 | 67% | 99.3% | Median |
 | 3 | 32% | 32% |  |
-| 4 | 0% | 0% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Πλεύση Ελευθερίας (GUE/NGL)
 
@@ -395,7 +396,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 2% | 100% |  |
-| 7 | 33% | 98% |  |
+| 7 | 34% | 98% |  |
 | 8 | 62% | 64% | Median |
 | 9 | 2% | 2% |  |
 | 10 | 0% | 0% |  |
@@ -415,9 +416,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.7% | 100% |  |
-| 3 | 46% | 99.3% |  |
-| 4 | 52% | 54% | Median |
-| 5 | 1.0% | 1.0% | Last Result |
+| 3 | 45% | 99.3% |  |
+| 4 | 53% | 54% | Median |
+| 5 | 1.1% | 1.1% | Last Result |
 | 6 | 0% | 0% |  |
 
 ### Το Ποτάμι (S&D) – Κίνημα Αλλαγής (S&D)
@@ -427,7 +428,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0.7% | 100% |  |
 | 2 | 67% | 99.3% | Last Result, Median |
 | 3 | 32% | 32% |  |
-| 4 | 0% | 0% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Ένωση Κεντρώων (ALDE)
 
@@ -441,8 +443,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Median |
-| 1 | 28% | 28% | Last Result |
+| 0 | 73% | 100% | Median |
+| 1 | 27% | 27% | Last Result |
 | 2 | 0% | 0% |  |
 
 
