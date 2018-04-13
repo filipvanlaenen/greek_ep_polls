@@ -54,7 +54,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -69,8 +69,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 8% | 100% |  |
-| 5 | 68% | 92% | Median |
-| 6 | 24% | 24% | Last Result |
+| 5 | 70% | 92% | Median |
+| 6 | 22% | 22% | Last Result |
 | 7 | 0% | 0% |  |
 
 
