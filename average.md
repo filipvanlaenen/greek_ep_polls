@@ -261,7 +261,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 5% | 100% |  |
-| 5 | 73% | 95% | Median |
+| 5 | 72% | 95% | Median |
 | 6 | 22% | 22% | Last Result |
 | 7 | 0% | 0% |  |
 
@@ -276,8 +276,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 14% | 100% |  |
 | 7 | 38% | 86% | Median |
-| 8 | 46% | 48% |  |
-| 9 | 1.3% | 1.3% |  |
+| 8 | 46% | 47% |  |
+| 9 | 1.4% | 1.4% |  |
 | 10 | 0% | 0% |  |
 
 ### Χρυσή Αυγή (NI)
@@ -352,7 +352,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
 | 2 | 72% | 98% | Median |
-| 3 | 27% | 27% |  |
+| 3 | 26% | 26% |  |
 | 4 | 0% | 0% |  |
 
 ### Λαϊκή Ενότητα (GUE/NGL)
@@ -402,8 +402,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 14% | 100% |  |
 | 7 | 38% | 86% | Median |
-| 8 | 46% | 48% |  |
-| 9 | 1.3% | 1.3% |  |
+| 8 | 46% | 47% |  |
+| 9 | 1.4% | 1.4% |  |
 | 10 | 0% | 0% |  |
 
 ### Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) – Λαϊκή Ενότητα (GUE/NGL) – Πλεύση Ελευθερίας (GUE/NGL)
@@ -411,7 +411,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 5% | 100% |  |
-| 5 | 64% | 95% | Median |
+| 5 | 63% | 95% | Median |
 | 6 | 27% | 31% | Last Result |
 | 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
@@ -432,7 +432,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% |  |
 | 2 | 72% | 98% | Last Result, Median |
-| 3 | 27% | 27% |  |
+| 3 | 26% | 26% |  |
 | 4 | 0% | 0% |  |
 
 ### Ένωση Κεντρώων (ALDE)
