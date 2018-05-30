@@ -16,7 +16,7 @@
 | Χρυσή Αυγή (NI) | 9.4% | 8.0% | 7.0–9.2% |6.7–9.6% |6.5–9.9% |6.1–10.5% |
 | Κομμουνιστικό Κόμμα Ελλάδας (NI) | 6.1% | 7.5% | 6.6–8.7% |6.3–9.0% |6.1–9.3% |5.6–9.9% |
 | Ανεξάρτητοι Έλληνες (ECR) | 3.5% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.0% |1.1–3.4% |
-| Ένωση Κεντρώων (ALDE) | 0.7% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.0% |1.1–3.4% |
+| Ένωση Κεντρώων (ALDE) | 0.6% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.0% |1.1–3.4% |
 | Το Ποτάμι (S&D) | 6.6% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -29,20 +29,20 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#Νέα-Δημοκρατία-(epp)">Νέα Δημοκρατία (EPP)</a> | 5 | 8 | 8 |7–9 |7–9 |7–9 |
-| <a href="#Συνασπισμός-Ριζοσπαστικής-Αριστεράς-(gue/ngl)">Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)</a> | 6 | 5 | 4–5 |4–5 |4–5 |4–5 |
-| <a href="#Κίνημα-Αλλαγής-(s&d)">Κίνημα Αλλαγής (S&D)</a> | 0 | 3 | 3 |2–3 |2–3 |2–3 |
-| <a href="#Χρυσή-Αυγή-(ni)">Χρυσή Αυγή (NI)</a> | 3 | 2 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#Κομμουνιστικό-Κόμμα-Ελλάδας-(ni)">Κομμουνιστικό Κόμμα Ελλάδας (NI)</a> | 2 | 2 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#Ανεξάρτητοι-Έλληνες-(ecr)">Ανεξάρτητοι Έλληνες (ECR)</a> | 1 | 0 | 0 |0 |0 |0–1 |
-| <a href="#Ένωση-Κεντρώων-(alde)">Ένωση Κεντρώων (ALDE)</a> | 0 | 0 | 0 |0 |0 |0–1 |
-| <a href="#Το-Ποτάμι-(s&d)">Το Ποτάμι (S&D)</a> | 2 | 0 | 0 |0 |0 |0 |
+| <a href="#νέα-δημοκρατία-(epp)">Νέα Δημοκρατία (EPP)</a> | 5 | 8 | 8 |7–9 |7–9 |7–9 |
+| <a href="#συνασπισμός-ριζοσπαστικής-αριστεράς-(gue/ngl)">Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)</a> | 6 | 5 | 4–5 |4–5 |4–5 |4–5 |
+| <a href="#κίνημα-αλλαγής-(s&d)">Κίνημα Αλλαγής (S&D)</a> | 0 | 3 | 3 |2–3 |2–3 |2–3 |
+| <a href="#χρυσή-αυγή-(ni)">Χρυσή Αυγή (NI)</a> | 3 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#κομμουνιστικό-κόμμα-ελλάδας-(ni)">Κομμουνιστικό Κόμμα Ελλάδας (NI)</a> | 2 | 2 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#ανεξάρτητοι-έλληνες-(ecr)">Ανεξάρτητοι Έλληνες (ECR)</a> | 1 | 0 | 0 |0 |0 |0–1 |
+| <a href="#ένωση-κεντρώων-(alde)">Ένωση Κεντρώων (ALDE)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#το-ποτάμι-(s&d)">Το Ποτάμι (S&D)</a> | 2 | 0 | 0 |0 |0 |0 |
 
 ### Νέα Δημοκρατία (EPP)
 
-*For a full overview of the results for this party, see the [Νέα Δημοκρατία (EPP)](party-ΝέαΔημοκρατίαepp.html) page.*
+*For a full overview of the results for this party, see the [Νέα Δημοκρατία (EPP)](party-νέαδημοκρατίαepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-ΝέαΔημοκρατίαepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-νέαδημοκρατίαepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -55,9 +55,9 @@
 
 ### Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)
 
-*For a full overview of the results for this party, see the [Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)](party-ΣυνασπισμόςΡιζοσπαστικήςΑριστεράςguengl.html) page.*
+*For a full overview of the results for this party, see the [Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)](party-συνασπισμόςριζοσπαστικήςαριστεράςguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-ΣυνασπισμόςΡιζοσπαστικήςΑριστεράςguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-συνασπισμόςριζοσπαστικήςαριστεράςguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -68,9 +68,9 @@
 
 ### Κίνημα Αλλαγής (S&D)
 
-*For a full overview of the results for this party, see the [Κίνημα Αλλαγής (S&D)](party-ΚίνημαΑλλαγήςsd.html) page.*
+*For a full overview of the results for this party, see the [Κίνημα Αλλαγής (S&D)](party-κίνημααλλαγήςsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-ΚίνημαΑλλαγήςsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-κίνημααλλαγήςsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -83,9 +83,9 @@
 
 ### Χρυσή Αυγή (NI)
 
-*For a full overview of the results for this party, see the [Χρυσή Αυγή (NI)](party-ΧρυσήΑυγήni.html) page.*
+*For a full overview of the results for this party, see the [Χρυσή Αυγή (NI)](party-χρυσήαυγήni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-ΧρυσήΑυγήni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-χρυσήαυγήni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -95,9 +95,9 @@
 
 ### Κομμουνιστικό Κόμμα Ελλάδας (NI)
 
-*For a full overview of the results for this party, see the [Κομμουνιστικό Κόμμα Ελλάδας (NI)](party-ΚομμουνιστικόΚόμμαΕλλάδαςni.html) page.*
+*For a full overview of the results for this party, see the [Κομμουνιστικό Κόμμα Ελλάδας (NI)](party-κομμουνιστικόκόμμαελλάδαςni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-ΚομμουνιστικόΚόμμαΕλλάδαςni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-κομμουνιστικόκόμμαελλάδαςni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -107,9 +107,9 @@
 
 ### Ανεξάρτητοι Έλληνες (ECR)
 
-*For a full overview of the results for this party, see the [Ανεξάρτητοι Έλληνες (ECR)](party-ΑνεξάρτητοιΈλληνεςecr.html) page.*
+*For a full overview of the results for this party, see the [Ανεξάρτητοι Έλληνες (ECR)](party-ανεξάρτητοιέλληνεςecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-ΑνεξάρτητοιΈλληνεςecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-ανεξάρτητοιέλληνεςecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -119,9 +119,9 @@
 
 ### Ένωση Κεντρώων (ALDE)
 
-*For a full overview of the results for this party, see the [Ένωση Κεντρώων (ALDE)](party-ΈνωσηΚεντρώωνalde.html) page.*
+*For a full overview of the results for this party, see the [Ένωση Κεντρώων (ALDE)](party-ένωσηκεντρώωνalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-ΈνωσηΚεντρώωνalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-ένωσηκεντρώωνalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -131,9 +131,9 @@
 
 ### Το Ποτάμι (S&D)
 
-*For a full overview of the results for this party, see the [Το Ποτάμι (S&D)](party-ΤοΠοτάμιsd.html) page.*
+*For a full overview of the results for this party, see the [Το Ποτάμι (S&D)](party-τοποτάμιsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-ΤοΠοτάμιsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-seats-pmf-τοποτάμιsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
