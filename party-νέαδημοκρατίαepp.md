@@ -69,8 +69,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8 | 8–9 | 7–9 |
-| [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
+| [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8–9 | 7–9 | 7–9 |
+| [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 7 | 7 | 6–8 | 6–8 | 6–8 |
@@ -92,10 +92,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 4% | 100% | Last Result |
-| 6 | 22% | 96% |  |
-| 7 | 24% | 74% | Median |
-| 8 | 41% | 50% |  |
+| 5 | 5% | 100% | Last Result |
+| 6 | 21% | 95% |  |
+| 7 | 25% | 74% | Median |
+| 8 | 41% | 49% |  |
 | 9 | 8% | 8% |  |
 | 10 | 0% | 0% |  |
 
