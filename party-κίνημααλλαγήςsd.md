@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 6.9–12.2% | 6.1–12.9% | 5.6–13.5% | 5.0–14.4% |
+| N/A | [Poll Average](average.html) | 10.1% | 6.6–12.0% | 6.0–12.6% | 5.6–13.0% | 4.9–13.9% |
+| [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–13.9% | 9.4–14.6% |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 6.3% | 5.4–7.6% | 5.1–7.9% | 4.8–8.3% | 4.4–8.9% |
 | [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.2–11.2% |
 | [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 11.0% | 9.8–12.3% | 9.4–12.7% | 9.2–13.1% | 8.6–13.7% |
@@ -39,16 +40,16 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 6% | 98% |  |
-| 6.5–7.5% | 6% | 92% |  |
-| 7.5–8.5% | 14% | 86% |  |
-| 8.5–9.5% | 19% | 72% |  |
-| 9.5–10.5% | 23% | 53% | Median |
-| 10.5–11.5% | 14% | 30% |  |
-| 11.5–12.5% | 9% | 16% |  |
-| 12.5–13.5% | 5% | 7% |  |
-| 13.5–14.5% | 2% | 2% |  |
-| 14.5–15.5% | 0.3% | 0.4% |  |
+| 5.5–6.5% | 7% | 98% |  |
+| 6.5–7.5% | 6% | 91% |  |
+| 7.5–8.5% | 7% | 85% |  |
+| 8.5–9.5% | 16% | 77% |  |
+| 9.5–10.5% | 28% | 62% | Median |
+| 10.5–11.5% | 18% | 34% |  |
+| 11.5–12.5% | 10% | 15% |  |
+| 12.5–13.5% | 4% | 5% |  |
+| 13.5–14.5% | 0.9% | 1.0% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -61,6 +62,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 1–2 |
 | [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -86,9 +88,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 8% | 100% |  |
-| 2 | 76% | 92% | Median |
-| 3 | 16% | 16% |  |
+| 1 | 9% | 100% |  |
+| 2 | 78% | 91% | Median |
+| 3 | 13% | 13% |  |
 | 4 | 0% | 0% |  |
 
 
