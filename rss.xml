@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 31 May 2018 18:15:30 +0200</pubDate>
+    <pubDate>Thu, 07 Jun 2018 17:38:25 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by RASS for Action 24, 29–31 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-05-31-RASS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 21.1–26.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 33.3–39.3%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 6.9–10.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 9.9–13.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-05-31-RASS.png"
+        length="239670"
+        type="image/png"/>
+      <pubDate>Thu, 07 Jun 2018 17:38:25 +0200</pubDate>
+      <dc:date>2018-06-07T17:38:25.553752+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco for Kontra Channel, 16–20 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-05-20-Alco.html#seats</link>
@@ -459,6 +469,6 @@
       <pubDate>Mon, 09 Apr 2018 11:11:06 +0200</pubDate>
       <dc:date>2018-04-09T11:11:06.972482+02:00</dc:date>
     </item>
-    <dc:date>2018-05-31T18:15:30.087356+02:00</dc:date>
+    <dc:date>2018-06-07T17:38:25.553752+02:00</dc:date>
   </channel>
 </rss>
