@@ -11,6 +11,7 @@ Last result: **22.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 34.3% | 26.2–39.0% | 25.0–39.9% | 24.2–40.6% | 23.0–41.9% |
+| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 37.9% | 36.0–39.9% | 35.4–40.5% | 34.9–41.0% | 34.0–41.9% |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 36.2% | 34.3–38.2% | 33.8–38.8% | 33.3–39.3% | 32.4–40.2% |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 25.7% | 23.8–27.8% | 23.3–28.4% | 22.8–28.9% | 21.9–29.9% |
 | [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 37.0% | 35.3–38.7% | 34.8–39.2% | 34.4–39.6% | 33.6–40.4% |
@@ -69,6 +70,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
+| [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8–9 | 7–9 | 7–9 |
