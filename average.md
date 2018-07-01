@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 25 May 2014 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 18–27% <br> 4–6 | 24–41% <br> 5–9 | 6–11% <br> 1–2 | N/A <br> N/A | 5–10% <br> 1–2 | 1–4% <br> 0–1 | 2–4% <br> 0–1 | 6–13% <br> 1–3 | 1–3% <br> 0 | 1–2% <br> 0 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 20–25% <br> 4–6 | 34–40% <br> 7–9 | 6–10% <br> 1–2 | N/A <br> N/A | 5–9% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0–1 | 8–12% <br> 2–3 | N/A <br> N/A | 1–3% <br> 0 |
-| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22–27% <br> 5–6 | 36–42% <br> 8–9 | 7–10% <br> 2 | N/A <br> N/A | 6–9% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0–1 | 7–10% <br> 2 | 1–2% <br> 0 | 1–2% <br> 0 |
+| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22–27% <br> 5–6 | 36–42% <br> 8–9 | 7–10% <br> 1–2 | N/A <br> N/A | 6–9% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0–1 | 7–10% <br> 2 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 18–23% <br> 4–5 | 35–41% <br> 8–9 | 7–11% <br> 1–2 | N/A <br> N/A | 6–10% <br> 1–2 | 1–3% <br> 0–1 | 2–5% <br> 0–1 | 8–11% <br> 2 | N/A <br> N/A | N/A <br> N/A |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 21–26% <br> 4–6 | 33–39% <br> 7–8 | 7–10% <br> 1–2 | N/A <br> N/A | 7–10% <br> 1–2 | 2–4% <br> 0–1 | 2–5% <br> 0–1 | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 18–23% <br> 4–5 | 23–29% <br> 5–6 | 5–9% <br> 1–2 | N/A <br> N/A | 5–8% <br> 1–2 | 1–3% <br> 0 | 1–4% <br> 0–1 | 5–8% <br> 1–2 | 1–3% <br> 0–1 | N/A <br> N/A |
@@ -253,7 +253,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 27% | 99.9% |  |
-| 5 | 62% | 73% | Median |
+| 5 | 61% | 73% | Median |
 | 6 | 11% | 11% | Last Result |
 | 7 | 0% | 0% |  |
 
@@ -293,8 +293,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 37% | 100% |  |
-| 2 | 63% | 63% | Last Result, Median |
+| 1 | 38% | 100% |  |
+| 2 | 62% | 62% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Ανεξάρτητοι Έλληνες (ECR)
@@ -393,7 +393,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0.1% | 100% |  |
 | 4 | 27% | 99.9% |  |
 | 5 | 62% | 73% | Median |
-| 6 | 11% | 11% | Last Result |
+| 6 | 12% | 12% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Χρυσή Αυγή (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI)
@@ -401,8 +401,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
-| 3 | 42% | 96% |  |
-| 4 | 52% | 54% | Median |
+| 3 | 43% | 96% |  |
+| 4 | 51% | 53% | Median |
 | 5 | 2% | 2% | Last Result |
 | 6 | 0% | 0% |  |
 
