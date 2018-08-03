@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 7.1–11.8% | 6.2–12.4% | 5.7–12.9% | 5.0–13.8% |
+| N/A | [Poll Average](average.html) | 10.0% | 7.8–11.7% | 7.2–12.3% | 6.8–12.8% | 6.1–13.7% |
+| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 10.6% | 9.8–11.5% | 9.5–11.8% | 9.3–12.0% | 8.9–12.5% |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.5% | 7.5–9.5% | 7.3–9.8% | 7.1–10.1% | 6.7–10.6% |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–13.9% | 9.4–14.6% |
@@ -41,17 +43,17 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 5% | 98% |  |
-| 6.5–7.5% | 6% | 93% |  |
-| 7.5–8.5% | 11% | 87% |  |
-| 8.5–9.5% | 19% | 76% |  |
-| 9.5–10.5% | 28% | 57% | Median |
-| 10.5–11.5% | 17% | 30% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 1.4% | 99.9% |  |
+| 6.5–7.5% | 6% | 98.5% |  |
+| 7.5–8.5% | 13% | 93% |  |
+| 8.5–9.5% | 18% | 80% |  |
+| 9.5–10.5% | 29% | 62% | Median |
+| 10.5–11.5% | 20% | 32% |  |
 | 11.5–12.5% | 8% | 12% |  |
 | 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.7% | 0.8% |  |
+| 13.5–14.5% | 0.6% | 0.7% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -65,7 +67,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 1–2 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2 | 2 | 1–3 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -94,8 +98,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 7% | 100% |  |
-| 2 | 81% | 93% | Median |
+| 1 | 6% | 100% |  |
+| 2 | 84% | 94% | Median |
 | 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
