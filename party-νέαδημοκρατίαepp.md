@@ -72,7 +72,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
-| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 8 | 8 | 8 | 7–8 | 7–9 |
+| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 8 | 8 | 8 | 8–9 | 7–9 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–9 | 8–9 | 8–9 | 8–9 |

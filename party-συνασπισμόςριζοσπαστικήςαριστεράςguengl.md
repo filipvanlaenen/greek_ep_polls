@@ -65,7 +65,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -97,8 +97,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 18% | 99.9% |  |
-| 5 | 65% | 82% | Median |
-| 6 | 17% | 17% | Last Result |
+| 5 | 66% | 82% | Median |
+| 6 | 16% | 16% | Last Result |
 | 7 | 0% | 0% |  |
 
 
