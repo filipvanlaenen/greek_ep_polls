@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 19–27% <br> 4–6 | 28–41% <br> 6–9 | 6–11% <br> 1–2 | N/A <br> N/A | 6–10% <br> 1–2 | 1–4% <br> 0–1 | 2–5% <br> 0–1 | 7–13% <br> 1–3 | 1–3% <br> 0–1 | 1–2% <br> 0 |
-| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 23–27% <br> 5–6 | 35–39% <br> 7–8 | 7–10% <br> 1–2 | N/A <br> N/A | 6–8% <br> 1–2 | 2–3% <br> 0 | 3–4% <br> 0–1 | 9–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
+| [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 23–27% <br> 5–6 | 35–39% <br> 8–9 | 7–10% <br> 2 | N/A <br> N/A | 6–8% <br> 1–2 | 2–3% <br> 0 | 3–4% <br> 0–1 | 9–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 20–25% <br> 4–6 | 34–40% <br> 7–9 | 6–10% <br> 1–2 | N/A <br> N/A | 5–9% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0–1 | 8–12% <br> 2–3 | N/A <br> N/A | 1–3% <br> 0 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 21–26% <br> 4–6 | 30–36% <br> 6–8 | 6–9% <br> 1–2 | N/A <br> N/A | 7–11% <br> 1–2 | 1–2% <br> 0 | 3–5% <br> 0–1 | 6–9% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22–27% <br> 5–6 | 36–42% <br> 8–9 | 7–10% <br> 1–2 | N/A <br> N/A | 6–9% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0–1 | 7–10% <br> 2 | 1–2% <br> 0 | 1–2% <br> 0 |
@@ -249,8 +249,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 18% | 99.9% |  |
-| 5 | 65% | 82% | Median |
-| 6 | 17% | 17% | Last Result |
+| 5 | 66% | 82% | Median |
+| 6 | 16% | 16% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Νέα Δημοκρατία (EPP)
@@ -289,8 +289,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 33% | 100% |  |
-| 2 | 67% | 67% | Last Result, Median |
+| 1 | 32% | 100% |  |
+| 2 | 68% | 68% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Ανεξάρτητοι Έλληνες (ECR)
@@ -313,8 +313,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 66% | 66% | Median |
+| 0 | 33% | 100% | Last Result |
+| 1 | 67% | 67% | Median |
 | 2 | 0% | 0% |  |
 
 ### Κίνημα Αλλαγής (S&D)
@@ -388,8 +388,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 18% | 99.9% |  |
-| 5 | 63% | 82% | Median |
-| 6 | 19% | 19% | Last Result |
+| 5 | 64% | 82% | Median |
+| 6 | 18% | 18% | Last Result |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
@@ -398,8 +398,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 1.4% | 100% |  |
-| 3 | 43% | 98.6% |  |
-| 4 | 54% | 56% | Median |
+| 3 | 42% | 98.6% |  |
+| 4 | 55% | 57% | Median |
 | 5 | 2% | 2% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -416,8 +416,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 66% | 66% | Median |
+| 0 | 33% | 100% | Last Result |
+| 1 | 67% | 67% | Median |
 | 2 | 0% | 0% |  |
 
 ### Ανεξάρτητοι Έλληνες (ECR)
