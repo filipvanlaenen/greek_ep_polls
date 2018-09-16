@@ -158,6 +158,8 @@
 
 ### Νέα Δημοκρατία (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-coalitions-seats-pmf-νδ.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
@@ -169,6 +171,8 @@
 
 ### Χρυσή Αυγή (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI)
 
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-coalitions-seats-pmf-χα–κκε.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 1.0% | 100% |  |
@@ -177,6 +181,8 @@
 | 5 | 0% | 0% | Last Result |
 
 ### Κίνημα Αλλαγής (S&D) – Το Ποτάμι (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-coalitions-seats-pmf-κα–ποτάμι.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -187,6 +193,8 @@
 
 ### Ένωση Κεντρώων (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-coalitions-seats-pmf-εκ.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 98% | 100% | Last Result, Median |
@@ -194,6 +202,8 @@
 | 2 | 0% | 0% |  |
 
 ### Ανεξάρτητοι Έλληνες (ECR)
+
+![Graph with seats probability mass function not yet produced](2018-01-18-PublicIssue-coalitions-seats-pmf-ανελ.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
