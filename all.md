@@ -5,6 +5,13 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 25–31% <br> 6–7 | 31–37% <br> 6–8 | 4–7% <br> 1 | 2–4% <br> 0–1 | 5–8% <br> 1–2 | 1–2% <br> 0 | 2–4% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 23–28% <br> 5–6 | 34–40% <br> 8–9 | 5–8% <br> 1 | 2–3% <br> 0–1 | 5–8% <br> 1–2 | 1–2% <br> 0 | 2–4% <br> 0–1 | 7–10% <br> 2 | 1–3% <br> 0 | 1–3% <br> 0 |
+| [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 24–30% <br> 6–7 | 35–41% <br> 8 | 6–9% <br> 1 | 1–2% <br> 0 | 6–9% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0–1 | 6–10% <br> 2 | N/A <br> N/A | N/A <br> N/A |
+| [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 23–29% <br> N/A | 30–36% <br> N/A | 6–10% <br> N/A | N/A <br> N/A | 6–9% <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 23–27% <br> 5–6 | 35–39% <br> 8–9 | 7–10% <br> 2 | N/A <br> N/A | 6–8% <br> 1–2 | 2–3% <br> 0 | 3–4% <br> 0–1 | 9–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 20–25% <br> 4–6 | 34–40% <br> 7–9 | 6–10% <br> 1–2 | N/A <br> N/A | 5–9% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0–1 | 8–12% <br> 2–3 | N/A <br> N/A | 1–3% <br> 0 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 21–26% <br> 4–6 | 30–36% <br> 6–8 | 6–9% <br> 1–2 | N/A <br> N/A | 7–11% <br> 1–2 | 1–2% <br> 0 | 3–5% <br> 0–1 | 6–9% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A |
