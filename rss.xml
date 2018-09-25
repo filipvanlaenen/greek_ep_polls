@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 06 Aug 2018 18:10:20 +0200</pubDate>
+    <pubDate>Tue, 25 Sep 2018 06:57:46 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for TVXS, 18–21 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-09-21-PalmosAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 25.3–30.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 31.1–36.9%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 4.3–7.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.7–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-09-21-PalmosAnalysis.png"
+        length="253905"
+        type="image/png"/>
+      <pubDate>Tue, 25 Sep 2018 06:50:22 +0200</pubDate>
+      <dc:date>2018-09-25T06:50:22.173965+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Τα Νέα, 18–20 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-09-20-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 22.6–28.0%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 34.0–39.9%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 1.0–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-09-20-MetronAnalysis.png"
+        length="292916"
+        type="image/png"/>
+      <pubDate>Tue, 25 Sep 2018 06:54:03 +0200</pubDate>
+      <dc:date>2018-09-25T06:54:03.823907+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 17–19 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-09-19-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 24.2–29.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 34.7–40.7%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 5.8–9.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.4–9.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 2.3–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-09-19-MRB.png"
+        length="252031"
+        type="image/png"/>
+      <pubDate>Tue, 25 Sep 2018 06:57:46 +0200</pubDate>
+      <dc:date>2018-09-25T06:57:46.876315+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MRB for Real, 22–29 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-06-29-MRB.html#seats</link>
@@ -639,6 +669,6 @@
       <pubDate>Mon, 09 Apr 2018 11:11:06 +0200</pubDate>
       <dc:date>2018-04-09T11:11:06.972482+02:00</dc:date>
     </item>
-    <dc:date>2018-08-06T18:10:20.234132+02:00</dc:date>
+    <dc:date>2018-09-25T06:57:46.876315+02:00</dc:date>
   </channel>
 </rss>
