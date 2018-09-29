@@ -10,7 +10,7 @@ Last result: **6.1%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.3–8.9% | 6.0–9.4% | 5.8–9.8% | 5.3–10.5% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.9–8.2% | 5.6–8.6% | 5.3–8.9% | 4.8–9.5% |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6.7% | 5.8–7.8% | 5.5–8.2% | 5.3–8.4% | 4.9–9.0% |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 7.2% | 6.2–8.3% | 6.0–8.7% | 5.7–8.9% | 5.3–9.5% |
@@ -46,15 +46,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.1% | 100% |  |
-| 5.5–6.5% | 17% | 98.9% | Last Result |
-| 6.5–7.5% | 39% | 82% | Median |
-| 7.5–8.5% | 27% | 43% |  |
-| 8.5–9.5% | 12% | 16% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.5% | 0.5% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 5% | 99.8% |  |
+| 5.5–6.5% | 25% | 95% | Last Result |
+| 6.5–7.5% | 42% | 71% | Median |
+| 7.5–8.5% | 24% | 29% |  |
+| 8.5–9.5% | 5% | 5% |  |
+| 9.5–10.5% | 0.4% | 0.4% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -103,8 +103,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 36% | 100% |  |
-| 2 | 64% | 64% | Last Result, Median |
+| 1 | 41% | 100% |  |
+| 2 | 59% | 59% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 
