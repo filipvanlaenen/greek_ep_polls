@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 23.3–28.3% | 22.5–29.0% | 21.9–29.6% | 20.9–30.7% |
+| N/A | [Poll Average](average.html) | 25.6% | 23.2–28.2% | 22.5–28.9% | 21.9–29.5% | 20.9–30.7% |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.0% | 23.5–26.6% | 23.1–27.0% | 22.8–27.4% | 22.1–28.2% |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 28.0% | 26.2–29.8% | 25.7–30.3% | 25.3–30.8% | 24.4–31.7% |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–28.0% | 21.8–28.9% |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 26.9% | 25.1–28.7% | 24.7–29.3% | 24.2–29.7% | 23.4–30.6% |
@@ -50,14 +51,14 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0.2% | 100% |  |
 | 20.5–21.5% | 1.2% | 99.7% |  |
 | 21.5–22.5% | 4% | 98% |  |
-| 22.5–23.5% | 7% | 95% |  |
-| 23.5–24.5% | 13% | 87% |  |
-| 24.5–25.5% | 19% | 74% |  |
-| 25.5–26.5% | 21% | 56% | Median |
-| 26.5–27.5% | 17% | 35% | Last Result |
-| 27.5–28.5% | 10% | 18% |  |
-| 28.5–29.5% | 5% | 8% |  |
-| 29.5–30.5% | 2% | 3% |  |
+| 22.5–23.5% | 8% | 95% |  |
+| 23.5–24.5% | 15% | 86% |  |
+| 24.5–25.5% | 20% | 71% |  |
+| 25.5–26.5% | 20% | 51% | Median |
+| 26.5–27.5% | 15% | 31% | Last Result |
+| 27.5–28.5% | 9% | 17% |  |
+| 28.5–29.5% | 5% | 7% |  |
+| 29.5–30.5% | 2% | 2% |  |
 | 30.5–31.5% | 0.5% | 0.6% |  |
 | 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
@@ -72,6 +73,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -110,8 +112,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.5% | 100% |  |
-| 5 | 35% | 99.5% |  |
-| 6 | 62% | 64% | Last Result, Median |
+| 5 | 45% | 99.5% |  |
+| 6 | 52% | 54% | Last Result, Median |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 

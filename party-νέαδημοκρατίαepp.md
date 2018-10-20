@@ -11,6 +11,7 @@ Last result: **22.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 35.7% | 31.6–38.8% | 30.7–39.4% | 30.0–40.0% | 28.8–41.0% |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 38.0% | 36.3–39.7% | 35.9–40.2% | 35.5–40.6% | 34.7–41.5% |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–36.9% | 30.2–37.9% |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 36.9% | 35.0–38.9% | 34.4–39.5% | 34.0–39.9% | 33.0–40.9% |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 37.6% | 35.7–39.6% | 35.2–40.2% | 34.7–40.7% | 33.8–41.7% |
@@ -64,7 +65,7 @@ The following table shows the probability mass function per percentage block of 
 | 37.5–38.5% | 13% | 25% |  |
 | 38.5–39.5% | 8% | 12% |  |
 | 39.5–40.5% | 3% | 4% |  |
-| 40.5–41.5% | 0.9% | 1.1% |  |
+| 40.5–41.5% | 0.9% | 1.0% |  |
 | 41.5–42.5% | 0.2% | 0.2% |  |
 | 42.5–43.5% | 0% | 0% |  |
 
@@ -78,6 +79,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
@@ -118,8 +120,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 2% | 100% |  |
 | 7 | 31% | 98% |  |
-| 8 | 56% | 66% | Median |
-| 9 | 10% | 10% |  |
+| 8 | 52% | 66% | Median |
+| 9 | 15% | 15% |  |
 | 10 | 0% | 0% |  |
 
 
