@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 26 Sep 2018 15:20:10 +0200</pubDate>
+    <pubDate>Sat, 20 Oct 2018 18:07:31 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 14–16 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-10-16-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 22.8–27.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 35.5–40.6%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 7.6–10.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 7.1–10.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 6.2–9.1%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0.6–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-10-16-PulseRC.png"
+        length="261774"
+        type="image/png"/>
+      <pubDate>Sat, 20 Oct 2018 18:07:31 +0200</pubDate>
+      <dc:date>2018-10-20T18:07:31.415449+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Palmos Analysis for TVXS, 18–21 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-09-21-PalmosAnalysis.html#seats</link>
@@ -849,6 +859,6 @@
       <pubDate>Mon, 09 Apr 2018 11:11:06 +0200</pubDate>
       <dc:date>2018-04-09T11:11:06.972482+02:00</dc:date>
     </item>
-    <dc:date>2018-09-26T15:20:10.20358+02:00</dc:date>
+    <dc:date>2018-10-20T18:07:31.415449+02:00</dc:date>
   </channel>
 </rss>
