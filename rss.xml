@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Oct 2018 18:07:31 +0200</pubDate>
+    <pubDate>Sat, 20 Oct 2018 20:48:07 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 14–16 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-10-16-PulseRC.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-10-16-PulseRC.png"
         length="261774"
         type="image/png"/>
-      <pubDate>Sat, 20 Oct 2018 18:07:31 +0200</pubDate>
-      <dc:date>2018-10-20T18:07:31.415449+02:00</dc:date>
+      <pubDate>Sat, 20 Oct 2018 20:48:07 +0200</pubDate>
+      <dc:date>2018-10-20T20:48:07.071481+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Palmos Analysis for TVXS, 18–21 September 2018 – Seat Projections for the Parties</title>
@@ -859,6 +859,6 @@
       <pubDate>Mon, 09 Apr 2018 11:11:06 +0200</pubDate>
       <dc:date>2018-04-09T11:11:06.972482+02:00</dc:date>
     </item>
-    <dc:date>2018-10-20T18:07:31.415449+02:00</dc:date>
+    <dc:date>2018-10-20T20:48:07.071481+02:00</dc:date>
   </channel>
 </rss>
