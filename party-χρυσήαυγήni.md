@@ -10,7 +10,8 @@ Last result: **9.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 5.5–10.1% | 5.1–10.7% | 4.8–11.1% | 4.3–12.0% |
+| N/A | [Poll Average](average.html) | 7.7% | 5.5–10.0% | 5.1–10.6% | 4.8–11.1% | 4.3–12.0% |
+| [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.2–11.2% |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 5.5% | 4.7–6.6% | 4.5–6.8% | 4.3–7.1% | 3.9–7.6% |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
@@ -50,12 +51,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 1.2% | 100% |  |
 | 4.5–5.5% | 9% | 98.8% |  |
-| 5.5–6.5% | 16% | 89% |  |
-| 6.5–7.5% | 16% | 74% |  |
-| 7.5–8.5% | 21% | 57% | Median |
-| 8.5–9.5% | 19% | 36% | Last Result |
-| 9.5–10.5% | 11% | 17% |  |
-| 10.5–11.5% | 5% | 6% |  |
+| 5.5–6.5% | 17% | 89% |  |
+| 6.5–7.5% | 20% | 72% |  |
+| 7.5–8.5% | 21% | 53% | Median |
+| 8.5–9.5% | 16% | 32% | Last Result |
+| 9.5–10.5% | 10% | 16% |  |
+| 10.5–11.5% | 4% | 6% |  |
 | 11.5–12.5% | 1.1% | 1.3% |  |
 | 12.5–13.5% | 0.1% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -70,6 +71,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 2–3 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -108,8 +110,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 31% | 100% |  |
-| 2 | 66% | 69% | Median |
+| 1 | 33% | 100% |  |
+| 2 | 65% | 67% | Median |
 | 3 | 2% | 2% | Last Result |
 | 4 | 0% | 0% |  |
 
