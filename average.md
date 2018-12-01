@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 21–30% <br> 5–7 | 30–40% <br> 7–9 | 6–11% <br> 1–2 | 1–3% <br> 0–1 | 6–9% <br> 1–2 | 1–4% <br> 0–1 | 2–4% <br> 0–1 | 6–11% <br> 1–2 | 1–3% <br> 0–1 | N/A <br> N/A |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 26–31% <br> 6–7 | 31–37% <br> 7–8 | 6–9% <br> 1–2 | 2–4% <br> 0–1 | 5–8% <br> 1–2 | 1–2% <br> 0 | 3–5% <br> 0–1 | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 24–29% <br> 5–7 | 35–41% <br> 8–9 | 6–9% <br> 1–2 | 2–4% <br> 0–1 | 5–8% <br> 1–2 | 1–2% <br> 0 | 2–3% <br> 0–1 | 6–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
-| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 23–28% <br> 5–6 | 34–39% <br> 7–9 | 7–10% <br> 2 | 1–3% <br> 0 | 6–9% <br> 1–2 | 1–3% <br> 0 | 2–3% <br> 0–1 | 8–11% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A |
+| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 23–28% <br> 5–6 | 34–39% <br> 8–9 | 7–10% <br> 2 | 1–3% <br> 0 | 6–9% <br> 1–2 | 1–3% <br> 0 | 2–3% <br> 0–1 | 8–11% <br> 2 | 1–2% <br> 0 | N/A <br> N/A |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 20–25% <br> 4–5 | 36–42% <br> 8–9 | 6–9% <br> 1–2 | 1–3% <br> 0 | 6–9% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0 | 8–11% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 21–26% <br> 5–6 | 34–40% <br> 7–9 | 6–9% <br> 1–2 | 2–3% <br> 0–1 | 6–9% <br> 1–2 | 1–2% <br> 0 | 2–4% <br> 0–1 | 7–10% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 24–30% <br> 5–7 | 35–41% <br> 7–9 | 6–9% <br> 1–2 | 1–2% <br> 0 | 6–9% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
@@ -248,8 +248,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 38% | 98% |  |
-| 6 | 56% | 60% | Last Result, Median |
+| 5 | 37% | 98% |  |
+| 6 | 58% | 61% | Last Result, Median |
 | 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
 
@@ -264,7 +264,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 2% | 100% |  |
 | 7 | 30% | 98% |  |
-| 8 | 55% | 68% | Median |
+| 8 | 56% | 68% | Median |
 | 9 | 13% | 13% |  |
 | 10 | 0% | 0% |  |
 
@@ -340,7 +340,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 21% | 100% |  |
 | 2 | 78% | 79% | Median |
-| 3 | 0.9% | 0.9% |  |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 ### Λαϊκή Ενότητα (GUE/NGL)
@@ -380,7 +380,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 2% | 100% |  |
 | 7 | 30% | 98% |  |
-| 8 | 55% | 68% | Median |
+| 8 | 56% | 68% | Median |
 | 9 | 13% | 13% |  |
 | 10 | 0% | 0% |  |
 
@@ -391,8 +391,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 37% | 98% |  |
-| 6 | 56% | 61% | Last Result, Median |
+| 5 | 35% | 98% |  |
+| 6 | 58% | 62% | Last Result, Median |
 | 7 | 5% | 5% |  |
 | 8 | 0% | 0% |  |
 
@@ -404,7 +404,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 7% | 100% |  |
 | 3 | 44% | 93% |  |
-| 4 | 49% | 50% | Median |
+| 4 | 48% | 49% | Median |
 | 5 | 1.0% | 1.0% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -416,7 +416,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 19% | 100% |  |
 | 2 | 77% | 81% | Last Result, Median |
-| 3 | 4% | 4% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### Ένωση Κεντρώων (ALDE)
@@ -444,5 +444,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 8
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,718,592
++ **Total number of simulations done in the polls included in this average:** 5,636,096
 + **Error estimate:** 2.67%
