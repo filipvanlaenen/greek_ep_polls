@@ -10,7 +10,11 @@ Last result: **26.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.6% | 23.4–28.2% | 22.8–28.9% | 22.2–29.5% | 21.3–30.7% |
+| N/A | [Poll Average](average.html) | 25.7% | 22.4–28.5% | 21.5–29.3% | 20.9–29.9% | 19.8–31.1% |
+| [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 28.5% | 26.7–30.3% | 26.2–30.9% | 25.8–31.3% | 25.0–32.2% |
+| [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 26.9% | 25.3–28.6% | 24.8–29.1% | 24.4–29.5% | 23.7–30.3% |
+| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.5% | 24.0–27.1% | 23.6–27.5% | 23.3–27.9% | 22.6–28.7% |
+| [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 23.7% | 22.0–25.4% | 21.5–25.9% | 21.1–26.4% | 20.3–27.3% |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.0% | 23.5–26.6% | 23.1–27.0% | 22.8–27.4% | 22.1–28.2% |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 28.0% | 26.2–29.8% | 25.7–30.3% | 25.3–30.8% | 24.4–31.7% |
@@ -48,20 +52,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 0.7% | 99.9% |  |
-| 21.5–22.5% | 3% | 99.2% |  |
-| 22.5–23.5% | 8% | 96% |  |
-| 23.5–24.5% | 16% | 88% |  |
-| 24.5–25.5% | 21% | 72% |  |
-| 25.5–26.5% | 20% | 52% | Median |
-| 26.5–27.5% | 15% | 32% | Last Result |
-| 27.5–28.5% | 9% | 17% |  |
-| 28.5–29.5% | 5% | 7% |  |
-| 29.5–30.5% | 2% | 2% |  |
-| 30.5–31.5% | 0.5% | 0.6% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.3% | 100% |  |
+| 19.5–20.5% | 1.3% | 99.7% |  |
+| 20.5–21.5% | 3% | 98% |  |
+| 21.5–22.5% | 6% | 95% |  |
+| 22.5–23.5% | 8% | 89% |  |
+| 23.5–24.5% | 12% | 81% |  |
+| 24.5–25.5% | 16% | 69% |  |
+| 25.5–26.5% | 18% | 53% | Median |
+| 26.5–27.5% | 15% | 35% | Last Result |
+| 27.5–28.5% | 10% | 20% |  |
+| 28.5–29.5% | 6% | 10% |  |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 0.9% | 1.1% |  |
+| 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
 
@@ -73,7 +78,11 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 6 | 6 | 6 | 5–6 | 5–6 |
+| [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
@@ -113,10 +122,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% |  |
-| 5 | 37% | 99.7% |  |
-| 6 | 60% | 63% | Last Result, Median |
-| 7 | 3% | 3% |  |
+| 4 | 2% | 100% |  |
+| 5 | 38% | 98% |  |
+| 6 | 59% | 60% | Last Result, Median |
+| 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 
 
