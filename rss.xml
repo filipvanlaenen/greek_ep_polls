@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 01 Dec 2018 08:10:19 +0100</pubDate>
+    <pubDate>Sat, 01 Dec 2018 08:25:17 +0100</pubDate>
     <item>
       <title>Opinion Poll by Palmos Analysis for TVXS, 20–23 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-11-23-PalmosAnalysis.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-11-23-PalmosAnalysis.png"
         length="258619"
         type="image/png"/>
-      <pubDate>Fri, 30 Nov 2018 23:28:01 +0100</pubDate>
-      <dc:date>2018-11-30T23:28:01.951746+01:00</dc:date>
+      <pubDate>Sat, 01 Dec 2018 08:25:17 +0100</pubDate>
+      <dc:date>2018-12-01T08:25:17.227819+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Τα Νέα, 19–21 November 2018 – Voting Intentions</title>
@@ -949,6 +949,6 @@
       <pubDate>Mon, 09 Apr 2018 11:11:06 +0200</pubDate>
       <dc:date>2018-04-09T11:11:06.972482+02:00</dc:date>
     </item>
-    <dc:date>2018-12-01T08:10:19.991982+01:00</dc:date>
+    <dc:date>2018-12-01T08:25:17.227819+01:00</dc:date>
   </channel>
 </rss>
