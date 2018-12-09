@@ -11,6 +11,7 @@ Last result: **22.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36.2% | 31.8–39.1% | 30.9–39.8% | 30.1–40.4% | 28.9–41.5% |
+| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 31.7% | 29.8–33.6% | 29.3–34.2% | 28.9–34.6% | 28.0–35.6% |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 34.0% | 32.2–36.0% | 31.7–36.5% | 31.2–37.0% | 30.3–38.0% |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 37.8% | 36.0–39.6% | 35.5–40.1% | 35.1–40.5% | 34.2–41.4% |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.5% | 34.8–38.2% | 34.4–38.7% | 34.0–39.1% | 33.2–39.9% |
@@ -85,6 +86,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8–9 | 8–9 | 7–9 |
