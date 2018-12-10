@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 09 Dec 2018 19:35:02 +0100</pubDate>
+    <pubDate>Sun, 09 Dec 2018 21:34:03 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Κάπα Research for thebest.gr, 4–6 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-12-06-ΚάπαResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-12-06-ΚάπαResearch-seats.png"
+        length="217879"
+        type="image/png"/>
+      <pubDate>Sun, 09 Dec 2018 21:34:03 +0100</pubDate>
+      <dc:date>2018-12-09T21:34:03.73589+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Κάπα Research for thebest.gr, 4–6 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-12-06-ΚάπαResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-12-06-ΚάπαResearch-coalitions-seats.png"
+        length="167645"
+        type="image/png"/>
+      <pubDate>Sun, 09 Dec 2018 21:34:03 +0100</pubDate>
+      <dc:date>2018-12-09T21:34:03.73589+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Κάπα Research for thebest.gr, 4–6 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-12-06-ΚάπαResearch.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-12-06-ΚάπαResearch.png"
         length="283646"
         type="image/png"/>
-      <pubDate>Sun, 09 Dec 2018 19:35:02 +0100</pubDate>
-      <dc:date>2018-12-09T19:35:02.946355+01:00</dc:date>
+      <pubDate>Sun, 09 Dec 2018 21:34:03 +0100</pubDate>
+      <dc:date>2018-12-09T21:34:03.73589+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Palmos Analysis for TVXS, 20–23 November 2018 – Seat Projections for the Parties</title>
@@ -1039,6 +1059,6 @@
       <pubDate>Mon, 09 Apr 2018 11:11:06 +0200</pubDate>
       <dc:date>2018-04-09T11:11:06.972482+02:00</dc:date>
     </item>
-    <dc:date>2018-12-09T19:35:02.946355+01:00</dc:date>
+    <dc:date>2018-12-09T21:34:03.73589+01:00</dc:date>
   </channel>
 </rss>
