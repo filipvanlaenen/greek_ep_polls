@@ -10,7 +10,7 @@ Last result: **26.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.7% | 22.4–28.5% | 21.5–29.3% | 20.9–29.9% | 19.8–31.1% |
+| N/A | [Poll Average](average.html) | 25.8% | 22.4–28.5% | 21.5–29.3% | 20.9–29.9% | 19.8–31.1% |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 25.7% | 24.0–27.5% | 23.5–28.0% | 23.1–28.5% | 22.3–29.4% |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 28.5% | 26.7–30.3% | 26.2–30.9% | 25.8–31.3% | 25.0–32.2% |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 26.9% | 25.3–28.6% | 24.8–29.1% | 24.4–29.5% | 23.7–30.3% |
@@ -59,11 +59,11 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 3% | 98% |  |
 | 21.5–22.5% | 6% | 95% |  |
 | 22.5–23.5% | 8% | 89% |  |
-| 23.5–24.5% | 12% | 81% |  |
-| 24.5–25.5% | 16% | 69% |  |
-| 25.5–26.5% | 18% | 53% | Median |
-| 26.5–27.5% | 15% | 35% | Last Result |
-| 27.5–28.5% | 10% | 20% |  |
+| 23.5–24.5% | 11% | 81% |  |
+| 24.5–25.5% | 15% | 71% |  |
+| 25.5–26.5% | 18% | 55% | Median |
+| 26.5–27.5% | 16% | 37% | Last Result |
+| 27.5–28.5% | 11% | 21% |  |
 | 28.5–29.5% | 6% | 10% |  |
 | 29.5–30.5% | 3% | 4% |  |
 | 30.5–31.5% | 0.9% | 1.1% |  |
@@ -125,7 +125,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 36% | 98% |  |
+| 5 | 35% | 98% |  |
 | 6 | 59% | 62% | Last Result, Median |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
