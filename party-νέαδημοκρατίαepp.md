@@ -10,8 +10,11 @@ Last result: **22.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.2% | 31.9–39.1% | 31.0–39.8% | 30.3–40.4% | 29.1–41.5% |
+| N/A | [Poll Average](average.html) | 36.5% | 31.7–39.1% | 30.9–39.8% | 30.2–40.4% | 29.1–41.5% |
+| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 38.0% | 36.4–39.8% | 35.9–40.2% | 35.5–40.7% | 34.7–41.5% |
+| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 32.8% | 30.9–34.8% | 30.4–35.3% | 29.9–35.8% | 29.1–36.7% |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 31.7% | 29.8–33.6% | 29.3–34.2% | 28.9–34.6% | 28.0–35.6% |
+| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 37.1% | 35.7–38.5% | 35.3–38.9% | 35.0–39.2% | 34.4–39.9% |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 34.0% | 32.2–36.0% | 31.7–36.5% | 31.2–37.0% | 30.3–38.0% |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 37.8% | 36.0–39.6% | 35.5–40.1% | 35.1–40.5% | 34.2–41.4% |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.5% | 34.8–38.2% | 34.4–38.7% | 34.0–39.1% | 33.2–39.9% |
@@ -60,19 +63,19 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0.2% | 100% |  |
 | 28.5–29.5% | 0.8% | 99.8% |  |
-| 29.5–30.5% | 2% | 99.1% |  |
-| 30.5–31.5% | 5% | 97% |  |
-| 31.5–32.5% | 7% | 92% |  |
-| 32.5–33.5% | 8% | 85% |  |
-| 33.5–34.5% | 9% | 77% |  |
-| 34.5–35.5% | 10% | 68% |  |
-| 35.5–36.5% | 13% | 58% | Median |
-| 36.5–37.5% | 15% | 45% |  |
-| 37.5–38.5% | 14% | 30% |  |
-| 38.5–39.5% | 9% | 16% |  |
-| 39.5–40.5% | 4% | 6% |  |
+| 29.5–30.5% | 2% | 99.0% |  |
+| 30.5–31.5% | 5% | 96% |  |
+| 31.5–32.5% | 8% | 91% |  |
+| 32.5–33.5% | 8% | 84% |  |
+| 33.5–34.5% | 8% | 76% |  |
+| 34.5–35.5% | 8% | 68% |  |
+| 35.5–36.5% | 11% | 60% | Median |
+| 36.5–37.5% | 16% | 49% |  |
+| 37.5–38.5% | 16% | 33% |  |
+| 38.5–39.5% | 10% | 17% |  |
+| 39.5–40.5% | 5% | 7% |  |
 | 40.5–41.5% | 2% | 2% |  |
-| 41.5–42.5% | 0.4% | 0.5% |  |
+| 41.5–42.5% | 0.4% | 0.4% |  |
 | 42.5–43.5% | 0.1% | 0.1% |  |
 | 43.5–44.5% | 0% | 0% |  |
 
@@ -86,7 +89,10 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 8 | 8 | 8–9 | 8–9 | 7–9 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8–9 | 8–9 | 7–9 |
@@ -133,8 +139,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 2% | 100% |  |
 | 7 | 29% | 98% |  |
-| 8 | 57% | 70% | Median |
-| 9 | 12% | 12% |  |
+| 8 | 56% | 70% | Median |
+| 9 | 13% | 13% |  |
 | 10 | 0% | 0% |  |
 
 

@@ -10,8 +10,11 @@ Last result: **26.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 22.4–28.5% | 21.5–29.3% | 20.9–29.9% | 19.8–31.1% |
+| N/A | [Poll Average](average.html) | 26.0% | 22.4–28.6% | 21.5–29.3% | 20.9–29.9% | 19.8–31.1% |
+| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26.0% | 24.5–27.6% | 24.1–28.0% | 23.7–28.4% | 23.0–29.2% |
+| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 25.7% | 24.0–27.5% | 23.5–28.0% | 23.1–28.5% | 22.3–29.4% |
+| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 27.6% | 26.3–28.9% | 26.0–29.3% | 25.7–29.6% | 25.1–30.2% |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 28.5% | 26.7–30.3% | 26.2–30.9% | 25.8–31.3% | 25.0–32.2% |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 26.9% | 25.3–28.6% | 24.8–29.1% | 24.4–29.5% | 23.7–30.3% |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.5% | 24.0–27.1% | 23.6–27.5% | 23.3–27.9% | 22.6–28.7% |
@@ -59,14 +62,14 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 3% | 98% |  |
 | 21.5–22.5% | 6% | 95% |  |
 | 22.5–23.5% | 8% | 89% |  |
-| 23.5–24.5% | 11% | 81% |  |
-| 24.5–25.5% | 15% | 71% |  |
-| 25.5–26.5% | 18% | 55% | Median |
-| 26.5–27.5% | 16% | 37% | Last Result |
-| 27.5–28.5% | 11% | 21% |  |
-| 28.5–29.5% | 6% | 10% |  |
+| 23.5–24.5% | 10% | 81% |  |
+| 24.5–25.5% | 14% | 71% |  |
+| 25.5–26.5% | 17% | 57% | Median |
+| 26.5–27.5% | 17% | 40% | Last Result |
+| 27.5–28.5% | 13% | 23% |  |
+| 28.5–29.5% | 7% | 10% |  |
 | 29.5–30.5% | 3% | 4% |  |
-| 30.5–31.5% | 0.9% | 1.1% |  |
+| 30.5–31.5% | 0.8% | 1.0% |  |
 | 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
@@ -80,7 +83,10 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 6 | 6 | 6 | 6 | 5–7 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -125,8 +131,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 35% | 98% |  |
-| 6 | 59% | 62% | Last Result, Median |
+| 5 | 36% | 98% |  |
+| 6 | 59% | 61% | Last Result, Median |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
