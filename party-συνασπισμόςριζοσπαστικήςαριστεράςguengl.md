@@ -10,7 +10,11 @@ Last result: **26.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.0% | 22.4–28.6% | 21.5–29.3% | 20.9–29.9% | 19.8–31.1% |
+| N/A | [Poll Average](average.html) | 26.0% | 22.0–28.5% | 21.2–29.2% | 20.6–29.8% | 19.5–30.9% |
+| [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–28.0% | 21.8–28.9% |
+| [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26.0% | 24.5–27.6% | 24.1–28.1% | 23.8–28.4% | 23.1–29.2% |
+| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 26.9% | 25.2–28.8% | 24.7–29.3% | 24.3–29.8% | 23.5–30.7% |
+| [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26.0% | 24.5–27.6% | 24.1–28.0% | 23.7–28.4% | 23.0–29.2% |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 25.7% | 24.0–27.5% | 23.5–28.0% | 23.1–28.5% | 22.3–29.4% |
@@ -56,20 +60,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.3% | 100% |  |
-| 19.5–20.5% | 1.3% | 99.7% |  |
-| 20.5–21.5% | 3% | 98% |  |
-| 21.5–22.5% | 6% | 95% |  |
-| 22.5–23.5% | 8% | 89% |  |
-| 23.5–24.5% | 10% | 81% |  |
-| 24.5–25.5% | 14% | 71% |  |
-| 25.5–26.5% | 17% | 57% | Median |
-| 26.5–27.5% | 17% | 40% | Last Result |
-| 27.5–28.5% | 13% | 23% |  |
-| 28.5–29.5% | 7% | 10% |  |
-| 29.5–30.5% | 3% | 4% |  |
-| 30.5–31.5% | 0.8% | 1.0% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 0.5% | 99.9% |  |
+| 19.5–20.5% | 2% | 99.5% |  |
+| 20.5–21.5% | 5% | 98% |  |
+| 21.5–22.5% | 6% | 93% |  |
+| 22.5–23.5% | 7% | 86% |  |
+| 23.5–24.5% | 9% | 80% |  |
+| 24.5–25.5% | 13% | 71% |  |
+| 25.5–26.5% | 18% | 58% | Median |
+| 26.5–27.5% | 18% | 40% | Last Result |
+| 27.5–28.5% | 13% | 22% |  |
+| 28.5–29.5% | 6% | 10% |  |
+| 29.5–30.5% | 2% | 3% |  |
+| 30.5–31.5% | 0.7% | 0.9% |  |
 | 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
@@ -82,7 +86,11 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6 | 6 | 5–6 |
+| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6 | 6 | 6 | 6 | 6–7 |
+| [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -130,10 +138,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% |  |
-| 5 | 36% | 98% |  |
-| 6 | 59% | 61% | Last Result, Median |
-| 7 | 3% | 3% |  |
+| 4 | 11% | 100% |  |
+| 5 | 22% | 89% |  |
+| 6 | 65% | 67% | Last Result, Median |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
 
