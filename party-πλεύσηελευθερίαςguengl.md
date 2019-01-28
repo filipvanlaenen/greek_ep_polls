@@ -76,7 +76,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr |  |  |  |  |  |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
@@ -108,7 +108,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue |  |  |  |  |  |
 | [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 0 | 0 | 0 | 0 | 0 |
+| [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 0 | 0 | 0 | 0 | 0–1 |
 | [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS |  |  |  |  |  |
 | [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
@@ -128,8 +128,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Last Result, Median |
-| 1 | 1.2% | 1.2% |  |
+| 0 | 99.6% | 100% | Last Result, Median |
+| 1 | 0.4% | 0.4% |  |
 | 2 | 0% | 0% |  |
 
 
