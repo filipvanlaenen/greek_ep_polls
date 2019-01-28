@@ -79,7 +79,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 0 | 0 | 0 | 0 | 0–1 |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
-| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0–1 |
+| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0 | 0 | 0 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -96,7 +96,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0–1 |
 | [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–1 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 0 | 0 | 0 | 0 | 0–1 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0 | 0–1 | 0–1 | 0–1 |

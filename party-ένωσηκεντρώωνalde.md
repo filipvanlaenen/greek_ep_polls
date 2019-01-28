@@ -80,7 +80,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–1 |
-| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0 | 0 | 0–1 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–1 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -101,7 +101,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -129,8 +129,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 77% | 100% | Last Result, Median |
-| 1 | 23% | 23% |  |
+| 0 | 74% | 100% | Last Result, Median |
+| 1 | 26% | 26% |  |
 | 2 | 0% | 0% |  |
 
 

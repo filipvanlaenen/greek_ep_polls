@@ -99,13 +99,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2–3 | 2–3 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 2 | 2 | 2 | 2–3 | 2–3 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2 | 2 | 1–2 |
-| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2–3 | 2–3 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 2 | 2 | 2 | 2 | 1–2 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 2 | 2 | 2 | 2 | 1–3 |
-| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 2 |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 1–3 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -138,8 +138,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 26% | 100% |  |
-| 2 | 72% | 74% | Median |
+| 1 | 25% | 100% |  |
+| 2 | 73% | 75% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 

@@ -84,7 +84,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 2 | 2 | 2 | 1–2 | 1–3 |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 2–3 |
-| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 2 | 2 | 2 | 2 | 1–3 |
@@ -133,8 +133,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 18% | 100% |  |
-| 2 | 81% | 82% | Median |
+| 1 | 20% | 100% |  |
+| 2 | 79% | 80% | Median |
 | 3 | 1.0% | 1.0% | Last Result |
 | 4 | 0% | 0% |  |
 

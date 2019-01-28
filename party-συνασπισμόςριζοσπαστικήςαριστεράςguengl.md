@@ -86,10 +86,10 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6 | 5–6 | 5–7 |
-| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6 | 6 | 6–7 | 5–7 | 5–7 |
+| [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 5 | 5 | 5 | 5 | 4–6 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -100,17 +100,17 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 5–6 | 5–6 | 5–6 |
+| [14–16 October 2018](2018-10-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–21 September 2018](2018-09-21-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6 | 6–7 | 5–7 |
+| [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 5 | 5 | 4–5 | 4–6 | 4–6 |
-| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 5 | 5 | 5–6 | 4–6 | 4–6 |
@@ -139,7 +139,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 31% | 98% |  |
+| 5 | 32% | 98% |  |
 | 6 | 62% | 67% | Last Result, Median |
 | 7 | 5% | 5% |  |
 | 8 | 0% | 0% |  |
