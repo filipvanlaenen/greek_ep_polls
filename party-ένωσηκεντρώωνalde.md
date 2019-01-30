@@ -79,7 +79,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–1 |
+| [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–16 January 2019](2019-01-16-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0 | 0 | 0–1 |
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–1 |
