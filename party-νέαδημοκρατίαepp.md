@@ -115,13 +115,13 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [18–20 September 2018](2018-09-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [17–19 September 2018](2018-09-19-MRB.html) | MRB <br> Star | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [17–19 September 2018](2018-09-19-Alco.html) | Alco <br> Kontra Channel | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 7 | 7 | 6–8 | 6–8 | 6–8 |
+| [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 8 | 8 | 8 | 8–9 | 7–9 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
+| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -150,8 +150,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 1.0% | 100% |  |
-| 7 | 26% | 99.0% |  |
-| 8 | 52% | 73% | Median |
+| 7 | 24% | 99.0% |  |
+| 8 | 53% | 75% | Median |
 | 9 | 18% | 22% |  |
 | 10 | 4% | 4% |  |
 | 11 | 0% | 0% | Majority |

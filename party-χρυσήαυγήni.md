@@ -106,7 +106,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 2 | 2 | 2 | 2 | 1–2 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 2 | 2 | 2 | 1–2 | 1–2 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 1–2 |
+| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 1–2 | 1–2 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2 | 2 | 1–3 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -133,8 +133,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 20% | 100% |  |
-| 2 | 78% | 80% | Median |
+| 1 | 21% | 100% |  |
+| 2 | 78% | 79% | Median |
 | 3 | 1.1% | 1.1% | Last Result |
 | 4 | 0% | 0% |  |
 

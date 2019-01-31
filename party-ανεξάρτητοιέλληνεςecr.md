@@ -101,7 +101,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 0 | 0 | 0 | 0 | 0–1 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 0 | 0 | 0 | 0 | 0 |
-| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
+| [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0–1 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [29–31 May 2018](2018-05-31-RASS.html) | RASS <br> Action 24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 0 | 0 | 0 | 0 | 0–1 |
