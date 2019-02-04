@@ -109,7 +109,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 5 | 5 | 4–5 | 4–6 | 4–6 |
+| [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [24–26 June 2018](2018-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–15 June 2018](2018-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
