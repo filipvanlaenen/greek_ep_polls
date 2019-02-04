@@ -93,7 +93,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [16–18 December 2018](2018-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 1–2 | 1–2 |
 | [5–10 December 2018](2018-12-10-Alco.html) | Alco <br> Open | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 2 | 2 | 2 | 2 | 1–2 |
+| [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 2 | 2 | 2 | 1–2 | 1–2 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -126,7 +126,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 2 | 2 | 2 | 2 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 3 | 3 | 3 | 2–3 | 2–3 |
-| [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 2 | 2 | 2 | 2 | 1–3 |
+| [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 2 | 2 | 2 | 2–3 | 2–3 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 2 | 2 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
@@ -138,8 +138,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 25% | 100% |  |
-| 2 | 73% | 75% | Median |
+| 1 | 26% | 100% |  |
+| 2 | 72% | 74% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 

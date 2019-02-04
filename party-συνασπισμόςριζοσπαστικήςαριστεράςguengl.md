@@ -96,7 +96,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [4–6 December 2018](2018-12-06-ΚάπαResearch.html) | Κάπα Research <br> thebest.gr | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [28 November–6 December 2018](2018-12-06-MRB.html) | MRB <br> real.gr | 6 | 6 | 6 | 6 | 5–7 |
 | [20–23 November 2018](2018-11-23-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6 | 6 | 6 | 5–7 | 5–7 |
+| [19–21 November 2018](2018-11-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6 | 6 | 6 | 5–6 | 5–7 |
 | [18–20 November 2018](2018-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [6–16 November 2018](2018-11-16-PublicIssue.html) | Public Issue | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [22–24 October 2018](2018-10-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
