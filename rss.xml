@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 04 Feb 2019 20:50:08 +0100</pubDate>
+    <pubDate>Tue, 05 Feb 2019 12:50:20 +0100</pubDate>
     <item>
       <title>Opinion Poll by RASS for in.gr, 21–24 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-01-24-RASS.html</link>
@@ -470,14 +470,34 @@
       <dc:date>2019-01-28T11:02:11.219788+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by MRB for Star, 17–19 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-09-19-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-09-19-MRB-seats.png"
+        length="219632"
+        type="image/png"/>
+      <pubDate>Tue, 05 Feb 2019 11:35:51 +0100</pubDate>
+      <dc:date>2019-02-05T11:35:51.672428+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 17–19 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-09-19-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-09-19-MRB-coalitions-seats.png"
+        length="159865"
+        type="image/png"/>
+      <pubDate>Tue, 05 Feb 2019 11:35:51 +0100</pubDate>
+      <dc:date>2019-02-05T11:35:51.672428+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MRB for Star, 17–19 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-09-19-MRB.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 24.2–29.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 34.7–40.7%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 5.8–9.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.4–9.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 1.0–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-09-19-MRB.png"
         length="272860"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 18:43:11 +0100</pubDate>
-      <dc:date>2019-01-27T18:43:11.78854+01:00</dc:date>
+      <pubDate>Tue, 05 Feb 2019 11:35:51 +0100</pubDate>
+      <dc:date>2019-02-05T11:35:51.672428+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Kontra Channel, 17–19 September 2018 – Seat Projections for the Parties</title>
@@ -750,14 +770,34 @@
       <dc:date>2019-01-28T10:39:20.158707+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by RASS for Action 24, 29–31 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-05-31-RASS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 4–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-05-31-RASS-seats.png"
+        length="214202"
+        type="image/png"/>
+      <pubDate>Mon, 04 Feb 2019 21:52:44 +0100</pubDate>
+      <dc:date>2019-02-04T21:52:44.755513+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RASS for Action 24, 29–31 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-05-31-RASS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-05-31-RASS-coalitions-seats.png"
+        length="166959"
+        type="image/png"/>
+      <pubDate>Mon, 04 Feb 2019 21:52:44 +0100</pubDate>
+      <dc:date>2019-02-04T21:52:44.755513+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by RASS for Action 24, 29–31 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-05-31-RASS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 21.1–26.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 33.3–39.3%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 6.9–10.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 9.9–13.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-05-31-RASS.png"
         length="242524"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 21:15:27 +0100</pubDate>
-      <dc:date>2019-01-27T21:15:27.14538+01:00</dc:date>
+      <pubDate>Mon, 04 Feb 2019 21:52:44 +0100</pubDate>
+      <dc:date>2019-02-04T21:52:44.755513+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Kontra Channel, 16–20 May 2018 – Seat Projections for the Parties</title>
@@ -956,8 +996,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-03-13-PulseRC.png"
         length="268480"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 21:43:01 +0100</pubDate>
-      <dc:date>2019-01-27T21:43:01.994709+01:00</dc:date>
+      <pubDate>Tue, 05 Feb 2019 12:50:20 +0100</pubDate>
+      <dc:date>2019-02-05T12:50:20.444327+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RASS for Πρώτο Θέμα, 6–8 March 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-03-08-RASS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 4–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-03-08-RASS-seats.png"
+        length="229450"
+        type="image/png"/>
+      <pubDate>Mon, 04 Feb 2019 23:13:16 +0100</pubDate>
+      <dc:date>2019-02-04T23:13:16.05562+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RASS for Πρώτο Θέμα, 6–8 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2018-03-08-RASS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-03-08-RASS-coalitions-seats.png"
+        length="173299"
+        type="image/png"/>
+      <pubDate>Mon, 04 Feb 2019 23:13:16 +0100</pubDate>
+      <dc:date>2019-02-04T23:13:16.05562+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by RASS for Πρώτο Θέμα, 6–8 March 2018 – Voting Intentions</title>
@@ -966,8 +1026,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-03-08-RASS.png"
         length="244405"
         type="image/png"/>
-      <pubDate>Sun, 27 Jan 2019 19:00:46 +0100</pubDate>
-      <dc:date>2019-01-27T19:00:46.969172+01:00</dc:date>
+      <pubDate>Mon, 04 Feb 2019 23:13:16 +0100</pubDate>
+      <dc:date>2019-02-04T23:13:16.05562+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for ΕΘΝΟΣ, 22–24 February 2018 – Seat Projections for the Parties</title>
@@ -1149,6 +1209,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-02-04T20:50:08.697371+01:00</dc:date>
+    <dc:date>2019-02-05T12:50:20.444327+01:00</dc:date>
   </channel>
 </rss>
