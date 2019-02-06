@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 5.6–10.0% | 5.1–10.6% | 4.7–11.1% | 4.1–12.0% |
+| N/A | [Poll Average](average.html) | 7.5% | 4.9–10.0% | 4.7–10.6% | 4.5–11.1% | 4.1–12.0% |
+| [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.6% |
+| [28–29 January 2019](2019-01-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 4.8% | 4.5–5.1% | 4.4–5.2% | 4.3–5.3% | 4.2–5.5% |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 10.3% | 9.1–11.6% | 8.8–12.0% | 8.5–12.3% | 8.0–13.0% |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.5% | 6.7–8.5% | 6.4–8.8% | 6.2–9.1% | 5.9–9.6% |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
@@ -64,12 +66,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 7% | 98% |  |
-| 5.5–6.5% | 16% | 91% |  |
-| 6.5–7.5% | 25% | 75% |  |
-| 7.5–8.5% | 24% | 50% | Median |
-| 8.5–9.5% | 13% | 27% |  |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 16% | 97% |  |
+| 5.5–6.5% | 13% | 81% |  |
+| 6.5–7.5% | 20% | 68% | Median |
+| 7.5–8.5% | 22% | 48% |  |
+| 8.5–9.5% | 13% | 26% |  |
 | 9.5–10.5% | 8% | 14% |  |
 | 10.5–11.5% | 4% | 6% |  |
 | 11.5–12.5% | 1.1% | 1.3% |  |
@@ -86,6 +88,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 1 | 1 | 1 | 1–2 | 1–2 |
+| [28–29 January 2019](2019-01-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 1 | 1 | 1 | 1 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–22 January 2019](2019-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 1–2 | 1–2 |
 | [14–17 January 2019](2019-01-17-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -138,8 +142,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 25% | 100% |  |
-| 2 | 73% | 75% | Median |
+| 1 | 32% | 100% |  |
+| 2 | 66% | 68% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
