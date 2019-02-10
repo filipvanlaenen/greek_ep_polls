@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 10 Feb 2019 12:04:59 +0100</pubDate>
+    <pubDate>Sun, 10 Feb 2019 12:50:24 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 4–5 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-02-05-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-02-05-Interview-seats.png"
+        length="234248"
+        type="image/png"/>
+      <pubDate>Sun, 10 Feb 2019 12:25:35 +0100</pubDate>
+      <dc:date>2019-02-10T12:25:35.915595+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 4–5 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-02-05-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-02-05-Interview-coalitions-seats.png"
+        length="161776"
+        type="image/png"/>
+      <pubDate>Sun, 10 Feb 2019 12:25:35 +0100</pubDate>
+      <dc:date>2019-02-10T12:25:35.915595+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 4–5 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-02-05-Interview.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-02-05-Interview.png"
         length="310635"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 12:04:59 +0100</pubDate>
-      <dc:date>2019-02-10T12:04:59.476773+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 12:25:35 +0100</pubDate>
+      <dc:date>2019-02-10T12:25:35.915595+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 1–4 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-02-04-Prorata.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-02-04-Prorata-seats.png"
+        length="201749"
+        type="image/png"/>
+      <pubDate>Sun, 10 Feb 2019 12:50:24 +0100</pubDate>
+      <dc:date>2019-02-10T12:50:24.139627+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 1–4 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-02-04-Prorata.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-02-04-Prorata-coalitions-seats.png"
+        length="164787"
+        type="image/png"/>
+      <pubDate>Sun, 10 Feb 2019 12:50:24 +0100</pubDate>
+      <dc:date>2019-02-10T12:50:24.139627+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 1–4 February 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-02-04-Prorata.png"
         length="290037"
         type="image/png"/>
-      <pubDate>Sun, 10 Feb 2019 11:49:44 +0100</pubDate>
-      <dc:date>2019-02-10T11:49:44.07531+01:00</dc:date>
+      <pubDate>Sun, 10 Feb 2019 12:50:24 +0100</pubDate>
+      <dc:date>2019-02-10T12:50:24.139627+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vox Pop Analysis for Documento, 1–2 February 2019 – Seat Projections for the Parties</title>
@@ -1349,6 +1389,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-02-10T12:04:59.476773+01:00</dc:date>
+    <dc:date>2019-02-10T12:50:24.139627+01:00</dc:date>
   </channel>
 </rss>
