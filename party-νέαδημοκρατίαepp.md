@@ -101,7 +101,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
+| [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [28–29 January 2019](2019-01-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 7 | 7 | 7 | 7 | 6–7 |

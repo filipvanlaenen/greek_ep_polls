@@ -87,7 +87,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [28–29 January 2019](2019-01-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 2 | 2 | 2 | 2 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 2 | 2 | 1–2 | 1–2 | 1–3 |
