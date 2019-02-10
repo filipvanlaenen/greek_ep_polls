@@ -11,6 +11,8 @@ Last result: **22.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36.3% | 30.0–40.7% | 29.4–42.5% | 29.1–43.6% | 28.6–45.1% |
+| [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 36.7% | 34.8–38.7% | 34.2–39.2% | 33.8–39.7% | 32.8–40.7% |
+| [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.9% |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 37.2% | 35.4–39.0% | 34.9–39.5% | 34.5–39.9% | 33.7–40.8% |
 | [28–29 January 2019](2019-01-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 29.5% | 28.8–30.2% | 28.6–30.4% | 28.5–30.5% | 28.2–30.9% |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 36.6% | 34.6–38.5% | 34.1–39.1% | 33.6–39.6% | 32.7–40.5% |
@@ -99,6 +101,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
+| [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [28–29 January 2019](2019-01-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 7 | 7 | 7 | 7 | 6–7 |
 | [21–24 January 2019](2019-01-24-RASS.html) | RASS <br> in.gr | 8 | 8 | 7–9 | 7–9 | 7–9 |
