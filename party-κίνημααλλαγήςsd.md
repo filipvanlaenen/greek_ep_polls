@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 4.8–9.6% | 4.5–10.4% | 4.3–11.0% | 3.9–11.9% |
+| N/A | [Poll Average](average.html) | 6.9% | 4.8–9.2% | 4.5–10.1% | 4.3–10.8% | 3.9–11.8% |
+| [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 8.5% | 7.5–9.7% | 7.1–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.6% |
@@ -71,12 +72,12 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 5% | 99.9% |  |
 | 4.5–5.5% | 19% | 95% |  |
 | 5.5–6.5% | 19% | 75% |  |
-| 6.5–7.5% | 19% | 57% | Median |
-| 7.5–8.5% | 17% | 38% |  |
-| 8.5–9.5% | 10% | 20% |  |
-| 9.5–10.5% | 6% | 11% |  |
-| 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.9% | 1.0% |  |
+| 6.5–7.5% | 20% | 57% | Median |
+| 7.5–8.5% | 19% | 37% |  |
+| 8.5–9.5% | 10% | 17% |  |
+| 9.5–10.5% | 4% | 8% |  |
+| 10.5–11.5% | 2% | 3% |  |
+| 11.5–12.5% | 0.7% | 0.8% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -90,6 +91,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 2 | 2 | 2 | 2 | 1–2 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -148,7 +150,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 41% | 100% |  |
 | 2 | 57% | 59% | Median |
-| 3 | 1.4% | 1.4% |  |
+| 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
 
 

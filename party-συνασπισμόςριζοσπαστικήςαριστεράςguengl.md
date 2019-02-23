@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.7% | 22.3–28.2% | 21.4–28.9% | 20.8–29.5% | 19.7–30.7% |
+| N/A | [Poll Average](average.html) | 25.8% | 23.0–28.2% | 22.1–28.9% | 21.3–29.5% | 20.1–30.7% |
+| [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.2% | 21.1–28.1% |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.4% |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 25.1% | 23.5–26.7% | 23.1–27.2% | 22.7–27.6% | 22.0–28.4% |
@@ -65,14 +66,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.4% | 100% |  |
-| 19.5–20.5% | 2% | 99.6% |  |
-| 20.5–21.5% | 4% | 98% |  |
-| 21.5–22.5% | 6% | 94% |  |
-| 22.5–23.5% | 8% | 88% |  |
-| 23.5–24.5% | 12% | 81% |  |
-| 24.5–25.5% | 16% | 68% |  |
-| 25.5–26.5% | 16% | 52% | Median |
+| 18.5–19.5% | 0.2% | 100% |  |
+| 19.5–20.5% | 0.8% | 99.8% |  |
+| 20.5–21.5% | 2% | 99.0% |  |
+| 21.5–22.5% | 4% | 97% |  |
+| 22.5–23.5% | 8% | 93% |  |
+| 23.5–24.5% | 14% | 85% |  |
+| 24.5–25.5% | 18% | 72% |  |
+| 25.5–26.5% | 18% | 54% | Median |
 | 26.5–27.5% | 17% | 36% | Last Result |
 | 27.5–28.5% | 12% | 19% |  |
 | 28.5–29.5% | 5% | 7% |  |
@@ -90,7 +91,8 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [1–2 February 2019](2019-02-02-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -146,9 +148,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% |  |
-| 5 | 37% | 98% |  |
-| 6 | 60% | 62% | Last Result, Median |
+| 4 | 0.2% | 100% |  |
+| 5 | 37% | 99.8% |  |
+| 6 | 61% | 63% | Last Result, Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
