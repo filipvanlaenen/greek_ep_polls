@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Feb 2019 09:53:35 +0100</pubDate>
+    <pubDate>Sat, 02 Mar 2019 09:16:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by Public Issue, 1–14 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-02-14-PublicIssue.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-02-14-PublicIssue.png"
         length="267580"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 09:53:35 +0100</pubDate>
-      <dc:date>2019-02-23T09:53:35.754765+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 09:16:49 +0100</pubDate>
+      <dc:date>2019-03-02T09:16:49.824581+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 4–5 February 2019 – Seat Projections for the Parties</title>
@@ -1399,6 +1399,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-02-23T09:53:35.754765+01:00</dc:date>
+    <dc:date>2019-03-02T09:16:49.824581+01:00</dc:date>
   </channel>
 </rss>
