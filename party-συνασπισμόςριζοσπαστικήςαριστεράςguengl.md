@@ -10,7 +10,9 @@ Last result: **26.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 23.0–28.2% | 22.1–28.9% | 21.3–29.5% | 20.1–30.7% |
+| N/A | [Poll Average](average.html) | 25.3% | 22.8–27.8% | 22.0–28.3% | 21.3–28.7% | 20.0–29.6% |
+| [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24.5% | 23.0–26.1% | 22.6–26.5% | 22.2–26.9% | 21.6–27.6% |
+| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.2% | 21.1–28.1% |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.4% |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
@@ -68,19 +70,18 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.2% | 100% |  |
 | 19.5–20.5% | 0.8% | 99.8% |  |
-| 20.5–21.5% | 2% | 99.0% |  |
-| 21.5–22.5% | 4% | 97% |  |
-| 22.5–23.5% | 8% | 93% |  |
-| 23.5–24.5% | 14% | 85% |  |
-| 24.5–25.5% | 18% | 72% |  |
-| 25.5–26.5% | 18% | 54% | Median |
-| 26.5–27.5% | 17% | 36% | Last Result |
-| 27.5–28.5% | 12% | 19% |  |
-| 28.5–29.5% | 5% | 7% |  |
-| 29.5–30.5% | 2% | 2% |  |
-| 30.5–31.5% | 0.5% | 0.7% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 20.5–21.5% | 2% | 98.9% |  |
+| 21.5–22.5% | 5% | 97% |  |
+| 22.5–23.5% | 10% | 92% |  |
+| 23.5–24.5% | 17% | 82% |  |
+| 24.5–25.5% | 20% | 65% | Median |
+| 25.5–26.5% | 17% | 45% |  |
+| 26.5–27.5% | 15% | 29% | Last Result |
+| 27.5–28.5% | 10% | 13% |  |
+| 28.5–29.5% | 3% | 3% |  |
+| 29.5–30.5% | 0.5% | 0.6% |  |
+| 30.5–31.5% | 0.1% | 0.1% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -91,7 +92,9 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 5 | 5 | 5 | 5 | 5–6 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -148,9 +151,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 36% | 99.8% |  |
-| 6 | 62% | 64% | Last Result, Median |
+| 4 | 0.3% | 100% |  |
+| 5 | 50% | 99.7% | Median |
+| 6 | 48% | 50% | Last Result |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
