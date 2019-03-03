@@ -103,7 +103,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8–9 | 8–9 | 7–9 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
@@ -163,8 +163,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 5% | 100% |  |
-| 7 | 30% | 95% |  |
-| 8 | 45% | 65% | Median |
+| 7 | 29% | 95% |  |
+| 8 | 46% | 66% | Median |
 | 9 | 18% | 20% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
