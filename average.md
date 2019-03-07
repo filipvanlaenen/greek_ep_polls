@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 21–29% <br> 5–6 | 29–43% <br> 6–9 | 5–10% <br> 1–2 | 0–3% <br> 0 | 3–9% <br> 1–2 | 0–3% <br> 0–1 | 1–4% <br> 0–1 | 4–11% <br> 1–2 | 0–4% <br> 0–1 | 1–3% <br> 0 | 1–4% <br> 0–1 |
-| [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22–27% <br> 5–6 | 34–40% <br> 8–9 | 8–11% <br> 2 | 1–2% <br> 0 | 6–9% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0 | 7–10% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–1 |
+| [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22–27% <br> 5–6 | 34–40% <br> 8–9 | 8–11% <br> 2 | 1–2% <br> 0 | 6–9% <br> 1–2 | 1–2% <br> 0 | 1–3% <br> 0 | 7–10% <br> 2 | 1–2% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–1 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 22–28% <br> 5–6 | 30–36% <br> 6–8 | 6–9% <br> 1–2 | 1–3% <br> 0 | 6–9% <br> 1–2 | 1–3% <br> 0 | 3–5% <br> 0–1 | 4–7% <br> 1–2 | 3–5% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 22–27% <br> 5–6 | 36–42% <br> 8–9 | 6–9% <br> 1–2 | 1–2% <br> 0 | 6–9% <br> 1–2 | 1–2% <br> 0 | 2–4% <br> 0–1 | 7–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 22–27% <br> 5–6 | 34–40% <br> 7–9 | 6–9% <br> 1–2 | 1–2% <br> 0 | 5–8% <br> 1–2 | 1–3% <br> 0 | 2–4% <br> 0–1 | 5–8% <br> 1–2 | 1–3% <br> 0 | 1–2% <br> 0 | 2–5% <br> 0–1 |
@@ -288,8 +288,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.3% | 100% |  |
-| 5 | 42% | 99.7% |  |
-| 6 | 57% | 57% | Last Result, Median |
+| 5 | 44% | 99.7% |  |
+| 6 | 55% | 55% | Last Result, Median |
 | 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 
@@ -304,8 +304,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 5% | 100% |  |
 | 7 | 29% | 95% |  |
-| 8 | 46% | 66% | Median |
-| 9 | 18% | 20% |  |
+| 8 | 47% | 66% | Median |
+| 9 | 17% | 19% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -319,7 +319,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 16% | 100% |  |
 | 2 | 82% | 84% | Median |
-| 3 | 2% | 2% | Last Result |
+| 3 | 1.5% | 1.5% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Το Ποτάμι (S&D)
@@ -417,8 +417,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 29% | 29% |  |
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 31% | 31% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -447,8 +447,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 5% | 100% |  |
 | 7 | 29% | 95% |  |
-| 8 | 46% | 66% | Median |
-| 9 | 18% | 20% |  |
+| 8 | 47% | 66% | Median |
+| 9 | 17% | 19% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -459,8 +459,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% |  |
-| 5 | 38% | 99.8% |  |
-| 6 | 59% | 62% | Last Result, Median |
+| 5 | 40% | 99.8% |  |
+| 6 | 57% | 60% | Last Result, Median |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
@@ -471,9 +471,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 10% | 100% |  |
-| 3 | 44% | 90% |  |
-| 4 | 45% | 46% | Median |
-| 5 | 1.1% | 1.1% | Last Result |
+| 3 | 43% | 90% |  |
+| 4 | 46% | 47% | Median |
+| 5 | 1.0% | 1.0% | Last Result |
 | 6 | 0% | 0% |  |
 
 ### Το Ποτάμι (S&D) – Κίνημα Αλλαγής (S&D)
@@ -513,8 +513,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 29% | 29% |  |
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 31% | 31% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -522,5 +522,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 12
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 9,830,400
++ **Total number of simulations done in the polls included in this average:** 11,665,408
 + **Error estimate:** 2.04%
