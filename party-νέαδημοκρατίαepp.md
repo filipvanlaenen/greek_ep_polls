@@ -104,7 +104,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8–9 | 8–9 | 7–9 |
-| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [4–5 February 2019](2019-02-05-Interview.html) | Interview <br> Βεργίνα TV | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [1–4 February 2019](2019-02-04-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -164,7 +164,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 5% | 100% |  |
 | 7 | 29% | 95% |  |
-| 8 | 47% | 66% | Median |
+| 8 | 48% | 67% | Median |
 | 9 | 17% | 19% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
