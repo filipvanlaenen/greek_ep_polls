@@ -11,6 +11,8 @@ Last result: **22.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36.4% | 29.7–40.3% | 29.2–42.2% | 28.8–43.3% | 27.8–45.0% |
+| [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 30.5% | 28.7–32.4% | 28.2–33.0% | 27.7–33.4% | 26.9–34.4% |
+| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 36.8% | 35.0–38.6% | 34.5–39.1% | 34.1–39.6% | 33.3–40.4% |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 37.0% | 35.4–38.8% | 34.9–39.3% | 34.5–39.7% | 33.7–40.5% |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 32.8% | 30.9–34.8% | 30.4–35.3% | 29.9–35.8% | 29.1–36.7% |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.1% |
@@ -103,6 +105,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 8 | 8 | 8 | 8 | 8 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8–9 | 8–9 | 7–9 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
