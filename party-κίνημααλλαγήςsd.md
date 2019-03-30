@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 4.7–9.4% | 4.5–10.2% | 4.3–10.8% | 3.8–11.9% |
+| N/A | [Poll Average](average.html) | 6.9% | 5.1–9.5% | 4.8–10.4% | 4.5–11.0% | 4.0–12.0% |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 7.4% | 6.5–8.5% | 6.2–8.7% | 6.0–9.0% | 5.6–9.6% |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.0% | 7.1–9.1% | 6.9–9.3% | 6.7–9.6% | 6.3–10.1% |
@@ -73,15 +73,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 6% | 99.9% |  |
-| 4.5–5.5% | 22% | 94% |  |
-| 5.5–6.5% | 17% | 72% |  |
-| 6.5–7.5% | 15% | 55% | Median |
-| 7.5–8.5% | 20% | 40% |  |
-| 8.5–9.5% | 11% | 20% |  |
-| 9.5–10.5% | 5% | 9% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 16% | 97% |  |
+| 5.5–6.5% | 24% | 81% |  |
+| 6.5–7.5% | 20% | 57% | Median |
+| 7.5–8.5% | 18% | 37% |  |
+| 8.5–9.5% | 10% | 19% |  |
+| 9.5–10.5% | 5% | 10% |  |
 | 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.8% | 0.9% |  |
+| 11.5–12.5% | 0.9% | 1.1% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -156,9 +156,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 40% | 100% |  |
-| 2 | 58% | 60% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 1 | 45% | 100% |  |
+| 2 | 54% | 55% | Median |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% |  |
 
 
