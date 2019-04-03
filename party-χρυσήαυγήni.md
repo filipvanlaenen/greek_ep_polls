@@ -10,8 +10,10 @@ Last result: **9.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 6.2–9.1% | 5.7–9.5% | 5.3–9.9% | 4.7–10.6% |
+| N/A | [Poll Average](average.html) | 7.6% | 6.1–9.1% | 5.7–9.6% | 5.3–10.0% | 4.7–10.8% |
+| [19–26 March 2019](2019-03-26-Alco.html) | Alco | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
+| [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.5–8.9% |
 | [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 7.5% | 6.6–8.5% | 6.3–8.8% | 6.1–9.1% | 5.7–9.6% |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | 8.0–10.1% | 7.8–10.4% | 7.6–10.7% | 7.1–11.2% |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
@@ -72,13 +74,14 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.3% | 100% |  |
 | 4.5–5.5% | 4% | 99.7% |  |
-| 5.5–6.5% | 13% | 96% |  |
-| 6.5–7.5% | 31% | 83% |  |
-| 7.5–8.5% | 31% | 52% | Median |
-| 8.5–9.5% | 16% | 21% | Last Result |
+| 5.5–6.5% | 14% | 96% |  |
+| 6.5–7.5% | 32% | 82% |  |
+| 7.5–8.5% | 30% | 50% | Median |
+| 8.5–9.5% | 15% | 20% | Last Result |
 | 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 0.6% | 0.6% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.8% | 0.8% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -90,7 +93,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–26 March 2019](2019-03-26-Alco.html) | Alco | 2 | 2 | 2 | 2 | 1–2 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 2–3 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -150,9 +155,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 25% | 100% |  |
-| 2 | 75% | 75% | Median |
-| 3 | 0.2% | 0.2% | Last Result |
+| 1 | 32% | 100% |  |
+| 2 | 68% | 68% | Median |
+| 3 | 0.1% | 0.1% | Last Result |
 | 4 | 0% | 0% |  |
 
 
