@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Apr 2019 06:56:42 +0200</pubDate>
+    <pubDate>Wed, 03 Apr 2019 15:50:16 +0200</pubDate>
     <item>
       <title>Opinion Poll by Vox Pop Analysis for Documento, 18–20 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-VoxPopAnalysis.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-MetronAnalysis.png"
         length="284425"
         type="image/png"/>
-      <pubDate>Wed, 27 Mar 2019 14:27:16 +0100</pubDate>
-      <dc:date>2019-03-27T14:27:16.260836+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 15:50:16 +0200</pubDate>
+      <dc:date>2019-04-03T15:50:16.907287+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 24–26 February 2019 – Seat Projections for the Parties</title>
@@ -1499,6 +1499,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-04-03T06:56:42.668085+02:00</dc:date>
+    <dc:date>2019-04-03T15:50:16.907287+02:00</dc:date>
   </channel>
 </rss>
