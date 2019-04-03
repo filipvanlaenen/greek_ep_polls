@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Apr 2019 15:50:16 +0200</pubDate>
+    <pubDate>Wed, 03 Apr 2019 19:36:25 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Alco, 19–26 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-03-26-Alco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 21.4–26.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 30.1–36.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-03-26-Alco.png"
+        length="253711"
+        type="image/png"/>
+      <pubDate>Wed, 03 Apr 2019 19:28:30 +0200</pubDate>
+      <dc:date>2019-04-03T19:28:30.439041+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Vox Pop Analysis for Documento, 18–20 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-VoxPopAnalysis.html</link>
@@ -18,6 +28,16 @@
         type="image/png"/>
       <pubDate>Wed, 03 Apr 2019 06:56:42 +0200</pubDate>
       <dc:date>2019-04-03T06:56:42.668085+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC, 18–20 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 21.8–26.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 33.6–38.5%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 5.8–8.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.7–9.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.4–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-PulseRC.png"
+        length="203872"
+        type="image/png"/>
+      <pubDate>Wed, 03 Apr 2019 19:36:25 +0200</pubDate>
+      <dc:date>2019-04-03T19:36:25.340476+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 March 2019 – Voting Intentions</title>
@@ -1499,6 +1519,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-04-03T15:50:16.907287+02:00</dc:date>
+    <dc:date>2019-04-03T19:36:25.340476+02:00</dc:date>
   </channel>
 </rss>
