@@ -88,7 +88,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento |  |  |  |  |  |
-| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue |  |  |  |  |  |
@@ -147,8 +147,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 12% | 12% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 11% | 11% |  |
 | 2 | 0% | 0% |  |
 
 

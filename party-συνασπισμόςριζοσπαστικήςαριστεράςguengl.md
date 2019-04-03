@@ -95,9 +95,9 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 6 | 6 | 6–7 | 6–7 | 5–7 |
-| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 7 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -157,9 +157,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.3% | 100% |  |
-| 5 | 46% | 99.7% |  |
-| 6 | 47% | 54% | Last Result, Median |
-| 7 | 7% | 7% |  |
+| 5 | 47% | 99.7% |  |
+| 6 | 51% | 53% | Last Result, Median |
+| 7 | 1.2% | 1.2% |  |
 | 8 | 0% | 0% |  |
 
 
