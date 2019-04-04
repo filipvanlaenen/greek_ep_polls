@@ -95,7 +95,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 1 | 1 | 1 | 1 | 0–1 |
-| [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 1 | 1 | 1 | 1 | 1 |
+| [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 1 | 1 | 1 | 1–2 | 1–2 |
 | [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
