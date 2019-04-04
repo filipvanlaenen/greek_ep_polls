@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Apr 2019 19:36:25 +0200</pubDate>
+    <pubDate>Thu, 04 Apr 2019 12:01:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by Alco, 19–26 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-03-26-Alco.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-03-26-Alco.png"
         length="253711"
         type="image/png"/>
-      <pubDate>Wed, 03 Apr 2019 19:28:30 +0200</pubDate>
-      <dc:date>2019-04-03T19:28:30.439041+02:00</dc:date>
+      <pubDate>Thu, 04 Apr 2019 11:58:29 +0200</pubDate>
+      <dc:date>2019-04-04T11:58:29.685722+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Vox Pop Analysis for Documento, 18–20 March 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-PulseRC.png"
         length="203872"
         type="image/png"/>
-      <pubDate>Wed, 03 Apr 2019 19:36:25 +0200</pubDate>
-      <dc:date>2019-04-03T19:36:25.340476+02:00</dc:date>
+      <pubDate>Thu, 04 Apr 2019 12:01:22 +0200</pubDate>
+      <dc:date>2019-04-04T12:01:22.402462+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 March 2019 – Voting Intentions</title>
@@ -1519,6 +1519,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-04-03T19:36:25.340476+02:00</dc:date>
+    <dc:date>2019-04-04T12:01:22.402462+02:00</dc:date>
   </channel>
 </rss>
