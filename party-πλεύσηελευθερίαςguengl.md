@@ -66,10 +66,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0.0% | N/A | N/A | N/A | N/A |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 2.7% | N/A | N/A | N/A | N/A |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 0.0% | N/A | N/A | N/A | N/A |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1.5% | N/A | N/A | N/A | N/A |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 0.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -150,10 +150,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue |  |  |  |  |  |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 |  |  |  |  |  |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr |  |  |  |  |  |
 
 ### Probability Mass Function

@@ -66,10 +66,10 @@ Last result: **6.1%** (General Election of 25 May 2014)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 7.0% | 6.4–7.7% | 6.2–7.9% | 6.0–8.1% | 5.7–8.5% |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 6.5% | 5.8–7.4% | 5.6–7.7% | 5.4–7.9% | 5.0–8.3% |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6.9% | N/A | N/A | N/A | N/A |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 7.5% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.6–9.9% |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.7% | N/A | N/A | N/A | N/A |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 6.5% | 5.6–7.5% | 5.4–7.7% | 5.2–8.0% | 4.8–8.5% |
 
 ### Probability Mass Function
@@ -155,10 +155,10 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2 | 1–2 | 1–2 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 
 ### Probability Mass Function
@@ -170,8 +170,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 59% | 99.9% | Median |
-| 2 | 41% | 41% | Last Result |
+| 1 | 58% | 99.9% | Median |
+| 2 | 42% | 42% | Last Result |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 

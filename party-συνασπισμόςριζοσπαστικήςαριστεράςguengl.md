@@ -66,10 +66,10 @@ Last result: **26.6%** (General Election of 25 May 2014)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.5% | 21.3–28.4% |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 25.2% | 24.1–26.4% | 23.8–26.7% | 23.5–27.0% | 22.9–27.6% |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 24.0% | 22.6–25.4% | 22.2–25.8% | 21.9–26.2% | 21.2–26.9% |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 24.9% | N/A | N/A | N/A | N/A |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.7% | 21.5–28.6% |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.1% | 18.3–25.0% |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 22.9% | N/A | N/A | N/A | N/A |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 22.9% | 21.3–24.7% | 20.8–25.2% | 20.4–25.6% | 19.6–26.5% |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 25.0% | 23.5–26.7% | 23.0–27.1% | 22.6–27.6% | 21.9–28.3% |
 
 ### Probability Mass Function
@@ -105,9 +105,9 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [19–26 March 2019](2019-03-26-Alco.html) | Alco | 5 | 5 | 5–6 | 5–6 | 4–6 |
-| [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 6 | 6 | 6–7 | 6–7 | 5–7 |
-| [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| [19–26 March 2019](2019-03-26-Alco.html) | Alco | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -160,10 +160,10 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 
 ### Probability Mass Function
@@ -177,7 +177,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.5% | 100% |  |
 | 5 | 55% | 99.5% | Median |
 | 6 | 43% | 45% | Last Result |
-| 7 | 1.2% | 1.2% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
 

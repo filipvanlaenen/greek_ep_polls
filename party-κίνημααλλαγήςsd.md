@@ -66,10 +66,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 8.4% | 7.7–9.2% | 7.5–9.4% | 7.3–9.6% | 7.0–10.0% |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 10.5% | 9.5–11.6% | 9.3–11.9% | 9.0–12.1% | 8.6–12.7% |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 9.8% | N/A | N/A | N/A | N/A |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.5–15.9% |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 9.7% | 8.6–11.0% | 8.3–11.4% | 8.0–11.7% | 7.5–12.3% |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 11.0% | N/A | N/A | N/A | N/A |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 10.0% | 9.0–11.2% | 8.7–11.6% | 8.4–11.9% | 8.0–12.5% |
 
 ### Probability Mass Function
@@ -105,9 +105,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 1 | 1 | 1 | 1–2 | 1–2 |
+| [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 2 | 2 | 1–2 | 1–2 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 1–2 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -159,10 +159,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 2 | 2 | 2 | 2 | 1–3 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 2 | 2 | 2 | 2 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 2 | 2 | 2 | 2–3 | 2–3 |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 2 | 2 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function

@@ -66,10 +66,10 @@ Last result: **22.7%** (General Election of 25 May 2014)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 32.0% | 30.1–33.9% | 29.6–34.5% | 29.2–35.0% | 28.3–35.9% |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 34.9% | 33.7–36.2% | 33.3–36.6% | 33.0–36.9% | 32.4–37.5% |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 36.5% | 34.9–38.1% | 34.5–38.6% | 34.1–39.0% | 33.4–39.7% |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 35.4% | N/A | N/A | N/A | N/A |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 35.4% | 33.5–37.4% | 33.0–37.9% | 32.5–38.4% | 31.6–39.4% |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 37.0% | 35.1–39.0% | 34.6–39.6% | 34.1–40.1% | 33.2–41.0% |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 32.7% | 30.8–34.6% | 30.3–35.2% | 29.9–35.7% | 29.0–36.6% |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 35.1% | N/A | N/A | N/A | N/A |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 35.1% | 33.2–37.1% | 32.7–37.6% | 32.2–38.1% | 31.3–39.1% |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 36.5% | 34.8–38.3% | 34.3–38.9% | 33.9–39.3% | 33.0–40.2% |
 
 ### Probability Mass Function
@@ -118,7 +118,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [18–20 March 2019](2019-03-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 8 | 8 | 8–9 | 7–9 | 7–9 |
 | [24–26 February 2019](2019-02-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8–9 | 8–9 | 7–9 |
 | [18–23 February 2019](2019-02-23-Alco.html) | Alco <br> Open | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [1–14 February 2019](2019-02-14-PublicIssue.html) | Public Issue | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -170,10 +170,10 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 7 | 7 | 7–8 | 6–8 | 6–8 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
-| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
+| [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 8 | 8 | 7–9 | 7–9 | 7–9 |
 
 ### Probability Mass Function
@@ -185,10 +185,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 8% | 100% |  |
-| 7 | 24% | 92% |  |
-| 8 | 46% | 67% | Median |
-| 9 | 19% | 22% |  |
+| 6 | 9% | 100% |  |
+| 7 | 23% | 91% |  |
+| 8 | 48% | 68% | Median |
+| 9 | 17% | 20% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
 
