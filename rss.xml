@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 05 Apr 2019 19:57:42 +0200</pubDate>
+    <pubDate>Sun, 07 Apr 2019 09:33:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Alco, 19–26 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-03-26-Alco.html</link>
@@ -896,8 +896,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-07-02-ΚάπαResearch.png"
         length="289200"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 18:36:46 +0200</pubDate>
-      <dc:date>2019-04-04T18:36:46.419313+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 09:29:57 +0200</pubDate>
+      <dc:date>2019-04-07T09:29:57.869748+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Real, 22–29 June 2018 – Seat Projections for the Parties</title>
@@ -1176,8 +1176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-04-21-MetronAnalysis.png"
         length="296025"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 18:45:18 +0200</pubDate>
-      <dc:date>2019-04-04T18:45:18.494333+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 09:19:19 +0200</pubDate>
+      <dc:date>2019-04-07T09:19:19.294009+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 15–17 April 2018 – Seat Projections for the Parties</title>
@@ -1306,8 +1306,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-03-23-Marc.png"
         length="300387"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 19:05:58 +0200</pubDate>
-      <dc:date>2019-04-04T19:05:58.270294+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 09:26:43 +0200</pubDate>
+      <dc:date>2019-04-07T09:26:43.027386+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 11–13 March 2018 – Seat Projections for the Parties</title>
@@ -1386,8 +1386,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-03-03-OpinionPoll.png"
         length="256651"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 20:31:49 +0200</pubDate>
-      <dc:date>2019-04-04T20:31:49.5716+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 09:33:41 +0200</pubDate>
+      <dc:date>2019-04-07T09:33:41.632459+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for ΕΘΝΟΣ, 22–24 February 2018 – Seat Projections for the Parties</title>
@@ -1486,8 +1486,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2018-01-20-MetronAnalysis.png"
         length="281167"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 21:21:58 +0200</pubDate>
-      <dc:date>2019-04-04T21:21:58.961861+02:00</dc:date>
+      <pubDate>Sun, 07 Apr 2019 09:22:47 +0200</pubDate>
+      <dc:date>2019-04-07T09:22:47.224529+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Public Issue, 8–18 January 2018 – Seat Projections for the Parties</title>
@@ -1589,6 +1589,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-04-05T19:57:42.494682+02:00</dc:date>
+    <dc:date>2019-04-07T09:33:41.632459+02:00</dc:date>
   </channel>
 </rss>
