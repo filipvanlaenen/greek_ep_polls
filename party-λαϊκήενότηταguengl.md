@@ -128,7 +128,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0–1 |
 | [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0–1 |
-| [25 June–2 July 2018](2018-07-02-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0 |
+| [25 June–2 July 2018](2018-07-02-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0–1 | 0–1 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real |  |  |  |  |  |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα |  |  |  |  |  |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -143,7 +143,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS |  |  |  |  |  |
 | [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0 |
-| [1–23 March 2018](2018-03-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
+| [1–23 March 2018](2018-03-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα |  |  |  |  |  |
 | [3 March 2018](2018-03-03-PulseRC.html) | Pulse RC <br> Δημοκρατία | 0 | 0 | 0 | 0 | 0 |

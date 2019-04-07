@@ -147,7 +147,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [17–18 September 2018](2018-09-18-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [16–18 September 2018](2018-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [8 September 2018](2018-09-08-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| [25 June–2 July 2018](2018-07-02-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 6 | 6 | 6–7 | 6–7 | 6–7 |
+| [25 June–2 July 2018](2018-07-02-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [22–29 June 2018](2018-06-29-MRB.html) | MRB <br> Real | 8 | 8 | 8 | 8–9 | 7–9 |
 | [26–28 June 2018](2018-06-28-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [23–27 June 2018](2018-06-27-Alco.html) | Alco <br> Kontra Channel | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
@@ -157,16 +157,16 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [16–20 May 2018](2018-05-20-Alco.html) | Alco <br> Kontra Channel | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [13–15 May 2018](2018-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [23 April–7 May 2018](2018-05-07-PublicIssue.html) | Public Issue | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
-| [21 April 2018](2018-04-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8 | 8 | 8 | 8–9 | 8–9 |
+| [21 April 2018](2018-04-21-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 8 | 8 | 7–8 | 7–9 | 7–9 |
 | [15–17 April 2018](2018-04-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 7–8 | 7–9 | 7–9 |
 | [11–16 April 2018](2018-04-16-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [12–15 April 2018](2018-04-15-PalmosAnalysis.html) | Palmos Analysis <br> TVXS | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [3 April 2018](2018-04-03-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [1–23 March 2018](2018-03-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 8 | 8 | 7–8 | 7–9 |
+| [1–23 March 2018](2018-03-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 7–8 | 7–8 | 7–9 |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [3 March 2018](2018-03-03-PulseRC.html) | Pulse RC <br> Δημοκρατία | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [3 March 2018](2018-03-03-OpinionPoll.html) | Opinion Poll <br> Παρασκήνιο | 8 | 8 | 8 | 8 | 8 |
+| [3 March 2018](2018-03-03-OpinionPoll.html) | Opinion Poll <br> Παρασκήνιο | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 7 | 7 | 7–8 | 6–8 | 6–8 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [25–29 January 2018](2018-01-29-PulseRC.html) | Pulse RC <br> Action 24 | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
