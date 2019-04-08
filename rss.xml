@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 08 Apr 2019 20:37:26 +0200</pubDate>
+    <pubDate>Mon, 08 Apr 2019 20:52:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by Alco, 19–26 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-03-26-Alco.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2019-04-08T20:37:26.998248+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-MetronAnalysis-seats.png"
+        length="204311"
+        type="image/png"/>
+      <pubDate>Mon, 08 Apr 2019 20:52:57 +0200</pubDate>
+      <dc:date>2019-04-08T20:52:57.92897+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-MetronAnalysis-coalitions-seats.png"
+        length="154783"
+        type="image/png"/>
+      <pubDate>Mon, 08 Apr 2019 20:52:57 +0200</pubDate>
+      <dc:date>2019-04-08T20:52:57.92897+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-MetronAnalysis.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 23.6–28.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 34.1–39.6%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 6.1–9.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.0–9.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.0–7.7%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0.9–2.3%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.2–2.8%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 1.4–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-03-20-MetronAnalysis.png"
         length="284425"
         type="image/png"/>
-      <pubDate>Fri, 05 Apr 2019 19:57:42 +0200</pubDate>
-      <dc:date>2019-04-05T19:57:42.494682+02:00</dc:date>
+      <pubDate>Mon, 08 Apr 2019 20:52:57 +0200</pubDate>
+      <dc:date>2019-04-08T20:52:57.92897+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 24–26 February 2019 – Seat Projections for the Parties</title>
@@ -1649,6 +1669,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-04-08T20:37:26.998248+02:00</dc:date>
+    <dc:date>2019-04-08T20:52:57.92897+02:00</dc:date>
   </channel>
 </rss>
