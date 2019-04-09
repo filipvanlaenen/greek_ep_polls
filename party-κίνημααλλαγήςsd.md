@@ -154,7 +154,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–23 March 2018](2018-03-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [3 March 2018](2018-03-03-PulseRC.html) | Pulse RC <br> Δημοκρατία | 2 | 2 | 2 | 2 | 2–3 |
+| [3 March 2018](2018-03-03-PulseRC.html) | Pulse RC <br> Δημοκρατία | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [3 March 2018](2018-03-03-OpinionPoll.html) | Opinion Poll <br> Παρασκήνιο | 2 | 2 | 2 | 2 | 1–3 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 2 | 2 | 2 | 2 | 1–3 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 2 | 2 | 2 | 2 |
@@ -162,7 +162,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 2 | 2 | 2 | 2–3 | 2–3 |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 2 | 2 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function

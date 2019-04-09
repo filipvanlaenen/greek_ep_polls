@@ -163,7 +163,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [20 January 2018](2018-01-20-MetronAnalysis.html) | Metron Analysis <br> Τα Νέα | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [8–18 January 2018](2018-01-18-PublicIssue.html) | Public Issue | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16–18 January 2018](2018-01-18-Alco.html) | Alco <br> Ραδιόφωνο 24/7 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [13 January 2018](2018-01-13-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5 | 4–5 | 4–6 | 4–6 |
 | [8–10 January 2018](2018-01-10-PulseRC.html) | Pulse RC <br> bankingnews.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 
 ### Probability Mass Function

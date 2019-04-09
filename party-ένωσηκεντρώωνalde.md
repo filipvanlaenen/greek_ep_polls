@@ -146,7 +146,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [1–23 March 2018](2018-03-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 March 2018](2018-03-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–8 March 2018](2018-03-08-RASS.html) | RASS <br> Πρώτο Θέμα | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3 March 2018](2018-03-03-PulseRC.html) | Pulse RC <br> Δημοκρατία | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [3 March 2018](2018-03-03-PulseRC.html) | Pulse RC <br> Δημοκρατία | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3 March 2018](2018-03-03-OpinionPoll.html) | Opinion Poll <br> Παρασκήνιο | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–24 February 2018](2018-02-24-Alco.html) | Alco <br> ΕΘΝΟΣ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–23 February 2018](2018-02-23-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
