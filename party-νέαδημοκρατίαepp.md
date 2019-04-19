@@ -11,6 +11,8 @@ Last result: **22.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36.4% | 30.4–40.9% | 29.4–42.4% | 28.7–43.5% | 27.5–45.0% |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 35.0% | N/A | N/A | N/A | N/A |
+| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 36.4% | N/A | N/A | N/A | N/A |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 36.5% | 34.6–38.5% | 34.0–39.0% | 33.6–39.5% | 32.6–40.5% |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 39.2% | 37.4–41.0% | 36.9–41.5% | 36.4–42.0% | 35.6–42.8% |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 35.9% | 34.0–37.9% | 33.5–38.5% | 33.0–38.9% | 32.1–39.9% |
@@ -118,6 +120,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV |  |  |  |  |  |
+| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 8 | 8 | 7–8 | 7–8 | 7–9 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
