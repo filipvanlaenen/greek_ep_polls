@@ -10,10 +10,10 @@ Last result: **9.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.0–9.0% | 5.6–9.5% | 5.2–9.9% | 4.6–10.7% |
-| [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 7.5% | N/A | N/A | N/A | N/A |
-| [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.2% | N/A | N/A | N/A | N/A |
-| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 8.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 7.5% | 6.2–9.0% | 5.7–9.4% | 5.4–9.9% | 4.7–10.7% |
+| [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.2% | 6.3–8.2% | 6.1–8.5% | 5.8–8.8% | 5.4–9.3% |
+| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 8.3% | 7.2–9.5% | 7.0–9.8% | 6.7–10.1% | 6.2–10.7% |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
 | [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.5–8.9% |
@@ -82,15 +82,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 4% | 99.6% |  |
-| 5.5–6.5% | 16% | 95% |  |
-| 6.5–7.5% | 34% | 79% | Median |
-| 7.5–8.5% | 29% | 45% |  |
-| 8.5–9.5% | 12% | 17% | Last Result |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 3% | 99.7% |  |
+| 5.5–6.5% | 14% | 96% |  |
+| 6.5–7.5% | 34% | 82% | Median |
+| 7.5–8.5% | 31% | 48% |  |
+| 8.5–9.5% | 13% | 17% | Last Result |
 | 9.5–10.5% | 4% | 4% |  |
-| 10.5–11.5% | 0.7% | 0.8% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0.6% | 0.6% |  |
+| 11.5–12.5% | 0% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -103,9 +103,9 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star |  |  |  |  |  |
-| [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr |  |  |  |  |  |
+| [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 2 | 2 | 2 | 2 | 1–3 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -175,8 +175,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 29% | 100% |  |
-| 2 | 70% | 71% | Median |
+| 1 | 28% | 100% |  |
+| 2 | 72% | 72% | Median |
 | 3 | 0.1% | 0.1% | Last Result |
 | 4 | 0% | 0% |  |
 
