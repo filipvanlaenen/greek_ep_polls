@@ -11,8 +11,8 @@ Last result: **26.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.8% | 22.5–27.4% | 21.8–28.4% | 21.1–29.2% | 20.0–30.6% |
-| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 25.6% | N/A | N/A | N/A | N/A |
-| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 22.7% | N/A | N/A | N/A | N/A |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 25.6% | 24.0–27.3% | 23.6–27.7% | 23.2–28.1% | 22.5–28.9% |
+| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 22.7% | 21.0–24.4% | 20.6–25.0% | 20.2–25.4% | 19.4–26.2% |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 25.6% | 23.9–27.5% | 23.4–28.0% | 23.0–28.4% | 22.2–29.3% |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 24.8% | 23.3–26.5% | 22.8–27.0% | 22.5–27.4% | 21.7–28.2% |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–28.0% | 21.8–28.8% |
@@ -110,8 +110,8 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV |  |  |  |  |  |
-| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5 | 5 | 5 | 4–5 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
