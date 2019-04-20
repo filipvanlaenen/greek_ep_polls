@@ -111,7 +111,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5 | 5 | 5 | 4–5 |
+| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
