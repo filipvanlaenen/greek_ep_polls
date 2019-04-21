@@ -101,11 +101,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 0 | 0 | 0 | 0–1 | 0–1 |
+| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0–1 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0–1 |
-| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 0 | 0 | 0 | 0–1 | 0–1 |
+| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 0 | 0 | 0 | 0 | 0–1 |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento |  |  |  |  |  |
 | [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC |  |  |  |  |  |

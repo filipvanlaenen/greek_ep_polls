@@ -105,11 +105,11 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 2 | 2 | 2 | 2 | 1–3 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -179,8 +179,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 28% | 100% |  |
-| 2 | 72% | 72% | Median |
+| 1 | 26% | 100% |  |
+| 2 | 74% | 74% | Median |
 | 3 | 0.1% | 0.1% | Last Result |
 | 4 | 0% | 0% |  |
 
