@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Apr 2019 16:54:18 +0200</pubDate>
+    <pubDate>Tue, 23 Apr 2019 19:16:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Opinion for ΘΕΜΑ 104.6, 15–17 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-04-17-Opinion.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 19.5–24.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 37.9–43.4%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 5.4–8.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 5.7–8.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.1–7.8%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.6–3.4%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 1.0–2.5%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 1.6–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-04-17-Opinion.png"
+        length="301748"
+        type="image/png"/>
+      <pubDate>Tue, 23 Apr 2019 19:16:56 +0200</pubDate>
+      <dc:date>2019-04-23T19:16:56.503634+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Alpha TV, 15–17 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-04-17-MetronAnalysis.html</link>
@@ -1719,6 +1729,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-04-21T16:54:18.544928+02:00</dc:date>
+    <dc:date>2019-04-23T19:16:56.503634+02:00</dc:date>
   </channel>
 </rss>
