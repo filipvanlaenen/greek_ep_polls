@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 23 Apr 2019 19:16:56 +0200</pubDate>
+    <pubDate>Sat, 27 Apr 2019 21:42:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Opinion for ΘΕΜΑ 104.6, 15–17 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-04-17-Opinion.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-04-17-Opinion.png"
         length="301748"
         type="image/png"/>
-      <pubDate>Tue, 23 Apr 2019 19:16:56 +0200</pubDate>
-      <dc:date>2019-04-23T19:16:56.503634+02:00</dc:date>
+      <pubDate>Sat, 27 Apr 2019 21:42:58 +0200</pubDate>
+      <dc:date>2019-04-27T21:42:58.272089+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Alpha TV, 15–17 April 2019 – Voting Intentions</title>
@@ -1729,6 +1729,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-04-23T19:16:56.503634+02:00</dc:date>
+    <dc:date>2019-04-27T21:42:58.272089+02:00</dc:date>
   </channel>
 </rss>
