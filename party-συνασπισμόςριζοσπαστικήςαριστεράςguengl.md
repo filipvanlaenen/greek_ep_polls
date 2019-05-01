@@ -115,7 +115,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [26–28 March 2019](2019-03-28-RASS.html) | RASS <br> in.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [19–26 March 2019](2019-03-26-Alco.html) | Alco | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [18–20 March 2019](2019-03-20-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [18–20 March 2019](2019-03-20-PulseRC.html) | Pulse RC | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
