@@ -118,7 +118,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | [15–17 April 2019](2019-04-17-Opinion.html) | Opinion <br> ΘΕΜΑ 104.6 | 9 | 9 | 9–10 | 8–10 | 8–10 |
-| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 8 | 8 | 7–8 | 7–8 | 7–9 |
+| [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [1–3 April 2019](2019-04-03-MRB.html) | MRB <br> Star | 8 | 8 | 8 | 7–9 | 7–9 |
 | [26 March–1 April 2019](2019-04-01-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -195,7 +195,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 7% | 100% |  |
 | 7 | 25% | 93% |  |
-| 8 | 57% | 68% | Median |
+| 8 | 57% | 69% | Median |
 | 9 | 11% | 11% |  |
 | 10 | 0% | 0% |  |
 
