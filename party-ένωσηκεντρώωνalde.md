@@ -10,7 +10,7 @@ Last result: **0.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 0.9–3.1% | 0.7–3.5% | 0.5–3.8% | 0.4–4.4% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.1–3.2% | 0.7–3.5% | 0.6–3.8% | 0.4–4.3% |
 | [15–17 April 2019](2019-04-17-Opinion.html) | Opinion <br> ΘΕΜΑ 104.6 | 2.3% | 1.8–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.0% |
 | [15–17 April 2019](2019-04-17-Interview.html) | Interview <br> Βεργίνα TV | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -84,12 +84,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 18% | 97% | Last Result |
-| 1.5–2.5% | 53% | 79% | Median |
-| 2.5–3.5% | 21% | 26% |  |
-| 3.5–4.5% | 4% | 5% |  |
-| 4.5–5.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 2% | 100% |  |
+| 0.5–1.5% | 14% | 98% | Last Result |
+| 1.5–2.5% | 53% | 84% | Median |
+| 2.5–3.5% | 27% | 31% |  |
+| 3.5–4.5% | 4% | 4% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -177,8 +177,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 
