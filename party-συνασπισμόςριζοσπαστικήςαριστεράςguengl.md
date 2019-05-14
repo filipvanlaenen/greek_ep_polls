@@ -11,7 +11,9 @@ Last result: **26.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.5% | 21.5–26.7% | 20.9–27.3% | 20.4–27.8% | 19.5–28.7% |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 32.0% | 30.4–33.7% | 29.9–34.2% | 29.5–34.6% | 28.8–35.5% |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 27.0% | 25.4–28.8% | 24.9–29.3% | 24.5–29.7% | 23.8–30.5% |
+| [3–6 May 2019](2019-05-06-Alco.html) | Alco | 26.0% | N/A | N/A | N/A | N/A |
 | [18–20 April 2019](2019-04-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.0% | 23.4–26.9% | 22.9–27.4% | 22.5–27.8% | 21.7–28.7% |
 | [15–17 April 2019](2019-04-17-Opinion.html) | Opinion <br> ΘΕΜΑ 104.6 | 21.8% | 20.3–23.4% | 19.9–23.8% | 19.5–24.2% | 18.8–25.0% |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 25.6% | 24.0–27.3% | 23.6–27.7% | 23.2–28.1% | 22.5–28.9% |
@@ -111,7 +113,9 @@ Last result: **6** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 7 | 7 | 7 | 6–7 | 6–7 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [3–6 May 2019](2019-05-06-Alco.html) | Alco |  |  |  |  |  |
 | [18–20 April 2019](2019-04-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–17 April 2019](2019-04-17-Opinion.html) | Opinion <br> ΘΕΜΑ 104.6 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
