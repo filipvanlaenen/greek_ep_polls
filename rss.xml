@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 14 May 2019 20:17:04 +0200</pubDate>
+    <pubDate>Wed, 15 May 2019 19:31:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by Vox Pop Analysis for Documento, 6–8 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-08-VoxPopAnalysis.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-08-VoxPopAnalysis.png"
         length="299126"
         type="image/png"/>
-      <pubDate>Tue, 14 May 2019 20:17:04 +0200</pubDate>
-      <dc:date>2019-05-14T20:17:04.448464+02:00</dc:date>
+      <pubDate>Wed, 15 May 2019 19:31:57 +0200</pubDate>
+      <dc:date>2019-05-15T19:31:57.819696+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 6–8 May 2019 – Seat Projections for the Parties</title>
@@ -1919,6 +1919,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-05-14T20:17:04.448464+02:00</dc:date>
+    <dc:date>2019-05-15T19:31:57.819696+02:00</dc:date>
   </channel>
 </rss>
