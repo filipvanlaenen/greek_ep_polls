@@ -123,7 +123,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 7 | 7 | 7–8 | 7–8 | 7–9 |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [3–6 May 2019](2019-05-06-Alco.html) | Alco |  |  |  |  |  |
 | [18–20 April 2019](2019-04-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
