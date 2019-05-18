@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 15 May 2019 19:31:57 +0200</pubDate>
+    <pubDate>Sat, 18 May 2019 11:32:28 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by MARC, 10–14 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-14-MARC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 23.7–28.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 32.4–37.6%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 5.7–8.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.6–9.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.9–7.5%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0.6–1.7%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 2.2–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-14-MARC.png"
+        length="282396"
+        type="image/png"/>
+      <pubDate>Sat, 18 May 2019 11:28:42 +0200</pubDate>
+      <dc:date>2019-05-18T11:28:42.999763+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview, 10–14 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-14-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-14-Interview.png"
+        length="306961"
+        type="image/png"/>
+      <pubDate>Sat, 18 May 2019 11:32:28 +0200</pubDate>
+      <dc:date>2019-05-18T11:32:28.743363+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Vox Pop Analysis for Documento, 6–8 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-08-VoxPopAnalysis.html</link>
@@ -1919,6 +1939,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-05-15T19:31:57.819696+02:00</dc:date>
+    <dc:date>2019-05-18T11:32:28.743363+02:00</dc:date>
   </channel>
 </rss>
