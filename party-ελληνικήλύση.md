@@ -107,7 +107,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–14 May 2019](2019-05-14-MARC.html) | MARC | 1 | 1 | 1 | 1 | 1 |
+| [10–14 May 2019](2019-05-14-MARC.html) | MARC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0 | 0 | 0 | 0 | 0–1 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0–1 |
