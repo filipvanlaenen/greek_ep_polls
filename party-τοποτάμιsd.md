@@ -11,6 +11,8 @@ Last result: **6.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.7% | 1.2–2.4% | 1.1–2.7% | 1.0–2.9% | 0.8–3.3% |
+| [10–14 May 2019](2019-05-14-MARC.html) | MARC | 1.0% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
+| [10–14 May 2019](2019-05-14-Interview.html) | Interview | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.3–1.7% |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.2–3.4% |
 | [3–6 May 2019](2019-05-06-Alco.html) | Alco | 0.0% | N/A | N/A | N/A | N/A |
@@ -107,6 +109,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [10–14 May 2019](2019-05-14-MARC.html) | MARC | 0 | 0 | 0 | 0 | 0 |
+| [10–14 May 2019](2019-05-14-Interview.html) | Interview | 0 | 0 | 0 | 0 | 0 |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0 | 0 | 0 | 0 | 0 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0–1 | 0–1 |
 | [3–6 May 2019](2019-05-06-Alco.html) | Alco |  |  |  |  |  |
