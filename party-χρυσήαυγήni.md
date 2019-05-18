@@ -10,7 +10,7 @@ Last result: **9.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.8–8.7% | 5.5–9.2% | 5.2–9.6% | 4.7–10.3% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.7–8.9% | 5.4–9.4% | 5.1–9.8% | 4.7–10.5% |
 | [10–14 May 2019](2019-05-14-MARC.html) | MARC | 7.0% | 6.1–8.0% | 5.9–8.2% | 5.7–8.5% | 5.3–9.0% |
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.5% | 5.3–9.0% |
@@ -91,14 +91,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 5% | 99.8% |  |
-| 5.5–6.5% | 22% | 95% |  |
-| 6.5–7.5% | 35% | 72% | Median |
-| 7.5–8.5% | 25% | 37% |  |
-| 8.5–9.5% | 10% | 12% | Last Result |
-| 9.5–10.5% | 2% | 3% |  |
-| 10.5–11.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 8% | 99.7% |  |
+| 5.5–6.5% | 27% | 92% |  |
+| 6.5–7.5% | 30% | 65% | Median |
+| 7.5–8.5% | 21% | 35% |  |
+| 8.5–9.5% | 11% | 15% | Last Result |
+| 9.5–10.5% | 3% | 4% |  |
+| 10.5–11.5% | 0.4% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -192,9 +192,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 27% | 100% |  |
-| 2 | 73% | 73% | Median |
-| 3 | 0.1% | 0.1% | Last Result |
+| 1 | 28% | 100% |  |
+| 2 | 71% | 72% | Median |
+| 3 | 0.2% | 0.2% | Last Result |
 | 4 | 0% | 0% |  |
 
 

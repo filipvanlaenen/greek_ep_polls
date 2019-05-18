@@ -10,7 +10,7 @@ Last result: **3.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.5–1.8% | 0.3–2.0% | 0.3–2.2% | 0.2–2.5% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.4–1.8% | 0.3–2.0% | 0.3–2.2% | 0.2–2.5% |
 | [10–14 May 2019](2019-05-14-MARC.html) | MARC | 1.0% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
@@ -90,10 +90,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 13% | 100% |  |
-| 0.5–1.5% | 63% | 87% | Median |
-| 1.5–2.5% | 23% | 24% |  |
-| 2.5–3.5% | 0.4% | 0.4% | Last Result |
+| 0.0–0.5% | 16% | 100% |  |
+| 0.5–1.5% | 60% | 84% | Median |
+| 1.5–2.5% | 24% | 24% |  |
+| 2.5–3.5% | 0.5% | 0.5% | Last Result |
 | 3.5–4.5% | 0% | 0% |  |
 
 
