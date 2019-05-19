@@ -115,7 +115,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [10–14 May 2019](2019-05-14-MARC.html) | MARC | 2 | 2 | 2 | 2 | 1–2 |
-| [10–14 May 2019](2019-05-14-Interview.html) | Interview | 2 | 2 | 2 | 1–2 | 1–2 |
+| [10–14 May 2019](2019-05-14-Interview.html) | Interview | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [3–6 May 2019](2019-05-06-Alco.html) | Alco |  |  |  |  |  |
