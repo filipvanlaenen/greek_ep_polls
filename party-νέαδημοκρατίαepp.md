@@ -15,7 +15,7 @@ Last result: **22.7%** (General Election of 25 May 2014)
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 35.0% | 33.3–36.7% | 32.8–37.2% | 32.4–37.6% | 31.6–38.5% |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 35.0% | 33.2–36.9% | 32.7–37.4% | 32.3–37.9% | 31.5–38.7% |
-| [3–6 May 2019](2019-05-06-Alco.html) | Alco | 34.0% | N/A | N/A | N/A | N/A |
+| [3–6 May 2019](2019-05-06-Alco.html) | Alco | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [18–20 April 2019](2019-04-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 35.5% | 33.6–37.5% | 33.1–38.1% | 32.6–38.6% | 31.7–39.5% |
 | [15–17 April 2019](2019-04-17-Opinion.html) | Opinion <br> ΘΕΜΑ 104.6 | 40.6% | 38.8–42.4% | 38.3–43.0% | 37.9–43.4% | 37.0–44.3% |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 35.0% | 33.3–36.8% | 32.8–37.3% | 32.3–37.8% | 31.5–38.6% |
@@ -127,9 +127,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
 | [10–14 May 2019](2019-05-14-MARC.html) | MARC | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| [3–6 May 2019](2019-05-06-Alco.html) | Alco |  |  |  |  |  |
+| [3–6 May 2019](2019-05-06-Alco.html) | Alco | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [18–20 April 2019](2019-04-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [15–17 April 2019](2019-04-17-Opinion.html) | Opinion <br> ΘΕΜΑ 104.6 | 9 | 9 | 9–10 | 8–10 | 8–10 |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 8 | 7–8 | 7–8 | 7–8 | 7–9 |

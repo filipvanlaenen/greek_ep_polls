@@ -15,7 +15,7 @@ Last result: **0.6%** (General Election of 25 May 2014)
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 1.0% | 0.7–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.2–3.4% |
-| [3–6 May 2019](2019-05-06-Alco.html) | Alco | 3.0% | N/A | N/A | N/A | N/A |
+| [3–6 May 2019](2019-05-06-Alco.html) | Alco | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [18–20 April 2019](2019-04-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 | [15–17 April 2019](2019-04-17-Opinion.html) | Opinion <br> ΘΕΜΑ 104.6 | 2.3% | 1.8–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.0% |
@@ -111,7 +111,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 0 | 0 | 0 | 0–1 | 0–1 |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 0 | 0 | 0 | 0 | 0 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0–1 | 0–1 |
-| [3–6 May 2019](2019-05-06-Alco.html) | Alco |  |  |  |  |  |
+| [3–6 May 2019](2019-05-06-Alco.html) | Alco | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–20 April 2019](2019-04-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–17 April 2019](2019-04-17-Opinion.html) | Opinion <br> ΘΕΜΑ 104.6 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [15–17 April 2019](2019-04-17-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
