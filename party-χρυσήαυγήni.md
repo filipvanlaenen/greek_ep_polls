@@ -11,6 +11,13 @@ Last result: **9.4%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.0% | 5.7–8.9% | 5.4–9.4% | 5.1–9.8% | 4.7–10.5% |
+| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 6.5% | N/A | N/A | N/A | N/A |
+| [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 8.3% | N/A | N/A | N/A | N/A |
+| [15–17 May 2019](2019-05-17-RASS.html) | RASS | 7.3% | N/A | N/A | N/A | N/A |
+| [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 6.4% | N/A | N/A | N/A | N/A |
+| [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 5.3% | N/A | N/A | N/A | N/A |
+| [13–16 May 2019](2019-05-16-MRB.html) | MRB | 7.3% | N/A | N/A | N/A | N/A |
+| [14–16 May 2019](2019-05-16-MARC.html) | MARC | 7.0% | N/A | N/A | N/A | N/A |
 | [10–14 May 2019](2019-05-14-MARC.html) | MARC | 7.0% | 6.1–8.0% | 5.9–8.2% | 5.7–8.5% | 5.3–9.0% |
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.5% | 5.3–9.0% |
@@ -111,6 +118,13 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–19 May 2019](2019-05-19-Alco.html) | Alco |  |  |  |  |  |
+| [15–18 May 2019](2019-05-18-Prorata.html) | Prorata |  |  |  |  |  |
+| [15–17 May 2019](2019-05-17-RASS.html) | RASS |  |  |  |  |  |
+| [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis |  |  |  |  |  |
+| [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
+| [13–16 May 2019](2019-05-16-MRB.html) | MRB |  |  |  |  |  |
+| [14–16 May 2019](2019-05-16-MARC.html) | MARC |  |  |  |  |  |
 | [10–14 May 2019](2019-05-14-MARC.html) | MARC | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 2 | 2 | 1–2 | 1–2 | 1–2 |
