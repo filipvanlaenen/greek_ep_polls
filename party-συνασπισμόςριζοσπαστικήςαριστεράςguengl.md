@@ -118,7 +118,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [10–14 May 2019](2019-05-14-MARC.html) | MARC | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 7 | 7 | 7 | 7–8 | 6–8 |
 | [6–8 May 2019](2019-05-08-MRB.html) | MRB <br> Star | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [3–6 May 2019](2019-05-06-Alco.html) | Alco | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [18–20 April 2019](2019-04-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
