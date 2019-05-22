@@ -11,8 +11,8 @@ Last result: **6.6%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.7% | 1.2–2.4% | 1.0–2.6% | 0.9–2.8% | 0.8–3.1% |
-| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 2.2% | N/A | N/A | N/A | N/A |
-| [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 1.4% | N/A | N/A | N/A | N/A |
+| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS | 0.0% | N/A | N/A | N/A | N/A |
 | [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 2.5% | N/A | N/A | N/A | N/A |
 | [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1.5% | N/A | N/A | N/A | N/A |
@@ -116,8 +116,8 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
-| [15–19 May 2019](2019-05-19-Alco.html) | Alco |  |  |  |  |  |
-| [15–18 May 2019](2019-05-18-Prorata.html) | Prorata |  |  |  |  |  |
+| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 0 | 0 | 0 | 0 | 0 |
+| [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS |  |  |  |  |  |
 | [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis |  |  |  |  |  |
 | [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
