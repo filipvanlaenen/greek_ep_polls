@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 21 May 2019 03:36:12 +0200</pubDate>
+    <pubDate>Wed, 22 May 2019 06:49:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Alco, 15–19 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-19-Alco.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 24.3–29.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 31.4–37.3%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.4–7.3%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 2.0–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-19-Alco.png"
+        length="315302"
+        type="image/png"/>
+      <pubDate>Tue, 21 May 2019 22:36:12 +0200</pubDate>
+      <dc:date>2019-05-21T22:36:12.235545+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata, 15–18 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-18-Prorata.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 26.3–31.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 1.7–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-18-Prorata.png"
+        length="309984"
+        type="image/png"/>
+      <pubDate>Wed, 22 May 2019 06:49:33 +0200</pubDate>
+      <dc:date>2019-05-22T06:49:33.950205+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by MARC, 10–14 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-14-MARC.html#seats</link>
@@ -2029,6 +2049,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-05-21T03:36:12.211171+02:00</dc:date>
+    <dc:date>2019-05-22T06:49:33.950205+02:00</dc:date>
   </channel>
 </rss>
