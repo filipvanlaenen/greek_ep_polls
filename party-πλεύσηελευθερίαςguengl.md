@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [15–19 May 2019](2019-05-19-Alco.html) | Alco | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS | 0.0% | N/A | N/A | N/A | N/A |
-| [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 0.7% | N/A | N/A | N/A | N/A |
+| [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 0.7% | 0.4–1.1% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1.5% | N/A | N/A | N/A | N/A |
 | [13–16 May 2019](2019-05-16-MRB.html) | MRB | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 May 2019](2019-05-16-MARC.html) | MARC | 0.0% | N/A | N/A | N/A | N/A |

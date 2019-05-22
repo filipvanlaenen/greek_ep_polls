@@ -13,8 +13,8 @@ Last result: **6.1%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 6.9% | 5.8–8.1% | 5.5–8.4% | 5.3–8.7% | 4.9–9.3% |
 | [15–19 May 2019](2019-05-19-Alco.html) | Alco | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
-| [15–17 May 2019](2019-05-17-RASS.html) | RASS | 7.6% | N/A | N/A | N/A | N/A |
-| [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 7.2% | N/A | N/A | N/A | N/A |
+| [15–17 May 2019](2019-05-17-RASS.html) | RASS | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
+| [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 7.2% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.3–9.5% |
 | [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 4.8% | N/A | N/A | N/A | N/A |
 | [13–16 May 2019](2019-05-16-MRB.html) | MRB | 6.8% | N/A | N/A | N/A | N/A |
 | [14–16 May 2019](2019-05-16-MARC.html) | MARC | 6.1% | N/A | N/A | N/A | N/A |
@@ -119,7 +119,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 May 2019](2019-05-19-Alco.html) | Alco | 1 | 1 | 1 | 1 | 1 |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–17 May 2019](2019-05-17-RASS.html) | RASS |  |  |  |  |  |
+| [15–17 May 2019](2019-05-17-RASS.html) | RASS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis |  |  |  |  |  |
 | [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
 | [13–16 May 2019](2019-05-16-MRB.html) | MRB |  |  |  |  |  |
