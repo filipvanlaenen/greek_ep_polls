@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ | ΕΛ |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [15–19 May 2019](2019-05-19-Alco.html) | Alco | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 24–30% <br> 6 | 31–37% <br> 7 | 5–8% <br> 2 | 1–3% <br> 0 | 4–7% <br> 1 | 1–3% <br> 0 | 2–4% <br> 1 | 5–8% <br> 2 | 1–3% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0 |
+| [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 26–32% <br> 6–7 | 32–38% <br> 7–8 | 7–10% <br> 2 | 1–2% <br> 0 | 6–9% <br> 1–2 | 0–1% <br> 0 | 1–3% <br> 0 | 6–10% <br> 1–2 | 1–2% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0–1 |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
