@@ -113,7 +113,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 0 | 0 | 0 | 0 | 0 |
+| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS |  |  |  |  |  |
 | [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 0 | 0 | 0 | 0 | 0 |

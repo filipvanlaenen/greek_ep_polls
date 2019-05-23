@@ -117,7 +117,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS |  |  |  |  |  |
 | [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 0 | 0 | 0 | 0 | 0 |
-| [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0–1 | 0–1 |
+| [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
 | [13–16 May 2019](2019-05-16-MRB.html) | MRB |  |  |  |  |  |
 | [14–16 May 2019](2019-05-16-MARC.html) | MARC |  |  |  |  |  |
 | [10–14 May 2019](2019-05-14-MARC.html) | MARC |  |  |  |  |  |

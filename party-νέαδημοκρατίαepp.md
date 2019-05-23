@@ -132,13 +132,13 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
-| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 7 | 7 | 7 | 7 | 7 |
+| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| [15–17 May 2019](2019-05-17-RASS.html) | RASS | 8 | 8 | 7–8 | 7–8 | 7–8 |
-| [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 7 | 7 | 7 | 7 | 7 |
-| [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 9 | 9 | 8–9 | 8–9 | 8–9 |
-| [13–16 May 2019](2019-05-16-MRB.html) | MRB | 7 | 7 | 7–8 | 7–8 | 7–8 |
-| [14–16 May 2019](2019-05-16-MARC.html) | MARC | 7 | 7 | 7–8 | 7–8 | 7–8 |
+| [15–17 May 2019](2019-05-17-RASS.html) | RASS | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
+| [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [14–16 May 2019](2019-05-16-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 9 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [13–16 May 2019](2019-05-16-MRB.html) | MRB | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [14–16 May 2019](2019-05-16-MARC.html) | MARC | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [10–14 May 2019](2019-05-14-MARC.html) | MARC | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [10–14 May 2019](2019-05-14-Interview.html) | Interview | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [6–8 May 2019](2019-05-08-VoxPopAnalysis.html) | Vox Pop Analysis <br> Documento | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
