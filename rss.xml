@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 23 May 2019 02:13:19 +0200</pubDate>
+    <pubDate>Thu, 23 May 2019 20:28:50 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Alco, 15–19 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-19-Alco.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-19-Alco-seats.png"
+        length="256378"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 19:41:48 +0200</pubDate>
+      <dc:date>2019-05-23T19:41:48.789358+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Alco, 15–19 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-19-Alco.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-19-Alco-coalitions-seats.png"
+        length="187374"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 19:41:48 +0200</pubDate>
+      <dc:date>2019-05-23T19:41:48.789358+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco, 15–19 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-19-Alco.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-19-Alco.png"
         length="315302"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 01:26:42 +0200</pubDate>
-      <dc:date>2019-05-23T01:26:42.609169+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 19:41:48 +0200</pubDate>
+      <dc:date>2019-05-23T19:41:48.789358+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata, 15–18 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-18-Prorata.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-18-Prorata-seats.png"
+        length="233794"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 19:51:15 +0200</pubDate>
+      <dc:date>2019-05-23T19:51:15.391342+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata, 15–18 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-18-Prorata.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-18-Prorata-coalitions-seats.png"
+        length="167209"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 19:51:15 +0200</pubDate>
+      <dc:date>2019-05-23T19:51:15.391342+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata, 15–18 May 2019 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-18-Prorata.png"
         length="309984"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 01:33:26 +0200</pubDate>
-      <dc:date>2019-05-23T01:33:26.808055+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 19:51:15 +0200</pubDate>
+      <dc:date>2019-05-23T19:51:15.391342+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RASS, 15–17 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-RASS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-RASS-seats.png"
+        length="200263"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 19:57:09 +0200</pubDate>
+      <dc:date>2019-05-23T19:57:09.361392+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by RASS, 15–17 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-RASS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-RASS-coalitions-seats.png"
+        length="168047"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 19:57:09 +0200</pubDate>
+      <dc:date>2019-05-23T19:57:09.361392+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by RASS, 15–17 May 2019 – Voting Intentions</title>
@@ -36,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-RASS.png"
         length="255710"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 01:39:37 +0200</pubDate>
-      <dc:date>2019-05-23T01:39:37.458082+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 19:57:09 +0200</pubDate>
+      <dc:date>2019-05-23T19:57:09.361392+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis, 14–17 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-PalmosAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-PalmosAnalysis-seats.png"
+        length="221803"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 20:06:08 +0200</pubDate>
+      <dc:date>2019-05-23T20:06:08.003363+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis, 14–17 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-PalmosAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-PalmosAnalysis-coalitions-seats.png"
+        length="168188"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 20:06:08 +0200</pubDate>
+      <dc:date>2019-05-23T20:06:08.003363+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Palmos Analysis, 14–17 May 2019 – Voting Intentions</title>
@@ -46,8 +126,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-PalmosAnalysis.png"
         length="313560"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 01:48:30 +0200</pubDate>
-      <dc:date>2019-05-23T01:48:30.149719+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 20:06:08 +0200</pubDate>
+      <dc:date>2019-05-23T20:06:08.003363+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 14–16 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 6–8 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Λαϊκή Ενότητα (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MetronAnalysis-seats.png"
+        length="189627"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 20:18:40 +0200</pubDate>
+      <dc:date>2019-05-23T20:18:40.431692+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 14–16 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MetronAnalysis-coalitions-seats.png"
+        length="124953"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 20:18:40 +0200</pubDate>
+      <dc:date>2019-05-23T20:18:40.431692+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Το Βήμα, 14–16 May 2019 – Voting Intentions</title>
@@ -56,8 +156,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MetronAnalysis.png"
         length="312484"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 01:57:42 +0200</pubDate>
-      <dc:date>2019-05-23T01:57:42.305516+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 20:18:40 +0200</pubDate>
+      <dc:date>2019-05-23T20:18:40.431692+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB, 13–16 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Ανεξάρτητοι Έλληνες (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MRB-seats.png"
+        length="198851"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 20:28:50 +0200</pubDate>
+      <dc:date>2019-05-23T20:28:50.873458+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB, 13–16 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MRB-coalitions-seats.png"
+        length="171763"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 20:28:50 +0200</pubDate>
+      <dc:date>2019-05-23T20:28:50.873458+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB, 13–16 May 2019 – Voting Intentions</title>
@@ -66,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MRB.png"
         length="275189"
         type="image/png"/>
-      <pubDate>Thu, 23 May 2019 02:05:08 +0200</pubDate>
-      <dc:date>2019-05-23T02:05:08.202034+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 20:28:50 +0200</pubDate>
+      <dc:date>2019-05-23T20:28:50.873458+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MARC, 14–16 May 2019 – Voting Intentions</title>
@@ -2099,6 +2219,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-05-23T02:13:19.127723+02:00</dc:date>
+    <dc:date>2019-05-23T20:28:50.873458+02:00</dc:date>
   </channel>
 </rss>
