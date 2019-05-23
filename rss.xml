@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 22 May 2019 22:59:18 +0200</pubDate>
+    <pubDate>Thu, 23 May 2019 02:13:19 +0200</pubDate>
     <item>
       <title>Opinion Poll by Alco, 15–19 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-05-19-Alco.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-19-Alco.png"
         length="315302"
         type="image/png"/>
-      <pubDate>Tue, 21 May 2019 22:36:12 +0200</pubDate>
-      <dc:date>2019-05-21T22:36:12.235545+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 01:26:42 +0200</pubDate>
+      <dc:date>2019-05-23T01:26:42.609169+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata, 15–18 May 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-18-Prorata.png"
         length="309984"
         type="image/png"/>
-      <pubDate>Wed, 22 May 2019 06:49:33 +0200</pubDate>
-      <dc:date>2019-05-22T06:49:33.950205+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 01:33:26 +0200</pubDate>
+      <dc:date>2019-05-23T01:33:26.808055+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by RASS, 15–17 May 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-RASS.png"
         length="255710"
         type="image/png"/>
-      <pubDate>Wed, 22 May 2019 20:40:55 +0200</pubDate>
-      <dc:date>2019-05-22T20:40:55.347208+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 01:39:37 +0200</pubDate>
+      <dc:date>2019-05-23T01:39:37.458082+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Palmos Analysis, 14–17 May 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-17-PalmosAnalysis.png"
         length="313560"
         type="image/png"/>
-      <pubDate>Wed, 22 May 2019 20:50:33 +0200</pubDate>
-      <dc:date>2019-05-22T20:50:33.74413+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 01:48:30 +0200</pubDate>
+      <dc:date>2019-05-23T01:48:30.149719+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Το Βήμα, 14–16 May 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MetronAnalysis.png"
         length="312484"
         type="image/png"/>
-      <pubDate>Wed, 22 May 2019 21:48:41 +0200</pubDate>
-      <dc:date>2019-05-22T21:48:41.805927+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 01:57:42 +0200</pubDate>
+      <dc:date>2019-05-23T01:57:42.305516+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB, 13–16 May 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MRB.png"
         length="275189"
         type="image/png"/>
-      <pubDate>Wed, 22 May 2019 22:53:12 +0200</pubDate>
-      <dc:date>2019-05-22T22:53:12.966799+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 02:05:08 +0200</pubDate>
+      <dc:date>2019-05-23T02:05:08.202034+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MARC, 14–16 May 2019 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-05-16-MARC.png"
         length="285216"
         type="image/png"/>
-      <pubDate>Wed, 22 May 2019 22:59:18 +0200</pubDate>
-      <dc:date>2019-05-22T22:59:18.260725+02:00</dc:date>
+      <pubDate>Thu, 23 May 2019 02:13:19 +0200</pubDate>
+      <dc:date>2019-05-23T02:13:19.127723+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MARC, 10–14 May 2019 – Seat Projections for the Parties</title>
@@ -2099,6 +2099,6 @@
       <pubDate>Mon, 28 Jan 2019 11:16:45 +0100</pubDate>
       <dc:date>2019-01-28T11:16:45.312771+01:00</dc:date>
     </item>
-    <dc:date>2019-05-22T22:59:18.260725+02:00</dc:date>
+    <dc:date>2019-05-23T02:13:19.127723+02:00</dc:date>
   </channel>
 </rss>
