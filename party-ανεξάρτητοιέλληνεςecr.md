@@ -10,7 +10,7 @@ Last result: **3.5%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.4–1.8% | 0.3–2.0% | 0.3–2.2% | 0.2–2.5% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.3–2.0% | 0.2–2.2% | 0.2–2.4% | 0.1–2.8% |
 | [15–19 May 2019](2019-05-19-Alco.html) | Alco | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
@@ -97,10 +97,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 16% | 100% |  |
-| 0.5–1.5% | 60% | 84% | Median |
-| 1.5–2.5% | 24% | 24% |  |
-| 2.5–3.5% | 0.5% | 0.5% | Last Result |
+| 0.0–0.5% | 22% | 100% |  |
+| 0.5–1.5% | 52% | 78% | Median |
+| 1.5–2.5% | 24% | 26% |  |
+| 2.5–3.5% | 1.5% | 1.5% | Last Result |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -113,7 +113,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 0 | 0 | 0 | 0 | 0 |
+| [15–19 May 2019](2019-05-19-Alco.html) | Alco | 0 | 0 | 0 | 0 | 0–1 |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS | 0 | 0 | 0 | 0 | 0–1 |
 | [14–17 May 2019](2019-05-17-PalmosAnalysis.html) | Palmos Analysis | 0 | 0 | 0 | 0 | 0 |
@@ -201,7 +201,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0.1% | 0.1% | Last Result |
+| 2 | 0% | 0% |  |
 
 
