@@ -10,9 +10,9 @@ Last result: **6.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 0.8–3.1% | 0.7–3.4% | 0.6–3.7% | 0.4–4.1% |
+| N/A | [Poll Average](average.html) | 1.9% | 0.9–3.1% | 0.7–3.4% | 0.6–3.6% | 0.4–4.1% |
 | [21–22 May 2019](2019-05-22-ΚάπαResearch.html) | Κάπα Research | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
-| [16–20 May 2019](2019-05-20-MetronAnalysis.html) | Metron Analysis | 2.0% | N/A | N/A | N/A | N/A |
+| [16–20 May 2019](2019-05-20-MetronAnalysis.html) | Metron Analysis | 2.0% | 1.6–2.6% | 1.5–2.8% | 1.4–2.9% | 1.2–3.2% |
 | [15–19 May 2019](2019-05-19-Alco.html) | Alco | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS | 0.0% | N/A | N/A | N/A | N/A |
@@ -99,10 +99,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 38% | 98% |  |
-| 1.5–2.5% | 32% | 60% | Median |
-| 2.5–3.5% | 25% | 29% |  |
+| 0.0–0.5% | 1.4% | 100% |  |
+| 0.5–1.5% | 35% | 98.6% |  |
+| 1.5–2.5% | 37% | 64% | Median |
+| 2.5–3.5% | 24% | 27% |  |
 | 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -117,9 +117,9 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [21–22 May 2019](2019-05-22-ΚάπαResearch.html) | Κάπα Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–20 May 2019](2019-05-20-MetronAnalysis.html) | Metron Analysis |  |  |  |  |  |
+| [16–20 May 2019](2019-05-20-MetronAnalysis.html) | Metron Analysis | 0 | 0 | 0 | 0 | 0–1 |
 | [15–19 May 2019](2019-05-19-Alco.html) | Alco | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS |  |  |  |  |  |
@@ -208,8 +208,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Median |
-| 1 | 14% | 14% |  |
+| 0 | 90% | 100% | Median |
+| 1 | 10% | 10% |  |
 | 2 | 0% | 0% | Last Result |
 
 
