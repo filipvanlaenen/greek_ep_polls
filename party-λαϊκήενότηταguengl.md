@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.8–2.2% | 0.7–2.4% | 0.6–2.7% | 0.5–3.1% |
+| [21–22 May 2019](2019-05-22-ΚάπαResearch.html) | Κάπα Research | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [16–20 May 2019](2019-05-20-MetronAnalysis.html) | Metron Analysis | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 May 2019](2019-05-19-Alco.html) | Alco | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS | 0.0% | N/A | N/A | N/A | N/A |
@@ -97,9 +99,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.2% | 100% | Last Result |
-| 0.5–1.5% | 66% | 98.8% | Median |
-| 1.5–2.5% | 29% | 33% |  |
+| 0.0–0.5% | 1.1% | 100% | Last Result |
+| 0.5–1.5% | 64% | 98.9% | Median |
+| 1.5–2.5% | 31% | 34% |  |
 | 2.5–3.5% | 3% | 4% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -114,6 +116,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [21–22 May 2019](2019-05-22-ΚάπαResearch.html) | Κάπα Research | 0 | 0 | 0 | 0 | 0 |
+| [16–20 May 2019](2019-05-20-MetronAnalysis.html) | Metron Analysis |  |  |  |  |  |
 | [15–19 May 2019](2019-05-19-Alco.html) | Alco | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–18 May 2019](2019-05-18-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
 | [15–17 May 2019](2019-05-17-RASS.html) | RASS |  |  |  |  |  |
