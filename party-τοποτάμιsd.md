@@ -117,7 +117,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–22 May 2019](2019-05-22-ΚάπαResearch.html) | Κάπα Research | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–20 May 2019](2019-05-20-MetronAnalysis.html) | Metron Analysis | 0 | 0 | 0 | 0 | 0–1 |
 | [15–19 May 2019](2019-05-19-Alco.html) | Alco | 0 | 0 | 0–1 | 0–1 | 0–1 |
