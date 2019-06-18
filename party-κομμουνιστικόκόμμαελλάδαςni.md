@@ -10,7 +10,9 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.4–6.5% | 4.1–6.8% | 3.9–7.0% | 3.6–7.5% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.5–6.8% | 4.2–7.1% | 4.0–7.3% | 3.7–7.8% |
+| [10–13 June 2019](2019-06-13-Marc.html) | Marc | 5.7% | 4.9–6.7% | 4.7–7.0% | 4.5–7.3% | 4.2–7.8% |
+| [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.2% | 5.4–7.1% | 5.2–7.4% | 5.0–7.6% | 4.7–8.1% |
 | [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.7% |
 | [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.9% | 5.1–6.8% | 4.9–7.1% | 4.8–7.3% | 4.4–7.7% |
 
@@ -21,12 +23,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.5% | 100% |  |
-| 3.5–4.5% | 15% | 99.5% |  |
-| 4.5–5.5% | 41% | 85% | Median |
-| 5.5–6.5% | 35% | 44% | Last Result |
-| 6.5–7.5% | 9% | 9% |  |
-| 7.5–8.5% | 0.5% | 0.5% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 11% | 99.7% |  |
+| 4.5–5.5% | 34% | 89% |  |
+| 5.5–6.5% | 39% | 55% | Last Result, Median |
+| 6.5–7.5% | 14% | 16% |  |
+| 7.5–8.5% | 1.3% | 1.4% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -39,6 +41,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| [10–13 June 2019](2019-06-13-Marc.html) | Marc | 1 | 1 | 1 | 1 | 1 |
+| [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 1 | 1 | 1 | 1 | 1 |
 | [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1–2 | 1–2 | 1–2 |
 
