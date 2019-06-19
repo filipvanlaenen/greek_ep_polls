@@ -44,9 +44,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [10–13 June 2019](2019-06-13-Marc.html) | Marc | 6 | 6 | 6 | 6 | 6–7 |
-| [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6 | 6 | 6–7 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [10–13 June 2019](2019-06-13-Marc.html) | Marc | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 5–6 | 5–6 | 5–7 |
 
@@ -58,9 +58,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
-| 6 | 88% | 99.9% | Last Result, Median |
-| 7 | 12% | 12% |  |
+| 5 | 1.1% | 100% |  |
+| 6 | 78% | 98.9% | Last Result, Median |
+| 7 | 21% | 21% |  |
 | 8 | 0% | 0% |  |
 
 
