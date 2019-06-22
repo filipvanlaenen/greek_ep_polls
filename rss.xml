@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Jun 2019 16:21:40 +0200</pubDate>
+    <pubDate>Sat, 22 Jun 2019 20:23:02 +0200</pubDate>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 18–20 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-20-Interview.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-20-Interview.png"
         length="257654"
         type="image/png"/>
-      <pubDate>Sat, 22 Jun 2019 15:47:14 +0200</pubDate>
-      <dc:date>2019-06-22T15:47:14.531408+02:00</dc:date>
+      <pubDate>Sat, 22 Jun 2019 19:58:10 +0200</pubDate>
+      <dc:date>2019-06-22T19:58:10.749294+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 18–19 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-19-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (EAPN): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-19-PulseRC-seats.png"
+        length="209906"
+        type="image/png"/>
+      <pubDate>Sat, 22 Jun 2019 20:19:45 +0200</pubDate>
+      <dc:date>2019-06-22T20:19:45.679913+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 18–19 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-19-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-19-PulseRC-coalitions-seats.png"
+        length="130210"
+        type="image/png"/>
+      <pubDate>Sat, 22 Jun 2019 20:19:45 +0200</pubDate>
+      <dc:date>2019-06-22T20:19:45.679913+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 18–19 June 2019 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-19-PulseRC.png"
         length="260424"
         type="image/png"/>
-      <pubDate>Sat, 22 Jun 2019 15:59:31 +0200</pubDate>
-      <dc:date>2019-06-22T15:59:31.983826+02:00</dc:date>
+      <pubDate>Sat, 22 Jun 2019 20:19:45 +0200</pubDate>
+      <dc:date>2019-06-22T20:19:45.679913+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 17–19 June 2019 – Voting Intentions</title>
@@ -36,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-19-OpinionPoll.png"
         length="250823"
         type="image/png"/>
-      <pubDate>Sat, 22 Jun 2019 16:09:16 +0200</pubDate>
-      <dc:date>2019-06-22T16:09:16.859986+02:00</dc:date>
+      <pubDate>Sat, 22 Jun 2019 20:23:02 +0200</pubDate>
+      <dc:date>2019-06-22T20:23:02.660508+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco, 13–19 June 2019 – Voting Intentions</title>
@@ -46,9 +66,9 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-19-Alco.png"
         length="257146"
         type="image/png"/>
-      <pubDate>Sat, 22 Jun 2019 16:21:40 +0200</pubDate>
-      <dc:date>2019-06-22T16:21:40.312533+02:00</dc:date>
+      <pubDate>Sat, 22 Jun 2019 20:00:45 +0200</pubDate>
+      <dc:date>2019-06-22T20:00:45.284987+02:00</dc:date>
     </item>
-    <dc:date>2019-06-22T16:21:40.312533+02:00</dc:date>
+    <dc:date>2019-06-22T20:23:02.660508+02:00</dc:date>
   </channel>
 </rss>
