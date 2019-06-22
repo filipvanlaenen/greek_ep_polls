@@ -61,11 +61,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8 | 8 | 8 |
-| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
-| [13–19 June 2019](2019-06-19-Alco.html) | Alco | 7 | 7 | 7 | 7–8 | 7–8 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [13–19 June 2019](2019-06-19-Alco.html) | Alco | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [10–12 June 2019](2019-06-12-MRB.html) | MRB <br> Star |  |  |  |  |  |
@@ -81,10 +81,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 0% | 100% |  |
-| 7 | 23% | 100% |  |
-| 8 | 51% | 77% | Median |
-| 9 | 26% | 26% |  |
+| 6 | 0.9% | 100% |  |
+| 7 | 20% | 99.1% |  |
+| 8 | 47% | 79% | Median |
+| 9 | 31% | 31% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% | Majority |
 
