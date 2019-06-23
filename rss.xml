@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 23 Jun 2019 08:03:27 +0200</pubDate>
+    <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 18–20 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-20-Interview.html#seats</link>
@@ -130,14 +130,54 @@
       <dc:date>2019-06-22T21:10:03.560347+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Marc, 10–13 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-13-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (EAPN): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-13-Marc-seats.png"
+        length="196623"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 13:35:03 +0200</pubDate>
+      <dc:date>2019-06-23T13:35:03.163251+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc, 10–13 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-13-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-13-Marc-coalitions-seats.png"
+        length="169894"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 13:35:03 +0200</pubDate>
+      <dc:date>2019-06-23T13:35:03.163251+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Marc, 10–13 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-13-Marc.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 26.1–31.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 37.3–43.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 3.1–5.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.9–10.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.5–7.3%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (EAPN): 2.6–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-13-Marc.png"
         length="224781"
         type="image/png"/>
-      <pubDate>Sun, 23 Jun 2019 08:01:53 +0200</pubDate>
-      <dc:date>2019-06-23T08:01:53.506529+02:00</dc:date>
+      <pubDate>Sun, 23 Jun 2019 13:35:03 +0200</pubDate>
+      <dc:date>2019-06-23T13:35:03.163251+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 10–12 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (EAPN): 0–1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-PulseRC-seats.png"
+        length="191904"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 12:51:12 +0200</pubDate>
+      <dc:date>2019-06-23T12:51:12.646211+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 10–12 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-PulseRC-coalitions-seats.png"
+        length="132887"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 12:51:12 +0200</pubDate>
+      <dc:date>2019-06-23T12:51:12.646211+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 10–12 June 2019 – Voting Intentions</title>
@@ -146,8 +186,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-PulseRC.png"
         length="231120"
         type="image/png"/>
-      <pubDate>Sun, 23 Jun 2019 07:57:45 +0200</pubDate>
-      <dc:date>2019-06-23T07:57:45.072614+02:00</dc:date>
+      <pubDate>Sun, 23 Jun 2019 12:51:12 +0200</pubDate>
+      <dc:date>2019-06-23T12:51:12.646211+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 10–12 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (EAPN): 0–1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB-seats.png"
+        length="245174"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 13:51:58 +0200</pubDate>
+      <dc:date>2019-06-23T13:51:58.260429+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 10–12 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB-coalitions-seats.png"
+        length="165120"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 13:51:58 +0200</pubDate>
+      <dc:date>2019-06-23T13:51:58.260429+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 10–12 June 2019 – Voting Intentions</title>
@@ -156,8 +216,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB.png"
         length="237378"
         type="image/png"/>
-      <pubDate>Sun, 23 Jun 2019 08:03:27 +0200</pubDate>
-      <dc:date>2019-06-23T08:03:27.564197+02:00</dc:date>
+      <pubDate>Sun, 23 Jun 2019 13:51:58 +0200</pubDate>
+      <dc:date>2019-06-23T13:51:58.260429+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Alpha TV, 3–5 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-05-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (EAPN): 0–1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-05-MetronAnalysis-seats.png"
+        length="195359"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 12:56:17 +0200</pubDate>
+      <dc:date>2019-06-23T12:56:17.427659+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Alpha TV, 3–5 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-05-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-05-MetronAnalysis-coalitions-seats.png"
+        length="143844"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 12:56:17 +0200</pubDate>
+      <dc:date>2019-06-23T12:56:17.427659+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Alpha TV, 3–5 June 2019 – Voting Intentions</title>
@@ -166,8 +246,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-05-MetronAnalysis.png"
         length="214628"
         type="image/png"/>
-      <pubDate>Sun, 23 Jun 2019 00:02:44 +0200</pubDate>
-      <dc:date>2019-06-23T00:02:44.025104+02:00</dc:date>
+      <pubDate>Sun, 23 Jun 2019 12:56:17 +0200</pubDate>
+      <dc:date>2019-06-23T12:56:17.427659+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 30 May–1 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-01-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (EAPN): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-01-PulseRC-seats.png"
+        length="234856"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
+      <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 30 May–1 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-01-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-01-PulseRC-coalitions-seats.png"
+        length="124756"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
+      <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 30 May–1 June 2019 – Voting Intentions</title>
@@ -176,9 +276,9 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-01-PulseRC.png"
         length="268037"
         type="image/png"/>
-      <pubDate>Sun, 23 Jun 2019 07:56:21 +0200</pubDate>
-      <dc:date>2019-06-23T07:56:21.783788+02:00</dc:date>
+      <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
+      <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-06-23T08:03:27.564197+02:00</dc:date>
+    <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
   </channel>
 </rss>
