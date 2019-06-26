@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 25 Jun 2019 20:06:56 +0200</pubDate>
+    <pubDate>Wed, 26 Jun 2019 20:14:50 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Palmos Analysis, 19–21 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-21-PalmosAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Το Ποτάμι (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (EAPN): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-21-PalmosAnalysis-seats.png"
+        length="222588"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 17:36:31 +0200</pubDate>
+      <dc:date>2019-06-26T17:36:31.157885+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis, 19–21 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-21-PalmosAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-21-PalmosAnalysis-coalitions-seats.png"
+        length="134230"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 17:36:31 +0200</pubDate>
+      <dc:date>2019-06-26T17:36:31.157885+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Palmos Analysis, 19–21 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-21-PalmosAnalysis.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-21-PalmosAnalysis.png"
         length="273572"
         type="image/png"/>
-      <pubDate>Tue, 25 Jun 2019 19:48:22 +0200</pubDate>
-      <dc:date>2019-06-25T19:48:22.809118+02:00</dc:date>
+      <pubDate>Wed, 26 Jun 2019 17:36:31 +0200</pubDate>
+      <dc:date>2019-06-26T17:36:31.157885+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata, 18–20 June 2019 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-20-Prorata.png"
         length="264001"
         type="image/png"/>
-      <pubDate>Tue, 25 Jun 2019 20:06:56 +0200</pubDate>
-      <dc:date>2019-06-25T20:06:56.621051+02:00</dc:date>
+      <pubDate>Wed, 26 Jun 2019 20:14:50 +0200</pubDate>
+      <dc:date>2019-06-26T20:14:50.587473+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 18–20 June 2019 – Seat Projections for the Parties</title>
@@ -329,6 +349,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-06-25T20:06:56.621051+02:00</dc:date>
+    <dc:date>2019-06-26T20:14:50.587473+02:00</dc:date>
   </channel>
 </rss>
