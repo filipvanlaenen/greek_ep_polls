@@ -50,8 +50,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 1 | 1 | 1 | 1 | 1 |
-| [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 1 | 1 | 1 | 1 | 0–1 |
+| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 1 | 1 | 1 | 1–2 | 1–2 |
+| [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 1 | 1 | 1 | 0–1 | 0–1 |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -73,7 +73,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 12% | 100% |  |
 | 1 | 87% | 88% | Median |
-| 2 | 1.2% | 1.2% |  |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% | Last Result |
 
 
