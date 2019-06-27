@@ -16,7 +16,7 @@
 | Κομμουνιστικό Κόμμα Ελλάδας (NI) | 6.1% | 4.8% | 4.1–5.7% |3.9–6.0% |3.7–6.2% |3.4–6.7% |
 | Χρυσή Αυγή (NI) | 9.4% | 4.7% | 4.0–5.5% |3.8–5.8% |3.6–6.0% |3.3–6.5% |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL) | 0.0% | 3.5% | 2.9–4.3% |2.7–4.5% |2.6–4.7% |2.3–5.1% |
-| Ελληνική Λύση (EAPN) | 0.0% | 2.5% | 2.0–3.2% |1.9–3.4% |1.8–3.6% |1.5–3.9% |
+| Ελληνική Λύση (ID) | 0.0% | 2.5% | 2.0–3.2% |1.9–3.4% |1.8–3.6% |1.5–3.9% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -34,7 +34,7 @@
 | <a href="#κομμουνιστικό-κόμμα-ελλάδας-(ni)">Κομμουνιστικό Κόμμα Ελλάδας (NI)</a> | 2 | 1 | 1 |1 |1 |1 |
 | <a href="#χρυσή-αυγή-(ni)">Χρυσή Αυγή (NI)</a> | 3 | 1 | 1 |1 |1 |1 |
 | <a href="#μέτωπο-ευρωπαϊκής-ρεαλιστικής-ανυπακοής-(gue/ngl)">Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#ελληνική-λύση-(eapn)">Ελληνική Λύση (EAPN)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#ελληνική-λύση-(id)">Ελληνική Λύση (ID)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 
 ### Νέα Δημοκρατία (EPP)
 
@@ -116,11 +116,11 @@
 | 1 | 83% | 83% | Median |
 | 2 | 0% | 0% |  |
 
-### Ελληνική Λύση (EAPN)
+### Ελληνική Λύση (ID)
 
-*For a full overview of the results for this party, see the [Ελληνική Λύση (EAPN)](party-ελληνικήλύσηeapn.html) page.*
+*For a full overview of the results for this party, see the [Ελληνική Λύση (ID)](party-ελληνικήλύσηid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-05-MetronAnalysis-seats-pmf-ελληνικήλύσηeapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-05-MetronAnalysis-seats-pmf-ελληνικήλύσηid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -139,7 +139,7 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Νέα Δημοκρατία (EPP) | 5 | 9 | 0% | 8–9 | 8–9 | 8–9 | 8–9 |
 | Κομμουνιστικό Κόμμα Ελλάδας (NI) – Χρυσή Αυγή (NI) | 5 | 2 | 0% | 2 | 2 | 2 | 2 |
-| Ελληνική Λύση (EAPN) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| Ελληνική Λύση (ID) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
 ### Νέα Δημοκρατία (EPP)
 
@@ -167,7 +167,7 @@
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% | Last Result |
 
-### Ελληνική Λύση (EAPN)
+### Ελληνική Λύση (ID)
 
 ![Graph with seats probability mass function not yet produced](2019-06-05-MetronAnalysis-coalitions-seats-pmf-ελ.png "Seats Probability Mass Function")
 

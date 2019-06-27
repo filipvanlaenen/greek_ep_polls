@@ -15,11 +15,11 @@
 | Κίνημα Αλλαγής (S&D) | 0.0% | 6.5% | 5.6–7.7% |5.4–8.0% |5.2–8.2% |4.8–8.8% |
 | Χρυσή Αυγή (NI) | 9.4% | 5.1% | 4.4–6.2% |4.1–6.4% |3.9–6.7% |3.6–7.2% |
 | Κομμουνιστικό Κόμμα Ελλάδας (NI) | 6.1% | 5.1% | 4.4–6.2% |4.1–6.4% |3.9–6.7% |3.6–7.2% |
-| Ελληνική Λύση (EAPN) | 0.0% | 4.6% | 3.8–5.5% |3.6–5.8% |3.4–6.0% |3.1–6.5% |
+| Ελληνική Λύση (ID) | 0.0% | 4.6% | 3.8–5.5% |3.6–5.8% |3.4–6.0% |3.1–6.5% |
 | Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL) | 0.0% | 4.3% | 3.5–5.2% |3.3–5.5% |3.2–5.7% |2.9–6.2% |
 | Το Ποτάμι (S&D) | 6.6% | 2.3% | 1.8–3.0% |1.6–3.2% |1.5–3.4% |1.3–3.8% |
 | Πλεύση Ελευθερίας (GUE/NGL) | 0.0% | 2.1% | 1.6–2.8% |1.5–3.0% |1.4–3.2% |1.2–3.5% |
-| Ένωση Κεντρώων (ALDE) | 0.6% | 1.8% | 1.3–2.5% |1.2–2.6% |1.1–2.8% |0.9–3.2% |
+| Ένωση Κεντρώων (RE) | 0.6% | 1.8% | 1.3–2.5% |1.2–2.6% |1.1–2.8% |0.9–3.2% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -36,11 +36,11 @@
 | <a href="#κίνημα-αλλαγής-(s&d)">Κίνημα Αλλαγής (S&D)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#χρυσή-αυγή-(ni)">Χρυσή Αυγή (NI)</a> | 3 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#κομμουνιστικό-κόμμα-ελλάδας-(ni)">Κομμουνιστικό Κόμμα Ελλάδας (NI)</a> | 2 | 1 | 1 |1 |1–2 |1–2 |
-| <a href="#ελληνική-λύση-(eapn)">Ελληνική Λύση (EAPN)</a> | 0 | 1 | 1 |1 |1 |1–2 |
+| <a href="#ελληνική-λύση-(id)">Ελληνική Λύση (ID)</a> | 0 | 1 | 1 |1 |1 |1–2 |
 | <a href="#μέτωπο-ευρωπαϊκής-ρεαλιστικής-ανυπακοής-(gue/ngl)">Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL)</a> | 0 | 1 | 1 |1 |1 |0–1 |
 | <a href="#το-ποτάμι-(s&d)">Το Ποτάμι (S&D)</a> | 2 | 0 | 0 |0–1 |0–1 |0–1 |
 | <a href="#πλεύση-ελευθερίας-(gue/ngl)">Πλεύση Ελευθερίας (GUE/NGL)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
-| <a href="#ένωση-κεντρώων-(alde)">Ένωση Κεντρώων (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#ένωση-κεντρώων-(re)">Ένωση Κεντρώων (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Νέα Δημοκρατία (EPP)
 
@@ -107,11 +107,11 @@
 | 2 | 3% | 3% | Last Result |
 | 3 | 0% | 0% |  |
 
-### Ελληνική Λύση (EAPN)
+### Ελληνική Λύση (ID)
 
-*For a full overview of the results for this party, see the [Ελληνική Λύση (EAPN)](party-ελληνικήλύσηeapn.html) page.*
+*For a full overview of the results for this party, see the [Ελληνική Λύση (ID)](party-ελληνικήλύσηid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-21-PalmosAnalysis-seats-pmf-ελληνικήλύσηeapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-21-PalmosAnalysis-seats-pmf-ελληνικήλύσηid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -157,11 +157,11 @@
 | 1 | 4% | 4% |  |
 | 2 | 0% | 0% |  |
 
-### Ένωση Κεντρώων (ALDE)
+### Ένωση Κεντρώων (RE)
 
-*For a full overview of the results for this party, see the [Ένωση Κεντρώων (ALDE)](party-ένωσηκεντρώωνalde.html) page.*
+*For a full overview of the results for this party, see the [Ένωση Κεντρώων (RE)](party-ένωσηκεντρώωνre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-21-PalmosAnalysis-seats-pmf-ένωσηκεντρώωνalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-21-PalmosAnalysis-seats-pmf-ένωσηκεντρώωνre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -181,8 +181,8 @@
 | Νέα Δημοκρατία (EPP) | 5 | 8 | 0% | 8 | 7–8 | 7–8 | 7–9 |
 | Κομμουνιστικό Κόμμα Ελλάδας (NI) – Χρυσή Αυγή (NI) | 5 | 2 | 0% | 2 | 2–3 | 2–3 | 2–3 |
 | Κίνημα Αλλαγής (S&D) – Το Ποτάμι (S&D) | 2 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–3 |
-| Ελληνική Λύση (EAPN) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
-| Ένωση Κεντρώων (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Ελληνική Λύση (ID) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
+| Ένωση Κεντρώων (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Νέα Δημοκρατία (EPP)
 
@@ -219,7 +219,7 @@
 | 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
 
-### Ελληνική Λύση (EAPN)
+### Ελληνική Λύση (ID)
 
 ![Graph with seats probability mass function not yet produced](2019-06-21-PalmosAnalysis-coalitions-seats-pmf-ελ.png "Seats Probability Mass Function")
 
@@ -230,7 +230,7 @@
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
-### Ένωση Κεντρώων (ALDE)
+### Ένωση Κεντρώων (RE)
 
 ![Graph with seats probability mass function not yet produced](2019-06-21-PalmosAnalysis-coalitions-seats-pmf-εκ.png "Seats Probability Mass Function")
 
