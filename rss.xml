@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 26 Jun 2019 20:31:24 +0200</pubDate>
+    <pubDate>Fri, 28 Jun 2019 20:05:26 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Marc, 19–23 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-23-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 24.8–29.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 36.5–42.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 2.7–4.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.1–9.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.5–7.1%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (RE): 1.0–2.4%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ID): 2.7–4.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.9–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-23-Marc.png"
+        length="247502"
+        type="image/png"/>
+      <pubDate>Fri, 28 Jun 2019 20:05:26 +0200</pubDate>
+      <dc:date>2019-06-28T20:05:26.578548+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Palmos Analysis, 19–21 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-21-PalmosAnalysis.html#seats</link>
@@ -369,6 +379,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-06-26T20:31:24.543292+02:00</dc:date>
+    <dc:date>2019-06-28T20:05:26.578548+02:00</dc:date>
   </channel>
 </rss>
