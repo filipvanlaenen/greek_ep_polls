@@ -10,7 +10,8 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.6% | 33.0–40.9% | 32.0–41.7% | 31.2–42.3% | 29.9–43.4% |
+| N/A | [Poll Average](average.html) | 37.6% | 33.0–40.7% | 32.0–41.4% | 31.2–42.0% | 29.9–43.2% |
+| [19–23 June 2019](2019-06-23-Marc.html) | Marc | 39.2% | 37.4–41.0% | 36.9–41.5% | 36.5–42.0% | 35.7–42.9% |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 36.0% | 34.1–38.0% | 33.6–38.6% | 33.1–39.1% | 32.2–40.0% |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 40.2% | 38.2–42.2% | 37.7–42.8% | 37.2–43.3% | 36.3–44.2% |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 34.2% | 32.3–36.2% | 31.8–36.7% | 31.3–37.2% | 30.4–38.1% |
@@ -44,16 +45,15 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 6% | 87% |  |
 | 34.5–35.5% | 8% | 81% |  |
 | 35.5–36.5% | 10% | 73% |  |
-| 36.5–37.5% | 12% | 63% |  |
-| 37.5–38.5% | 13% | 51% | Median |
-| 38.5–39.5% | 13% | 38% |  |
-| 39.5–40.5% | 11% | 24% |  |
-| 40.5–41.5% | 8% | 13% |  |
-| 41.5–42.5% | 4% | 6% |  |
-| 42.5–43.5% | 1.3% | 2% |  |
-| 43.5–44.5% | 0.3% | 0.4% |  |
-| 44.5–45.5% | 0.1% | 0.1% |  |
-| 45.5–46.5% | 0% | 0% |  |
+| 36.5–37.5% | 13% | 63% |  |
+| 37.5–38.5% | 14% | 50% | Median |
+| 38.5–39.5% | 14% | 36% |  |
+| 39.5–40.5% | 11% | 22% |  |
+| 40.5–41.5% | 7% | 11% |  |
+| 41.5–42.5% | 3% | 4% |  |
+| 42.5–43.5% | 1.0% | 1.3% |  |
+| 43.5–44.5% | 0.2% | 0.3% |  |
+| 44.5–45.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -65,6 +65,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [19–23 June 2019](2019-06-23-Marc.html) | Marc | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 8 | 8 | 7–8 | 7–8 | 7–9 |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
@@ -89,8 +90,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0.6% | 100% |  |
 | 7 | 17% | 99.4% |  |
-| 8 | 53% | 83% | Median |
-| 9 | 29% | 29% |  |
+| 8 | 51% | 82% | Median |
+| 9 | 31% | 31% |  |
 | 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% | Majority |
 
