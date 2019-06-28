@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ | ΕΛ | ΜέΡΑ25 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [19–23 June 2019](2019-06-23-Marc.html) | Marc | 25–30% <br> 5–6 | 36–42% <br> 8–9 | 3–5% <br> 0–1 | N/A <br> N/A | 5–7% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0–1 | 3–5% <br> 0–1 | 3–5% <br> 1–2 |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 26–31% <br> 6–7 | 33–39% <br> 7–8 | 4–7% <br> 1–2 | 2–3% <br> 0–1 | 4–7% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 5–8% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0–1 | 3–6% <br> 1 | 3–6% <br> 1 |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 25–30% <br> 5–7 | 37–43% <br> 8–9 | 3–5% <br> 0–1 | 1–2% <br> 0 | 4–7% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0–1 | 2–5% <br> 0–1 |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 20–25% <br> 4–6 | 31–37% <br> 7–8 | 2–4% <br> 0–1 | N/A <br> N/A | 4–6% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 | 2–4% <br> 0–1 |
