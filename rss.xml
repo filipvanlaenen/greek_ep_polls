@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 28 Jun 2019 20:05:26 +0200</pubDate>
+    <pubDate>Sat, 29 Jun 2019 10:20:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Marc, 19–23 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-23-Marc.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-23-Marc.png"
         length="247502"
         type="image/png"/>
-      <pubDate>Fri, 28 Jun 2019 20:05:26 +0200</pubDate>
-      <dc:date>2019-06-28T20:05:26.578548+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 10:20:38 +0200</pubDate>
+      <dc:date>2019-06-29T10:20:38.109894+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Palmos Analysis, 19–21 June 2019 – Seat Projections for the Parties</title>
@@ -379,6 +379,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-06-28T20:05:26.578548+02:00</dc:date>
+    <dc:date>2019-06-29T10:20:38.109894+02:00</dc:date>
   </channel>
 </rss>
