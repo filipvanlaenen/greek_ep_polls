@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 6.0–8.4% | 5.7–8.8% | 5.4–9.1% | 4.9–9.8% |
-| [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.2% | 6.3–8.2% | 6.2–8.4% | 5.9–8.6% | 5.6–9.2% |
-| [24–26 June 2019](2019-06-26-Interview.html) | Interview | 7.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 7.2% | 6.0–8.4% | 5.7–8.8% | 5.4–9.1% | 5.0–9.8% |
+| [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.2% | 6.4–8.1% | 6.2–8.4% | 6.0–8.6% | 5.6–9.1% |
+| [24–26 June 2019](2019-06-26-Interview.html) | Interview | 7.3% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.4–9.6% |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 7.5% | 6.6–8.6% | 6.4–8.9% | 6.1–9.1% | 5.7–9.6% |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 6.5% | 5.6–7.7% | 5.4–8.0% | 5.2–8.2% | 4.8–8.8% |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
@@ -38,10 +38,10 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 4% | 99.9% |  |
-| 5.5–6.5% | 22% | 96% |  |
-| 6.5–7.5% | 39% | 74% | Median |
-| 7.5–8.5% | 28% | 36% |  |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 21% | 97% |  |
+| 6.5–7.5% | 40% | 75% | Median |
+| 7.5–8.5% | 27% | 35% |  |
 | 8.5–9.5% | 7% | 8% |  |
 | 9.5–10.5% | 0.9% | 0.9% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
@@ -57,8 +57,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [24–26 June 2019](2019-06-26-Interview.html) | Interview |  |  |  |  |  |
+| [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24–26 June 2019](2019-06-26-Interview.html) | Interview | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
