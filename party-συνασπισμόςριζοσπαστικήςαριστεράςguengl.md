@@ -72,7 +72,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [14–19 June 2019](2019-06-19-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [13–19 June 2019](2019-06-19-Alco.html) | Alco | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [13–19 June 2019](2019-06-19-Alco.html) | Alco | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [10–12 June 2019](2019-06-12-MRB.html) | MRB <br> Star | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
@@ -87,9 +87,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.4% | 100% |  |
-| 5 | 13% | 99.6% |  |
-| 6 | 58% | 87% | Last Result, Median |
+| 4 | 0.5% | 100% |  |
+| 5 | 14% | 99.5% |  |
+| 6 | 57% | 86% | Last Result, Median |
 | 7 | 29% | 29% |  |
 | 8 | 0% | 0% |  |
 

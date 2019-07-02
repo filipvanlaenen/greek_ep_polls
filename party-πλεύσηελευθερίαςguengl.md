@@ -59,7 +59,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 0 | 0 | 0 | 0 | 0–1 |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0 | 0–1 | 0–1 |
+| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [14–19 June 2019](2019-06-19-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
 | [13–19 June 2019](2019-06-19-Alco.html) | Alco | 0 | 0 | 0 | 0 | 0–1 |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc |  |  |  |  |  |
@@ -76,8 +76,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.0% | 100% | Last Result, Median |
-| 1 | 1.0% | 1.0% |  |
+| 0 | 98.8% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.2% |  |
 | 2 | 0% | 0% |  |
 
 
