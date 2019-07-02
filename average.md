@@ -270,9 +270,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.4% | 100% |  |
-| 5 | 13% | 99.6% |  |
-| 6 | 58% | 87% | Last Result, Median |
+| 4 | 0.5% | 100% |  |
+| 5 | 14% | 99.5% |  |
+| 6 | 57% | 86% | Last Result, Median |
 | 7 | 29% | 29% |  |
 | 8 | 0% | 0% |  |
 
@@ -285,10 +285,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 0.6% | 100% |  |
-| 7 | 10% | 99.4% |  |
-| 8 | 56% | 89% | Median |
-| 9 | 32% | 33% |  |
+| 6 | 0.7% | 100% |  |
+| 7 | 10% | 99.3% |  |
+| 8 | 55% | 89% | Median |
+| 9 | 33% | 34% |  |
 | 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -301,7 +301,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 9% | 100% |  |
-| 1 | 91% | 91% | Median |
+| 1 | 90% | 91% | Median |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -350,8 +350,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 46% | 100% |  |
-| 2 | 54% | 54% | Median |
+| 1 | 47% | 100% |  |
+| 2 | 53% | 53% | Median |
 | 3 | 0% | 0% |  |
 
 ### Πλεύση Ελευθερίας (GUE/NGL)
@@ -362,8 +362,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.0% | 100% | Last Result, Median |
-| 1 | 1.0% | 1.0% |  |
+| 0 | 98.8% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.2% |  |
 | 2 | 0% | 0% |  |
 
 ### Ελληνική Λύση (ECR)
@@ -387,8 +387,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% | Last Result |
-| 1 | 77% | 77% | Median |
+| 0 | 24% | 100% | Last Result |
+| 1 | 76% | 76% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -406,9 +406,7 @@ Only polls for which at least the sample size has been published are included in
 | Χρυσή Αυγή (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI) | 5 | 2 | 0% | 2 | 1–2 | 1–3 | 1–3 |
 | Το Ποτάμι (S&D) – Κίνημα Αλλαγής (S&D) | 2 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Ανεξάρτητοι Έλληνες (ECR) – Ελληνική Λύση (ECR) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
-| Ελληνική Λύση (ECR) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Ένωση Κεντρώων (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
-| Ανεξάρτητοι Έλληνες (ECR) | 1 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Νέα Δημοκρατία (EPP)
 
@@ -417,10 +415,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 0.6% | 100% |  |
-| 7 | 10% | 99.4% |  |
-| 8 | 56% | 89% | Median |
-| 9 | 32% | 33% |  |
+| 6 | 0.7% | 100% |  |
+| 7 | 10% | 99.3% |  |
+| 8 | 55% | 89% | Median |
+| 9 | 33% | 34% |  |
 | 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -432,8 +430,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% |  |
 | 6 | 23% | 98% | Last Result |
-| 7 | 56% | 75% | Median |
-| 8 | 19% | 19% |  |
+| 7 | 55% | 75% | Median |
+| 8 | 20% | 20% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
@@ -443,8 +441,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% |  |
-| 2 | 90% | 92% | Median |
+| 1 | 9% | 100% |  |
+| 2 | 89% | 91% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% | Last Result |
@@ -466,20 +464,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% |  |
-| 1 | 88% | 88% | Last Result, Median |
-| 2 | 0.2% | 0.2% |  |
+| 0 | 23% | 100% |  |
+| 1 | 77% | 77% | Last Result, Median |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
-
-### Ελληνική Λύση (ECR)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ελ.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 59% | 100% | Last Result |
-| 1 | 41% | 41% | Median |
-| 2 | 0% | 0% |  |
 
 ### Ένωση Κεντρώων (RE)
 
@@ -491,19 +479,10 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
-### Ανεξάρτητοι Έλληνες (ECR)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ανελ.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
-
 
 ## Technical Information
 
 + **Number of polls included in this average:** 9
 + **Lowest number of simulations done in a poll included in this average:** 1,024
-+ **Total number of simulations done in the polls included in this average:** 4,981,760
++ **Total number of simulations done in the polls included in this average:** 4,195,328
 + **Error estimate:** 4.31%
