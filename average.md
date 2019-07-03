@@ -14,8 +14,8 @@ The table below lists the polls on which the average is based. They are the most
 | [24–26 June 2019](2019-06-26-MRB.html) | MRB | 26–32% <br> 6–7 | 35–41% <br> 8–9 | 3–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | 2–3% <br> 0–1 | 7–10% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0–1 | 2–5% <br> 0–1 |
 | [24–26 June 2019](2019-06-26-Interview.html) | Interview | 26–31% <br> 6–7 | 36–42% <br> 8–9 | 3–6% <br> 1 | N/A <br> N/A | 4–7% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 3–6% <br> 1 | 2–4% <br> 0–1 |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 25–30% <br> 5–7 | 36–42% <br> 8–9 | 3–5% <br> 0–1 | N/A <br> N/A | 5–7% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 | 3–5% <br> 0–1 |
-| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 26–31% <br> 6–7 | 33–39% <br> 7–9 | 4–7% <br> 1–2 | 2–3% <br> 0–1 | 4–7% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 5–8% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0–1 | 3–6% <br> 1 | 3–6% <br> 1 |
-| [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 25–30% <br> 5–7 | 37–43% <br> 8–9 | 3–5% <br> 0–1 | 1–2% <br> 0 | 4–7% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0–1 | 2–5% <br> 0–1 |
+| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 26–31% <br> 6–7 | 33–39% <br> 7–8 | 4–7% <br> 1–2 | 2–3% <br> 0–1 | 4–7% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 5–8% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0–1 | 3–6% <br> 1 | 3–6% <br> 1 |
+| [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 25–30% <br> 5–7 | 37–43% <br> 8–9 | 3–5% <br> 0–1 | 1–2% <br> 0 | 4–7% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0–1 | 2–5% <br> 0–1 |
 | [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 24–30% <br> 5–6 | 37–43% <br> 8–9 | 2–5% <br> 0–1 | N/A <br> N/A | 3–6% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 1–2 | N/A <br> N/A | 2–3% <br> 0–1 | 3–5% <br> 0–1 | 3–6% <br> 1 |
 | [14–19 June 2019](2019-06-19-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 27–32% <br> 6–7 | 35–41% <br> 8–9 | 2–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 1–2 | N/A <br> N/A | 2–4% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 2–4% <br> 0–1 |
 | [13–19 June 2019](2019-06-19-Alco.html) | Alco | 21–26% <br> 4–6 | 30–35% <br> 6–8 | 3–5% <br> 0–1 | N/A <br> N/A | 4–6% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0–1 | 3–5% <br> 0–1 |
@@ -270,11 +270,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.5% | 100% |  |
-| 5 | 14% | 99.5% |  |
-| 6 | 66% | 86% | Last Result, Median |
-| 7 | 19% | 19% |  |
-| 8 | 0% | 0% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 14% | 99.6% |  |
+| 6 | 68% | 86% | Last Result, Median |
+| 7 | 18% | 18% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 ### Νέα Δημοκρατία (EPP)
 
@@ -285,10 +286,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 0.7% | 100% |  |
-| 7 | 10% | 99.3% |  |
-| 8 | 53% | 89% | Median |
-| 9 | 36% | 36% |  |
+| 6 | 0.6% | 100% |  |
+| 7 | 10% | 99.4% |  |
+| 8 | 52% | 89% | Median |
+| 9 | 37% | 37% |  |
 | 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -301,7 +302,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 9% | 100% |  |
-| 1 | 91% | 91% | Median |
+| 1 | 90% | 91% | Median |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% | Last Result |
 
@@ -353,7 +354,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 40% | 100% |  |
 | 2 | 60% | 60% | Median |
-| 3 | 0% | 0% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 ### Πλεύση Ελευθερίας (GUE/NGL)
 
@@ -363,8 +365,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Last Result, Median |
-| 1 | 1.2% | 1.2% |  |
+| 0 | 98.6% | 100% | Last Result, Median |
+| 1 | 1.4% | 1.4% |  |
 | 2 | 0% | 0% |  |
 
 ### Ελληνική Λύση (ECR)
@@ -376,7 +378,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 23% | 100% | Last Result |
-| 1 | 76% | 77% | Median |
+| 1 | 77% | 77% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -388,10 +390,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 75% | 75% | Median |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 0 | 24% | 100% | Last Result |
+| 1 | 76% | 76% | Median |
+| 2 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -403,9 +404,9 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Νέα Δημοκρατία (EPP) | 5 | 8 | 0% | 7–9 | 7–9 | 7–9 | 6–9 |
-| Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) – Λαϊκή Ενότητα (GUE/NGL) – Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL) – Πλεύση Ελευθερίας (GUE/NGL) | 6 | 7 | 0% | 6–7 | 6–8 | 6–8 | 5–8 |
-| Χρυσή Αυγή (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI) | 5 | 2 | 0% | 2 | 1–2 | 1–3 | 1–3 |
+| Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) – Λαϊκή Ενότητα (GUE/NGL) – Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL) – Πλεύση Ελευθερίας (GUE/NGL) | 6 | 7 | 0% | 6–8 | 6–8 | 6–8 | 5–8 |
 | Το Ποτάμι (S&D) – Κίνημα Αλλαγής (S&D) | 2 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Χρυσή Αυγή (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI) | 5 | 2 | 0% | 2 | 1–2 | 1–2 | 1–3 |
 | Ένωση Κεντρώων (RE) | 0 | 0 | 0% | 0 | 0 | 0–1 | 0–1 |
 | Ανεξάρτητοι Έλληνες (ECR) – Ελληνική Λύση (ECR) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 
@@ -416,10 +417,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 0.7% | 100% |  |
-| 7 | 10% | 99.3% |  |
-| 8 | 53% | 89% | Median |
-| 9 | 36% | 36% |  |
+| 6 | 0.6% | 100% |  |
+| 7 | 10% | 99.4% |  |
+| 8 | 52% | 89% | Median |
+| 9 | 37% | 37% |  |
 | 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -430,11 +431,21 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% |  |
-| 6 | 24% | 98% | Last Result |
-| 7 | 64% | 74% | Median |
+| 6 | 25% | 98% | Last Result |
+| 7 | 62% | 73% | Median |
 | 8 | 10% | 10% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 9 | 0% | 0% |  |
+
+### Το Ποτάμι (S&D) – Κίνημα Αλλαγής (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ποτάμι–κα.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 39% | 100% |  |
+| 2 | 60% | 61% | Last Result, Median |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
 
 ### Χρυσή Αυγή (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI)
 
@@ -444,20 +455,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 8% | 100% |  |
 | 2 | 90% | 92% | Median |
-| 3 | 3% | 3% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% | Last Result |
-
-### Το Ποτάμι (S&D) – Κίνημα Αλλαγής (S&D)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ποτάμι–κα.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 39% | 100% |  |
-| 2 | 61% | 61% | Last Result, Median |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
 
 ### Ένωση Κεντρώων (RE)
 
@@ -476,7 +476,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 23% | 100% |  |
-| 1 | 76% | 77% | Last Result, Median |
+| 1 | 77% | 77% | Last Result, Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -484,6 +484,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 9
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
-+ **Error estimate:** 2.61%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 9,437,184
++ **Error estimate:** 2.99%
