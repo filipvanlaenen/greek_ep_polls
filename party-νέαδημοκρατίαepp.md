@@ -73,11 +73,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [24–26 June 2019](2019-06-26-MRB.html) | MRB | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [24–26 June 2019](2019-06-26-Interview.html) | Interview | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
-| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 8 | 8 | 7–8 | 7–9 | 7–9 |
+| [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 8 | 8 | 7–8 | 7–8 | 7–9 |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
-| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 8 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [14–19 June 2019](2019-06-19-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [13–19 June 2019](2019-06-19-Alco.html) | Alco | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -95,10 +95,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 0.7% | 100% |  |
-| 7 | 10% | 99.3% |  |
-| 8 | 53% | 89% | Median |
-| 9 | 36% | 36% |  |
+| 6 | 0.6% | 100% |  |
+| 7 | 10% | 99.4% |  |
+| 8 | 52% | 89% | Median |
+| 9 | 37% | 37% |  |
 | 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% | Majority |
 

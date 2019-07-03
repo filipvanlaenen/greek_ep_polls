@@ -56,7 +56,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1 |
 | [24–26 June 2019](2019-06-26-MRB.html) | MRB | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [24–26 June 2019](2019-06-26-Interview.html) | Interview | 1 | 1 | 1 | 1 | 1 |
+| [24–26 June 2019](2019-06-26-Interview.html) | Interview | 1 | 1 | 1 | 1 | 1–2 |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 1 | 1 | 1 | 1–2 | 1–2 |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -80,7 +80,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 9% | 100% |  |
-| 1 | 91% | 91% | Median |
+| 1 | 90% | 91% | Median |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% | Last Result |
 

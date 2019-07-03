@@ -53,7 +53,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [24–26 June 2019](2019-06-26-MRB.html) | MRB | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [24–26 June 2019](2019-06-26-Interview.html) | Interview | 0 | 0 | 0 | 0 | 0 |
+| [24–26 June 2019](2019-06-26-Interview.html) | Interview | 0 | 0 | 0 | 0 | 0–1 |
 | [19–23 June 2019](2019-06-23-Marc.html) | Marc | 0 | 0 | 0 | 0 | 0 |
 | [19–21 June 2019](2019-06-21-PalmosAnalysis.html) | Palmos Analysis | 0 | 0 | 0 | 0 | 0 |
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
