@@ -12,15 +12,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.5% | 0.9–2.4% | 0.8–2.7% | 0.7–2.9% | 0.6–3.4% |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 1.5% | 1.2–2.1% | 1.1–2.2% | 1.0–2.4% | 0.8–2.7% |
+| [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 1.9% | 1.5–2.5% | 1.4–2.6% | 1.3–2.8% | 1.1–3.1% |
 | [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [2–3 July 2019](2019-07-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.6% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% |
 | [18 June–3 July 2019](2019-07-03-PublicIssue.html) | Public Issue | 0.0% | N/A | N/A | N/A | N/A |
-| [3 July 2019](2019-07-03-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [1–3 July 2019](2019-07-03-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [28 June–2 July 2019](2019-07-02-Alco.html) | Alco <br> Open TV | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [28 June–1 July 2019](2019-07-01-Prorata.html) | Prorata | 0.0% | N/A | N/A | N/A | N/A |
+| [27 June–1 July 2019](2019-07-01-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 1.0–3.0% |
 | [24–27 June 2019](2019-06-27-RASS.html) | RASS <br> in.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.1% | 0.8–1.6% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% |
 | [24–26 June 2019](2019-06-26-MRB.html) | MRB <br> Τα Νέα | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.6–2.5% |
@@ -62,15 +63,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 0 | 0 | 0 | 0 | 0 |
-| [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis |  |  |  |  |  |
+| [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 0 | 0 | 0 | 0 | 0–1 |
 | [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 0 | 0 | 0 | 0 | 0 |
 | [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0 |
 | [2–3 July 2019](2019-07-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [18 June–3 July 2019](2019-07-03-PublicIssue.html) | Public Issue |  |  |  |  |  |
-| [3 July 2019](2019-07-03-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
 | [1–3 July 2019](2019-07-03-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [28 June–2 July 2019](2019-07-02-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0 |
 | [28 June–1 July 2019](2019-07-01-Prorata.html) | Prorata |  |  |  |  |  |
+| [27 June–1 July 2019](2019-07-01-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
 | [24–27 June 2019](2019-06-27-RASS.html) | RASS <br> in.gr |  |  |  |  |  |
 | [24–26 June 2019](2019-06-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [24–26 June 2019](2019-06-26-MRB.html) | MRB <br> Τα Νέα | 0 | 0 | 0 | 0 | 0 |
