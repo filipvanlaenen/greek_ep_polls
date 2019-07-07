@@ -10,7 +10,7 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.3–6.6% | 4.1–7.0% | 3.8–7.4% | 3.5–8.2% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.5–6.4% | 4.2–6.7% | 4.0–7.0% | 3.6–7.5% |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 5.4% | 4.6–6.3% | 4.5–6.6% | 4.3–6.8% | 3.9–7.3% |
 | [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 5.5% | 4.8–6.4% | 4.6–6.6% | 4.5–6.8% | 4.1–7.3% |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
@@ -46,14 +46,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.8% | 100% |  |
-| 3.5–4.5% | 16% | 99.2% |  |
-| 4.5–5.5% | 43% | 83% | Median |
-| 5.5–6.5% | 30% | 40% | Last Result |
-| 6.5–7.5% | 8% | 10% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.5% | 100% |  |
+| 3.5–4.5% | 11% | 99.5% |  |
+| 4.5–5.5% | 44% | 89% | Median |
+| 5.5–6.5% | 37% | 45% | Last Result |
+| 6.5–7.5% | 7% | 8% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -101,9 +100,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 95% | 99.9% | Median |
-| 2 | 5% | 5% | Last Result |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% | Last Result |
 | 3 | 0% | 0% |  |
 
 
