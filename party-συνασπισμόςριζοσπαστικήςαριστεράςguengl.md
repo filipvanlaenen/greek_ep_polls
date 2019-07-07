@@ -73,13 +73,13 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 6 | 6 | 5–7 | 5–7 | 5–7 |
+| [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 6 | 6 | 6 | 5–7 | 5–7 |
 | [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [2–3 July 2019](2019-07-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [18 June–3 July 2019](2019-07-03-PublicIssue.html) | Public Issue | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [18 June–3 July 2019](2019-07-03-PublicIssue.html) | Public Issue | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [1–3 July 2019](2019-07-03-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28 June–2 July 2019](2019-07-02-Alco.html) | Alco <br> Open TV | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [28 June–1 July 2019](2019-07-01-Prorata.html) | Prorata | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
