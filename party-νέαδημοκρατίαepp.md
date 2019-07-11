@@ -82,7 +82,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
-| [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
@@ -105,7 +105,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [13–19 June 2019](2019-06-19-Alco.html) | Alco | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [10–12 June 2019](2019-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
-| [10–12 June 2019](2019-06-12-MRB.html) | MRB <br> Star | 8 | 8 | 7–9 | 7–9 | 7–9 |
+| [10–12 June 2019](2019-06-12-MRB.html) | MRB <br> Star | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [3–5 June 2019](2019-06-05-MetronAnalysis.html) | Metron Analysis <br> Alpha TV | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [30 May–1 June 2019](2019-06-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 
@@ -120,8 +120,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 2% | 100% |  |
-| 8 | 43% | 98% |  |
-| 9 | 52% | 55% | Median |
+| 8 | 44% | 98% |  |
+| 9 | 51% | 54% | Median |
 | 10 | 3% | 3% |  |
 | 11 | 0% | 0% | Majority |
 

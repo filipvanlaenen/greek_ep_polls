@@ -65,7 +65,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 1 | 1 | 1 | 1 | 0–1 |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -100,8 +100,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 66% | 66% | Median |
+| 0 | 33% | 100% | Last Result |
+| 1 | 67% | 67% | Median |
 | 2 | 0% | 0% |  |
 
 
