@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 24–31% <br> 5–7 | 35–44% <br> 8–10 | 2–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 6–10% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 2–5% <br> 0–1 | 2–5% <br> 0–1 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 26–31% <br> 5–7 | 37–43% <br> 8–9 | 3–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0–1 | 3–5% <br> 0–1 |
-| [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 26–30% <br> 5–7 | 38–43% <br> 8–9 | 4–6% <br> 1 | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 3–5% <br> 0–1 |
+| [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 26–30% <br> 6–7 | 38–43% <br> 8–9 | 4–6% <br> 1 | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 3–5% <br> 1 |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 25–31% <br> 5–7 | 36–42% <br> 8–9 | 2–4% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 7–10% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0–1 | 2–4% <br> 0–1 |
 | [2–4 July 2019](2019-07-04-Marc.html) | Marc <br> ANT1 | 25–30% <br> 5–7 | 36–41% <br> 8–9 | 3–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 6–8% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 | 3–5% <br> 0–1 |
 | [1–4 July 2019](2019-07-04-MRB.html) | MRB <br> Star | 26–31% <br> 6–7 | 36–42% <br> 8–9 | 3–5% <br> 0–1 | N/A <br> N/A | 5–7% <br> 1–2 | N/A <br> N/A | 2–3% <br> 0–1 | 6–9% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 | 3–5% <br> 0–1 |
@@ -271,8 +271,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 2% | 100% |  |
-| 8 | 43% | 98% |  |
-| 9 | 52% | 55% | Median |
+| 8 | 44% | 98% |  |
+| 9 | 51% | 54% | Median |
 | 10 | 3% | 3% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -359,8 +359,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 66% | 66% | Median |
+| 0 | 33% | 100% | Last Result |
+| 1 | 67% | 67% | Median |
 | 2 | 0% | 0% |  |
 
 
@@ -388,8 +388,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 2% | 100% |  |
-| 8 | 43% | 98% |  |
-| 9 | 52% | 55% | Median |
+| 8 | 44% | 98% |  |
+| 9 | 51% | 54% | Median |
 | 10 | 3% | 3% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -400,8 +400,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 5% | 100% |  |
-| 6 | 29% | 95% | Last Result |
-| 7 | 60% | 66% | Median |
+| 6 | 28% | 95% | Last Result |
+| 7 | 61% | 67% | Median |
 | 8 | 6% | 6% |  |
 | 9 | 0% | 0% |  |
 
@@ -452,6 +452,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 11
-+ **Lowest number of simulations done in a poll included in this average:** 262,144
-+ **Total number of simulations done in the polls included in this average:** 10,747,904
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 11,534,336
 + **Error estimate:** 3.83%
