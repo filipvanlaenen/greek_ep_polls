@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Jul 2019 23:26:25 +0200</pubDate>
+    <pubDate>Thu, 11 Jul 2019 19:40:03 +0200</pubDate>
     <item>
       <title>Opinion Poll by Κάπα Research for ΕΘΝΟΣ, 1–5 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-07-05-ΚάπαResearch.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-07-06T21:22:42.945766+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Metron Analysis, 1–5 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-07-05-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 6–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-07-05-MetronAnalysis-seats.png"
+        length="187219"
+        type="image/png"/>
+      <pubDate>Thu, 11 Jul 2019 19:40:03 +0200</pubDate>
+      <dc:date>2019-07-11T19:40:03.716793+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis, 1–5 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-07-05-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-07-05-MetronAnalysis-coalitions-seats.png"
+        length="143872"
+        type="image/png"/>
+      <pubDate>Thu, 11 Jul 2019 19:40:03 +0200</pubDate>
+      <dc:date>2019-07-11T19:40:03.716793+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Metron Analysis, 1–5 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-07-05-MetronAnalysis.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 25.8–30.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 37.5–42.6%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 3.5–5.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.5–9.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.5–6.8%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (RE): 1.0–2.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 3.1–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-07-05-MetronAnalysis.png"
         length="225796"
         type="image/png"/>
-      <pubDate>Sat, 06 Jul 2019 23:26:25 +0200</pubDate>
-      <dc:date>2019-07-06T23:26:25.403575+02:00</dc:date>
+      <pubDate>Thu, 11 Jul 2019 19:40:03 +0200</pubDate>
+      <dc:date>2019-07-11T19:40:03.716793+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by RASS for Action24, 1–4 July 2019 – Seat Projections for the Parties</title>
@@ -710,14 +730,34 @@
       <dc:date>2019-06-23T12:51:12.646211+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by MRB for Star, 10–12 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB-seats.png"
+        length="244463"
+        type="image/png"/>
+      <pubDate>Thu, 11 Jul 2019 18:12:41 +0200</pubDate>
+      <dc:date>2019-07-11T18:12:41.508569+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 10–12 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB-coalitions-seats.png"
+        length="164258"
+        type="image/png"/>
+      <pubDate>Thu, 11 Jul 2019 18:12:41 +0200</pubDate>
+      <dc:date>2019-07-11T18:12:41.508569+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by MRB for Star, 10–12 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 25.3–30.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 34.0–40.0%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 4.1–7.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 5.8–9.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (RE): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-06-12-MRB.png"
         length="236503"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 21:29:22 +0200</pubDate>
-      <dc:date>2019-07-01T21:29:22.059311+02:00</dc:date>
+      <pubDate>Thu, 11 Jul 2019 18:12:41 +0200</pubDate>
+      <dc:date>2019-07-11T18:12:41.508569+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Alpha TV, 3–5 June 2019 – Seat Projections for the Parties</title>
@@ -779,6 +819,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-07-06T23:26:25.403575+02:00</dc:date>
+    <dc:date>2019-07-11T19:40:03.716793+02:00</dc:date>
   </channel>
 </rss>
