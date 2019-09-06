@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.6% | 25.3–29.9% | 24.6–30.6% | 24.0–31.3% | 22.9–32.5% |
+| N/A | [Poll Average](average.html) | 27.7% | 25.3–30.0% | 24.6–30.7% | 24.0–31.4% | 22.9–32.5% |
+| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 26.6% | 24.9–28.3% | 24.5–28.9% | 24.1–29.3% | 23.3–30.1% |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 28.0% | 26.4–29.6% | 25.9–30.1% | 25.5–30.5% | 24.8–31.4% |
 | [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 28.0% | 26.5–29.6% | 26.1–30.0% | 25.8–30.4% | 25.1–31.2% |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 27.7% | 26.0–29.6% | 25.5–30.1% | 25.0–30.6% | 24.2–31.5% |
@@ -46,18 +47,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
+| 21.5–22.5% | 0.3% | 100% |  |
 | 22.5–23.5% | 1.1% | 99.7% |  |
-| 23.5–24.5% | 3% | 98.6% |  |
-| 24.5–25.5% | 8% | 95% |  |
-| 25.5–26.5% | 15% | 88% |  |
-| 26.5–27.5% | 22% | 73% | Last Result |
-| 27.5–28.5% | 22% | 51% | Median |
-| 28.5–29.5% | 16% | 29% |  |
-| 29.5–30.5% | 8% | 14% |  |
-| 30.5–31.5% | 4% | 5% |  |
-| 31.5–32.5% | 1.4% | 2% |  |
-| 32.5–33.5% | 0.4% | 0.4% |  |
+| 23.5–24.5% | 3% | 98.5% |  |
+| 24.5–25.5% | 7% | 95% |  |
+| 25.5–26.5% | 14% | 88% |  |
+| 26.5–27.5% | 21% | 74% | Last Result |
+| 27.5–28.5% | 22% | 53% | Median |
+| 28.5–29.5% | 16% | 31% |  |
+| 29.5–30.5% | 9% | 15% |  |
+| 30.5–31.5% | 4% | 6% |  |
+| 31.5–32.5% | 2% | 2% |  |
+| 32.5–33.5% | 0.4% | 0.5% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -71,6 +72,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
@@ -107,9 +109,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 12% | 100% |  |
-| 6 | 77% | 88% | Last Result, Median |
-| 7 | 11% | 11% |  |
+| 5 | 11% | 100% |  |
+| 6 | 76% | 89% | Last Result, Median |
+| 7 | 12% | 12% |  |
 | 8 | 0% | 0% |  |
 
 
