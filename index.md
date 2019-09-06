@@ -16,7 +16,6 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [1–3 July 2019](2019-07-03-Interview.html) | Interview <br> Βεργίνα TV | 22–28% <br> 5–6 | 33–39% <br> 7–8 | 3–6% <br> 1 | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 2–4% <br> 0–1 |
 | [28 June–2 July 2019](2019-07-02-Alco.html) | Alco <br> Open TV | 25–31% <br> 5–7 | 36–42% <br> 8–9 | 3–6% <br> 0–1 | N/A <br> N/A | 4–6% <br> 1 | N/A <br> N/A | 1–3% <br> 0 | 6–10% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0–1 | 2–4% <br> 0–1 |
 | [28 June–1 July 2019](2019-07-01-Prorata.html) | Prorata | 24–29% <br> 5–6 | 37–43% <br> 8–9 | 3–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 2–4% <br> 0–1 |
-| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 24–30% <br> 5–6 | 37–43% <br> 8–9 | 2–5% <br> 0–1 | N/A <br> N/A | 3–6% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 1–2 | N/A <br> N/A | 2–3% <br> 0–1 | 3–5% <br> 0–1 | 3–6% <br> 1 |
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
