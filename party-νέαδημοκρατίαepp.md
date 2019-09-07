@@ -83,7 +83,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
