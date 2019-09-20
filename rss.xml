@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Sep 2019 12:57:59 +0200</pubDate>
+    <pubDate>Thu, 19 Sep 2019 07:25:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by Marc for Proto Thema, 2–5 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-09-05-Marc.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-09-05-Marc.png"
         length="228884"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 12:57:59 +0200</pubDate>
-      <dc:date>2019-09-18T12:57:59.941716+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 07:25:37 +0200</pubDate>
+      <dc:date>2019-09-19T07:25:37.806252+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll, 2–4 September 2019 – Voting Intentions</title>
@@ -839,6 +839,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-09-18T12:57:59.941716+02:00</dc:date>
+    <dc:date>2019-09-19T07:25:37.806252+02:00</dc:date>
   </channel>
 </rss>
