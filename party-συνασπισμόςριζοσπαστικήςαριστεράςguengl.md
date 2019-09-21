@@ -11,6 +11,7 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.7% | 25.3–30.0% | 24.6–30.7% | 24.0–31.4% | 22.9–32.5% |
+| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 26.7% | N/A | N/A | N/A | N/A |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.0% | 24.6–32.0% |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 26.6% | 24.9–28.3% | 24.5–28.9% | 24.1–29.3% | 23.3–30.1% |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 28.0% | 26.4–29.6% | 25.9–30.1% | 25.5–30.5% | 24.8–31.4% |
@@ -73,6 +74,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
