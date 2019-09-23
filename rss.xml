@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 19 Sep 2019 07:25:37 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 11:36:04 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 17–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-09-18-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 26.8–32.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 41.6–47.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 5.7–8.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2.6–4.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 3.4–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-09-18-PulseRC.png"
+        length="195570"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 10:03:42 +0200</pubDate>
+      <dc:date>2019-09-23T10:03:42.250785+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 14–16 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-09-16-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 24.0–29.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 41.4–47.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.3–9.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 4.0–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-09-16-MRB.png"
+        length="193685"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 11:36:04 +0200</pubDate>
+      <dc:date>2019-09-23T11:36:04.379076+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Marc for Proto Thema, 2–5 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-09-05-Marc.html</link>
@@ -839,6 +859,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-09-19T07:25:37.806252+02:00</dc:date>
+    <dc:date>2019-09-23T11:36:04.379076+02:00</dc:date>
   </channel>
 </rss>
