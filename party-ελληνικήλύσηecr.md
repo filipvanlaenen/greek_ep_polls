@@ -68,7 +68,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1 |
+| [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1 | 1 |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1 | 0–1 | 0–1 |
