@@ -11,8 +11,8 @@ Last result: **22.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 39.3% | 36.6–41.9% | 35.6–42.8% | 34.7–43.6% | 33.3–45.1% |
-| [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 44.5% | N/A | N/A | N/A | N/A |
-| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 44.4% | N/A | N/A | N/A | N/A |
+| [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 44.5% | 42.6–46.4% | 42.1–47.0% | 41.6–47.4% | 40.7–48.4% |
+| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 44.4% | 42.4–46.4% | 41.9–47.0% | 41.4–47.5% | 40.4–48.5% |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 45.9% | 43.8–47.9% | 43.3–48.5% | 42.8–49.0% | 41.8–49.9% |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 48.3% | 46.3–50.2% | 45.8–50.8% | 45.3–51.2% | 44.4–52.2% |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 40.0% | 38.2–41.8% | 37.7–42.3% | 37.3–42.7% | 36.4–43.6% |
@@ -86,8 +86,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
-| [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 9 | 9 | 9 | 9–10 | 9–10 |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
