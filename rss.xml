@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Sep 2019 11:36:04 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 16:16:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 17–18 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-09-18-PulseRC.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-09-18-PulseRC.png"
         length="195570"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 10:03:42 +0200</pubDate>
-      <dc:date>2019-09-23T10:03:42.250785+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2019 16:16:13 +0200</pubDate>
+      <dc:date>2019-09-23T16:16:13.67403+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 14–16 September 2019 – Voting Intentions</title>
@@ -859,6 +859,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-09-23T11:36:04.379076+02:00</dc:date>
+    <dc:date>2019-09-23T16:16:13.67403+02:00</dc:date>
   </channel>
 </rss>
