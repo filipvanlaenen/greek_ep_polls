@@ -69,7 +69,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1 |
-| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1 | 1 |
+| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1–2 | 1–2 |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 1 | 1 | 1–2 | 1–2 | 1–2 |
