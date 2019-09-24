@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Sep 2019 17:29:50 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 23:16:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 17–18 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-09-18-PulseRC.html</link>
@@ -18,6 +18,16 @@
         type="image/png"/>
       <pubDate>Mon, 23 Sep 2019 16:16:13 +0200</pubDate>
       <dc:date>2019-09-23T16:16:13.67403+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 16–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-09-18-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 24.4–29.4%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 43.3–48.9%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 5.7–8.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.5–8.4%&lt;/li&gt;&lt;li&gt;Ένωση Κεντρώων (RE): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2.9–5.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 3.4–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-09-18-MetronAnalysis.png"
+        length="227058"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 23:16:09 +0200</pubDate>
+      <dc:date>2019-09-23T23:16:09.00793+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Star, 14–16 September 2019 – Voting Intentions</title>
@@ -859,6 +869,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-09-23T17:29:50.216735+02:00</dc:date>
+    <dc:date>2019-09-23T23:16:09.00793+02:00</dc:date>
   </channel>
 </rss>
