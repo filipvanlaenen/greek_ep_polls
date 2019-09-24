@@ -12,6 +12,7 @@ Last result: **0.6%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.7% | 1.2–2.5% | 1.1–2.8% | 1.0–3.0% | 0.8–3.4% |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 0.0% | N/A | N/A | N/A | N/A |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
@@ -67,6 +68,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema |  |  |  |  |  |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
