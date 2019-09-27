@@ -93,7 +93,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
-| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
+| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 10 | 10 | 10–11 | 9–11 | 9–11 |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
@@ -138,9 +138,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 18% | 100% |  |
-| 10 | 64% | 82% | Median |
-| 11 | 18% | 18% | Majority |
-| 12 | 0.2% | 0.2% |  |
+| 10 | 65% | 81% | Median |
+| 11 | 16% | 16% | Majority |
+| 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
 

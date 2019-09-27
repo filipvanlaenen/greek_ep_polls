@@ -70,10 +70,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 1 | 1 | 1 | 0–1 |
-| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 1 | 1 | 0–1 | 0–1 |
+| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1 | 0–1 | 0–1 |
+| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -110,8 +110,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% | Last Result |
-| 1 | 88% | 88% | Median |
+| 0 | 15% | 100% | Last Result |
+| 1 | 85% | 85% | Median |
 | 2 | 0% | 0% |  |
 
 

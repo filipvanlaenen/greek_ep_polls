@@ -74,7 +74,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1–2 | 1–2 |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1 | 1–2 | 1–2 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 1 | 1 | 1 | 1 | 1–2 |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -111,8 +111,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 81% | 100% | Median |
-| 2 | 19% | 19% | Last Result |
+| 1 | 85% | 100% | Median |
+| 2 | 15% | 15% | Last Result |
 | 3 | 0% | 0% |  |
 
 

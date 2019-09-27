@@ -73,12 +73,12 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 6 | 6 | 5–6 | 5–6 | 5–7 |
-| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 6 | 6 | 5–6 | 5–6 | 5–7 |
+| [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [1–5 July 2019](2019-07-05-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [1–5 July 2019](2019-07-05-MetronAnalysis.html) | Metron Analysis | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [1–4 July 2019](2019-07-04-RASS.html) | RASS <br> Action24 | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
@@ -115,9 +115,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 9% | 100% |  |
-| 6 | 81% | 91% | Last Result, Median |
-| 7 | 10% | 10% |  |
+| 5 | 10% | 100% |  |
+| 6 | 81% | 90% | Last Result, Median |
+| 7 | 9% | 9% |  |
 | 8 | 0% | 0% |  |
 
 
