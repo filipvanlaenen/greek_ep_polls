@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ | ΕΛ | ΜέΡΑ25 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 24–30% <br> 5–7 | 42–50% <br> 9–11 | 1–3% <br> 0–1 | N/A <br> N/A | 4–8% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 5–9% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 3–6% <br> 0–1 | 3–6% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 24–30% <br> 5–7 | 41–50% <br> 9–11 | 1–3% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 3–6% <br> 0–1 | 3–6% <br> 0–1 |
+| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25–30% <br> 5–7 | 41–47% <br> 9–10 | 1–2% <br> 0 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 3–5% <br> 0–1 |
+| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 25–30% <br> 5–7 | 44–51% <br> 10–11 | 1–3% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 2–5% <br> 0–1 | 2–5% <br> 0–1 |
-| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 24–29% <br> 5–6 | 43–49% <br> 9–11 | 1–3% <br> 0 | N/A <br> N/A | 6–8% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 3–6% <br> 1 |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 24–29% <br> 5–6 | 41–47% <br> 9–10 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 4–7% <br> 1 |
-| [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 24–29% <br> 5–7 | 45–51% <br> 10–11 | 2–3% <br> 0–1 | N/A <br> N/A | 4–7% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 | 3–5% <br> 0–1 |
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
