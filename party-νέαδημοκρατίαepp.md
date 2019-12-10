@@ -10,8 +10,8 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45.0% | 42.5–48.4% | 41.9–49.2% | 41.4–49.8% | 40.4–51.0% |
-| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 49.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 46.1% | 42.8–49.7% | 42.1–50.4% | 41.6–51.1% | 40.6–52.2% |
+| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 49.0% | 47.0–50.9% | 46.4–51.5% | 46.0–52.0% | 45.0–52.9% |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 43.7% | 41.9–45.5% | 41.4–46.0% | 40.9–46.5% | 40.0–47.4% |
 | [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 45.4% | N/A | N/A | N/A | N/A |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 47.6% | 45.5–49.6% | 45.0–50.2% | 44.5–50.7% | 43.5–51.6% |
@@ -72,20 +72,21 @@ The following table shows the probability mass function per percentage block of 
 | 36.5–37.5% | 0% | 100% |  |
 | 37.5–38.5% | 0% | 100% |  |
 | 38.5–39.5% | 0.1% | 100% |  |
-| 39.5–40.5% | 0.6% | 99.9% |  |
-| 40.5–41.5% | 3% | 99.4% |  |
-| 41.5–42.5% | 8% | 97% |  |
-| 42.5–43.5% | 14% | 89% |  |
-| 43.5–44.5% | 18% | 75% |  |
-| 44.5–45.5% | 16% | 57% | Median |
-| 45.5–46.5% | 13% | 41% |  |
-| 46.5–47.5% | 11% | 28% |  |
-| 47.5–48.5% | 9% | 18% |  |
-| 48.5–49.5% | 6% | 9% |  |
-| 49.5–50.5% | 3% | 3% |  |
-| 50.5–51.5% | 0.8% | 1.0% |  |
-| 51.5–52.5% | 0.2% | 0.2% |  |
-| 52.5–53.5% | 0% | 0% |  |
+| 39.5–40.5% | 0.4% | 99.9% |  |
+| 40.5–41.5% | 2% | 99.5% |  |
+| 41.5–42.5% | 6% | 98% |  |
+| 42.5–43.5% | 11% | 92% |  |
+| 43.5–44.5% | 13% | 81% |  |
+| 44.5–45.5% | 12% | 68% |  |
+| 45.5–46.5% | 11% | 55% | Median |
+| 46.5–47.5% | 11% | 45% |  |
+| 47.5–48.5% | 12% | 34% |  |
+| 48.5–49.5% | 11% | 22% |  |
+| 49.5–50.5% | 7% | 11% |  |
+| 50.5–51.5% | 3% | 4% |  |
+| 51.5–52.5% | 1.0% | 1.3% |  |
+| 52.5–53.5% | 0.2% | 0.3% |  |
+| 53.5–54.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -97,7 +98,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
-| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
@@ -146,11 +147,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.1% | 100% |  |
-| 9 | 32% | 99.9% |  |
-| 10 | 54% | 68% | Median |
-| 11 | 14% | 14% | Majority |
-| 12 | 0.1% | 0.1% |  |
+| 8 | 0% | 100% |  |
+| 9 | 24% | 100% |  |
+| 10 | 48% | 76% | Median |
+| 11 | 28% | 28% | Majority |
+| 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
 
 
