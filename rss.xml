@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 10 Dec 2019 20:13:50 +0100</pubDate>
+    <pubDate>Wed, 11 Dec 2019 06:57:47 +0100</pubDate>
     <item>
       <title>Opinion Poll by Opinion Poll, 25–28 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-11-28-OpinionPoll.html#seats</link>
@@ -48,6 +48,36 @@
         type="image/png"/>
       <pubDate>Fri, 29 Nov 2019 21:42:57 +0100</pubDate>
       <dc:date>2019-11-29T21:42:57.09188+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-11-20-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 9–10 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-11-20-MetronAnalysis-seats.png"
+        length="189637"
+        type="image/png"/>
+      <pubDate>Wed, 11 Dec 2019 06:57:47 +0100</pubDate>
+      <dc:date>2019-12-11T06:57:47.357972+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-11-20-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-11-20-MetronAnalysis-coalitions-seats.png"
+        length="132803"
+        type="image/png"/>
+      <pubDate>Wed, 11 Dec 2019 06:57:47 +0100</pubDate>
+      <dc:date>2019-12-11T06:57:47.357972+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Το Βήμα, 18–20 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-11-20-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 23.3–28.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 42.6–48.2%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.1–9.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.6–7.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 4.0–6.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 3.5–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2019-11-20-MetronAnalysis.png"
+        length="211033"
+        type="image/png"/>
+      <pubDate>Wed, 11 Dec 2019 06:57:47 +0100</pubDate>
+      <dc:date>2019-12-11T06:57:47.357972+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Proto Thema, 29–31 October 2019 – Voting Intentions</title>
@@ -1049,6 +1079,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-12-10T20:13:50.665624+01:00</dc:date>
+    <dc:date>2019-12-11T06:57:47.357972+01:00</dc:date>
   </channel>
 </rss>
