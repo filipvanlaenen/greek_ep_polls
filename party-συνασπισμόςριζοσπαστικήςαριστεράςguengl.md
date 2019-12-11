@@ -10,10 +10,10 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.4% | 25.6–29.3% | 25.1–29.8% | 24.6–30.2% | 23.8–31.1% |
+| N/A | [Poll Average](average.html) | 27.1% | 25.1–29.1% | 24.5–29.6% | 24.0–30.1% | 23.2–31.0% |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 27.8% | 26.1–29.6% | 25.6–30.1% | 25.2–30.6% | 24.4–31.5% |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 27.6% | 26.0–29.3% | 25.5–29.8% | 25.1–30.2% | 24.4–31.0% |
-| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 25.7% | N/A | N/A | N/A | N/A |
+| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 25.7% | 24.1–27.4% | 23.7–27.8% | 23.3–28.2% | 22.6–29.1% |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 27.5% | 25.8–29.4% | 25.3–29.9% | 24.8–30.4% | 24.0–31.3% |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 28.5% | 26.8–30.3% | 26.3–30.8% | 25.9–31.2% | 25.1–32.1% |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.5% | 27.7–31.3% | 27.3–31.8% | 26.8–32.2% | 26.0–33.1% |
@@ -55,16 +55,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.3% | 100% |  |
-| 23.5–24.5% | 2% | 99.7% |  |
-| 24.5–25.5% | 7% | 98% |  |
-| 25.5–26.5% | 18% | 91% |  |
-| 26.5–27.5% | 27% | 73% | Last Result, Median |
-| 27.5–28.5% | 25% | 46% |  |
-| 28.5–29.5% | 15% | 22% |  |
-| 29.5–30.5% | 5% | 7% |  |
-| 30.5–31.5% | 1.3% | 2% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.9% | 99.9% |  |
+| 23.5–24.5% | 4% | 99.0% |  |
+| 24.5–25.5% | 11% | 95% |  |
+| 25.5–26.5% | 20% | 84% |  |
+| 26.5–27.5% | 25% | 64% | Last Result, Median |
+| 27.5–28.5% | 21% | 39% |  |
+| 28.5–29.5% | 12% | 18% |  |
+| 29.5–30.5% | 4% | 6% |  |
+| 30.5–31.5% | 1.0% | 1.2% |  |
 | 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
@@ -77,10 +78,10 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 5–7 | 5–7 | 5–7 |
-| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
+| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -124,9 +125,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 9% | 100% |  |
-| 6 | 84% | 91% | Last Result, Median |
-| 7 | 7% | 7% |  |
+| 5 | 17% | 100% |  |
+| 6 | 77% | 83% | Last Result, Median |
+| 7 | 6% | 6% |  |
 | 8 | 0% | 0% |  |
 
 
