@@ -248,7 +248,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 17% | 100% |  |
 | 6 | 77% | 83% | Last Result, Median |
-| 7 | 6% | 6% |  |
+| 7 | 5% | 5% |  |
 | 8 | 0% | 0% |  |
 
 ### Νέα Δημοκρατία (EPP)
@@ -264,7 +264,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 22% | 100% |  |
-| 10 | 54% | 77% | Median |
+| 10 | 55% | 78% | Median |
 | 11 | 23% | 23% | Majority |
 | 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
@@ -303,8 +303,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 50% | 100% | Median |
-| 2 | 50% | 50% |  |
+| 1 | 51% | 100% | Median |
+| 2 | 49% | 49% |  |
 | 3 | 0% | 0% |  |
 
 ### Ελληνική Λύση (ECR)
@@ -328,8 +328,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 92% | 93% | Median |
+| 0 | 8% | 100% | Last Result |
+| 1 | 92% | 92% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
@@ -372,7 +372,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 22% | 100% |  |
-| 10 | 54% | 77% | Median |
+| 10 | 55% | 78% | Median |
 | 11 | 23% | 23% | Majority |
 | 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
@@ -385,7 +385,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
 | 6 | 23% | 99.9% | Last Result |
-| 7 | 73% | 77% | Median |
+| 7 | 74% | 77% | Median |
 | 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
@@ -395,8 +395,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 50% | 100% | Median |
-| 2 | 50% | 50% | Last Result |
+| 1 | 51% | 100% | Median |
+| 2 | 49% | 49% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Χρυσή Αυγή (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI)
@@ -435,5 +435,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
-+ **Error estimate:** 1.16%
++ **Total number of simulations done in the polls included in this average:** 4,718,592
++ **Error estimate:** 1.92%
