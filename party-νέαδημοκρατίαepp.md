@@ -11,6 +11,7 @@ Last result: **22.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 45.8% | 42.9–49.4% | 42.2–50.2% | 41.7–50.9% | 40.7–52.0% |
+| [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 41.5% | N/A | N/A | N/A | N/A |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 49.0% | 47.0–50.9% | 46.4–51.5% | 46.0–52.0% | 45.0–52.9% |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 43.7% | 41.9–45.5% | 41.4–46.0% | 40.9–46.5% | 40.0–47.4% |
 | [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 45.4% | 43.5–47.2% | 43.0–47.8% | 42.6–48.2% | 41.7–49.1% |
@@ -98,6 +99,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
