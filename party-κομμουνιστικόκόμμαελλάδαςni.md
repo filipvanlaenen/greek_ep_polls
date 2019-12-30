@@ -10,7 +10,7 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.4–8.2% |
+| N/A | [Poll Average](average.html) | 6.1% | 5.2–7.0% | 5.0–7.3% | 4.8–7.6% | 4.4–8.1% |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.0% | 5.2–7.0% | 5.0–7.2% | 4.8–7.5% | 4.4–8.0% |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 6.2% | 5.5–7.0% | 5.4–7.2% | 5.2–7.3% | 4.9–7.7% |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 6.2% | 5.4–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
@@ -58,11 +58,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.3% | 100% |  |
-| 4.5–5.5% | 21% | 98.7% |  |
-| 5.5–6.5% | 50% | 77% | Last Result, Median |
-| 6.5–7.5% | 24% | 27% |  |
-| 7.5–8.5% | 3% | 3% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 20% | 99.0% |  |
+| 5.5–6.5% | 53% | 79% | Last Result, Median |
+| 6.5–7.5% | 23% | 26% |  |
+| 7.5–8.5% | 2% | 3% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -124,8 +124,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 88% | 100% | Median |
-| 2 | 12% | 12% | Last Result |
+| 1 | 89% | 100% | Median |
+| 2 | 11% | 11% | Last Result |
 | 3 | 0% | 0% |  |
 
 
