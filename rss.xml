@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 29 Dec 2019 15:37:43 +0100</pubDate>
+    <pubDate>Fri, 10 Jan 2020 20:24:12 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 7–8 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-01-08-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–7 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-01-08-Interview-seats.png"
+        length="176546"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jan 2020 20:24:12 +0100</pubDate>
+      <dc:date>2020-01-10T20:24:12.548151+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 7–8 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-01-08-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-01-08-Interview-coalitions-seats.png"
+        length="116486"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jan 2020 20:24:12 +0100</pubDate>
+      <dc:date>2020-01-10T20:24:12.548151+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 7–8 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-01-08-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 25.4–30.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 42.7–48.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 4.1–7.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.1–7.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 3.5–6.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-01-08-Interview.png"
+        length="195325"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jan 2020 20:24:12 +0100</pubDate>
+      <dc:date>2020-01-10T20:24:12.548151+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2019-12-18-PulseRC.html#seats</link>
@@ -1179,6 +1209,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2019-12-29T15:37:43.970334+01:00</dc:date>
+    <dc:date>2020-01-10T20:24:12.548151+01:00</dc:date>
   </channel>
 </rss>
