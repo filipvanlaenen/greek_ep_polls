@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.5% | 25.4–29.4% | 24.8–29.9% | 24.2–30.4% | 23.3–31.3% |
+| N/A | [Poll Average](average.html) | 27.5% | 25.2–29.5% | 24.6–30.1% | 24.1–30.5% | 23.2–31.5% |
+| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 26.4% | N/A | N/A | N/A | N/A |
 | [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 28.1% | 26.3–29.9% | 25.8–30.5% | 25.4–30.9% | 24.5–31.8% |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 28.0% | 26.4–29.8% | 26.0–30.2% | 25.6–30.7% | 24.8–31.5% |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 27.6% | 26.3–28.9% | 26.0–29.3% | 25.7–29.6% | 25.1–30.2% |
@@ -60,17 +61,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 0.7% | 99.9% |  |
-| 23.5–24.5% | 3% | 99.2% |  |
-| 24.5–25.5% | 8% | 96% |  |
-| 25.5–26.5% | 15% | 89% |  |
-| 26.5–27.5% | 24% | 74% | Last Result |
-| 27.5–28.5% | 25% | 49% | Median |
-| 28.5–29.5% | 16% | 24% |  |
-| 29.5–30.5% | 6% | 8% |  |
+| 22.5–23.5% | 0.9% | 99.9% |  |
+| 23.5–24.5% | 4% | 99.0% |  |
+| 24.5–25.5% | 9% | 95% |  |
+| 25.5–26.5% | 16% | 86% |  |
+| 26.5–27.5% | 22% | 71% | Last Result |
+| 27.5–28.5% | 23% | 49% | Median |
+| 28.5–29.5% | 16% | 26% |  |
+| 29.5–30.5% | 7% | 10% |  |
 | 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.3% | 0.3% |  |
+| 31.5–32.5% | 0.4% | 0.4% |  |
 | 32.5–33.5% | 0% | 0% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -81,7 +83,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 6 | 6 | 5–6 | 5–6 | 5–7 |
@@ -131,9 +134,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 13% | 100% |  |
-| 6 | 82% | 87% | Last Result, Median |
-| 7 | 4% | 4% |  |
+| 5 | 15% | 100% |  |
+| 6 | 79% | 85% | Last Result, Median |
+| 7 | 5% | 5% |  |
 | 8 | 0% | 0% |  |
 
 
