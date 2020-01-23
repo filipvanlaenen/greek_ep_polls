@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 10 Jan 2020 20:24:12 +0100</pubDate>
+    <pubDate>Thu, 23 Jan 2020 06:43:15 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by MRB for Star, 13–17 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-01-17-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 9–10 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-01-17-MRB-seats.png"
+        length="174530"
+        type="image/png"/>
+      <pubDate>Thu, 23 Jan 2020 06:43:15 +0100</pubDate>
+      <dc:date>2020-01-23T06:43:15.843614+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 13–17 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-01-17-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-01-17-MRB-coalitions-seats.png"
+        length="119244"
+        type="image/png"/>
+      <pubDate>Thu, 23 Jan 2020 06:43:15 +0100</pubDate>
+      <dc:date>2020-01-23T06:43:15.843614+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Star, 13–17 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-01-17-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 24.2–28.7%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 41.0–46.1%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 1.1–2.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 6.3–9.0%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.1–7.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 4.2–6.6%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 3.2–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-01-17-MRB.png"
+        length="206053"
+        type="image/png"/>
+      <pubDate>Thu, 23 Jan 2020 06:43:15 +0100</pubDate>
+      <dc:date>2020-01-23T06:43:15.843614+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 7–8 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-01-08-Interview.html#seats</link>
@@ -1209,6 +1239,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2020-01-10T20:24:12.548151+01:00</dc:date>
+    <dc:date>2020-01-23T06:43:15.843614+01:00</dc:date>
   </channel>
 </rss>
