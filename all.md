@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ | ΕΛ | ΜέΡΑ25 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 24–29% <br> 5–6 | 41–46% <br> 9–10 | 1–2% <br> 0 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | 3–5% <br> 1 |
 | [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 25–31% <br> 5–7 | 43–49% <br> 9–11 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 3–5% <br> 0–1 |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26–31% <br> 5–7 | 40–45% <br> 9–10 | 2–4% <br> 0–1 | N/A <br> N/A | 5–7% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 3–5% <br> 0–1 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 26–30% <br> 5–6 | 39–44% <br> 8–9 | 2–4% <br> 0–1 | N/A <br> N/A | 5–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 8–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 3–5% <br> 0–1 |
