@@ -10,7 +10,8 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 5.0–7.0% | 4.8–7.3% | 4.5–7.5% | 4.1–8.1% |
+| N/A | [Poll Average](average.html) | 5.9% | 4.9–6.9% | 4.7–7.2% | 4.5–7.5% | 4.1–8.0% |
+| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.5% | 4.8–6.5% | 4.6–6.8% | 4.4–7.0% | 4.0–7.5% |
 | [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 6.2% | 5.4–7.1% | 5.2–7.3% | 5.1–7.6% | 4.7–8.0% |
 | [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–7.0% | 3.8–7.5% |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.0% | 5.2–7.0% | 5.0–7.2% | 4.8–7.5% | 4.4–8.0% |
@@ -61,9 +62,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 25% | 97% |  |
-| 5.5–6.5% | 49% | 72% | Last Result, Median |
-| 6.5–7.5% | 20% | 23% |  |
+| 4.5–5.5% | 29% | 97% |  |
+| 5.5–6.5% | 47% | 67% | Last Result, Median |
+| 6.5–7.5% | 18% | 20% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -78,6 +79,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1–2 |
 | [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–8 January 2020](2020-01-08-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1–2 |
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -128,8 +130,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 93% | 100% | Median |
-| 2 | 7% | 7% | Last Result |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% | Last Result |
 | 3 | 0% | 0% |  |
 
 
