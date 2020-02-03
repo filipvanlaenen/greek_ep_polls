@@ -10,7 +10,8 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44.9% | 42.3–49.1% | 41.6–50.0% | 41.1–50.7% | 40.1–52.0% |
+| N/A | [Poll Average](average.html) | 44.9% | 42.3–48.3% | 41.6–49.1% | 41.1–49.8% | 40.1–51.0% |
+| [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 48.0% | 46.1–49.9% | 45.5–50.5% | 45.0–51.0% | 44.1–51.9% |
 | [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 43.0% | 41.2–44.8% | 40.6–45.3% | 40.2–45.8% | 39.3–46.7% |
 | [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 45.2% | 43.4–47.1% | 42.9–47.6% | 42.4–48.1% | 41.5–48.9% |
 | [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 43.5% | 41.9–45.2% | 41.4–45.7% | 41.0–46.1% | 40.2–46.9% |
@@ -83,16 +84,15 @@ The following table shows the probability mass function per percentage block of 
 | 41.5–42.5% | 9% | 95% |  |
 | 42.5–43.5% | 14% | 87% |  |
 | 43.5–44.5% | 17% | 73% |  |
-| 44.5–45.5% | 15% | 56% | Median |
-| 45.5–46.5% | 12% | 41% |  |
-| 46.5–47.5% | 9% | 29% |  |
-| 47.5–48.5% | 7% | 20% |  |
-| 48.5–49.5% | 6% | 13% |  |
-| 49.5–50.5% | 4% | 7% |  |
-| 50.5–51.5% | 2% | 3% |  |
-| 51.5–52.5% | 0.7% | 0.9% |  |
-| 52.5–53.5% | 0.2% | 0.2% |  |
-| 53.5–54.5% | 0% | 0% |  |
+| 44.5–45.5% | 16% | 56% | Median |
+| 45.5–46.5% | 13% | 40% |  |
+| 46.5–47.5% | 11% | 27% |  |
+| 47.5–48.5% | 8% | 16% |  |
+| 48.5–49.5% | 5% | 8% |  |
+| 49.5–50.5% | 2% | 3% |  |
+| 50.5–51.5% | 0.7% | 0.9% |  |
+| 51.5–52.5% | 0.2% | 0.2% |  |
+| 52.5–53.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -103,7 +103,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| N/A | [Poll Average](average.html) | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
+| [22–27 January 2020](2020-01-27-OpinionPoll.html) | Opinion Poll | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [21–22 January 2020](2020-01-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -161,9 +162,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
 | 9 | 32% | 99.9% |  |
-| 10 | 53% | 68% | Median |
-| 11 | 15% | 15% | Majority |
-| 12 | 0.2% | 0.2% |  |
-| 13 | 0% | 0% |  |
+| 10 | 59% | 68% | Median |
+| 11 | 8% | 8% | Majority |
+| 12 | 0% | 0% |  |
 
 
