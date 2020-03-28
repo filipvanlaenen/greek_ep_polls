@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 27 Mar 2020 07:25:25 +0100</pubDate>
+    <pubDate>Sat, 28 Mar 2020 08:46:59 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Proto Thema, 23–26 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-03-26-OpinionPoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 10–12 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-03-26-OpinionPoll-seats.png"
+        length="178052"
+        type="image/png"/>
+      <pubDate>Sat, 28 Mar 2020 08:46:59 +0100</pubDate>
+      <dc:date>2020-03-28T08:46:59.984766+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Proto Thema, 23–26 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-03-26-OpinionPoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-03-26-OpinionPoll-coalitions-seats.png"
+        length="135927"
+        type="image/png"/>
+      <pubDate>Sat, 28 Mar 2020 08:46:59 +0100</pubDate>
+      <dc:date>2020-03-28T08:46:59.984766+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Proto Thema, 23–26 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-03-26-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 23.0–28.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 47.5–53.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 5.0–7.9%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.6–8.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 4.4–7.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.7–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-03-26-OpinionPoll.png"
+        length="190960"
+        type="image/png"/>
+      <pubDate>Sat, 28 Mar 2020 08:46:59 +0100</pubDate>
+      <dc:date>2020-03-28T08:46:59.984766+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Poll for Proto Thema, 6–7 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-03-07-OpinionPoll.html#seats</link>
@@ -1419,6 +1449,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2020-03-27T07:25:25.138061+01:00</dc:date>
+    <dc:date>2020-03-28T08:46:59.984766+01:00</dc:date>
   </channel>
 </rss>
