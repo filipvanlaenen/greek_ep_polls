@@ -10,7 +10,8 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 44.5% | 42.2–48.7% | 41.7–49.6% | 41.2–50.3% | 40.2–51.5% |
+| N/A | [Poll Average](average.html) | 44.5% | 42.2–50.5% | 41.7–51.5% | 41.2–52.2% | 40.2–53.5% |
+| [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 50.5% | 48.6–52.4% | 48.0–53.0% | 47.5–53.5% | 46.6–54.4% |
 | [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 48.7% | 46.8–50.5% | 46.3–51.0% | 45.8–51.5% | 45.0–52.4% |
 | [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 43.9% | 41.9–45.9% | 41.3–46.5% | 40.8–47.0% | 39.9–48.0% |
 | [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 43.5% | 41.7–45.3% | 41.2–45.8% | 40.8–46.2% | 39.9–47.1% |
@@ -88,15 +89,17 @@ The following table shows the probability mass function per percentage block of 
 | 42.5–43.5% | 17% | 86% |  |
 | 43.5–44.5% | 20% | 69% |  |
 | 44.5–45.5% | 16% | 49% | Median |
-| 45.5–46.5% | 10% | 33% |  |
-| 46.5–47.5% | 7% | 24% |  |
-| 47.5–48.5% | 6% | 17% |  |
-| 48.5–49.5% | 5% | 11% |  |
-| 49.5–50.5% | 4% | 5% |  |
-| 50.5–51.5% | 1.4% | 2% |  |
-| 51.5–52.5% | 0.4% | 0.5% |  |
-| 52.5–53.5% | 0.1% | 0.1% |  |
-| 53.5–54.5% | 0% | 0% |  |
+| 45.5–46.5% | 9% | 34% |  |
+| 46.5–47.5% | 4% | 25% |  |
+| 47.5–48.5% | 3% | 21% |  |
+| 48.5–49.5% | 4% | 18% |  |
+| 49.5–50.5% | 5% | 15% |  |
+| 50.5–51.5% | 5% | 10% |  |
+| 51.5–52.5% | 3% | 5% |  |
+| 52.5–53.5% | 1.3% | 2% |  |
+| 53.5–54.5% | 0.4% | 0.4% |  |
+| 54.5–55.5% | 0.1% | 0.1% |  |
+| 55.5–56.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -107,7 +110,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
+| [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [6–7 March 2020](2020-03-07-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [3–4 March 2020](2020-03-04-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -169,8 +173,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
 | 9 | 34% | 99.9% |  |
-| 10 | 55% | 66% | Median |
-| 11 | 11% | 11% | Majority |
-| 12 | 0% | 0% |  |
+| 10 | 47% | 66% | Median |
+| 11 | 17% | 19% | Majority |
+| 12 | 2% | 2% |  |
+| 13 | 0% | 0% |  |
 
 
