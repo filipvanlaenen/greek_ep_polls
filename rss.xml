@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 28 Mar 2020 08:46:59 +0100</pubDate>
+    <pubDate>Sun, 05 Apr 2020 20:40:54 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 30 March–1 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-04-01-PulseRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 5–6 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 10–12 seats&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-04-01-PulseRC-seats.png"
+        length="175022"
+        type="image/png"/>
+      <pubDate>Sun, 05 Apr 2020 20:40:54 +0200</pubDate>
+      <dc:date>2020-04-05T20:40:54.036097+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 30 March–1 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-04-01-PulseRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-04-01-PulseRC-coalitions-seats.png"
+        length="124111"
+        type="image/png"/>
+      <pubDate>Sun, 05 Apr 2020 20:40:54 +0200</pubDate>
+      <dc:date>2020-04-05T20:40:54.036097+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 30 March–1 April 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-04-01-PulseRC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 22.2–26.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 47.2–52.8%&lt;/li&gt;&lt;li&gt;Χρυσή Αυγή (NI): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 4.8–7.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.4–6.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 3.9–6.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.2–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-04-01-PulseRC.png"
+        length="201818"
+        type="image/png"/>
+      <pubDate>Sun, 05 Apr 2020 20:40:54 +0200</pubDate>
+      <dc:date>2020-04-05T20:40:54.036097+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Poll for Proto Thema, 23–26 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-03-26-OpinionPoll.html#seats</link>
@@ -1449,6 +1479,6 @@
       <pubDate>Sun, 23 Jun 2019 14:23:44 +0200</pubDate>
       <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
     </item>
-    <dc:date>2020-03-28T08:46:59.984766+01:00</dc:date>
+    <dc:date>2020-04-05T20:40:54.036097+02:00</dc:date>
   </channel>
 </rss>
