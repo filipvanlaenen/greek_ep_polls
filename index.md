@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ | ΕΛ | ΜέΡΑ25 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–30% <br> 5–7 | 42–52% <br> 9–12 | 1–5% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 4–7% <br> 1–2 | 2–6% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 22–30% <br> 5–7 | 42–55% <br> 9–12 | 1–5% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 3–7% <br> 1–2 | 2–6% <br> 0–1 |
+| [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 22–27% <br> 5–6 | 50–56% <br> 11–12 | 1–3% <br> 0 | N/A <br> N/A | 5–7% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 2–3% <br> 0–1 |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 22–27% <br> 5–6 | 47–53% <br> 10–12 | 1–2% <br> 0 | N/A <br> N/A | 4–7% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 2–4% <br> 0–1 |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 23–28% <br> 5–6 | 48–53% <br> 10–12 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1–2 | 2–4% <br> 0–1 |
 | [2–7 March 2020](2020-03-07-Alco.html) | Alco <br> Open TV | 25–31% <br> 5–7 | 41–47% <br> 9–10 | 3–5% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 5–8% <br> 1–2 | 2–4% <br> 0–1 |
 | [20–22 January 2020](2020-01-22-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 24–29% <br> 5–6 | 42–48% <br> 9–10 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 1 | 4–6% <br> 1 |
-| [13–17 January 2020](2020-01-17-MRB.html) | MRB <br> Star | 24–29% <br> 5–6 | 41–46% <br> 9–10 | 1–2% <br> 0 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | 3–5% <br> 1 |
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
