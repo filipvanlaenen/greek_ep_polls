@@ -10,7 +10,8 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 5.1–7.5% | 4.9–7.8% | 4.7–8.1% | 4.3–8.7% |
+| N/A | [Poll Average](average.html) | 6.2% | 5.1–7.6% | 4.8–7.9% | 4.6–8.2% | 4.2–8.8% |
+| [15–17 April 2020](2020-04-17-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 5.1% | N/A | N/A | N/A | N/A |
 | [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.5% | 4.8–6.4% | 4.6–6.7% | 4.4–6.9% | 4.0–7.4% |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 6.9% | 6.0–8.0% | 5.8–8.3% | 5.6–8.6% | 5.2–9.2% |
@@ -71,11 +72,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 2% | 100% |  |
 | 4.5–5.5% | 21% | 98% |  |
-| 5.5–6.5% | 42% | 78% | Last Result, Median |
-| 6.5–7.5% | 27% | 36% |  |
-| 7.5–8.5% | 8% | 9% |  |
-| 8.5–9.5% | 0.8% | 0.9% |  |
+| 5.5–6.5% | 39% | 77% | Last Result, Median |
+| 6.5–7.5% | 28% | 38% |  |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 1.0% | 1.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -87,6 +89,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–17 April 2020](2020-04-17-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ |  |  |  |  |  |
 | [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1–2 | 1–2 |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -146,8 +149,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 75% | 100% | Median |
-| 2 | 25% | 25% | Last Result |
+| 1 | 69% | 100% | Median |
+| 2 | 31% | 31% | Last Result |
 | 3 | 0% | 0% |  |
 
 

@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.8% | 23.5–28.5% | 23.0–29.2% | 22.5–29.9% | 21.7–31.0% |
+| N/A | [Poll Average](average.html) | 25.4% | 23.3–28.5% | 22.8–29.3% | 22.4–30.0% | 21.6–31.1% |
+| [15–17 April 2020](2020-04-17-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 27.3% | N/A | N/A | N/A | N/A |
 | [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 24.5% | 22.8–26.3% | 22.4–26.8% | 22.0–27.3% | 21.2–28.1% |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 24.5% | 23.0–26.1% | 22.5–26.6% | 22.2–26.9% | 21.5–27.7% |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 25.5% | 23.8–27.2% | 23.4–27.7% | 23.0–28.2% | 22.2–29.0% |
@@ -69,17 +70,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.3% | 100% |  |
-| 21.5–22.5% | 2% | 99.6% |  |
-| 22.5–23.5% | 8% | 97% |  |
-| 23.5–24.5% | 16% | 90% |  |
-| 24.5–25.5% | 20% | 74% |  |
-| 25.5–26.5% | 19% | 55% | Median |
-| 26.5–27.5% | 15% | 36% | Last Result |
-| 27.5–28.5% | 11% | 20% |  |
+| 20.5–21.5% | 0.4% | 100% |  |
+| 21.5–22.5% | 3% | 99.5% |  |
+| 22.5–23.5% | 9% | 97% |  |
+| 23.5–24.5% | 19% | 87% |  |
+| 24.5–25.5% | 21% | 69% | Median |
+| 25.5–26.5% | 17% | 47% |  |
+| 26.5–27.5% | 12% | 30% | Last Result |
+| 27.5–28.5% | 9% | 19% |  |
 | 28.5–29.5% | 6% | 10% |  |
 | 29.5–30.5% | 3% | 4% |  |
-| 30.5–31.5% | 0.8% | 1.0% |  |
+| 30.5–31.5% | 1.0% | 1.2% |  |
 | 31.5–32.5% | 0.2% | 0.2% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
@@ -93,6 +94,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [15–17 April 2020](2020-04-17-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ |  |  |  |  |  |
 | [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [23–26 March 2020](2020-03-26-OpinionPoll.html) | Opinion Poll <br> Proto Thema | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -153,9 +155,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
-| 5 | 38% | 99.9% |  |
-| 6 | 59% | 62% | Last Result, Median |
-| 7 | 3% | 3% |  |
+| 5 | 42% | 99.9% |  |
+| 6 | 54% | 58% | Last Result, Median |
+| 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
 
 
