@@ -26,12 +26,13 @@ Last result: **9.4%** (General Election of 26 May 2019)
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
+| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
-| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
+| [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 3.9% | 3.3–4.9% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
+| [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 1.8% | 1.4–2.4% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
-| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.4% | 1.4–3.8% |
@@ -105,12 +106,13 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
-| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
+| [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 1 | 1 | 1 | 0–1 | 0–1 |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
+| [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0–1 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0 | 0 | 0 |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 0 | 0 | 0 | 0 | 0–1 |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

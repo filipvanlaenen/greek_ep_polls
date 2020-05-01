@@ -26,12 +26,13 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 28.0% | 26.4–29.8% | 26.0–30.2% | 25.6–30.7% | 24.8–31.5% |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 27.6% | 26.3–28.9% | 26.0–29.3% | 25.7–29.6% | 25.1–30.2% |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 27.8% | 26.1–29.6% | 25.6–30.1% | 25.2–30.6% | 24.4–31.5% |
+| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 25.7% | 24.1–27.4% | 23.7–27.8% | 23.3–28.2% | 22.6–29.1% |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 27.6% | 26.0–29.3% | 25.5–29.8% | 25.1–30.2% | 24.4–31.0% |
-| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 25.7% | 24.1–27.4% | 23.7–27.8% | 23.3–28.2% | 22.6–29.1% |
+| [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 27.4% | 25.7–29.3% | 25.2–29.8% | 24.8–30.3% | 24.0–31.2% |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 27.5% | 25.8–29.4% | 25.3–29.9% | 24.8–30.4% | 24.0–31.3% |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 28.5% | 26.8–30.3% | 26.3–30.8% | 25.9–31.2% | 25.1–32.1% |
+| [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 26.8% | 25.2–28.5% | 24.7–29.0% | 24.4–29.4% | 23.6–30.2% |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.5% | 27.7–31.3% | 27.3–31.8% | 26.8–32.2% | 26.0–33.1% |
-| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 26.8% | 25.2–28.5% | 24.7–29.0% | 24.4–29.4% | 23.6–30.2% |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 26.7% | 24.9–28.5% | 24.5–29.0% | 24.0–29.5% | 23.2–30.4% |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.0% | 24.6–32.0% |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 26.6% | 24.9–28.3% | 24.5–28.9% | 24.1–29.3% | 23.3–30.1% |
@@ -109,12 +110,13 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 6 | 6 | 6–7 | 5–7 | 5–7 |
+| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 5–6 | 5–7 | 5–7 |
-| [18–20 November 2019](2019-11-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Proto Thema | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [22–23 October 2019](2019-10-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [16–18 September 2019](2019-09-18-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [17–18 September 2019](2019-09-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [16–18 September 2019](2019-09-18-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [14–16 September 2019](2019-09-16-MRB.html) | MRB <br> Star | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [2–5 September 2019](2019-09-05-Marc.html) | Marc <br> Proto Thema | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [2–4 September 2019](2019-09-04-OpinionPoll.html) | Opinion Poll | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
