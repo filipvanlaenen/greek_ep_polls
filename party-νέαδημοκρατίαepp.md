@@ -120,7 +120,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
 | [22–28 April 2020](2020-04-28-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
-| [14–22 April 2020](2020-04-22-GPO.html) | GPO <br> Παραπολιτικά | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
+| [14–22 April 2020](2020-04-22-GPO.html) | GPO <br> Παραπολιτικά | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
 | [15–17 April 2020](2020-04-17-ΚάπαResearch.html) | Κάπα Research <br> ΕΘΝΟΣ | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [11–13 April 2020](2020-04-13-Marc.html) | Marc <br> Alpha TV | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
 | [30 March–1 April 2020](2020-04-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11 | 11 | 10–12 | 10–12 | 10–12 |
@@ -188,7 +188,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 17% | 100% |  |
-| 11 | 67% | 83% | Median, Majority |
+| 11 | 68% | 83% | Median, Majority |
 | 12 | 15% | 15% |  |
 | 13 | 0.2% | 0.2% |  |
 | 14 | 0% | 0% |  |
