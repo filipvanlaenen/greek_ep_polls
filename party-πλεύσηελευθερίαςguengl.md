@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.6% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% |
+| [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 0.0% | N/A | N/A | N/A | N/A |
+| [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
 | [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
@@ -94,6 +97,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV |  |  |  |  |  |
+| [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0 |
 | [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |

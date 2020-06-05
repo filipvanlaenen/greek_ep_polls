@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.2% | 2.1–4.5% | 1.9–4.7% | 1.6–5.2% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.2% | 2.2–4.4% | 2.0–4.7% | 1.7–5.2% |
+| [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
+| [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
+| [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 3.7% | 3.1–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 3.8% | 3.1–4.7% | 3.0–4.9% | 2.8–5.1% | 2.5–5.6% |
@@ -79,9 +82,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 15% | 99.7% |  |
-| 2.5–3.5% | 51% | 84% | Median |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 13% | 99.9% |  |
+| 2.5–3.5% | 53% | 87% | Median |
 | 3.5–4.5% | 30% | 34% |  |
 | 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
@@ -97,6 +100,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–10 May 2020](2020-05-10-Alco.html) | Alco <br> Open TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–9 May 2020](2020-05-09-OpinionPoll.html) | Opinion Poll | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -166,8 +172,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% | Last Result |
-| 1 | 59% | 59% | Median |
+| 0 | 40% | 100% | Last Result |
+| 1 | 60% | 60% | Median |
 | 2 | 0% | 0% |  |
 
 
