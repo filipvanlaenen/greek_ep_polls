@@ -11,7 +11,10 @@ Last result: **22.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 49.1% | 46.3–51.5% | 45.4–52.1% | 44.7–52.6% | 43.3–53.7% |
+| [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV | 47.1% | 45.2–49.0% | 44.6–49.6% | 44.2–50.1% | 43.2–51.0% |
+| [2–8 June 2020](2020-06-08-Alco.html) | Alco <br> Open TV | 46.1% | 44.1–48.1% | 43.5–48.7% | 43.0–49.2% | 42.1–50.2% |
 | [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 48.0% | 46.2–49.9% | 45.6–50.4% | 45.2–50.8% | 44.3–51.7% |
+| [1–3 June 2020](2020-06-03-OpinionPoll.html) | Opinion Poll <br> paraskhnio.gr | 50.9% | 49.0–52.9% | 48.4–53.5% | 47.9–54.0% | 47.0–54.9% |
 | [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 49.6% | 47.8–51.5% | 47.2–52.0% | 46.8–52.5% | 45.9–53.3% |
 | [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά | 50.2% | 48.2–52.2% | 47.6–52.8% | 47.1–53.3% | 46.1–54.3% |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 49.7% | 47.8–51.5% | 47.3–52.0% | 46.9–52.5% | 46.0–53.3% |
@@ -126,7 +129,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–11 | 10–11 | 10–12 | 9–12 |
+| [4–9 June 2020](2020-06-09-Interview.html) | Interview <br> Βεργίνα TV | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
+| [2–8 June 2020](2020-06-08-Alco.html) | Alco <br> Open TV | 10 | 10 | 9–11 | 9–11 | 9–11 |
 | [1–3 June 2020](2020-06-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
+| [1–3 June 2020](2020-06-03-OpinionPoll.html) | Opinion Poll <br> paraskhnio.gr | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
 | [22–27 May 2020](2020-05-27-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
 | [22–27 May 2020](2020-05-27-GPO.html) | GPO <br> Παραπολιτικά | 11 | 10–11 | 10–11 | 10–12 | 10–12 |
 | [8–13 May 2020](2020-05-13-MRB.html) | MRB <br> Star | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
