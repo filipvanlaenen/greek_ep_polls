@@ -148,7 +148,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [16–18 December 2019](2019-12-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [27 November–5 December 2019](2019-12-05-MRB.html) | MRB <br> Star | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [25–28 November 2019](2019-11-28-OpinionPoll.html) | Opinion Poll | 6 | 6 | 6–7 | 5–7 | 5–7 |
-| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [18–20 November 2019](2019-11-20-ΜetronAnalysis.html) | Μetron Analysis <br> Το Βήμα | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–20 November 2019](2019-11-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [11–14 November 2019](2019-11-14-PalmosAnalysis.html) | Palmos Analysis <br> GUE–NGL | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [29–31 October 2019](2019-10-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
