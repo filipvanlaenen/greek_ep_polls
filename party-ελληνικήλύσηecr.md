@@ -10,8 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.4–5.4% | 3.2–5.7% | 3.0–6.0% | 2.7–6.5% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.3–5.3% | 3.1–5.6% | 3.0–5.9% | 2.7–6.5% |
+| [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 5.2% | 4.5–6.2% | 4.2–6.4% | 4.1–6.7% | 3.7–7.2% |
+| [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.1–5.5% | 2.8–6.0% |
+| [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.0–5.2% | 2.8–5.6% |
+| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
+| [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.5% | 2.9–6.0% |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
+| [1–2 July 2020](2020-07-02-Marc.html) | Marc | 4.4% | 3.9–5.0% | 3.7–5.2% | 3.6–5.4% | 3.3–5.7% |
 | [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 3.9% | 3.3–4.6% | 3.1–4.9% | 3.0–5.0% | 2.7–5.4% |
 | [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 3.5% | 3.0–4.1% | 2.9–4.2% | 2.8–4.4% | 2.6–4.6% |
 | [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
@@ -91,12 +97,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 16% | 99.9% |  |
-| 3.5–4.5% | 47% | 84% | Median |
-| 4.5–5.5% | 30% | 37% |  |
-| 5.5–6.5% | 7% | 7% |  |
-| 6.5–7.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 18% | 99.8% |  |
+| 3.5–4.5% | 49% | 81% | Median |
+| 4.5–5.5% | 26% | 32% |  |
+| 5.5–6.5% | 6% | 6% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -109,7 +115,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1–2 |
+| [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 1 | 1 | 1 | 1 | 0–1 |
+| [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–1 |
+| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1 | 1 | 0–1 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [1–2 July 2020](2020-07-02-Marc.html) | Marc | 1 | 1 | 1 | 1 | 1 |
 | [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 1 | 1 | 1 | 1 | 1 |
@@ -189,8 +201,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 97% | 97% | Median |
+| 0 | 4% | 100% | Last Result |
+| 1 | 96% | 96% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
