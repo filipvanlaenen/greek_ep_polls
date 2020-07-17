@@ -119,8 +119,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -206,8 +206,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.6% | 100% |  |
-| 5 | 40% | 99.4% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 40% | 99.9% |  |
 | 6 | 58% | 60% | Last Result, Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |

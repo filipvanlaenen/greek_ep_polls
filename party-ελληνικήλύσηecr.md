@@ -115,7 +115,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
-| [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1–2 |
+| [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 1 | 1 | 1 | 1 | 0–1 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–1 |
 | [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
