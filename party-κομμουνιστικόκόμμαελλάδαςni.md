@@ -118,7 +118,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1–2 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1–2 | 1–2 |
+| [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 1 | 1 | 1 | 1 | 1–2 |
 | [1–2 July 2020](2020-07-02-Marc.html) | Marc | 1 | 1 | 1–2 | 1–2 | 1–2 |

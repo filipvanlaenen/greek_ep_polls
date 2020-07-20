@@ -114,13 +114,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 0–1 | 0–1 |
+| [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [6–8 July 2020](2020-07-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 June–4 July 2020](2020-07-04-Alco.html) | Alco <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–2 July 2020](2020-07-02-Marc.html) | Marc | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–2 July 2020](2020-07-02-Marc.html) | Marc | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 1 | 1 | 0–1 | 0–1 |
 | [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -200,8 +200,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
+| 0 | 39% | 100% | Last Result |
+| 1 | 61% | 61% | Median |
 | 2 | 0% | 0% |  |
 
 
