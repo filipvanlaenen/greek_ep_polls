@@ -11,6 +11,7 @@ Last result: **22.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 47.7% | 45.1–50.7% | 44.5–51.5% | 43.9–52.1% | 42.9–53.2% |
+| [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 44.4% | 42.4–46.4% | 41.8–47.0% | 41.3–47.5% | 40.4–48.5% |
 | [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 49.9% | 48.3–51.5% | 47.8–52.0% | 47.4–52.4% | 46.6–53.2% |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 51.1% | 49.1–53.1% | 48.5–53.7% | 48.0–54.2% | 47.0–55.2% |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 46.9% | 44.9–48.9% | 44.3–49.5% | 43.8–50.0% | 42.9–51.0% |
@@ -143,6 +144,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 10–11 | 10–11 | 9–11 | 9–12 |
+| [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 10 | 10–11 | 10–11 | 9–11 | 9–11 |
