@@ -16,8 +16,8 @@ Last result: **6.1%** (General Election of 26 May 2019)
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.8–7.3% |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
-| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.3% | 5.5–7.2% | 5.3–7.4% | 5.2–7.6% | 4.8–8.1% |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 6.3% | 5.4–7.4% | 5.2–7.7% | 4.9–8.0% | 4.5–8.5% |
+| [4–10 September 2020](2020-09-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.3% | 5.5–7.2% | 5.3–7.4% | 5.2–7.6% | 4.8–8.1% |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 5.2% | 4.5–6.2% | 4.2–6.4% | 4.1–6.7% | 3.7–7.2% |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
@@ -127,8 +127,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1 |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [4–10 September 2020](2020-09-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1–2 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
