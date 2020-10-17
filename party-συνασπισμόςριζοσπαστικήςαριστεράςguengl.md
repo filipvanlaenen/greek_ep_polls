@@ -132,7 +132,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 6 | 6 | 5–6 | 5–6 | 5–6 |
+| [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -229,8 +229,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 45% | 98% |  |
-| 6 | 53% | 53% | Last Result, Median |
+| 5 | 46% | 98% |  |
+| 6 | 52% | 52% | Last Result, Median |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
