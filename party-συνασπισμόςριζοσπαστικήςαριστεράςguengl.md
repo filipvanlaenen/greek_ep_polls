@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.5% | 23.0–27.6% | 22.3–28.2% | 21.7–28.7% | 20.7–29.7% |
+| N/A | [Poll Average](average.html) | 25.3% | 22.8–27.5% | 22.1–28.1% | 21.6–28.6% | 20.7–29.6% |
+| [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 23.8% | 22.1–25.6% | 21.7–26.1% | 21.3–26.6% | 20.5–27.4% |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 24.3% | 22.6–26.1% | 22.2–26.6% | 21.8–27.1% | 21.0–28.0% |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 25.6% | 24.1–27.1% | 23.7–27.6% | 23.4–27.9% | 22.7–28.7% |
@@ -107,16 +108,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.3% | 100% |  |
+| 19.5–20.5% | 0.4% | 100% |  |
 | 20.5–21.5% | 2% | 99.6% |  |
-| 21.5–22.5% | 5% | 98% |  |
-| 22.5–23.5% | 9% | 93% |  |
-| 23.5–24.5% | 14% | 84% |  |
-| 24.5–25.5% | 20% | 70% |  |
-| 25.5–26.5% | 22% | 50% | Median |
-| 26.5–27.5% | 16% | 27% | Last Result |
-| 27.5–28.5% | 8% | 11% |  |
-| 28.5–29.5% | 3% | 3% |  |
+| 21.5–22.5% | 6% | 98% |  |
+| 22.5–23.5% | 11% | 92% |  |
+| 23.5–24.5% | 16% | 81% |  |
+| 24.5–25.5% | 20% | 65% | Median |
+| 25.5–26.5% | 21% | 45% |  |
+| 26.5–27.5% | 15% | 24% | Last Result |
+| 27.5–28.5% | 7% | 10% |  |
+| 28.5–29.5% | 2% | 3% |  |
 | 29.5–30.5% | 0.5% | 0.6% |  |
 | 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
@@ -130,7 +131,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -229,8 +231,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 46% | 98% |  |
-| 6 | 52% | 52% | Last Result, Median |
+| 5 | 51% | 98% | Median |
+| 6 | 46% | 47% | Last Result |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
