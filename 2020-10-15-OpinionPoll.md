@@ -62,8 +62,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 3% | 100% |  |
-| 5 | 88% | 97% | Median |
+| 4 | 4% | 100% |  |
+| 5 | 88% | 96% | Median |
 | 6 | 8% | 8% | Last Result |
 | 7 | 0% | 0% |  |
 
@@ -76,8 +76,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 9% | 100% |  |
-| 2 | 90% | 91% | Median |
+| 1 | 8% | 100% |  |
+| 2 | 92% | 92% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -89,8 +89,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 80% | 100% | Median |
-| 2 | 20% | 20% | Last Result |
+| 1 | 82% | 100% | Median |
+| 2 | 18% | 18% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Ελληνική Λύση (ECR)
@@ -156,6 +156,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.55%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.70%
 
