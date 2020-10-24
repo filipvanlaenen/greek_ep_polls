@@ -10,7 +10,9 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.3% | 22.8–27.5% | 22.1–28.1% | 21.6–28.6% | 20.7–29.6% |
+| N/A | [Poll Average](average.html) | 24.9% | 22.2–27.0% | 21.5–27.6% | 21.0–28.1% | 20.0–29.0% |
+| [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
+| [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV | 22.1% | 20.6–23.7% | 20.2–24.2% | 19.8–24.6% | 19.2–25.4% |
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 23.8% | 22.1–25.6% | 21.7–26.1% | 21.3–26.6% | 20.5–27.4% |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 24.3% | 22.6–26.1% | 22.2–26.6% | 21.8–27.1% | 21.0–28.0% |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
@@ -20,8 +22,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 22.9% | 21.4–24.6% | 20.9–25.1% | 20.5–25.5% | 19.8–26.3% |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 26.8% | 25.1–28.7% | 24.6–29.2% | 24.1–29.6% | 23.3–30.5% |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–28.0% | 21.8–28.9% |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 24.6% | 23.2–26.1% | 22.9–26.5% | 22.5–26.9% | 21.9–27.6% |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 24.7% | 23.0–26.5% | 22.5–27.0% | 22.1–27.4% | 21.3–28.3% |
-| [4–10 September 2020](2020-09-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 24.6% | 23.2–26.1% | 22.9–26.5% | 22.5–26.9% | 21.9–27.6% |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 24.1% | 22.5–25.8% | 22.1–26.3% | 21.7–26.7% | 20.9–27.5% |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 24.6% | 22.9–26.4% | 22.5–26.9% | 22.1–27.4% | 21.3–28.2% |
@@ -107,20 +109,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.4% | 100% |  |
-| 20.5–21.5% | 2% | 99.6% |  |
-| 21.5–22.5% | 6% | 98% |  |
-| 22.5–23.5% | 11% | 92% |  |
-| 23.5–24.5% | 16% | 81% |  |
-| 24.5–25.5% | 20% | 65% | Median |
-| 25.5–26.5% | 21% | 45% |  |
-| 26.5–27.5% | 15% | 24% | Last Result |
-| 27.5–28.5% | 7% | 10% |  |
-| 28.5–29.5% | 2% | 3% |  |
-| 29.5–30.5% | 0.5% | 0.6% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.2% | 100% |  |
+| 19.5–20.5% | 1.1% | 99.8% |  |
+| 20.5–21.5% | 4% | 98.7% |  |
+| 21.5–22.5% | 8% | 95% |  |
+| 22.5–23.5% | 12% | 87% |  |
+| 23.5–24.5% | 18% | 75% |  |
+| 24.5–25.5% | 22% | 57% | Median |
+| 25.5–26.5% | 19% | 35% |  |
+| 26.5–27.5% | 11% | 16% | Last Result |
+| 27.5–28.5% | 4% | 5% |  |
+| 28.5–29.5% | 0.9% | 1.1% |  |
+| 29.5–30.5% | 0.1% | 0.2% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -131,7 +133,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -141,8 +145,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [14–16 September 2020](2020-09-16-GPO.html) | GPO <br> Παραπολιτικά | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [14–16 September 2020](2020-09-16-Alco.html) | Alco <br> Open TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [10–12 September 2020](2020-09-12-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [7–10 September 2020](2020-09-10-OpinionPoll.html) | Opinion Poll | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [4–10 September 2020](2020-09-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [30 August–2 September 2020](2020-09-02-GPO.html) | GPO <br> Τα Νέα | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [13–15 July 2020](2020-07-15-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [10–13 July 2020](2020-07-13-Marc.html) | Marc <br> Αlpha TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -230,10 +234,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% |  |
-| 5 | 51% | 98% | Median |
-| 6 | 46% | 47% | Last Result |
-| 7 | 0.2% | 0.2% |  |
+| 4 | 5% | 100% |  |
+| 5 | 57% | 95% | Median |
+| 6 | 39% | 39% | Last Result |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
 
