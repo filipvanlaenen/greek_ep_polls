@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/greek_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-10-24T15:28:20.740757+02:00</updated>
+  <updated>2020-10-25T13:10:15.923039+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 22.9–28.3%, 5–6 seats</li><li>Νέα Δημοκρατία (EPP): 42.0–48.2%, 9–10 seats</li><li>Κίνημα Αλλαγής (S&amp;D): 6.1–9.4%, 1–2 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.1–8.2%, 1–2 seats</li><li>Ελληνική Λύση (ECR): 3.7–6.4%, 1 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.4–4.6%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/greek_ep_polls/2020-10-22-PulseRC.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 18–22 October 2020</title>
     <updated>2020-10-24T15:28:20.740757+02:00</updated>
     <dc:date>2020-10-24T15:28:20.740757+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 19.8–24.6%, 4–5 seats</li><li>Νέα Δημοκρατία (EPP): 42.7–48.4%, 9–10 seats</li><li>Κίνημα Αλλαγής (S&amp;D): 6.9–10.1%, 1–2 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.6–7.3%, 1 seats</li><li>Ελληνική Λύση (ECR): 4.1–6.7%, 1 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.6–4.7%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_ep_polls/2020-10-21-Interview.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_ep_polls/2020-10-21-Interview.html"/>
+    <title>Opinion Poll by Interview for Βεργίνα TV, 16–21 October 2020</title>
+    <updated>2020-10-25T13:10:15.923039+01:00</updated>
+    <dc:date>2020-10-25T13:10:15.923039+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 21.3–26.6%, 4–6 seats</li><li>Νέα Δημοκρατία (EPP): 46.8–53.0%, 10–11 seats</li><li>Κίνημα Αλλαγής (S&amp;D): 7.2–10.7%, 1–2 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.4–8.5%, 1–2 seats</li><li>Ελληνική Λύση (ECR): 3.1–5.6%, 0–1 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.7–5.1%, 0–1 seats</li></ul></div></content>
@@ -719,5 +727,5 @@
     <updated>2019-06-23T14:23:44.999646+02:00</updated>
     <dc:date>2019-06-23T14:23:44.999646+02:00</dc:date>
   </entry>
-  <dc:date>2020-10-24T15:28:20.740757+02:00</dc:date>
+  <dc:date>2020-10-25T13:10:15.923039+01:00</dc:date>
 </feed>
