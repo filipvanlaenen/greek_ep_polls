@@ -10,13 +10,13 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 5.3–7.4% | 5.0–7.7% | 4.8–8.0% | 4.4–8.6% |
+| N/A | [Poll Average](average.html) | 6.2% | 5.3–7.4% | 5.0–7.7% | 4.8–8.0% | 4.4–8.7% |
 | [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV | 5.8% | 5.0–6.8% | 4.8–7.1% | 4.6–7.3% | 4.3–7.8% |
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.8% |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 5.9% | 5.2–6.8% | 5.0–7.1% | 4.8–7.3% | 4.5–7.7% |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 5.9% | 5.1–6.9% | 4.9–7.1% | 4.7–7.4% | 4.4–7.9% |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.3% | 5.5–7.2% | 5.3–7.5% | 5.1–7.7% | 4.7–8.2% |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 5.8% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.8–7.3% |
@@ -110,8 +110,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 18% | 99.0% |  |
+| 3.5–4.5% | 1.1% | 100% |  |
+| 4.5–5.5% | 18% | 98.9% |  |
 | 5.5–6.5% | 45% | 81% | Last Result, Median |
 | 6.5–7.5% | 28% | 36% |  |
 | 7.5–8.5% | 7% | 7% |  |
@@ -133,7 +133,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 1 | 1 | 1 | 1–2 | 1–2 |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 1 | 1 | 1 | 1–2 | 1–2 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1 |

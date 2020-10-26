@@ -16,7 +16,7 @@ Last result: **9.4%** (General Election of 26 May 2019)
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 0.0% | N/A | N/A | N/A | N/A |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -135,7 +135,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV |  |  |  |  |  |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0–1 | 0–1 |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV |  |  |  |  |  |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV |  |  |  |  |  |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |

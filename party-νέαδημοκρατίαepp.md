@@ -16,7 +16,7 @@ Last result: **22.7%** (General Election of 26 May 2019)
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 49.9% | 47.9–51.9% | 47.3–52.5% | 46.8–53.0% | 45.8–54.0% |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 48.9% | 46.8–50.9% | 46.3–51.5% | 45.8–52.0% | 44.8–52.9% |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 43.1% | 41.1–45.1% | 40.5–45.7% | 40.1–46.2% | 39.1–47.2% |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 48.0% | 46.3–49.7% | 45.8–50.2% | 45.4–50.6% | 44.5–51.4% |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 47.9% | 46.1–49.8% | 45.6–50.3% | 45.1–50.8% | 44.2–51.6% |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 45.4% | 43.6–47.1% | 43.1–47.6% | 42.7–48.1% | 41.8–48.9% |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 48.0% | 46.0–50.0% | 45.4–50.6% | 44.9–51.1% | 43.9–52.0% |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 45.4% | 43.5–47.3% | 43.0–47.9% | 42.5–48.4% | 41.6–49.3% |
@@ -132,7 +132,7 @@ The following table shows the probability mass function per percentage block of 
 | 42.5–43.5% | 6% | 94% |  |
 | 43.5–44.5% | 9% | 88% |  |
 | 44.5–45.5% | 10% | 79% |  |
-| 45.5–46.5% | 11% | 69% |  |
+| 45.5–46.5% | 12% | 69% |  |
 | 46.5–47.5% | 13% | 57% | Median |
 | 47.5–48.5% | 14% | 44% |  |
 | 48.5–49.5% | 13% | 30% |  |
@@ -158,7 +158,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 11 | 10–11 | 10–11 | 10–11 | 10–12 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 11 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 10 | 9–10 | 9–10 | 9–10 | 9–11 |

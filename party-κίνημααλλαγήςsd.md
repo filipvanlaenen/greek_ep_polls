@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 8.8% | 7.7–10.1% | 7.4–10.4% | 7.2–10.7% | 6.7–11.4% |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 8.1% | 7.1–9.4% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 6.7% | 5.9–7.7% | 5.7–7.9% | 5.5–8.2% | 5.1–8.6% |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 6.9% | 6.1–7.9% | 5.8–8.2% | 5.6–8.5% | 5.2–9.0% |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.5% | 6.6–8.5% | 6.4–8.8% | 6.2–9.1% | 5.8–9.6% |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 6.2% | 5.4–7.3% | 5.1–7.7% | 4.9–7.9% | 4.5–8.5% |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 8.6% | 7.6–9.8% | 7.4–10.2% | 7.1–10.4% | 6.7–11.0% |
@@ -114,11 +114,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 15% | 97% |  |
-| 6.5–7.5% | 28% | 82% |  |
-| 7.5–8.5% | 30% | 55% | Median |
-| 8.5–9.5% | 18% | 24% |  |
+| 4.5–5.5% | 2% | 99.9% |  |
+| 5.5–6.5% | 14% | 97% |  |
+| 6.5–7.5% | 28% | 84% |  |
+| 7.5–8.5% | 32% | 56% | Median |
+| 8.5–9.5% | 19% | 24% |  |
 | 9.5–10.5% | 5% | 6% |  |
 | 10.5–11.5% | 0.7% | 0.7% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -139,7 +139,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [10–14 October 2020](2020-10-14-Marc.html) | Marc <br> Αlpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–10 October 2020](2020-10-10-Alco.html) | Alco <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [28–30 September 2020](2020-09-30-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [23–29 September 2020](2020-09-29-MetronAnalysis.html) | Metron Analysis <br> MEGA TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–23 September 2020](2020-09-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–23 September 2020](2020-09-23-MRB.html) | MRB <br> Star | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–23 September 2020](2020-09-23-Interview.html) | Interview <br> Βεργίνα TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -235,8 +235,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 41% | 100% |  |
-| 2 | 59% | 59% | Median |
+| 1 | 40% | 100% |  |
+| 2 | 60% | 60% | Median |
 | 3 | 0% | 0% |  |
 
 
