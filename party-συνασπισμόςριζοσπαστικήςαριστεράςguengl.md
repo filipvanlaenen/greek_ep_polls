@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.9% | 22.2–27.0% | 21.5–27.6% | 20.9–28.1% | 20.0–29.0% |
+| N/A | [Poll Average](average.html) | 25.0% | 22.2–27.9% | 21.5–28.8% | 21.0–29.5% | 20.0–30.8% |
+| [26–28 October 2020](2020-10-28-GPO.html) | GPO <br> Action24 | 28.1% | 26.3–30.0% | 25.8–30.5% | 25.4–31.0% | 24.6–31.9% |
 | [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
 | [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV | 22.1% | 20.6–23.7% | 20.2–24.2% | 19.8–24.6% | 19.2–25.4% |
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 23.8% | 22.1–25.6% | 21.7–26.1% | 21.3–26.6% | 20.5–27.4% |
@@ -115,14 +116,16 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 4% | 98.7% |  |
 | 21.5–22.5% | 8% | 95% |  |
 | 22.5–23.5% | 12% | 87% |  |
-| 23.5–24.5% | 18% | 75% |  |
-| 24.5–25.5% | 22% | 57% | Median |
-| 25.5–26.5% | 19% | 35% |  |
-| 26.5–27.5% | 11% | 16% | Last Result |
-| 27.5–28.5% | 4% | 5% |  |
-| 28.5–29.5% | 1.0% | 1.2% |  |
-| 29.5–30.5% | 0.2% | 0.2% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 23.5–24.5% | 16% | 75% |  |
+| 24.5–25.5% | 18% | 59% | Median |
+| 25.5–26.5% | 16% | 41% |  |
+| 26.5–27.5% | 11% | 24% | Last Result |
+| 27.5–28.5% | 7% | 13% |  |
+| 28.5–29.5% | 4% | 6% |  |
+| 29.5–30.5% | 2% | 2% |  |
+| 30.5–31.5% | 0.6% | 0.7% |  |
+| 31.5–32.5% | 0.1% | 0.1% |  |
+| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -133,7 +136,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [26–28 October 2020](2020-10-28-GPO.html) | GPO <br> Action24 | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–15 October 2020](2020-10-15-OpinionPoll.html) | Opinion Poll | 5 | 5 | 5–6 | 4–6 | 4–6 |
@@ -235,9 +239,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 5% | 100% |  |
-| 5 | 58% | 95% | Median |
-| 6 | 38% | 38% | Last Result |
-| 7 | 0.1% | 0.1% |  |
+| 5 | 53% | 95% | Median |
+| 6 | 42% | 43% | Last Result |
+| 7 | 0.8% | 0.8% |  |
 | 8 | 0% | 0% |  |
 
 
