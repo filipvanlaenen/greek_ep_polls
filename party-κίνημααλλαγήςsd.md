@@ -136,7 +136,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [6–11 November 2020](2020-11-11-Alco.html) | Alco <br> Open TV | 2 | 2 | 2 | 1–2 | 1–2 |
+| [6–11 November 2020](2020-11-11-Alco.html) | Alco <br> Open TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [26–28 October 2020](2020-10-28-GPO.html) | GPO <br> Action24 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–22 October 2020](2020-10-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–21 October 2020](2020-10-21-Interview.html) | Interview <br> Βεργίνα TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
