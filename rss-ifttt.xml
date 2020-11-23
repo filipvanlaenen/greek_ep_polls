@@ -6,30 +6,6 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:19:56 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Opinion Poll, 14–16 November 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Opinion Poll, 14–16 November 2020<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll-seating-plan.png" length="398807" type="image/png"/>
-      <pubDate>Fri, 20 Nov 2020 17:18:01 +0100</pubDate>
-      <dc:date>2020-11-20T17:18:01.030366+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Poll, 14–16 November 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Opinion Poll, 14–16 November 2020<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll-seats.png" length="209101" type="image/png"/>
-      <pubDate>Fri, 20 Nov 2020 17:18:01 +0100</pubDate>
-      <dc:date>2020-11-20T17:18:01.030366+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Opinion Poll, 14–16 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Opinion Poll, 14–16 November 2020<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-16-OpinionPoll.png" length="252392" type="image/png"/>
-      <pubDate>Fri, 20 Nov 2020 17:18:01 +0100</pubDate>
-      <dc:date>2020-11-20T17:18:01.030366+01:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by GPO for Παραπολιτικά, 10–13 November 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-11-13-GPO.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by GPO for Παραπολιτικά, 10–13 November 2020<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2020-11-13-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-13-GPO-seating-plan.png"/>]]></description>
@@ -76,6 +52,30 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-Alco.png" length="296033" type="image/png"/>
       <pubDate>Sat, 14 Nov 2020 21:10:04 +0100</pubDate>
       <dc:date>2020-11-14T21:10:04.285052+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll, 4–11 November 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Opinion Poll, 4–11 November 2020<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll-seating-plan.png" length="398457" type="image/png"/>
+      <pubDate>Sun, 22 Nov 2020 16:21:53 +0100</pubDate>
+      <dc:date>2020-11-22T16:21:53.158041+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll, 4–11 November 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Opinion Poll, 4–11 November 2020<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll-seats.png" length="208700" type="image/png"/>
+      <pubDate>Sun, 22 Nov 2020 16:21:53 +0100</pubDate>
+      <dc:date>2020-11-22T16:21:53.158041+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll, 4–11 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Opinion Poll, 4–11 November 2020<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2020-11-11-OpinionPoll.png" length="251922" type="image/png"/>
+      <pubDate>Sun, 22 Nov 2020 16:21:53 +0100</pubDate>
+      <dc:date>2020-11-22T16:21:53.158041+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Action24, 26–28 October 2020 – Seating Plan Projection</title>
