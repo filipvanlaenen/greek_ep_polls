@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 1.0–1.9% | 0.8–2.0% | 0.8–2.2% | 0.6–2.5% |
+| [20–24 November 2020](2020-11-24-ΚάπαResearch.html) | Κάπα Research | 0.0% | N/A | N/A | N/A | N/A |
 | [10–13 November 2020](2020-11-13-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [4–11 November 2020](2020-11-11-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 November 2020](2020-11-11-Alco.html) | Alco <br> Open TV | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
@@ -129,6 +130,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–24 November 2020](2020-11-24-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
 | [10–13 November 2020](2020-11-13-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [4–11 November 2020](2020-11-11-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [6–11 November 2020](2020-11-11-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0 |
