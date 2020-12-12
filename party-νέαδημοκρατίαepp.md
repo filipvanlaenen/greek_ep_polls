@@ -10,7 +10,8 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45.2% | 42.9–48.3% | 42.2–49.2% | 41.6–50.0% | 40.5–51.3% |
+| N/A | [Poll Average](average.html) | 45.2% | 43.0–48.3% | 42.4–49.2% | 41.9–50.0% | 40.9–51.3% |
+| [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 44.1% | 42.1–46.1% | 41.5–46.7% | 41.0–47.2% | 40.1–48.2% |
 | [27 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 45.2% | 43.3–47.1% | 42.7–47.7% | 42.2–48.1% | 41.4–49.1% |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 44.2% | 43.0–45.4% | 42.6–45.8% | 42.3–46.1% | 41.8–46.7% |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 44.0% | 42.2–45.8% | 41.7–46.3% | 41.3–46.7% | 40.5–47.5% |
@@ -135,15 +136,15 @@ The following table shows the probability mass function per percentage block of 
 | 35.5–36.5% | 0% | 100% |  |
 | 36.5–37.5% | 0% | 100% |  |
 | 37.5–38.5% | 0% | 100% |  |
-| 38.5–39.5% | 0.1% | 100% |  |
-| 39.5–40.5% | 0.4% | 99.9% |  |
-| 40.5–41.5% | 2% | 99.5% |  |
-| 41.5–42.5% | 5% | 98% |  |
-| 42.5–43.5% | 12% | 93% |  |
-| 43.5–44.5% | 19% | 81% |  |
-| 44.5–45.5% | 19% | 62% | Median |
-| 45.5–46.5% | 15% | 43% |  |
-| 46.5–47.5% | 11% | 27% |  |
+| 38.5–39.5% | 0% | 100% |  |
+| 39.5–40.5% | 0.2% | 100% |  |
+| 40.5–41.5% | 1.2% | 99.7% |  |
+| 41.5–42.5% | 4% | 98.5% |  |
+| 42.5–43.5% | 11% | 94% |  |
+| 43.5–44.5% | 19% | 83% |  |
+| 44.5–45.5% | 20% | 64% | Median |
+| 45.5–46.5% | 16% | 44% |  |
+| 46.5–47.5% | 12% | 28% |  |
 | 47.5–48.5% | 8% | 16% |  |
 | 48.5–49.5% | 5% | 8% |  |
 | 49.5–50.5% | 2% | 4% |  |
@@ -162,6 +163,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
+| [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [27 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -275,10 +277,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.1% | 100% |  |
-| 9 | 26% | 99.9% |  |
-| 10 | 67% | 74% | Median |
-| 11 | 7% | 7% | Majority |
+| 8 | 0% | 100% |  |
+| 9 | 24% | 100% |  |
+| 10 | 68% | 76% | Median |
+| 11 | 8% | 8% | Majority |
 | 12 | 0% | 0% |  |
 
 
