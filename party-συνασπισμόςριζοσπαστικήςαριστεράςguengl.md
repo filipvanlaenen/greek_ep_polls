@@ -10,7 +10,9 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.6% | 24.1–29.6% | 23.6–30.1% | 23.1–30.6% | 22.2–31.4% |
+| N/A | [Poll Average](average.html) | 26.2% | 24.3–28.1% | 23.8–28.7% | 23.3–29.1% | 22.5–30.0% |
+| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 25.0% | 23.5–26.6% | 23.1–27.0% | 22.7–27.4% | 22.0–28.2% |
+| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 26.5% | N/A | N/A | N/A | N/A |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26.2% | 24.7–27.8% | 24.3–28.3% | 23.9–28.7% | 23.2–29.4% |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 27.2% | 25.6–28.9% | 25.1–29.4% | 24.7–29.8% | 24.0–30.6% |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 26.2% | 24.5–28.0% | 24.0–28.6% | 23.6–29.0% | 22.8–29.9% |
@@ -123,20 +125,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.9% | 99.9% |  |
-| 22.5–23.5% | 4% | 99.0% |  |
-| 23.5–24.5% | 10% | 95% |  |
-| 24.5–25.5% | 16% | 85% |  |
-| 25.5–26.5% | 18% | 69% |  |
-| 26.5–27.5% | 16% | 51% | Last Result, Median |
-| 27.5–28.5% | 13% | 36% |  |
-| 28.5–29.5% | 12% | 23% |  |
-| 29.5–30.5% | 8% | 10% |  |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.3% | 0.4% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0.5% | 100% |  |
+| 22.5–23.5% | 3% | 99.5% |  |
+| 23.5–24.5% | 10% | 96% |  |
+| 24.5–25.5% | 20% | 86% |  |
+| 25.5–26.5% | 26% | 66% | Median |
+| 26.5–27.5% | 22% | 40% | Last Result |
+| 27.5–28.5% | 12% | 18% |  |
+| 28.5–29.5% | 5% | 6% |  |
+| 29.5–30.5% | 1.1% | 1.3% |  |
+| 30.5–31.5% | 0.2% | 0.2% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -147,7 +147,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -262,10 +264,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 34% | 99.9% |  |
-| 6 | 62% | 66% | Last Result, Median |
-| 7 | 4% | 4% |  |
+| 5 | 35% | 100% |  |
+| 6 | 64% | 65% | Last Result, Median |
+| 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 
 

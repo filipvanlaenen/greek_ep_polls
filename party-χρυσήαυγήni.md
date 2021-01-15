@@ -11,6 +11,8 @@ Last result: **9.4%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
+| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 0.0% | N/A | N/A | N/A | N/A |
+| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.3% |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -144,6 +146,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV |  |  |  |  |  |
+| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 0 | 0 | 0 | 0 | 0 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
