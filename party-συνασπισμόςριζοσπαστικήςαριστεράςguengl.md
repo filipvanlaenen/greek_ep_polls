@@ -10,9 +10,10 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.3% | 24.4–28.2% | 23.8–28.7% | 23.4–29.2% | 22.6–30.1% |
-| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 25.0% | 23.5–26.6% | 23.1–27.0% | 22.7–27.4% | 22.0–28.2% |
-| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
+| N/A | [Poll Average](average.html) | 26.7% | 24.5–29.3% | 23.9–30.1% | 23.4–30.7% | 22.4–32.0% |
+| [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 28.9% | 27.0–30.9% | 26.5–31.5% | 26.0–32.0% | 25.1–33.0% |
+| [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 25.0% | 23.4–26.9% | 22.9–27.4% | 22.5–27.8% | 21.7–28.7% |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26.2% | 24.7–27.8% | 24.3–28.3% | 23.9–28.7% | 23.2–29.4% |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 27.2% | 25.6–28.9% | 25.1–29.4% | 24.7–29.8% | 24.0–30.6% |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 26.2% | 24.5–28.0% | 24.0–28.6% | 23.6–29.0% | 22.8–29.9% |
@@ -125,18 +126,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.4% | 100% |  |
-| 22.5–23.5% | 3% | 99.6% |  |
-| 23.5–24.5% | 9% | 97% |  |
-| 24.5–25.5% | 19% | 87% |  |
-| 25.5–26.5% | 26% | 68% | Median |
-| 26.5–27.5% | 23% | 42% | Last Result |
-| 27.5–28.5% | 13% | 19% |  |
-| 28.5–29.5% | 5% | 6% |  |
-| 29.5–30.5% | 1.2% | 1.4% |  |
-| 30.5–31.5% | 0.2% | 0.2% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.6% | 99.9% |  |
+| 22.5–23.5% | 2% | 99.4% |  |
+| 23.5–24.5% | 7% | 97% |  |
+| 24.5–25.5% | 15% | 90% |  |
+| 25.5–26.5% | 21% | 75% |  |
+| 26.5–27.5% | 21% | 53% | Last Result, Median |
+| 27.5–28.5% | 15% | 32% |  |
+| 28.5–29.5% | 9% | 17% |  |
+| 29.5–30.5% | 5% | 8% |  |
+| 30.5–31.5% | 2% | 3% |  |
+| 31.5–32.5% | 0.7% | 0.9% |  |
+| 32.5–33.5% | 0.2% | 0.2% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -147,9 +151,10 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [10–14 January 2021](2021-01-14-Marc.html) | Marc <br> Αlpha TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [7–13 January 2021](2021-01-13-OpinionPoll.html) | Opinion Poll | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -264,9 +269,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 36% | 100% |  |
-| 6 | 63% | 64% | Last Result, Median |
-| 7 | 0.7% | 0.7% |  |
+| 5 | 30% | 100% |  |
+| 6 | 67% | 70% | Last Result, Median |
+| 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
 
 
