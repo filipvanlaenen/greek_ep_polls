@@ -148,7 +148,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 1 | 1 | 1 | 1 | 1 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1 | 1–2 | 1–2 |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
