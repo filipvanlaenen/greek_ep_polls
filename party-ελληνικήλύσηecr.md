@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.8–5.9% | 3.6–6.3% | 3.3–6.6% | 2.9–7.2% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.8–6.0% | 3.5–6.3% | 3.3–6.6% | 2.9–7.3% |
+| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
+| [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 5.5% | 4.6–6.6% | 4.4–6.9% | 4.2–7.2% | 3.8–7.8% |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.8% |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
@@ -130,8 +132,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
 | 2.5–3.5% | 5% | 99.9% |  |
-| 3.5–4.5% | 31% | 95% |  |
-| 4.5–5.5% | 45% | 64% | Median |
+| 3.5–4.5% | 33% | 95% |  |
+| 4.5–5.5% | 42% | 61% | Median |
 | 5.5–6.5% | 17% | 20% |  |
 | 6.5–7.5% | 3% | 3% |  |
 | 7.5–8.5% | 0.2% | 0.2% |  |
@@ -147,6 +149,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–2 |
+| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1 | 1 | 1 | 1 |
+| [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1 | 1 |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 1 | 1 | 1 | 1 | 1–2 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 1 | 1 | 1 | 1 | 1 |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 1 | 1 | 0–1 | 0–1 | 0–1 |

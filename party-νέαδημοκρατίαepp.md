@@ -10,7 +10,9 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45.3% | 42.0–49.1% | 41.2–49.9% | 40.5–50.5% | 39.3–51.6% |
+| N/A | [Poll Average](average.html) | 45.2% | 41.9–49.1% | 41.1–49.9% | 40.5–50.5% | 39.3–51.6% |
+| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 44.1% | 42.1–46.1% | 41.5–46.7% | 41.0–47.2% | 40.1–48.2% |
+| [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 44.2% | 42.2–46.2% | 41.6–46.8% | 41.1–47.3% | 40.2–48.3% |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 42.5% | 40.4–44.7% | 39.8–45.3% | 39.3–45.8% | 38.3–46.8% |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 48.3% | 46.3–50.3% | 45.7–50.9% | 45.2–51.4% | 44.3–52.4% |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 47.8% | 45.8–49.8% | 45.2–50.4% | 44.7–50.9% | 43.8–51.9% |
@@ -143,13 +145,13 @@ The following table shows the probability mass function per percentage block of 
 | 36.5–37.5% | 0% | 100% |  |
 | 37.5–38.5% | 0.1% | 100% |  |
 | 38.5–39.5% | 0.6% | 99.8% |  |
-| 39.5–40.5% | 2% | 99.3% |  |
-| 40.5–41.5% | 4% | 97% |  |
-| 41.5–42.5% | 8% | 93% |  |
-| 42.5–43.5% | 12% | 85% |  |
-| 43.5–44.5% | 14% | 73% |  |
-| 44.5–45.5% | 12% | 59% | Median |
-| 45.5–46.5% | 10% | 47% |  |
+| 39.5–40.5% | 2% | 99.2% |  |
+| 40.5–41.5% | 5% | 97% |  |
+| 41.5–42.5% | 9% | 93% |  |
+| 42.5–43.5% | 12% | 84% |  |
+| 43.5–44.5% | 14% | 71% |  |
+| 44.5–45.5% | 12% | 58% | Median |
+| 45.5–46.5% | 10% | 46% |  |
 | 46.5–47.5% | 10% | 36% |  |
 | 47.5–48.5% | 10% | 26% |  |
 | 48.5–49.5% | 8% | 15% |  |
@@ -169,6 +171,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
+| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
@@ -289,10 +293,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.8% | 100% |  |
-| 9 | 33% | 99.2% |  |
+| 8 | 0.9% | 100% |  |
+| 9 | 33% | 99.1% |  |
 | 10 | 50% | 66% | Median |
-| 11 | 15% | 16% | Majority |
+| 11 | 16% | 16% | Majority |
 | 12 | 0% | 0% |  |
 
 
