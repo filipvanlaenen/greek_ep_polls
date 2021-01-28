@@ -151,7 +151,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -272,8 +272,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 49% | 100% |  |
-| 2 | 51% | 51% | Median |
+| 1 | 51% | 100% | Median |
+| 2 | 49% | 49% |  |
 | 3 | 0% | 0% |  |
 
 
