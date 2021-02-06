@@ -10,8 +10,10 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.1% | 24.6–29.5% | 24.0–30.2% | 23.4–30.9% | 22.4–32.0% |
-| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 27.6% | 25.8–29.5% | 25.3–30.0% | 24.9–30.5% | 24.1–31.4% |
+| N/A | [Poll Average](average.html) | 26.5% | 24.3–29.1% | 23.8–29.9% | 23.3–30.6% | 22.4–31.8% |
+| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.5% | 24.2–26.9% | 23.8–27.3% | 23.5–27.6% | 22.9–28.3% |
+| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega | 25.3% | 23.8–27.0% | 23.3–27.5% | 23.0–27.9% | 22.2–28.7% |
+| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 27.6% | 25.8–29.5% | 25.3–30.0% | 24.9–30.5% | 24.1–31.4% |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 28.9% | 27.0–30.9% | 26.5–31.5% | 26.0–32.0% | 25.1–33.0% |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 25.0% | 23.4–26.9% | 22.9–27.4% | 22.5–27.8% | 21.7–28.7% |
@@ -130,18 +132,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.1% | 100% |  |
-| 21.5–22.5% | 0.5% | 99.9% |  |
-| 22.5–23.5% | 2% | 99.4% |  |
-| 23.5–24.5% | 6% | 97% |  |
-| 24.5–25.5% | 12% | 91% |  |
-| 25.5–26.5% | 18% | 78% |  |
-| 26.5–27.5% | 21% | 60% | Last Result, Median |
-| 27.5–28.5% | 18% | 40% |  |
-| 28.5–29.5% | 12% | 22% |  |
-| 29.5–30.5% | 6% | 10% |  |
-| 30.5–31.5% | 3% | 4% |  |
-| 31.5–32.5% | 0.8% | 1.0% |  |
-| 32.5–33.5% | 0.2% | 0.2% |  |
+| 21.5–22.5% | 0.6% | 99.9% |  |
+| 22.5–23.5% | 3% | 99.4% |  |
+| 23.5–24.5% | 9% | 96% |  |
+| 24.5–25.5% | 18% | 87% |  |
+| 25.5–26.5% | 21% | 69% | Median |
+| 26.5–27.5% | 19% | 48% | Last Result |
+| 27.5–28.5% | 14% | 29% |  |
+| 28.5–29.5% | 9% | 16% |  |
+| 29.5–30.5% | 5% | 7% |  |
+| 30.5–31.5% | 2% | 3% |  |
+| 31.5–32.5% | 0.6% | 0.7% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
 
@@ -153,8 +155,10 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -273,9 +277,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 25% | 100% |  |
-| 6 | 70% | 75% | Last Result, Median |
-| 7 | 5% | 5% |  |
+| 5 | 37% | 100% |  |
+| 6 | 59% | 63% | Last Result, Median |
+| 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
 
 
