@@ -175,7 +175,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 9–11 | 9–11 | 8–11 |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega | 10 | 10 | 9–11 | 9–11 | 9–11 |
-| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
