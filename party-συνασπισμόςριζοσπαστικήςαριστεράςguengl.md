@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.6% | 23.3–28.1% | 22.7–28.8% | 22.1–29.3% | 21.1–30.4% |
+| N/A | [Poll Average](average.html) | 25.7% | 23.3–29.8% | 22.7–30.6% | 22.1–31.1% | 21.1–31.9% |
+| [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 30.0% | 28.7–31.3% | 28.3–31.7% | 28.0–32.0% | 27.4–32.7% |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 25.1% | 23.4–26.9% | 22.9–27.5% | 22.5–27.9% | 21.7–28.8% |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 23.5% | 21.8–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
@@ -138,16 +139,17 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 1.0% | 99.8% |  |
 | 21.5–22.5% | 3% | 98.8% |  |
 | 22.5–23.5% | 8% | 95% |  |
-| 23.5–24.5% | 15% | 88% |  |
-| 24.5–25.5% | 21% | 73% |  |
-| 25.5–26.5% | 21% | 52% | Median |
-| 26.5–27.5% | 15% | 31% | Last Result |
-| 27.5–28.5% | 9% | 15% |  |
-| 28.5–29.5% | 4% | 6% |  |
-| 29.5–30.5% | 1.5% | 2% |  |
-| 30.5–31.5% | 0.4% | 0.4% |  |
-| 31.5–32.5% | 0.1% | 0.1% |  |
-| 32.5–33.5% | 0% | 0% |  |
+| 23.5–24.5% | 14% | 88% |  |
+| 24.5–25.5% | 20% | 73% |  |
+| 25.5–26.5% | 19% | 53% | Median |
+| 26.5–27.5% | 11% | 34% | Last Result |
+| 27.5–28.5% | 6% | 23% |  |
+| 28.5–29.5% | 6% | 17% |  |
+| 29.5–30.5% | 7% | 12% |  |
+| 30.5–31.5% | 4% | 5% |  |
+| 31.5–32.5% | 1.0% | 1.1% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -158,7 +160,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5 | 4–5 | 4–6 | 4–6 |
@@ -284,9 +287,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 1.0% | 100% |  |
-| 5 | 55% | 99.0% | Median |
-| 6 | 43% | 44% | Last Result |
-| 7 | 0.8% | 0.8% |  |
+| 5 | 53% | 99.0% | Median |
+| 6 | 40% | 46% | Last Result |
+| 7 | 6% | 6% |  |
 | 8 | 0% | 0% |  |
 
 

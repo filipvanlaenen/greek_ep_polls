@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.2–6.2% | 4.0–6.5% | 3.8–6.9% | 3.4–7.4% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.2–6.2% | 4.0–6.5% | 3.8–6.8% | 3.5–7.4% |
+| [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 4.4% | 3.9–5.0% | 3.7–5.2% | 3.6–5.4% | 3.4–5.7% |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
@@ -136,12 +137,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.9% | 100% |  |
-| 3.5–4.5% | 20% | 99.1% |  |
-| 4.5–5.5% | 48% | 79% | Median |
-| 5.5–6.5% | 26% | 31% |  |
+| 2.5–3.5% | 0.8% | 100% |  |
+| 3.5–4.5% | 24% | 99.2% |  |
+| 4.5–5.5% | 46% | 75% | Median |
+| 5.5–6.5% | 24% | 28% |  |
 | 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.3% | 0.4% |  |
+| 7.5–8.5% | 0.3% | 0.3% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -154,6 +155,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 1 | 1 | 1 | 1 | 1 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 1 | 1 | 1 | 1 | 1–2 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1 | 1–2 |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1–2 |
