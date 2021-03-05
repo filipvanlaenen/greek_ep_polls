@@ -10,7 +10,11 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.7% | 23.3–29.8% | 22.7–30.6% | 22.1–31.1% | 21.1–31.9% |
+| N/A | [Poll Average](average.html) | 27.6% | 23.2–30.5% | 22.4–31.0% | 21.8–31.4% | 20.9–32.2% |
+| [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 28.4% | 26.6–30.3% | 26.1–30.8% | 25.7–31.3% | 24.8–32.2% |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.5% | N/A | N/A | N/A | N/A |
+| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 30.5% | N/A | N/A | N/A | N/A |
+| [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 25.1% | N/A | N/A | N/A | N/A |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 30.0% | 28.7–31.3% | 28.3–31.7% | 28.0–32.0% | 27.4–32.7% |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 25.1% | 23.4–26.9% | 22.9–27.5% | 22.5–27.9% | 21.7–28.8% |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
@@ -136,19 +140,19 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.2% | 100% |  |
-| 20.5–21.5% | 1.0% | 99.8% |  |
-| 21.5–22.5% | 3% | 98.8% |  |
-| 22.5–23.5% | 8% | 95% |  |
-| 23.5–24.5% | 14% | 88% |  |
-| 24.5–25.5% | 20% | 73% |  |
-| 25.5–26.5% | 19% | 53% | Median |
-| 26.5–27.5% | 11% | 34% | Last Result |
-| 27.5–28.5% | 6% | 23% |  |
-| 28.5–29.5% | 6% | 17% |  |
-| 29.5–30.5% | 7% | 12% |  |
-| 30.5–31.5% | 4% | 5% |  |
-| 31.5–32.5% | 1.0% | 1.1% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 1.4% | 99.7% |  |
+| 21.5–22.5% | 4% | 98% |  |
+| 22.5–23.5% | 7% | 94% |  |
+| 23.5–24.5% | 8% | 87% |  |
+| 24.5–25.5% | 8% | 79% |  |
+| 25.5–26.5% | 10% | 71% |  |
+| 26.5–27.5% | 12% | 62% | Last Result |
+| 27.5–28.5% | 13% | 50% | Median |
+| 28.5–29.5% | 15% | 37% |  |
+| 29.5–30.5% | 13% | 23% |  |
+| 30.5–31.5% | 7% | 9% |  |
+| 31.5–32.5% | 2% | 2% |  |
+| 32.5–33.5% | 0.2% | 0.2% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
 
@@ -160,7 +164,11 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -286,10 +294,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 1.0% | 100% |  |
-| 5 | 53% | 99.0% | Median |
-| 6 | 40% | 46% | Last Result |
-| 7 | 6% | 6% |  |
+| 4 | 1.4% | 100% |  |
+| 5 | 30% | 98.6% |  |
+| 6 | 57% | 69% | Last Result, Median |
+| 7 | 12% | 12% |  |
 | 8 | 0% | 0% |  |
 
 

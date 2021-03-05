@@ -10,7 +10,11 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.0–7.7% | 4.7–8.1% | 4.5–8.4% | 4.2–9.0% |
+| N/A | [Poll Average](average.html) | 5.8% | 4.8–7.0% | 4.5–7.3% | 4.4–7.6% | 4.0–8.2% |
+| [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.5% | N/A | N/A | N/A | N/A |
+| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 5.5% | N/A | N/A | N/A | N/A |
+| [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 6.6% | N/A | N/A | N/A | N/A |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
@@ -135,14 +139,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 19% | 97% |  |
-| 5.5–6.5% | 31% | 78% | Last Result, Median |
-| 6.5–7.5% | 33% | 48% |  |
-| 7.5–8.5% | 13% | 14% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 5% | 100% |  |
+| 4.5–5.5% | 34% | 95% |  |
+| 5.5–6.5% | 40% | 61% | Last Result, Median |
+| 6.5–7.5% | 18% | 21% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -153,7 +156,11 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1 | 1–2 |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 1 | 1 | 1 | 1 | 1 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -279,8 +286,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 87% | 100% | Median |
-| 2 | 13% | 13% | Last Result |
+| 1 | 97% | 100% | Median |
+| 2 | 3% | 3% | Last Result |
 | 3 | 0% | 0% |  |
 
 
