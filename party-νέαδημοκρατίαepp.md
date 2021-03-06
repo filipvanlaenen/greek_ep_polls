@@ -10,11 +10,11 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43.9% | 41.8–46.0% | 41.2–46.6% | 40.6–47.2% | 39.6–48.3% |
+| N/A | [Poll Average](average.html) | 43.7% | 41.1–46.5% | 40.4–47.3% | 39.9–48.0% | 38.9–49.3% |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 45.0% | 43.0–47.0% | 42.4–47.6% | 41.9–48.1% | 41.0–49.1% |
-| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 42.0% | N/A | N/A | N/A | N/A |
-| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 42.0% | N/A | N/A | N/A | N/A |
-| [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 46.4% | N/A | N/A | N/A | N/A |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 42.0% | 40.3–43.8% | 39.8–44.3% | 39.4–44.7% | 38.5–45.6% |
+| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 42.0% | 40.0–44.0% | 39.5–44.6% | 39.0–45.1% | 38.0–46.1% |
+| [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 46.4% | 44.3–48.4% | 43.8–49.0% | 43.3–49.5% | 42.3–50.4% |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 44.3% | 42.9–45.7% | 42.5–46.1% | 42.1–46.5% | 41.5–47.2% |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 46.3% | 44.2–48.3% | 43.7–48.9% | 43.2–49.4% | 42.2–50.3% |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 43.2% | 41.2–45.2% | 40.6–45.8% | 40.2–46.3% | 39.2–47.3% |
@@ -153,20 +153,21 @@ The following table shows the probability mass function per percentage block of 
 | 34.5–35.5% | 0% | 100% |  |
 | 35.5–36.5% | 0% | 100% |  |
 | 36.5–37.5% | 0% | 100% |  |
-| 37.5–38.5% | 0.1% | 100% |  |
-| 38.5–39.5% | 0.4% | 99.9% |  |
-| 39.5–40.5% | 2% | 99.5% |  |
-| 40.5–41.5% | 5% | 98% |  |
-| 41.5–42.5% | 12% | 92% |  |
-| 42.5–43.5% | 20% | 80% |  |
-| 43.5–44.5% | 25% | 60% | Median |
-| 44.5–45.5% | 20% | 35% |  |
-| 45.5–46.5% | 10% | 16% |  |
-| 46.5–47.5% | 4% | 5% |  |
-| 47.5–48.5% | 1.2% | 2% |  |
-| 48.5–49.5% | 0.3% | 0.3% |  |
-| 49.5–50.5% | 0% | 0.1% |  |
-| 50.5–51.5% | 0% | 0% |  |
+| 37.5–38.5% | 0.2% | 100% |  |
+| 38.5–39.5% | 1.3% | 99.7% |  |
+| 39.5–40.5% | 4% | 98% |  |
+| 40.5–41.5% | 9% | 94% |  |
+| 41.5–42.5% | 15% | 85% |  |
+| 42.5–43.5% | 18% | 70% |  |
+| 43.5–44.5% | 18% | 52% | Median |
+| 44.5–45.5% | 15% | 34% |  |
+| 45.5–46.5% | 9% | 19% |  |
+| 46.5–47.5% | 6% | 10% |  |
+| 47.5–48.5% | 3% | 4% |  |
+| 48.5–49.5% | 1.0% | 1.4% |  |
+| 49.5–50.5% | 0.3% | 0.3% |  |
+| 50.5–51.5% | 0.1% | 0.1% |  |
+| 51.5–52.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -177,11 +178,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
-| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
-| [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9 | 9–10 | 8–10 | 8–10 |
+| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
+| [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 10 | 9–11 | 9–11 | 9–11 |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
@@ -310,10 +311,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.6% | 100% |  |
-| 9 | 54% | 99.4% | Median |
-| 10 | 45% | 45% |  |
-| 11 | 0.4% | 0.4% | Majority |
+| 8 | 2% | 100% |  |
+| 9 | 56% | 98% | Median |
+| 10 | 41% | 42% |  |
+| 11 | 1.2% | 1.2% | Majority |
 | 12 | 0% | 0% |  |
 
 
