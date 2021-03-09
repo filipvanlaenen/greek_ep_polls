@@ -182,7 +182,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
-| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9 | 9–10 | 8–10 | 8–10 |
+| [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9 | 8–10 | 8–10 | 8–10 |
 | [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 10 | 9–11 | 9–11 | 9–11 |
 | [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
