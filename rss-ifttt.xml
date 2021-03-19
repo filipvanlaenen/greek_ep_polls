@@ -78,6 +78,14 @@
       <dc:date>2021-03-08T20:28:58.844873+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Metron Analysis for Mega, 22–27 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-02-27-MetronAnalysis.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Metron Analysis for Mega, 22–27 February 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-02-27-MetronAnalysis.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-02-27-MetronAnalysis.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-02-27-MetronAnalysis.png" length="252568" type="image/png"/>
+      <pubDate>Thu, 18 Mar 2021 20:34:25 +0100</pubDate>
+      <dc:date>2021-03-18T20:34:25.990755+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 23–26 February 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-02-26-Prorata.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Prorata for Η Εφημερίδα των Συντακτών, 23–26 February 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-02-26-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-02-26-Prorata-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-02-17-Interview.png" length="256650" type="image/png"/>
       <pubDate>Sat, 20 Feb 2021 21:26:28 +0100</pubDate>
       <dc:date>2021-02-20T21:26:28.935828+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 25–27 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 25–27 January 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC-seating-plan.png" length="403524" type="image/png"/>
-      <pubDate>Mon, 8 Feb 2021 08:56:39 +0100</pubDate>
-      <dc:date>2021-02-08T08:56:39.307193+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 25–27 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 25–27 January 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC-seats.png" length="201480" type="image/png"/>
-      <pubDate>Mon, 8 Feb 2021 08:56:39 +0100</pubDate>
-      <dc:date>2021-02-08T08:56:39.307193+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 25–27 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Pulse RC for ΣΚΑΪ, 25–27 January 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-01-27-PulseRC.png" length="245798" type="image/png"/>
-      <pubDate>Mon, 8 Feb 2021 08:56:39 +0100</pubDate>
-      <dc:date>2021-02-08T08:56:39.307193+01:00</dc:date>
     </item>
   </channel>
 </rss>
