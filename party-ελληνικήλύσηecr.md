@@ -162,7 +162,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [14–18 March 2021](2021-03-18-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1 | 1 |
+| [14–18 March 2021](2021-03-18-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1 | 1–2 |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Τα Νέα | 1 | 1 | 1 | 1 | 0–1 |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1–2 | 1–2 |
 | [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1 |
