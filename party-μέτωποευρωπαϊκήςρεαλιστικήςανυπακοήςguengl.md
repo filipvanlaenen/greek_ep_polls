@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.0–5.0% | 2.8–5.3% | 2.6–5.6% | 2.4–6.2% |
+| N/A | [Poll Average](average.html) | 3.9% | 3.0–5.0% | 2.8–5.4% | 2.6–5.7% | 2.3–6.2% |
+| [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.4% | 2.8–4.1% | 2.7–4.3% | 2.5–4.5% | 2.3–4.9% |
 | [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
@@ -147,11 +148,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 33% | 98% |  |
-| 3.5–4.5% | 44% | 65% | Median |
-| 4.5–5.5% | 18% | 21% |  |
+| 2.5–3.5% | 31% | 98% |  |
+| 3.5–4.5% | 45% | 68% | Median |
+| 4.5–5.5% | 19% | 23% |  |
 | 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -164,6 +165,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 1 | 1 | 1 | 0–1 |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
