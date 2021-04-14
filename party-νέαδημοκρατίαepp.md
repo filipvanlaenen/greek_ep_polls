@@ -185,8 +185,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
-| [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
+| [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -328,8 +328,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 5% | 100% |  |
-| 9 | 67% | 95% | Median |
-| 10 | 27% | 27% |  |
+| 9 | 69% | 95% | Median |
+| 10 | 26% | 27% |  |
 | 11 | 0.4% | 0.4% | Majority |
 | 12 | 0% | 0% |  |
 
