@@ -11,6 +11,8 @@ Last result: **0.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 1.0–1.9% | 0.8–2.0% | 0.8–2.2% | 0.6–2.5% |
+| [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
+| [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
@@ -163,6 +165,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
+| [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr |  |  |  |  |  |
 | [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
