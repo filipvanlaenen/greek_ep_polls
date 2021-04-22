@@ -10,9 +10,9 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 5.2–7.8% | 5.0–8.3% | 4.7–8.7% | 4.3–9.4% |
-| [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 6.4% | N/A | N/A | N/A | N/A |
-| [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 6.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 6.4% | 5.3–7.7% | 5.0–8.2% | 4.8–8.6% | 4.4–9.3% |
+| [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–8.0% | 4.7–8.5% |
+| [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
 | [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
 | [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.1% | 5.3–7.1% | 5.1–7.3% | 4.9–7.6% | 4.6–8.0% |
@@ -150,13 +150,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.3% | 100% |  |
-| 4.5–5.5% | 17% | 98.7% |  |
-| 5.5–6.5% | 40% | 81% | Last Result, Median |
-| 6.5–7.5% | 27% | 41% |  |
-| 7.5–8.5% | 11% | 15% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.3% | 0.4% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 15% | 99.0% |  |
+| 5.5–6.5% | 41% | 84% | Last Result, Median |
+| 6.5–7.5% | 30% | 43% |  |
+| 7.5–8.5% | 11% | 13% |  |
+| 8.5–9.5% | 2% | 3% |  |
+| 9.5–10.5% | 0.2% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -169,8 +169,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
-| [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 1 | 1 | 1–2 | 1–2 |
 | [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1–2 |
