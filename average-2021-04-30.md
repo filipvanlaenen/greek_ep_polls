@@ -244,7 +244,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 22% | 100% |  |
 | 6 | 69% | 78% | Last Result, Median |
-| 7 | 10% | 10% |  |
+| 7 | 9% | 10% |  |
 | 8 | 0% | 0% |  |
 
 ### Νέα Δημοκρατία (EPP)
@@ -259,8 +259,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 5% | 100% |  |
-| 9 | 68% | 95% | Median |
-| 10 | 27% | 28% |  |
+| 9 | 67% | 95% | Median |
+| 10 | 28% | 29% |  |
 | 11 | 0.4% | 0.4% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -284,8 +284,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 87% | 100% | Median |
-| 2 | 13% | 13% | Last Result |
+| 1 | 86% | 100% | Median |
+| 2 | 14% | 14% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Ανεξάρτητοι Έλληνες (ECR)
@@ -313,8 +313,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 35% | 100% |  |
-| 2 | 65% | 65% | Median |
+| 1 | 36% | 100% |  |
+| 2 | 64% | 64% | Median |
 | 3 | 0% | 0% |  |
 
 ### Λαϊκή Ενότητα (GUE/NGL)
@@ -331,8 +331,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
 | 2 | 0% | 0% |  |
 
 ### Ελληνική Λύση (ECR)
@@ -345,7 +345,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
 | 1 | 91% | 92% | Median |
-| 2 | 1.4% | 1.4% |  |
+| 2 | 1.3% | 1.3% |  |
 | 3 | 0% | 0% |  |
 
 ### Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL)
@@ -386,8 +386,8 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 5% | 100% |  |
-| 9 | 68% | 95% | Median |
-| 10 | 27% | 28% |  |
+| 9 | 67% | 95% | Median |
+| 10 | 28% | 29% |  |
 | 11 | 0.4% | 0.4% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -399,7 +399,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 1.4% | 100% |  |
 | 6 | 32% | 98.6% | Last Result |
-| 7 | 58% | 66% | Median |
+| 7 | 58% | 67% | Median |
 | 8 | 9% | 9% |  |
 | 9 | 0% | 0% |  |
 
@@ -409,8 +409,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 35% | 100% |  |
-| 2 | 65% | 65% | Last Result, Median |
+| 1 | 36% | 100% |  |
+| 2 | 64% | 64% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Χρυσή Αυγή (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI)
@@ -419,8 +419,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 87% | 100% | Median |
-| 2 | 13% | 13% |  |
+| 1 | 86% | 100% | Median |
+| 2 | 14% | 14% |  |
 | 3 | 0% | 0% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% | Last Result |
@@ -433,7 +433,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% |  |
 | 1 | 91% | 92% | Last Result, Median |
-| 2 | 1.4% | 1.4% |  |
+| 2 | 1.3% | 1.3% |  |
 | 3 | 0% | 0% |  |
 
 ### Ένωση Κεντρώων (RE)
@@ -449,5 +449,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,505,024
-+ **Error estimate:** 2.74%
++ **Total number of simulations done in the polls included in this average:** 6,422,528
++ **Error estimate:** 1.52%

@@ -189,7 +189,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
-| [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
+| [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
 | [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
@@ -332,8 +332,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 5% | 100% |  |
-| 9 | 68% | 95% | Median |
-| 10 | 27% | 28% |  |
+| 9 | 67% | 95% | Median |
+| 10 | 28% | 29% |  |
 | 11 | 0.4% | 0.4% | Majority |
 | 12 | 0% | 0% |  |
 
