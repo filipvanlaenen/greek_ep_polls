@@ -10,7 +10,8 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.3–7.7% | 5.0–8.2% | 4.8–8.6% | 4.4–9.3% |
+| N/A | [Poll Average](average.html) | 6.4% | 5.3–7.8% | 5.0–8.2% | 4.8–8.6% | 4.4–9.4% |
+| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 6.5% | 5.6–7.5% | 5.4–7.8% | 5.2–8.1% | 4.8–8.6% |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–8.0% | 4.7–8.5% |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
@@ -150,13 +151,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 15% | 99.0% |  |
-| 5.5–6.5% | 41% | 84% | Last Result, Median |
-| 6.5–7.5% | 30% | 43% |  |
-| 7.5–8.5% | 11% | 13% |  |
-| 8.5–9.5% | 2% | 3% |  |
-| 9.5–10.5% | 0.2% | 0.3% |  |
+| 3.5–4.5% | 1.1% | 100% |  |
+| 4.5–5.5% | 16% | 98.9% |  |
+| 5.5–6.5% | 41% | 83% | Last Result, Median |
+| 6.5–7.5% | 29% | 42% |  |
+| 7.5–8.5% | 11% | 14% |  |
+| 8.5–9.5% | 3% | 3% |  |
+| 9.5–10.5% | 0.3% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -169,6 +170,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

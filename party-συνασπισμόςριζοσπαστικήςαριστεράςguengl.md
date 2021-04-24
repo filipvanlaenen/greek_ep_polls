@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.4% | 24.9–30.1% | 24.2–31.0% | 23.7–31.6% | 22.8–32.9% |
+| N/A | [Poll Average](average.html) | 27.7% | 25.3–30.3% | 24.6–31.1% | 24.1–31.8% | 23.1–33.0% |
+| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 25.5% | 23.9–27.2% | 23.4–27.7% | 23.0–28.1% | 22.2–29.0% |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 25.3% | 23.7–27.0% | 23.2–27.5% | 22.8–27.9% | 22.1–28.8% |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 27.6% | 25.8–29.5% | 25.3–30.0% | 24.9–30.5% | 24.1–31.4% |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 27.8% | 26.0–29.7% | 25.5–30.2% | 25.1–30.7% | 24.3–31.6% |
@@ -150,18 +151,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.3% | 100% |  |
-| 22.5–23.5% | 2% | 99.7% |  |
-| 23.5–24.5% | 5% | 98% |  |
-| 24.5–25.5% | 10% | 93% |  |
-| 25.5–26.5% | 16% | 82% |  |
-| 26.5–27.5% | 19% | 67% | Last Result, Median |
-| 27.5–28.5% | 19% | 47% |  |
-| 28.5–29.5% | 14% | 29% |  |
-| 29.5–30.5% | 8% | 15% |  |
-| 30.5–31.5% | 4% | 7% |  |
+| 21.5–22.5% | 0.2% | 100% |  |
+| 22.5–23.5% | 1.0% | 99.8% |  |
+| 23.5–24.5% | 3% | 98.9% |  |
+| 24.5–25.5% | 8% | 95% |  |
+| 25.5–26.5% | 14% | 88% |  |
+| 26.5–27.5% | 20% | 74% | Last Result |
+| 27.5–28.5% | 21% | 54% | Median |
+| 28.5–29.5% | 16% | 33% |  |
+| 29.5–30.5% | 9% | 18% |  |
+| 30.5–31.5% | 5% | 8% |  |
 | 31.5–32.5% | 2% | 3% |  |
-| 32.5–33.5% | 0.7% | 0.8% |  |
+| 32.5–33.5% | 0.8% | 1.0% |  |
 | 33.5–34.5% | 0.2% | 0.2% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -174,7 +175,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -315,9 +317,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 22% | 100% |  |
-| 6 | 69% | 78% | Last Result, Median |
-| 7 | 9% | 10% |  |
+| 5 | 16% | 100% |  |
+| 6 | 73% | 84% | Last Result, Median |
+| 7 | 11% | 11% |  |
 | 8 | 0% | 0% |  |
 
 
