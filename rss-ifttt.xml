@@ -6,12 +6,36 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:49 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Interview for Politic.gr, 19–22 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-04-22-Interview.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Interview for Politic.gr, 19–22 April 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-04-22-Interview.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-04-22-Interview.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-04-22-Interview.png" length="255416" type="image/png"/>
+      <pubDate>Sat, 24 Apr 2021 11:11:56 +0200</pubDate>
+      <dc:date>2021-04-24T11:11:56.885617+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 13–19 April 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Interview for Βεργίνα TV, 13–19 April 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview-seating-plan.png" length="408763" type="image/png"/>
+      <pubDate>Fri, 23 Apr 2021 19:42:07 +0200</pubDate>
+      <dc:date>2021-04-23T19:42:07.233972+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Βεργίνα TV, 13–19 April 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Interview for Βεργίνα TV, 13–19 April 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview-seats.png" length="214735" type="image/png"/>
+      <pubDate>Fri, 23 Apr 2021 19:42:07 +0200</pubDate>
+      <dc:date>2021-04-23T19:42:07.233972+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Interview for Βεργίνα TV, 13–19 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Interview for Βεργίνα TV, 13–19 April 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-04-19-Interview.png" length="256157" type="image/png"/>
-      <pubDate>Thu, 22 Apr 2021 07:36:44 +0200</pubDate>
-      <dc:date>2021-04-22T07:36:44.003096+02:00</dc:date>
+      <pubDate>Fri, 23 Apr 2021 19:42:07 +0200</pubDate>
+      <dc:date>2021-04-23T19:42:07.233972+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Open TV, 12–16 April 2021 – Seating Plan Projection</title>
@@ -204,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-03-18-Alco.png" length="276466" type="image/png"/>
       <pubDate>Sat, 20 Mar 2021 20:44:58 +0100</pubDate>
       <dc:date>2021-03-20T20:44:58.532893+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GPO for Τα Νέα, 3–5 March 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by GPO for Τα Νέα, 3–5 March 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO-seating-plan.png" length="402671" type="image/png"/>
-      <pubDate>Sun, 7 Mar 2021 11:34:38 +0100</pubDate>
-      <dc:date>2021-03-07T11:34:38.475718+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GPO for Τα Νέα, 3–5 March 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by GPO for Τα Νέα, 3–5 March 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO-seats.png" length="208999" type="image/png"/>
-      <pubDate>Sun, 7 Mar 2021 11:34:38 +0100</pubDate>
-      <dc:date>2021-03-07T11:34:38.475718+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GPO for Τα Νέα, 3–5 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by GPO for Τα Νέα, 3–5 March 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-03-05-GPO.png" length="255246" type="image/png"/>
-      <pubDate>Sun, 7 Mar 2021 11:34:38 +0100</pubDate>
-      <dc:date>2021-03-07T11:34:38.475718+01:00</dc:date>
     </item>
   </channel>
 </rss>
