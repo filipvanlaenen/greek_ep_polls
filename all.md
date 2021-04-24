@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ | ΕΛ | ΜέΡΑ25 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 23–28% <br> 5–6 | 39–45% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | 3–6% <br> 1 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 23–28% <br> 5–6 | 39–45% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 1–2 | 3–5% <br> 0–1 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 25–30% <br> 5–7 | 40–46% <br> 9–10 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 4–6% <br> 1 | 2–5% <br> 0–1 |
 | [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 25–31% <br> 5–7 | 39–46% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 3–5% <br> 0–1 |
