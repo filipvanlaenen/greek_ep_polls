@@ -10,7 +10,10 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.3–7.8% | 5.0–8.2% | 4.8–8.6% | 4.4–9.4% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.4–8.0% | 5.1–8.4% | 4.9–8.7% | 4.4–9.4% |
+| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
+| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.6% | N/A | N/A | N/A | N/A |
+| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 5.9% | N/A | N/A | N/A | N/A |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 6.5% | 5.6–7.5% | 5.4–7.8% | 5.2–8.1% | 4.8–8.6% |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–8.0% | 4.7–8.5% |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
@@ -151,13 +154,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.1% | 100% |  |
-| 4.5–5.5% | 16% | 98.9% |  |
-| 5.5–6.5% | 41% | 83% | Last Result, Median |
-| 6.5–7.5% | 29% | 42% |  |
-| 7.5–8.5% | 11% | 14% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 12% | 99.1% |  |
+| 5.5–6.5% | 35% | 87% | Last Result |
+| 6.5–7.5% | 34% | 52% | Median |
+| 7.5–8.5% | 15% | 18% |  |
+| 8.5–9.5% | 3% | 4% |  |
+| 9.5–10.5% | 0.3% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -170,6 +173,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -311,8 +317,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 86% | 100% | Median |
-| 2 | 14% | 14% | Last Result |
+| 1 | 82% | 100% | Median |
+| 2 | 18% | 18% | Last Result |
 | 3 | 0% | 0% |  |
 
 
