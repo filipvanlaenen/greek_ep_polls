@@ -10,10 +10,10 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42.8% | 40.5–45.4% | 39.9–46.1% | 39.3–46.7% | 38.3–47.9% |
+| N/A | [Poll Average](average.html) | 43.0% | 40.6–46.5% | 39.9–47.5% | 39.4–48.3% | 38.3–49.6% |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 44.7% | 42.7–46.7% | 42.1–47.3% | 41.6–47.8% | 40.7–48.8% |
-| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 42.0% | N/A | N/A | N/A | N/A |
-| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 46.7% | N/A | N/A | N/A | N/A |
+| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 42.0% | 40.0–44.0% | 39.5–44.6% | 39.0–45.1% | 38.0–46.1% |
+| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 46.7% | 44.7–48.7% | 44.1–49.3% | 43.6–49.8% | 42.7–50.8% |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 42.3% | 40.5–44.2% | 39.9–44.8% | 39.5–45.3% | 38.6–46.2% |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 42.3% | 40.5–44.2% | 39.9–44.8% | 39.5–45.3% | 38.6–46.2% |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 43.3% | 41.3–45.3% | 40.7–45.9% | 40.3–46.4% | 39.3–47.4% |
@@ -169,18 +169,20 @@ The following table shows the probability mass function per percentage block of 
 | 35.5–36.5% | 0% | 100% |  |
 | 36.5–37.5% | 0.1% | 100% |  |
 | 37.5–38.5% | 0.6% | 99.9% |  |
-| 38.5–39.5% | 3% | 99.2% |  |
+| 38.5–39.5% | 2% | 99.3% |  |
 | 39.5–40.5% | 7% | 97% |  |
-| 40.5–41.5% | 14% | 90% |  |
-| 41.5–42.5% | 20% | 75% |  |
-| 42.5–43.5% | 20% | 56% | Median |
-| 43.5–44.5% | 17% | 35% |  |
-| 44.5–45.5% | 11% | 19% |  |
-| 45.5–46.5% | 5% | 8% |  |
-| 46.5–47.5% | 2% | 3% |  |
-| 47.5–48.5% | 0.6% | 0.8% |  |
-| 48.5–49.5% | 0.1% | 0.2% |  |
-| 49.5–50.5% | 0% | 0% |  |
+| 40.5–41.5% | 13% | 90% |  |
+| 41.5–42.5% | 18% | 77% |  |
+| 42.5–43.5% | 18% | 59% | Median |
+| 43.5–44.5% | 14% | 42% |  |
+| 44.5–45.5% | 10% | 27% |  |
+| 45.5–46.5% | 7% | 17% |  |
+| 46.5–47.5% | 5% | 10% |  |
+| 47.5–48.5% | 3% | 5% |  |
+| 48.5–49.5% | 1.3% | 2% |  |
+| 49.5–50.5% | 0.4% | 0.5% |  |
+| 50.5–51.5% | 0.1% | 0.1% |  |
+| 51.5–52.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -191,10 +193,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
-| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
+| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
+| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -340,9 +342,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 4% | 100% |  |
-| 9 | 66% | 96% | Median |
-| 10 | 30% | 30% |  |
-| 11 | 0.3% | 0.3% | Majority |
+| 9 | 60% | 96% | Median |
+| 10 | 35% | 36% |  |
+| 11 | 2% | 2% | Majority |
 | 12 | 0% | 0% |  |
 
 
