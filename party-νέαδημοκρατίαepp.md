@@ -195,7 +195,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 9–10 | 9–10 | 8–10 | 8–11 |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
-| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9–10 | 8–10 | 8–10 | 8–10 |
+| [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9 | 8–10 | 8–10 | 8–10 |
 | [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 10 | 10–11 | 9–11 | 9–11 | 9–11 |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
@@ -342,8 +342,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 4% | 100% |  |
-| 9 | 60% | 96% | Median |
-| 10 | 35% | 36% |  |
+| 9 | 61% | 96% | Median |
+| 10 | 34% | 36% |  |
 | 11 | 2% | 2% | Majority |
 | 12 | 0% | 0% |  |
 
