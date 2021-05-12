@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 24.7–30.0% | 24.2–30.9% | 23.7–31.6% | 22.8–32.9% |
+| N/A | [Poll Average](average.html) | 26.9% | 24.7–29.9% | 24.1–30.9% | 23.7–31.6% | 22.8–32.9% |
+| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 27.3% | 25.5–29.2% | 25.0–29.7% | 24.6–30.1% | 23.8–31.1% |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
 | [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 27.1% | 25.3–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
 | [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 26.1% | 24.4–27.9% | 23.9–28.5% | 23.5–28.9% | 22.7–29.8% |
@@ -157,12 +158,12 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0.3% | 100% |  |
 | 22.5–23.5% | 2% | 99.7% |  |
 | 23.5–24.5% | 6% | 98% |  |
-| 24.5–25.5% | 13% | 92% |  |
-| 25.5–26.5% | 19% | 78% |  |
-| 26.5–27.5% | 20% | 59% | Last Result, Median |
-| 27.5–28.5% | 16% | 40% |  |
-| 28.5–29.5% | 11% | 24% |  |
-| 29.5–30.5% | 7% | 13% |  |
+| 24.5–25.5% | 14% | 91% |  |
+| 25.5–26.5% | 20% | 78% |  |
+| 26.5–27.5% | 20% | 58% | Last Result, Median |
+| 27.5–28.5% | 15% | 38% |  |
+| 28.5–29.5% | 10% | 23% |  |
+| 29.5–30.5% | 6% | 13% |  |
 | 30.5–31.5% | 4% | 7% |  |
 | 31.5–32.5% | 2% | 3% |  |
 | 32.5–33.5% | 0.6% | 0.8% |  |
@@ -179,6 +180,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [20–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -323,9 +325,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 28% | 100% |  |
-| 6 | 63% | 72% | Last Result, Median |
-| 7 | 9% | 9% |  |
+| 5 | 29% | 100% |  |
+| 6 | 63% | 71% | Last Result, Median |
+| 7 | 8% | 8% |  |
 | 8 | 0% | 0% |  |
 
 
