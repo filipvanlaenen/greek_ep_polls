@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.2–6.3% | 4.0–6.6% | 3.8–6.9% | 3.4–7.5% |
+| N/A | [Poll Average](average.html) | 5.2% | 4.2–6.2% | 4.0–6.6% | 3.8–6.9% | 3.4–7.4% |
+| [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
@@ -159,10 +160,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.0% | 100% |  |
-| 3.5–4.5% | 20% | 99.0% |  |
-| 4.5–5.5% | 47% | 79% | Median |
-| 5.5–6.5% | 27% | 33% |  |
+| 2.5–3.5% | 0.9% | 100% |  |
+| 3.5–4.5% | 19% | 99.1% |  |
+| 4.5–5.5% | 48% | 80% | Median |
+| 5.5–6.5% | 27% | 32% |  |
 | 6.5–7.5% | 5% | 5% |  |
 | 7.5–8.5% | 0.4% | 0.4% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -177,6 +178,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 1 | 1 | 1 | 1–2 |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1 | 1 |
 | [15–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1–2 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> ANT1 | 1 | 1 | 1 | 1 | 0–1 |
@@ -324,8 +326,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 99.0% | 99.6% | Median |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 99.1% | 99.7% | Median |
 | 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
