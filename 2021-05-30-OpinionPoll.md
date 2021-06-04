@@ -87,8 +87,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 96% | 100% | Median |
-| 2 | 4% | 4% | Last Result |
+| 1 | 95% | 100% | Median |
+| 2 | 5% | 5% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Ελληνική Λύση (ECR)
@@ -152,6 +152,6 @@
 ### Calculations
 
 + **Sample size:** 1600
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.64%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.50%
 
