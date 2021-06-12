@@ -234,8 +234,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% |  |
 | 5 | 43% | 99.8% |  |
-| 6 | 52% | 57% | Last Result, Median |
-| 7 | 5% | 5% |  |
+| 6 | 53% | 57% | Last Result, Median |
+| 7 | 4% | 4% |  |
 | 8 | 0% | 0% |  |
 
 ### Νέα Δημοκρατία (EPP)
@@ -251,7 +251,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 2% | 100% |  |
 | 9 | 56% | 98% | Median |
-| 10 | 41% | 42% |  |
+| 10 | 40% | 42% |  |
 | 11 | 1.3% | 1.3% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -373,7 +373,7 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 2% | 100% |  |
 | 9 | 56% | 98% | Median |
-| 10 | 41% | 42% |  |
+| 10 | 40% | 42% |  |
 | 11 | 1.3% | 1.3% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -384,9 +384,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 1.2% | 100% |  |
-| 6 | 46% | 98.8% | Last Result |
-| 7 | 50% | 53% | Median |
-| 8 | 4% | 4% |  |
+| 6 | 45% | 98.8% | Last Result |
+| 7 | 50% | 54% | Median |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
 ### Το Ποτάμι (S&D) – Κίνημα Αλλαγής (S&D)
@@ -434,6 +434,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,373,952
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 6,291,456
 + **Error estimate:** 1.66%
