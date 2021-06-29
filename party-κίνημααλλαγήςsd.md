@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
+| N/A | [Poll Average](average.html) | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.1–10.5% |
 | [20–25 June 2021](2021-06-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
 | [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 8.0% | 7.0–9.1% | 6.8–9.5% | 6.5–9.8% | 6.1–10.3% |
-| [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 8.0% | N/A | N/A | N/A | N/A |
+| [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [4–7 June 2021](2021-06-07-GPO.html) | GPO <br> ANT1 | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.7% | 6.8–8.7% | 6.6–9.0% | 6.3–9.3% | 5.9–9.8% |
 | [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 8.4% | 7.5–9.3% | 7.3–9.6% | 7.1–9.8% | 6.7–10.3% |
@@ -171,9 +171,9 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 2% | 100% |  |
 | 6.5–7.5% | 21% | 98% |  |
-| 7.5–8.5% | 45% | 77% | Median |
-| 8.5–9.5% | 27% | 32% |  |
-| 9.5–10.5% | 5% | 6% |  |
+| 7.5–8.5% | 45% | 76% | Median |
+| 8.5–9.5% | 26% | 32% |  |
+| 9.5–10.5% | 5% | 5% |  |
 | 10.5–11.5% | 0.4% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -189,7 +189,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–25 June 2021](2021-06-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
+| [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–7 June 2021](2021-06-07-GPO.html) | GPO <br> ANT1 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -342,8 +342,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 29% | 100% |  |
-| 2 | 71% | 71% | Median |
+| 1 | 28% | 100% |  |
+| 2 | 72% | 72% | Median |
 | 3 | 0% | 0% |  |
 
 
