@@ -185,7 +185,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–25 June 2021](2021-06-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–7 June 2021](2021-06-07-GPO.html) | GPO <br> ANT1 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1–2 |
 | [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1 | 1–2 | 1–2 |
