@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:49 +0100</pubDate>
     <item>
+      <title>Opinion Poll by GPO for Τα Νέα, 1–2 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-07-02-GPO.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by GPO for Τα Νέα, 1–2 July 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-07-02-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-02-GPO.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-02-GPO.png" length="253455" type="image/png"/>
+      <pubDate>Tue, 6 Jul 2021 19:41:22 +0200</pubDate>
+      <dc:date>2021-07-06T19:41:22.334111+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 20–25 June 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-06-25-Marc.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Marc for Πρώτο ΘΕΜΑ, 20–25 June 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-06-25-Marc.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-06-25-Marc-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-05-17-Interview.png" length="256486" type="image/png"/>
       <pubDate>Fri, 21 May 2021 13:23:35 +0200</pubDate>
       <dc:date>2021-05-21T13:23:35.726959+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GPO for ANT1, 5–7 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by GPO for ANT1, 5–7 May 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO-seating-plan.png" length="400130" type="image/png"/>
-      <pubDate>Wed, 12 May 2021 19:40:37 +0200</pubDate>
-      <dc:date>2021-05-12T19:40:37.048151+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GPO for ANT1, 5–7 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by GPO for ANT1, 5–7 May 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO-seats.png" length="207556" type="image/png"/>
-      <pubDate>Wed, 12 May 2021 19:40:37 +0200</pubDate>
-      <dc:date>2021-05-12T19:40:37.048151+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GPO for ANT1, 5–7 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by GPO for ANT1, 5–7 May 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-05-07-GPO.png" length="254038" type="image/png"/>
-      <pubDate>Wed, 12 May 2021 19:40:37 +0200</pubDate>
-      <dc:date>2021-05-12T19:40:37.048151+02:00</dc:date>
     </item>
   </channel>
 </rss>
