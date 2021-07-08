@@ -189,7 +189,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [1–2 July 2021](2021-07-02-GPO.html) | GPO <br> Τα Νέα | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [1–2 July 2021](2021-07-02-GPO.html) | GPO <br> Τα Νέα | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [20–25 June 2021](2021-06-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 6 | 6 | 5–7 | 5–7 | 5–7 |
