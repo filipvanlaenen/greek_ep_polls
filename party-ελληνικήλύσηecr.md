@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.9–5.8% | 3.7–6.1% | 3.5–6.4% | 3.1–6.9% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.8–5.8% | 3.6–6.1% | 3.4–6.3% | 3.1–6.8% |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | 4.5–6.1% | 4.3–6.3% | 4.1–6.6% | 3.8–7.0% |
+| [1–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.3–5.5% | 3.0–6.0% |
 | [4–7 July 2021](2021-07-07-MRB.html) | MRB <br> Star | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [1–2 July 2021](2021-07-02-GPO.html) | GPO <br> Τα Νέα | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [20–25 June 2021](2021-06-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
@@ -170,10 +171,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 32% | 96% |  |
-| 4.5–5.5% | 47% | 64% | Median |
-| 5.5–6.5% | 16% | 18% |  |
-| 6.5–7.5% | 1.3% | 1.4% |  |
+| 3.5–4.5% | 36% | 96% |  |
+| 4.5–5.5% | 45% | 60% | Median |
+| 5.5–6.5% | 14% | 15% |  |
+| 6.5–7.5% | 1.2% | 1.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -187,6 +188,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1 |
+| [1–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 1 | 1 | 1 | 0–1 | 0–1 |
 | [4–7 July 2021](2021-07-07-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–2 July 2021](2021-07-02-GPO.html) | GPO <br> Τα Νέα | 1 | 1 | 1 | 1 | 1 |
 | [20–25 June 2021](2021-06-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -343,8 +345,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.4% | 100% | Last Result |
-| 1 | 98.5% | 98.6% | Median |
+| 0 | 2% | 100% | Last Result |
+| 1 | 98% | 98% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
