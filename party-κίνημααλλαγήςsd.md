@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 7.0–9.8% | 6.7–10.3% | 6.5–10.7% | 6.0–11.6% |
+| N/A | [Poll Average](average.html) | 8.2% | 7.0–9.7% | 6.7–10.3% | 6.5–10.7% | 6.0–11.6% |
+| [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 9.7% | 8.6–11.0% | 8.3–11.4% | 8.0–11.7% | 7.5–12.3% |
 | [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.5% | 6.6–8.5% | 6.4–8.8% | 6.2–9.1% | 5.8–9.6% |
@@ -178,7 +179,7 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 3% | 99.9% |  |
 | 6.5–7.5% | 22% | 97% |  |
 | 7.5–8.5% | 38% | 75% | Median |
-| 8.5–9.5% | 24% | 37% |  |
+| 8.5–9.5% | 24% | 36% |  |
 | 9.5–10.5% | 9% | 13% |  |
 | 10.5–11.5% | 3% | 3% |  |
 | 11.5–12.5% | 0.5% | 0.5% |  |
@@ -194,6 +195,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 2 | 2 | 2 | 2 | 1–3 |
 | [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -355,8 +357,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 28% | 100% |  |
-| 2 | 71% | 72% | Median |
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
