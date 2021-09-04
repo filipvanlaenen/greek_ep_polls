@@ -1,4 +1,4 @@
-# Opinion Poll by Opinion Poll for Political, 15–19 February 2021
+# Opinion Poll by Opinion Poll, 15–19 February 2021
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -29,7 +29,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#νέα-δημοκρατία-(epp)">Νέα Δημοκρατία (EPP)</a> | 5 | 10 | 9–10 |9–11 |9–11 |9–11 |
+| <a href="#νέα-δημοκρατία-(epp)">Νέα Δημοκρατία (EPP)</a> | 5 | 10 | 10 |9–11 |9–11 |9–11 |
 | <a href="#συνασπισμός-ριζοσπαστικής-αριστεράς-(gue/ngl)">Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)</a> | 6 | 5 | 5–6 |5–6 |5–6 |5–6 |
 | <a href="#κίνημα-αλλαγής-(s&d)">Κίνημα Αλλαγής (S&D)</a> | 0 | 2 | 2 |1–2 |1–2 |1–2 |
 | <a href="#κομμουνιστικό-κόμμα-ελλάδας-(ni)">Κομμουνιστικό Κόμμα Ελλάδας (NI)</a> | 2 | 1 | 1 |1–2 |1–2 |1–2 |
@@ -48,9 +48,9 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 11% | 100% |  |
-| 10 | 83% | 89% | Median |
-| 11 | 6% | 6% | Majority |
+| 9 | 9% | 100% |  |
+| 10 | 85% | 91% | Median |
+| 11 | 5% | 5% | Majority |
 | 12 | 0% | 0% |  |
 
 ### Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)
@@ -61,9 +61,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% |  |
-| 5 | 74% | 99.7% | Median |
-| 6 | 26% | 26% | Last Result |
+| 4 | 0.2% | 100% |  |
+| 5 | 72% | 99.8% | Median |
+| 6 | 28% | 28% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Κίνημα Αλλαγής (S&D)
@@ -75,9 +75,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 9% | 100% |  |
-| 2 | 91% | 91% | Median |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 7% | 100% |  |
+| 2 | 93% | 93% | Median |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Κομμουνιστικό Κόμμα Ελλάδας (NI)
@@ -113,8 +113,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% | Last Result |
-| 1 | 86% | 86% | Median |
+| 0 | 18% | 100% | Last Result |
+| 1 | 82% | 82% | Median |
 | 2 | 0% | 0% |  |
 
 
@@ -126,7 +126,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Νέα Δημοκρατία (EPP) | 5 | 10 | 6% | 9–10 | 9–11 | 9–11 | 9–11 |
+| Νέα Δημοκρατία (EPP) | 5 | 10 | 5% | 10 | 9–11 | 9–11 | 9–11 |
 
 ### Νέα Δημοκρατία (EPP)
 
@@ -138,9 +138,9 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 11% | 100% |  |
-| 10 | 83% | 89% | Median |
-| 11 | 6% | 6% | Majority |
+| 9 | 9% | 100% |  |
+| 10 | 85% | 91% | Median |
+| 11 | 5% | 5% | Majority |
 | 12 | 0% | 0% |  |
 
 
@@ -149,12 +149,12 @@
 ### Opinion Poll
 
 + **Polling firm:** Opinion Poll
-+ **Commissioner(s):** Political
++ **Commissioner(s):** —
 + **Fieldwork period:** 15–19 February 2021
 
 ### Calculations
 
 + **Sample size:** 1003
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.47%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.89%
 

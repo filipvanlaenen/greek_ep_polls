@@ -1,4 +1,4 @@
-# Opinion Poll by Metron Analysis for Mega, 19–25 January 2021
+# Opinion Poll by Metron Analysis for Mega TV, 19–25 January 2021
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -49,7 +49,7 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 7% | 100% |  |
-| 10 | 86% | 93% | Median |
+| 10 | 87% | 93% | Median |
 | 11 | 7% | 7% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -62,8 +62,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
-| 5 | 64% | 99.9% | Median |
-| 6 | 35% | 35% | Last Result |
+| 5 | 63% | 99.9% | Median |
+| 6 | 36% | 37% | Last Result |
 | 7 | 0% | 0% |  |
 
 ### Κίνημα Αλλαγής (S&D)
@@ -75,8 +75,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 21% | 100% |  |
-| 2 | 79% | 79% | Median |
+| 1 | 17% | 100% |  |
+| 2 | 83% | 83% | Median |
 | 3 | 0% | 0% |  |
 
 ### Κομμουνιστικό Κόμμα Ελλάδας (NI)
@@ -99,8 +99,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% | Last Result |
-| 1 | 99.4% | 99.4% | Median |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 99.5% | 99.5% | Median |
 | 2 | 0% | 0% |  |
 
 ### Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL)
@@ -111,8 +111,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 47% | 47% |  |
+| 0 | 59% | 100% | Last Result, Median |
+| 1 | 41% | 41% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -137,7 +137,7 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 7% | 100% |  |
-| 10 | 86% | 93% | Median |
+| 10 | 87% | 93% | Median |
 | 11 | 7% | 7% | Majority |
 | 12 | 0% | 0% |  |
 
@@ -147,12 +147,12 @@
 ### Opinion Poll
 
 + **Polling firm:** Metron Analysis
-+ **Commissioner(s):** Mega
++ **Commissioner(s):** Mega TV
 + **Fieldwork period:** 19–25 January 2021
 
 ### Calculations
 
 + **Sample size:** 1200
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.40%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.88%
 
