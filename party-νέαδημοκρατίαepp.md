@@ -213,7 +213,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [7–11 July 2021](2021-07-11-Prorata.html) | Prorata | 9 | 9 | 8–9 | 8–9 | 8–10 |
 | [7–10 July 2021](2021-07-10-GPO.html) | GPO <br> Powergame.gr | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
-| [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9 | 9 | 8–9 | 8–9 |
+| [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9 | 9 | 8–9 | 8–10 |
 | [30 June–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [23 June–1 July 2021](2021-07-01-MRB.html) | MRB | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [26–29 June 2021](2021-06-29-GPO.html) | GPO <br> Τα Νέα | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
@@ -372,8 +372,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 25% | 100% |  |
-| 9 | 72% | 75% | Median |
+| 8 | 23% | 100% |  |
+| 9 | 75% | 77% | Median |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
 
