@@ -224,9 +224,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 18% | 100% |  |
-| 6 | 70% | 82% | Last Result, Median |
-| 7 | 11% | 11% |  |
+| 5 | 19% | 100% |  |
+| 6 | 69% | 81% | Last Result, Median |
+| 7 | 12% | 12% |  |
 | 8 | 0% | 0% |  |
 
 ### Νέα Δημοκρατία (EPP)
@@ -240,8 +240,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 25% | 100% |  |
-| 9 | 72% | 75% | Median |
+| 8 | 23% | 100% |  |
+| 9 | 75% | 77% | Median |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -290,8 +290,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 46% | 100% |  |
-| 2 | 54% | 54% | Median |
+| 1 | 47% | 100% |  |
+| 2 | 53% | 53% | Median |
 | 3 | 0% | 0% |  |
 
 ### Λαϊκή Ενότητα (GUE/NGL)
@@ -333,8 +333,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% | Last Result |
-| 1 | 76% | 76% | Median |
+| 0 | 26% | 100% | Last Result |
+| 1 | 74% | 74% | Median |
 | 2 | 0% | 0% |  |
 
 
@@ -362,8 +362,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 25% | 100% |  |
-| 9 | 72% | 75% | Median |
+| 8 | 23% | 100% |  |
+| 9 | 75% | 77% | Median |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
 
@@ -374,9 +374,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
-| 6 | 32% | 99.8% | Last Result |
-| 7 | 67% | 68% | Median |
-| 8 | 1.2% | 1.2% |  |
+| 6 | 34% | 99.8% | Last Result |
+| 7 | 65% | 66% | Median |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 ### Το Ποτάμι (S&D) – Κίνημα Αλλαγής (S&D)
@@ -385,8 +385,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 46% | 100% |  |
-| 2 | 54% | 54% | Last Result, Median |
+| 1 | 47% | 100% |  |
+| 2 | 53% | 53% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Χρυσή Αυγή (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI)
@@ -424,6 +424,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,490,368
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.69%
