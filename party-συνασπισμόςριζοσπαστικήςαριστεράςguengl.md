@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.3% | 25.1–30.5% | 24.5–31.1% | 24.0–31.6% | 23.1–32.5% |
+| N/A | [Poll Average](average.html) | 27.6% | 25.0–30.5% | 24.4–31.1% | 24.0–31.6% | 23.1–32.5% |
+| [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 26.9% | 25.2–28.8% | 24.7–29.3% | 24.3–29.8% | 23.5–30.7% |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 25.4% | 23.9–27.0% | 23.5–27.5% | 23.2–27.9% | 22.5–28.6% |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 28.4% | 26.6–30.3% | 26.1–30.8% | 25.7–31.3% | 24.8–32.2% |
 | [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 30.3% | 28.9–31.7% | 28.5–32.1% | 28.2–32.4% | 27.5–33.1% |
@@ -173,14 +174,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 1.0% | 99.9% |  |
-| 23.5–24.5% | 4% | 98.9% |  |
-| 24.5–25.5% | 11% | 95% |  |
-| 25.5–26.5% | 19% | 84% |  |
-| 26.5–27.5% | 19% | 64% | Last Result, Median |
-| 27.5–28.5% | 13% | 45% |  |
-| 28.5–29.5% | 12% | 32% |  |
-| 29.5–30.5% | 11% | 20% |  |
+| 22.5–23.5% | 1.1% | 99.9% |  |
+| 23.5–24.5% | 5% | 98.8% |  |
+| 24.5–25.5% | 10% | 94% |  |
+| 25.5–26.5% | 16% | 84% |  |
+| 26.5–27.5% | 18% | 68% | Last Result |
+| 27.5–28.5% | 16% | 50% | Median |
+| 28.5–29.5% | 13% | 35% |  |
+| 29.5–30.5% | 11% | 21% |  |
 | 30.5–31.5% | 7% | 10% |  |
 | 31.5–32.5% | 2% | 3% |  |
 | 32.5–33.5% | 0.4% | 0.4% |  |
@@ -196,6 +197,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -358,8 +360,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 19% | 100% |  |
-| 6 | 69% | 81% | Last Result, Median |
+| 5 | 18% | 100% |  |
+| 6 | 70% | 82% | Last Result, Median |
 | 7 | 12% | 12% |  |
 | 8 | 0% | 0% |  |
 
