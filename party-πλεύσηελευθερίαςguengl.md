@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.9% | 1.4–2.5% | 1.2–2.7% | 1.2–2.8% | 1.0–3.2% |
+| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
+| [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
@@ -189,6 +192,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0–1 |
+| [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
@@ -352,8 +358,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0.9% | 0.9% |  |
 | 2 | 0% | 0% |  |
 
 
