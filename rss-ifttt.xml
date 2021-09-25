@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:49 +0100</pubDate>
     <item>
+      <title>Opinion Poll by MRB for Star, 22 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-09-22-MRB.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by MRB for Star, 22 September 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-09-22-MRB.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-09-22-MRB.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-09-22-MRB.png" length="300039" type="image/png"/>
+      <pubDate>Sat, 25 Sep 2021 19:40:35 +0200</pubDate>
+      <dc:date>2021-09-25T19:40:35.206446+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Alco for Open TV, 13–17 September 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-09-17-Alco.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Alco for Open TV, 13–17 September 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-09-17-Alco.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-09-17-Alco.png"/>]]></description>
@@ -148,54 +156,6 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-17-Alco.png" length="278761" type="image/png"/>
       <pubDate>Tue, 20 Jul 2021 20:33:50 +0200</pubDate>
       <dc:date>2021-07-20T20:33:50.563907+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Prorata, 7–11 July 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Prorata, 7–11 July 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata-seating-plan.png" length="400143" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 13:11:25 +0200</pubDate>
-      <dc:date>2021-09-05T13:11:25.829281+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Prorata, 7–11 July 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Prorata, 7–11 July 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata-seats.png" length="206005" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 13:11:25 +0200</pubDate>
-      <dc:date>2021-09-05T13:11:25.829281+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Prorata, 7–11 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Prorata, 7–11 July 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-11-Prorata.png" length="241002" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 13:11:25 +0200</pubDate>
-      <dc:date>2021-09-05T13:11:25.829281+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GPO for Powergame.gr, 7–10 July 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by GPO for Powergame.gr, 7–10 July 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO-seating-plan.png" length="404987" type="image/png"/>
-      <pubDate>Sat, 4 Sep 2021 20:37:03 +0200</pubDate>
-      <dc:date>2021-09-04T20:37:03.284478+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GPO for Powergame.gr, 7–10 July 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by GPO for Powergame.gr, 7–10 July 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO-seats.png" length="210628" type="image/png"/>
-      <pubDate>Sat, 4 Sep 2021 20:37:03 +0200</pubDate>
-      <dc:date>2021-09-04T20:37:03.284478+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by GPO for Powergame.gr, 7–10 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by GPO for Powergame.gr, 7–10 July 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-07-10-GPO.png" length="256543" type="image/png"/>
-      <pubDate>Sat, 4 Sep 2021 20:37:03 +0200</pubDate>
-      <dc:date>2021-09-04T20:37:03.284478+02:00</dc:date>
     </item>
   </channel>
 </rss>
