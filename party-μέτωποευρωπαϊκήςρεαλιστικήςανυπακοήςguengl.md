@@ -197,7 +197,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1 | 0–1 |
-| [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

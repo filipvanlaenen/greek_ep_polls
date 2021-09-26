@@ -12,7 +12,7 @@ Last result: **22.7%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 40.3% | 38.3–44.0% | 37.7–45.3% | 37.2–46.1% | 36.2–47.5% |
 | [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 40.6% | 38.6–42.6% | 38.1–43.2% | 37.6–43.7% | 36.7–44.7% |
-| [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 39.7% | 38.3–41.1% | 37.9–41.5% | 37.5–41.9% | 36.9–42.5% |
+| [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 39.7% | 38.3–41.1% | 37.9–41.5% | 37.6–41.9% | 36.9–42.5% |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 39.1% | 37.1–41.1% | 36.6–41.7% | 36.1–42.2% | 35.2–43.1% |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 41.4% | 39.4–43.4% | 38.9–44.0% | 38.4–44.5% | 37.4–45.5% |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 41.3% | 39.3–43.3% | 38.8–43.9% | 38.3–44.4% | 37.3–45.4% |
@@ -215,9 +215,9 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
-| [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
@@ -387,9 +387,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 24% | 100% |  |
-| 9 | 65% | 76% | Median |
-| 10 | 10% | 10% |  |
+| 8 | 27% | 100% |  |
+| 9 | 64% | 73% | Median |
+| 10 | 9% | 9% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
 
