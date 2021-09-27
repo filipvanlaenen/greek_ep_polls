@@ -206,7 +206,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6 | 5–6 | 5–7 |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 6 | 6 | 6–7 | 5–7 | 5–7 |
-| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 6 | 6 | 6–7 | 5–7 | 5–7 |

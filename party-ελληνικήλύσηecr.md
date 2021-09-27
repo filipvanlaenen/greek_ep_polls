@@ -200,9 +200,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
 | [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1 | 1 |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1 |
-| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1 | 1–2 |
+| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1–2 | 1–2 |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1 | 0–1 |
-| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1 | 1 | 1 | 0–1 |
+| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1 | 1 | 0–1 | 0–1 |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 1 | 1 | 1 | 1 | 0–1 |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 1 | 1 | 1 | 1 | 1 |
@@ -366,9 +366,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% | Last Result |
-| 1 | 99.0% | 99.3% | Median |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 0.8% | 100% | Last Result |
+| 1 | 98.7% | 99.2% | Median |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 

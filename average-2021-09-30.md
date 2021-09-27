@@ -12,8 +12,8 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 24–32% <br> 5–7 | 37–46% <br> 8–10 | 1–2% <br> 0 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 3–6% <br> 1 | 2–5% <br> 0–1 |
 | [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 26–31% <br> 6–7 | 38–44% <br> 8–9 | 1–2% <br> 0 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 3–6% <br> 1 | 3–6% <br> 1 |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26–30% <br> 5–6 | 38–42% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 3–4% <br> 0–1 |
-| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 25–30% <br> 5–7 | 36–42% <br> 8–9 | 1–2% <br> 0 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 4–7% <br> 1 | 3–5% <br> 0–1 |
-| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 26–32% <br> 6–7 | 38–44% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 1 | 3–5% <br> 0–1 |
+| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 25–30% <br> 5–7 | 36–42% <br> 8–9 | 1–2% <br> 0 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | 4–7% <br> 1–2 | 3–5% <br> 0–1 |
+| [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 26–32% <br> 5–7 | 38–44% <br> 8–10 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–1 | 3–5% <br> 0–1 |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 24–30% <br> 5–6 | 42–48% <br> 9–10 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 1 | 3–6% <br> 0–1 |
 | [23–27 August 2021](2021-08-27-Interview.html) | Interview <br> Politic.gr | 23–28% <br> 5–6 | 37–42% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 3–6% <br> 1 |
 | [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 28–32% <br> 6–7 | 38–42% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1 | 2–3% <br> 0–1 |
@@ -261,8 +261,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 27% | 100% |  |
-| 9 | 64% | 73% | Median |
+| 8 | 29% | 100% |  |
+| 9 | 62% | 71% | Median |
 | 10 | 9% | 9% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
@@ -337,8 +337,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0.4% | 0.4% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 ### Ελληνική Λύση (ECR)
@@ -349,9 +349,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% | Last Result |
-| 1 | 99.0% | 99.3% | Median |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 0.8% | 100% | Last Result |
+| 1 | 98.7% | 99.2% | Median |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 ### Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL)
@@ -391,8 +391,8 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 27% | 100% |  |
-| 9 | 64% | 73% | Median |
+| 8 | 29% | 100% |  |
+| 9 | 62% | 71% | Median |
 | 10 | 9% | 9% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
@@ -403,9 +403,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.2% | 100% |  |
-| 6 | 27% | 99.8% | Last Result |
-| 7 | 68% | 72% | Median |
+| 5 | 0.3% | 100% |  |
+| 6 | 28% | 99.7% | Last Result |
+| 7 | 67% | 72% | Median |
 | 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
@@ -437,9 +437,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% |  |
-| 1 | 99.0% | 99.3% | Last Result, Median |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 0.8% | 100% |  |
+| 1 | 98.7% | 99.2% | Last Result, Median |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 ### Ένωση Κεντρώων (RE)
@@ -454,6 +454,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,980,736
-+ **Error estimate:** 0.90%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 7,340,032
++ **Error estimate:** 0.93%

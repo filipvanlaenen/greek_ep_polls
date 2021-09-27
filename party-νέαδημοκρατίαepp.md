@@ -218,7 +218,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
-| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
+| [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [2–7 September 2021](2021-09-07-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
@@ -387,8 +387,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 27% | 100% |  |
-| 9 | 64% | 73% | Median |
+| 8 | 29% | 100% |  |
+| 9 | 62% | 71% | Median |
 | 10 | 9% | 9% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
