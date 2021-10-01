@@ -215,14 +215,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–10 July 2021](2021-07-10-GPO.html) | GPO <br> Powergame.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 June–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [23 June–1 July 2021](2021-07-01-MRB.html) | MRB | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [23 June–1 July 2021](2021-07-01-MRB.html) | MRB | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [26–29 June 2021](2021-06-29-GPO.html) | GPO <br> Τα Νέα | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–24 June 2021](2021-06-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–5 June 2021](2021-06-05-GPO.html) | GPO <br> Powergame.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 2 | 2 | 1–2 | 1–2 | 1–2 |

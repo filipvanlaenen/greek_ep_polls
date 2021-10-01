@@ -233,13 +233,13 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [23 June–1 July 2021](2021-07-01-MRB.html) | MRB | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [26–29 June 2021](2021-06-29-GPO.html) | GPO <br> Τα Νέα | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [18–24 June 2021](2021-06-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10 | 9–10 | 9–10 | 9–11 | 9–11 |
-| [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 9 | 9 | 8–10 | 8–10 | 8–10 |
+| [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 9 | 9 | 9–10 | 8–10 | 8–10 |
 | [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [3–5 June 2021](2021-06-05-GPO.html) | GPO <br> Powergame.gr | 9 | 9–10 | 9–10 | 8–10 | 8–10 |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9 | 8–9 | 8–10 | 8–10 |
-| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 10 | 10 | 10 | 10–11 | 9–11 |
+| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 10 | 10 | 10 | 9–11 | 9–11 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
-| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 9 | 9 | 9 | 9–10 | 8–10 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
@@ -261,7 +261,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9 | 9–10 | 8–10 | 8–10 |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 10 | 9–11 | 9–11 | 9–11 |
 | [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 9 | 9 | 8–10 | 8–10 | 8–10 |
-| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 10 | 10 | 9–11 | 9–11 | 9–11 |
+| [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 10 | 9–10 | 9–11 | 9–11 | 9–11 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
@@ -273,7 +273,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
-| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [26 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [24–27 November 2020](2020-11-27-Prorata.html) | Prorata | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [24–26 November 2020](2020-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–10 | 9–10 | 9–10 | 9–10 |

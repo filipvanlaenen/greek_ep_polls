@@ -217,15 +217,15 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [30 June–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [23 June–1 July 2021](2021-07-01-MRB.html) | MRB | 6 | 6 | 6 | 6 | 5–7 |
-| [26–29 June 2021](2021-06-29-GPO.html) | GPO <br> Τα Νέα | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [26–29 June 2021](2021-06-29-GPO.html) | GPO <br> Τα Νέα | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [18–24 June 2021](2021-06-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [3–5 June 2021](2021-06-05-GPO.html) | GPO <br> Powergame.gr | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5 | 5 | 5–6 | 5–6 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
