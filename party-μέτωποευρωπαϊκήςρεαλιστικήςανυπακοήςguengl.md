@@ -225,13 +225,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–23 April 2021](2021-04-23-OpinionPoll.html) | Opinion Poll | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 0–1 | 0–1 |
+| [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 0–1 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–9 April 2021](2021-04-09-GPO.html) | GPO <br> Powergame.gr | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [31 March–6 April 2021](2021-04-06-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 1 | 1 | 0–1 | 0–1 |
 | [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–22 March 2021](2021-03-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 1 |
+| [16–22 March 2021](2021-03-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 0–1 |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -251,7 +251,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26 November–2 December 2020](2020-12-02-Interview.html) | Interview <br> Βεργίνα TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

@@ -239,7 +239,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–22 March 2021](2021-03-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Powergame.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -255,7 +255,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 2 | 1–2 | 1–2 | 1–2 | 1–2 |

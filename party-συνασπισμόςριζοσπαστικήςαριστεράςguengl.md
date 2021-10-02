@@ -249,7 +249,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5 | 4–5 | 4–6 | 4–6 |
+| [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5 | 5 | 4–6 | 4–6 |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 6 | 5–6 | 5–6 | 5–7 | 5–7 |

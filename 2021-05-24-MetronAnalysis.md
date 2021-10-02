@@ -73,8 +73,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 28% | 100% |  |
-| 2 | 72% | 72% | Median |
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Median |
 | 3 | 0% | 0% |  |
 
 ### Κομμουνιστικό Κόμμα Ελλάδας (NI)
@@ -152,6 +152,6 @@
 ### Calculations
 
 + **Sample size:** 1202
-+ **Simulations done:** 262,144
-+ **Error estimate:** 0.78%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.55%
 

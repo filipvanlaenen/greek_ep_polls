@@ -270,7 +270,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 10 | 10–11 | 10–11 | 10–11 | 10–11 |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 10 | 10–11 | 10–11 | 10–11 | 9–11 |
-| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [27 November–11 December 2020](2020-12-11-MRB.html) | MRB <br> Star | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [3–9 December 2020](2020-12-09-Alco.html) | Alco <br> Open TV | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [3–7 December 2020](2020-12-07-Interview.html) | Interview <br> Political | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
