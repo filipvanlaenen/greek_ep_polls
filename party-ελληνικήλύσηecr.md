@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.8–5.8% | 3.6–6.1% | 3.4–6.3% | 3.1–6.9% |
-| [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.8–5.8% | 3.6–6.1% | 3.4–6.4% | 3.1–6.9% |
+| [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5.5% | N/A | N/A | N/A | N/A |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | 4.6–5.9% | 4.5–6.1% | 4.3–6.3% | 4.0–6.6% |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 4.6% | N/A | N/A | N/A | N/A |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
@@ -181,11 +182,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 35% | 96% |  |
+| 3.5–4.5% | 34% | 96% |  |
 | 4.5–5.5% | 45% | 62% | Median |
-| 5.5–6.5% | 15% | 17% |  |
-| 6.5–7.5% | 1.3% | 1.3% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 5.5–6.5% | 16% | 18% |  |
+| 6.5–7.5% | 1.4% | 1.4% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -197,9 +198,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
-| [22 September 2021](2021-09-22-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1 | 1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–2 |
+| [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1 |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1–2 | 1–2 |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 1 | 1 | 1 | 1 | 0–1 |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -222,10 +224,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1 | 1 | 1 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 1 |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1 | 1 |
-| [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1–2 |
+| [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1 | 1 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr | 1 | 1 | 1 | 1 | 0–1 |
 | [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1 | 1 | 1–2 |
-| [23–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1 |
+| [23–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 0–1 |
 | [19–23 April 2021](2021-04-23-OpinionPoll.html) | Opinion Poll | 1 | 1 | 1 | 1 | 1 |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1–2 |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -366,8 +368,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% | Last Result |
-| 1 | 98.7% | 99.2% | Median |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 98.6% | 99.1% | Median |
 | 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
