@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.7–8.8% | 6.4–9.1% | 6.1–9.4% | 5.7–10.1% |
-| [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 7.7% | 6.7–8.8% | 6.4–9.2% | 6.1–9.5% | 5.7–10.1% |
+| [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.4% | 6.4–8.5% | 6.2–8.9% | 5.9–9.2% | 5.5–9.7% |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
-| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 8.1% | N/A | N/A | N/A | N/A |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
@@ -185,11 +185,11 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.3% | 100% |  |
 | 5.5–6.5% | 7% | 99.7% |  |
-| 6.5–7.5% | 36% | 92% |  |
-| 7.5–8.5% | 41% | 56% | Median |
-| 8.5–9.5% | 13% | 15% |  |
+| 6.5–7.5% | 35% | 92% |  |
+| 7.5–8.5% | 41% | 57% | Median |
+| 8.5–9.5% | 14% | 16% |  |
 | 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -202,9 +202,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -372,8 +372,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 42% | 100% |  |
-| 2 | 58% | 58% | Median |
+| 1 | 38% | 100% |  |
+| 2 | 62% | 62% | Median |
 | 3 | 0% | 0% |  |
 
 
