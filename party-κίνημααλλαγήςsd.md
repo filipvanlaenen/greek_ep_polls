@@ -210,7 +210,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -378,8 +378,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 36% | 100% |  |
-| 2 | 64% | 64% | Median |
+| 1 | 37% | 100% |  |
+| 2 | 63% | 63% | Median |
 | 3 | 0% | 0% |  |
 
 
