@@ -320,8 +320,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 37% | 100% |  |
-| 2 | 63% | 63% | Median |
+| 1 | 36% | 100% |  |
+| 2 | 64% | 64% | Median |
 | 3 | 0% | 0% |  |
 
 ### Λαϊκή Ενότητα (GUE/NGL)
@@ -407,7 +407,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
 | 6 | 20% | 99.8% | Last Result |
-| 7 | 74% | 80% | Median |
+| 7 | 74% | 79% | Median |
 | 8 | 6% | 6% |  |
 | 9 | 0% | 0% |  |
 
@@ -417,8 +417,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 37% | 100% |  |
-| 2 | 63% | 63% | Last Result, Median |
+| 1 | 36% | 100% |  |
+| 2 | 64% | 64% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Χρυσή Αυγή (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI)
@@ -456,6 +456,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 7,471,104
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 8,388,608
 + **Error estimate:** 1.16%
