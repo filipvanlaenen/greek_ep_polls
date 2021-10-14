@@ -233,7 +233,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 6 | 6 | 5–7 | 5–7 | 5–7 |
-| [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [23–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
