@@ -11,6 +11,9 @@ Last result: **9.4%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 0.9–1.9% | 0.8–2.1% | 0.7–2.2% | 0.6–2.6% |
+| [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 0.0% | N/A | N/A | N/A | N/A |
+| [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
+| [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.0% | N/A | N/A | N/A | N/A |
 | [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
@@ -202,6 +205,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
