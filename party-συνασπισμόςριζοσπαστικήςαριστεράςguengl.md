@@ -10,10 +10,10 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.8% | 25.1–31.1% | 24.5–31.9% | 23.9–32.5% | 22.9–33.7% |
+| N/A | [Poll Average](average.html) | 27.7% | 25.2–30.9% | 24.5–31.7% | 24.0–32.4% | 23.0–33.6% |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 25.3% | 23.7–27.0% | 23.2–27.5% | 22.8–27.9% | 22.1–28.8% |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 31.1% | 29.4–32.9% | 28.9–33.4% | 28.5–33.9% | 27.7–34.8% |
-| [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 27.1% | N/A | N/A | N/A | N/A |
+| [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 27.1% | 25.4–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 27.2% | 25.6–29.0% | 25.1–29.5% | 24.7–29.9% | 23.9–30.8% |
 | [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 26.2% | 24.6–27.8% | 24.1–28.3% | 23.7–28.7% | 23.0–29.6% |
 | [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
@@ -186,16 +186,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.2% | 99.8% |  |
-| 23.5–24.5% | 4% | 98.5% |  |
-| 24.5–25.5% | 9% | 94% |  |
-| 25.5–26.5% | 13% | 86% |  |
-| 26.5–27.5% | 17% | 72% | Last Result |
-| 27.5–28.5% | 17% | 55% | Median |
-| 28.5–29.5% | 14% | 38% |  |
-| 29.5–30.5% | 10% | 24% |  |
-| 30.5–31.5% | 7% | 14% |  |
-| 31.5–32.5% | 4% | 7% |  |
+| 22.5–23.5% | 1.1% | 99.8% |  |
+| 23.5–24.5% | 4% | 98.7% |  |
+| 24.5–25.5% | 9% | 95% |  |
+| 25.5–26.5% | 14% | 86% |  |
+| 26.5–27.5% | 19% | 72% | Last Result |
+| 27.5–28.5% | 18% | 53% | Median |
+| 28.5–29.5% | 13% | 35% |  |
+| 29.5–30.5% | 9% | 22% |  |
+| 30.5–31.5% | 6% | 12% |  |
+| 31.5–32.5% | 4% | 6% |  |
 | 32.5–33.5% | 2% | 2% |  |
 | 33.5–34.5% | 0.5% | 0.6% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
@@ -213,7 +213,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
@@ -387,8 +387,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 16% | 100% |  |
-| 6 | 67% | 84% | Last Result, Median |
-| 7 | 17% | 17% |  |
+| 6 | 69% | 84% | Last Result, Median |
+| 7 | 15% | 15% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
