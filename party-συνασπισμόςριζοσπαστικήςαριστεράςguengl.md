@@ -10,7 +10,9 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.7% | 25.2–30.9% | 24.5–31.7% | 24.0–32.4% | 23.0–33.6% |
+| N/A | [Poll Average](average.html) | 27.8% | 25.3–30.8% | 24.6–31.6% | 24.0–32.3% | 23.1–33.6% |
+| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 27.3% | 25.5–29.1% | 25.0–29.6% | 24.6–30.1% | 23.8–31.0% |
+| [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 28.3% | 26.5–30.2% | 26.0–30.7% | 25.6–31.2% | 24.8–32.1% |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 25.3% | 23.7–27.0% | 23.2–27.5% | 22.8–27.9% | 22.1–28.8% |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 31.1% | 29.4–32.9% | 28.9–33.4% | 28.5–33.9% | 27.7–34.8% |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 27.1% | 25.4–29.0% | 24.9–29.5% | 24.4–29.9% | 23.6–30.8% |
@@ -186,18 +188,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.1% | 99.8% |  |
-| 23.5–24.5% | 4% | 98.7% |  |
-| 24.5–25.5% | 9% | 95% |  |
-| 25.5–26.5% | 14% | 86% |  |
-| 26.5–27.5% | 19% | 72% | Last Result |
-| 27.5–28.5% | 18% | 53% | Median |
-| 28.5–29.5% | 13% | 35% |  |
-| 29.5–30.5% | 9% | 22% |  |
+| 22.5–23.5% | 1.0% | 99.8% |  |
+| 23.5–24.5% | 4% | 98.8% |  |
+| 24.5–25.5% | 8% | 95% |  |
+| 25.5–26.5% | 14% | 87% |  |
+| 26.5–27.5% | 19% | 73% | Last Result |
+| 27.5–28.5% | 19% | 54% | Median |
+| 28.5–29.5% | 14% | 36% |  |
+| 29.5–30.5% | 10% | 21% |  |
 | 30.5–31.5% | 6% | 12% |  |
-| 31.5–32.5% | 4% | 6% |  |
-| 32.5–33.5% | 2% | 2% |  |
-| 33.5–34.5% | 0.5% | 0.6% |  |
+| 31.5–32.5% | 3% | 5% |  |
+| 32.5–33.5% | 1.4% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.5% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -211,6 +213,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 6 | 6 | 5–6 | 5–7 | 5–7 |
+| [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -386,8 +390,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 16% | 100% |  |
-| 6 | 69% | 84% | Last Result, Median |
+| 5 | 14% | 100% |  |
+| 6 | 71% | 86% | Last Result, Median |
 | 7 | 15% | 15% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
