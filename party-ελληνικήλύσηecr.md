@@ -210,7 +210,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–2 |
 | [27–29 October 2021](2021-10-29-GPO.html) | GPO <br> Powergame.gr | 1 | 1 | 1 | 0–1 | 0–1 |
-| [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–1 |
+| [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 1 | 1 | 1 | 1 | 1–2 |
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 1 | 1 | 1 | 1 | 1–2 |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 1–2 |
