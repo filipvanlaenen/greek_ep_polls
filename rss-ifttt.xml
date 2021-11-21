@@ -5,5 +5,29 @@
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:49 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by GPO for Powergame.gr, 27–29 October 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by GPO for Powergame.gr, 27–29 October 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO-seating-plan.png" length="395135" type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 16:19:31 +0100</pubDate>
+      <dc:date>2021-11-21T16:19:31.200637+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Powergame.gr, 27–29 October 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by GPO for Powergame.gr, 27–29 October 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO-seats.png" length="233960" type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 16:19:31 +0100</pubDate>
+      <dc:date>2021-11-21T16:19:31.200637+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Powergame.gr, 27–29 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by GPO for Powergame.gr, 27–29 October 2021<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2021-10-29-GPO.png" length="260258" type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 16:19:31 +0100</pubDate>
+      <dc:date>2021-11-21T16:19:31.200637+01:00</dc:date>
+    </item>
   </channel>
 </rss>
