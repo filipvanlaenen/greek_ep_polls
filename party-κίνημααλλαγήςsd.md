@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.4% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
+| N/A | [Poll Average](average.html) | 8.9% | 7.6–10.0% | 7.3–10.3% | 7.0–10.5% | 6.5–11.0% |
 | [27–29 October 2021](2021-10-29-GPO.html) | GPO <br> Powergame.gr | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
-| [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.3% | N/A | N/A | N/A | N/A |
+| [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.3% | 8.5–10.2% | 8.2–10.5% | 8.0–10.7% | 7.7–11.1% |
 | [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 7.5% | N/A | N/A | N/A | N/A |
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 7.3% | N/A | N/A | N/A | N/A |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 7.9% | N/A | N/A | N/A | N/A |
@@ -212,13 +212,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.3% | 100% |  |
-| 6.5–7.5% | 16% | 98.7% |  |
-| 7.5–8.5% | 42% | 83% | Median |
-| 8.5–9.5% | 32% | 41% |  |
-| 9.5–10.5% | 8% | 9% |  |
-| 10.5–11.5% | 0.9% | 1.0% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.7% | 100% |  |
+| 6.5–7.5% | 8% | 99.3% |  |
+| 7.5–8.5% | 27% | 91% |  |
+| 8.5–9.5% | 42% | 65% | Median |
+| 9.5–10.5% | 20% | 23% |  |
+| 10.5–11.5% | 2% | 2% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -232,7 +232,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–29 October 2021](2021-10-29-GPO.html) | GPO <br> Powergame.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 1–2 | 1–2 |
 | [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews |  |  |  |  |  |
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political |  |  |  |  |  |
@@ -429,8 +429,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 19% | 100% |  |
-| 2 | 81% | 81% | Median |
+| 1 | 11% | 100% |  |
+| 2 | 89% | 89% | Median |
 | 3 | 0% | 0% |  |
 
 
