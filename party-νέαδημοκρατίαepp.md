@@ -10,13 +10,13 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41.1% | 38.7–44.2% | 38.1–45.0% | 37.6–45.6% | 36.6–46.8% |
+| N/A | [Poll Average](average.html) | 41.1% | 38.8–44.1% | 38.2–44.8% | 37.6–45.5% | 36.6–46.7% |
 | [27–29 October 2021](2021-10-29-GPO.html) | GPO <br> Powergame.gr | 41.6% | 39.6–43.6% | 39.1–44.2% | 38.6–44.7% | 37.6–45.7% |
 | [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 40.1% | 38.7–41.6% | 38.3–42.0% | 37.9–42.3% | 37.3–43.0% |
 | [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 43.7% | 41.7–45.7% | 41.1–46.3% | 40.6–46.8% | 39.7–47.8% |
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 39.7% | 37.7–41.7% | 37.2–42.3% | 36.7–42.8% | 35.8–43.7% |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 40.0% | 38.1–41.9% | 37.6–42.4% | 37.2–42.9% | 36.3–43.8% |
-| [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 40.7% | N/A | N/A | N/A | N/A |
+| [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 40.7% | 38.8–42.6% | 38.3–43.1% | 37.8–43.6% | 37.0–44.5% |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 42.8% | 40.8–44.8% | 40.3–45.4% | 39.8–45.9% | 38.8–46.9% |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 39.9% | N/A | N/A | N/A | N/A |
 | [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 41.0% | N/A | N/A | N/A | N/A |
@@ -220,17 +220,17 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 0% | 100% |  |
 | 34.5–35.5% | 0.1% | 100% |  |
 | 35.5–36.5% | 0.4% | 99.9% |  |
-| 36.5–37.5% | 2% | 99.5% |  |
+| 36.5–37.5% | 2% | 99.6% |  |
 | 37.5–38.5% | 6% | 98% |  |
 | 38.5–39.5% | 13% | 92% |  |
-| 39.5–40.5% | 18% | 79% |  |
-| 40.5–41.5% | 18% | 61% | Median |
-| 41.5–42.5% | 15% | 43% |  |
-| 42.5–43.5% | 12% | 28% |  |
-| 43.5–44.5% | 9% | 16% |  |
-| 44.5–45.5% | 5% | 8% |  |
-| 45.5–46.5% | 2% | 3% |  |
-| 46.5–47.5% | 0.6% | 0.7% |  |
+| 39.5–40.5% | 19% | 79% |  |
+| 40.5–41.5% | 19% | 60% | Median |
+| 41.5–42.5% | 15% | 41% |  |
+| 42.5–43.5% | 11% | 26% |  |
+| 43.5–44.5% | 8% | 14% |  |
+| 44.5–45.5% | 4% | 7% |  |
+| 45.5–46.5% | 2% | 2% |  |
+| 46.5–47.5% | 0.5% | 0.6% |  |
 | 47.5–48.5% | 0.1% | 0.1% |  |
 | 48.5–49.5% | 0% | 0% |  |
 
@@ -249,7 +249,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [11–16 October 2021](2021-10-16-Alco.html) | Alco <br> Open TV | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [11–14 October 2021](2021-10-14-Interview.html) | Interview <br> Political | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
-| [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
@@ -445,8 +445,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 21% | 100% |  |
-| 9 | 65% | 79% | Median |
-| 10 | 14% | 14% |  |
+| 9 | 66% | 79% | Median |
+| 10 | 12% | 13% |  |
 | 11 | 0.1% | 0.1% | Majority |
 | 12 | 0% | 0% |  |
 
