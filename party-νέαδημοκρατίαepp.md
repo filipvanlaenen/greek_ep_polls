@@ -10,7 +10,9 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.9% | 36.8–42.4% | 36.2–43.1% | 35.7–43.7% | 34.9–44.9% |
+| N/A | [Poll Average](average.html) | 39.8% | 37.6–42.4% | 37.1–43.1% | 36.6–43.7% | 35.4–44.9% |
+| [20–25 November 2021](2021-11-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 38.2% | 37.2–39.2% | 36.9–39.5% | 36.7–39.7% | 36.2–40.2% |
+| [16–23 November 2021](2021-11-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 40.0% | 38.4–41.6% | 37.9–42.1% | 37.5–42.5% | 36.8–43.3% |
 | [15–20 November 2021](2021-11-20-Alco.html) | Alco <br> Open TV | 38.3% | 36.4–40.3% | 35.8–40.9% | 35.3–41.4% | 34.4–42.3% |
 | [14–18 November 2021](2021-11-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 41.3% | 39.3–43.3% | 38.7–43.9% | 38.3–44.4% | 37.3–45.3% |
 | [8–13 November 2021](2021-11-13-Marc.html) | Marc <br> ANT1 | 42.1% | N/A | N/A | N/A | N/A |
@@ -222,15 +224,15 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0% | 100% |  |
 | 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.2% | 100% |  |
-| 34.5–35.5% | 2% | 99.8% |  |
-| 35.5–36.5% | 6% | 98% |  |
-| 36.5–37.5% | 10% | 92% |  |
-| 37.5–38.5% | 11% | 82% |  |
-| 38.5–39.5% | 15% | 71% |  |
-| 39.5–40.5% | 19% | 56% | Median |
-| 40.5–41.5% | 17% | 37% |  |
-| 41.5–42.5% | 11% | 19% |  |
+| 33.5–34.5% | 0.1% | 100% |  |
+| 34.5–35.5% | 0.5% | 99.9% |  |
+| 35.5–36.5% | 2% | 99.4% |  |
+| 36.5–37.5% | 7% | 98% |  |
+| 37.5–38.5% | 16% | 91% |  |
+| 38.5–39.5% | 19% | 75% |  |
+| 39.5–40.5% | 19% | 55% | Median |
+| 40.5–41.5% | 17% | 36% |  |
+| 41.5–42.5% | 11% | 20% |  |
 | 42.5–43.5% | 6% | 9% |  |
 | 43.5–44.5% | 2% | 3% |  |
 | 44.5–45.5% | 0.7% | 0.8% |  |
@@ -247,6 +249,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [20–25 November 2021](2021-11-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8–9 | 8–9 | 8–9 |
+| [16–23 November 2021](2021-11-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [15–20 November 2021](2021-11-20-Alco.html) | Alco <br> Open TV | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [14–18 November 2021](2021-11-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [8–13 November 2021](2021-11-13-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
@@ -451,9 +455,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
-| 7 | 0.2% | 100% |  |
-| 8 | 42% | 99.8% |  |
-| 9 | 55% | 57% | Median |
+| 7 | 0.1% | 100% |  |
+| 8 | 40% | 99.9% |  |
+| 9 | 58% | 60% | Median |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% | Majority |
 
