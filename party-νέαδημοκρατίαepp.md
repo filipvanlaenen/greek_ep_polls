@@ -10,7 +10,12 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41.1% | 38.8–44.1% | 38.2–44.8% | 37.6–45.5% | 36.6–46.7% |
+| N/A | [Poll Average](average.html) | 39.9% | 36.8–42.4% | 36.2–43.1% | 35.7–43.7% | 34.9–44.9% |
+| [15–20 November 2021](2021-11-20-Alco.html) | Alco <br> Open TV | 38.3% | 36.4–40.3% | 35.8–40.9% | 35.3–41.4% | 34.4–42.3% |
+| [14–18 November 2021](2021-11-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 41.3% | 39.3–43.3% | 38.7–43.9% | 38.3–44.4% | 37.3–45.3% |
+| [8–13 November 2021](2021-11-13-Marc.html) | Marc <br> ANT1 | 42.1% | N/A | N/A | N/A | N/A |
+| [1–9 November 2021](2021-11-09-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 36.9% | 35.7–38.2% | 35.3–38.5% | 35.0–38.8% | 34.5–39.4% |
+| [3–8 November 2021](2021-11-08-Interview.html) | Interview <br> Politic.gr | 40.0% | 38.5–41.5% | 38.1–42.0% | 37.7–42.4% | 37.0–43.1% |
 | [27–29 October 2021](2021-10-29-GPO.html) | GPO <br> Powergame.gr | 41.6% | 39.6–43.6% | 39.1–44.2% | 38.6–44.7% | 37.6–45.7% |
 | [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 40.1% | 38.7–41.6% | 38.3–42.0% | 37.9–42.3% | 37.3–43.0% |
 | [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 43.7% | 41.7–45.7% | 41.1–46.3% | 40.6–46.8% | 39.7–47.8% |
@@ -19,11 +24,11 @@ Last result: **22.7%** (General Election of 26 May 2019)
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 40.7% | 38.8–42.6% | 38.3–43.1% | 37.8–43.6% | 37.0–44.5% |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 42.8% | 40.8–44.8% | 40.3–45.4% | 39.8–45.9% | 38.8–46.9% |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr | 39.9% | N/A | N/A | N/A | N/A |
-| [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 41.0% | N/A | N/A | N/A | N/A |
+| [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 41.0% | 39.2–42.8% | 38.7–43.4% | 38.2–43.8% | 37.4–44.7% |
 | [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr | 41.3% | N/A | N/A | N/A | N/A |
 | [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 42.2% | N/A | N/A | N/A | N/A |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 39.7% | N/A | N/A | N/A | N/A |
-| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 40.6% | N/A | N/A | N/A | N/A |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 40.6% | 38.6–42.6% | 38.1–43.2% | 37.6–43.7% | 36.7–44.7% |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV | 39.1% | N/A | N/A | N/A | N/A |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star | 41.4% | N/A | N/A | N/A | N/A |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά | 41.3% | N/A | N/A | N/A | N/A |
@@ -217,22 +222,20 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0% | 100% |  |
 | 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0% | 100% |  |
-| 34.5–35.5% | 0.1% | 100% |  |
-| 35.5–36.5% | 0.4% | 99.9% |  |
-| 36.5–37.5% | 2% | 99.6% |  |
-| 37.5–38.5% | 6% | 98% |  |
-| 38.5–39.5% | 13% | 92% |  |
-| 39.5–40.5% | 19% | 79% |  |
-| 40.5–41.5% | 19% | 60% | Median |
-| 41.5–42.5% | 15% | 41% |  |
-| 42.5–43.5% | 11% | 26% |  |
-| 43.5–44.5% | 8% | 14% |  |
-| 44.5–45.5% | 4% | 7% |  |
-| 45.5–46.5% | 2% | 2% |  |
-| 46.5–47.5% | 0.5% | 0.6% |  |
-| 47.5–48.5% | 0.1% | 0.1% |  |
-| 48.5–49.5% | 0% | 0% |  |
+| 33.5–34.5% | 0.2% | 100% |  |
+| 34.5–35.5% | 2% | 99.8% |  |
+| 35.5–36.5% | 6% | 98% |  |
+| 36.5–37.5% | 10% | 92% |  |
+| 37.5–38.5% | 11% | 82% |  |
+| 38.5–39.5% | 15% | 71% |  |
+| 39.5–40.5% | 19% | 56% | Median |
+| 40.5–41.5% | 17% | 37% |  |
+| 41.5–42.5% | 11% | 19% |  |
+| 42.5–43.5% | 6% | 9% |  |
+| 43.5–44.5% | 2% | 3% |  |
+| 44.5–45.5% | 0.7% | 0.8% |  |
+| 45.5–46.5% | 0.1% | 0.2% |  |
+| 46.5–47.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -243,7 +246,12 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| N/A | [Poll Average](average.html) | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [15–20 November 2021](2021-11-20-Alco.html) | Alco <br> Open TV | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [14–18 November 2021](2021-11-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
+| [8–13 November 2021](2021-11-13-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [1–9 November 2021](2021-11-09-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 8 | 8 | 8 | 8–9 | 8–9 |
+| [3–8 November 2021](2021-11-08-Interview.html) | Interview <br> Politic.gr | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [27–29 October 2021](2021-10-29-GPO.html) | GPO <br> Powergame.gr | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [22–25 October 2021](2021-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 8–9 | 8–9 | 8–9 | 8–9 |
 | [13–19 October 2021](2021-10-19-OpinionPoll.html) | Opinion Poll <br> Mononews | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -252,11 +260,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [5–12 October 2021](2021-10-12-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [6–11 October 2021](2021-10-11-Marc.html) | Marc <br> ANT1 | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [27–30 September 2021](2021-09-30-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
-| [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [21–27 September 2021](2021-09-27-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 9 | 8–9 | 8–9 | 8–10 | 8–10 |
 | [20–24 September 2021](2021-09-24-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [19–23 September 2021](2021-09-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [19–21 September 2021](2021-09-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star |  |  |  |  |  |
+| [20–21 September 2021](2021-09-21-MRB.html) | MRB <br> Star | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [13–17 September 2021](2021-09-17-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [13–15 September 2021](2021-09-15-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [13–15 September 2021](2021-09-15-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
@@ -443,11 +451,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 21% | 100% |  |
-| 9 | 66% | 79% | Median |
-| 10 | 12% | 13% |  |
-| 11 | 0.1% | 0.1% | Majority |
-| 12 | 0% | 0% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 42% | 99.8% |  |
+| 9 | 55% | 57% | Median |
+| 10 | 2% | 2% |  |
+| 11 | 0% | 0% | Majority |
 
 
