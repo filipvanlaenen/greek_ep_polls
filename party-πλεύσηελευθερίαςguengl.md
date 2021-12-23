@@ -10,11 +10,20 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.4–2.5% | 1.2–2.7% | 1.2–2.8% | 1.0–3.2% |
+| N/A | [Poll Average](average.html) | 1.4% | 1.0–1.9% | 0.8–2.0% | 0.8–2.2% | 0.6–2.5% |
+| [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
+| [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
+| [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
+| [14–15 December 2021](2021-12-15-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
+| [13–14 December 2021](2021-12-14-ΚάπαResearch.html) | Κάπα Research | 0.0% | N/A | N/A | N/A | N/A |
+| [13–14 December 2021](2021-12-14-MRB.html) | MRB | 0.0% | N/A | N/A | N/A | N/A |
+| [1–10 December 2021](2021-12-10-MRB.html) | MRB | 0.0% | N/A | N/A | N/A | N/A |
 | [20–25 November 2021](2021-11-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 November 2021](2021-11-25-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [16–23 November 2021](2021-11-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.0% | N/A | N/A | N/A | N/A |
 | [15–20 November 2021](2021-11-20-Alco.html) | Alco <br> Open TV | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [14–18 November 2021](2021-11-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
+| [12–17 November 2021](2021-11-17-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
 | [8–13 November 2021](2021-11-13-Marc.html) | Marc <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–9 November 2021](2021-11-09-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 November 2021](2021-11-08-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
@@ -213,12 +222,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 22% | 100% |  |
-| 1.5–2.5% | 70% | 78% | Median |
-| 2.5–3.5% | 7% | 8% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 69% | 99.8% | Median |
+| 1.5–2.5% | 31% | 31% |  |
+| 2.5–3.5% | 0.5% | 0.5% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -229,11 +237,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0 |
+| [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
+| [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [14–15 December 2021](2021-12-15-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [13–14 December 2021](2021-12-14-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
+| [13–14 December 2021](2021-12-14-MRB.html) | MRB |  |  |  |  |  |
+| [1–10 December 2021](2021-12-10-MRB.html) | MRB |  |  |  |  |  |
 | [20–25 November 2021](2021-11-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [22–25 November 2021](2021-11-25-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [16–23 November 2021](2021-11-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [15–20 November 2021](2021-11-20-Alco.html) | Alco <br> Open TV | 0 | 0 | 0 | 0 | 0–1 |
 | [14–18 November 2021](2021-11-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [12–17 November 2021](2021-11-17-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [8–13 November 2021](2021-11-13-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
 | [1–9 November 2021](2021-11-09-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα |  |  |  |  |  |
 | [3–8 November 2021](2021-11-08-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
@@ -434,8 +451,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.0% | 100% | Last Result, Median |
-| 1 | 1.0% | 1.0% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 

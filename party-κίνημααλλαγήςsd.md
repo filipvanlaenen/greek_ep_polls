@@ -10,11 +10,20 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.9% | 8.6–12.8% | 7.9–13.4% | 7.5–13.8% | 6.8–14.5% |
+| N/A | [Poll Average](average.html) | 14.3% | 11.3–17.7% | 10.9–18.4% | 10.6–19.0% | 10.2–20.0% |
+| [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.8% |
+| [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 15.5% | 14.1–17.1% | 13.7–17.5% | 13.4–17.9% | 12.7–18.7% |
+| [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 17.7% | 16.2–19.3% | 15.8–19.8% | 15.5–20.2% | 14.8–21.0% |
+| [14–15 December 2021](2021-12-15-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 12.6% | 11.7–13.7% | 11.4–14.0% | 11.2–14.2% | 10.8–14.7% |
+| [13–14 December 2021](2021-12-14-ΚάπαResearch.html) | Κάπα Research | 13.5% | 12.2–14.9% | 11.8–15.3% | 11.5–15.7% | 10.9–16.4% |
+| [13–14 December 2021](2021-12-14-MRB.html) | MRB | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
+| [1–10 December 2021](2021-12-10-MRB.html) | MRB | 12.8% | N/A | N/A | N/A | N/A |
 | [20–25 November 2021](2021-11-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11.0% | 10.4–11.7% | 10.2–11.8% | 10.1–12.0% | 9.8–12.3% |
+| [22–25 November 2021](2021-11-25-GPO.html) | GPO <br> Παραπολιτικά | 11.1% | 9.9–12.5% | 9.6–12.9% | 9.3–13.2% | 8.7–13.9% |
 | [16–23 November 2021](2021-11-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 12.8% | 11.7–13.9% | 11.4–14.3% | 11.2–14.6% | 10.7–15.1% |
 | [15–20 November 2021](2021-11-20-Alco.html) | Alco <br> Open TV | 11.1% | 9.9–12.5% | 9.6–12.9% | 9.3–13.2% | 8.7–13.9% |
 | [14–18 November 2021](2021-11-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 11.1% | 9.9–12.4% | 9.6–12.8% | 9.3–13.2% | 8.7–13.9% |
+| [12–17 November 2021](2021-11-17-MRB.html) | MRB <br> Star | 11.0% | 10.3–11.7% | 10.1–11.9% | 10.0–12.1% | 9.7–12.5% |
 | [8–13 November 2021](2021-11-13-Marc.html) | Marc <br> ANT1 | 10.2% | N/A | N/A | N/A | N/A |
 | [1–9 November 2021](2021-11-09-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 12.9% | 12.1–13.8% | 11.8–14.1% | 11.6–14.3% | 11.3–14.7% |
 | [3–8 November 2021](2021-11-08-Interview.html) | Interview <br> Politic.gr | 10.3% | 9.4–11.3% | 9.2–11.6% | 9.0–11.9% | 8.6–12.3% |
@@ -219,17 +228,23 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 3% | 99.8% |  |
-| 7.5–8.5% | 7% | 97% |  |
-| 8.5–9.5% | 9% | 90% |  |
-| 9.5–10.5% | 20% | 81% |  |
-| 10.5–11.5% | 31% | 61% | Median |
-| 11.5–12.5% | 17% | 30% |  |
-| 12.5–13.5% | 10% | 13% |  |
-| 13.5–14.5% | 3% | 4% |  |
-| 14.5–15.5% | 0.4% | 0.4% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 2% | 100% |  |
+| 10.5–11.5% | 11% | 98% |  |
+| 11.5–12.5% | 12% | 87% |  |
+| 12.5–13.5% | 16% | 75% |  |
+| 13.5–14.5% | 12% | 59% | Median |
+| 14.5–15.5% | 12% | 48% |  |
+| 15.5–16.5% | 13% | 36% |  |
+| 16.5–17.5% | 11% | 23% |  |
+| 17.5–18.5% | 7% | 12% |  |
+| 18.5–19.5% | 3% | 4% |  |
+| 19.5–20.5% | 0.9% | 1.1% |  |
+| 20.5–21.5% | 0.2% | 0.2% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -240,11 +255,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [14–15 December 2021](2021-12-15-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–14 December 2021](2021-12-14-ΚάπαResearch.html) | Κάπα Research | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–14 December 2021](2021-12-14-MRB.html) | MRB | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [1–10 December 2021](2021-12-10-MRB.html) | MRB |  |  |  |  |  |
 | [20–25 November 2021](2021-11-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 2–3 |
+| [22–25 November 2021](2021-11-25-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–23 November 2021](2021-11-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–20 November 2021](2021-11-20-Alco.html) | Alco <br> Open TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–18 November 2021](2021-11-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [12–17 November 2021](2021-11-17-MRB.html) | MRB <br> Star | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–13 November 2021](2021-11-13-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
 | [1–9 November 2021](2021-11-09-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 3 | 3 | 3 | 3 | 2–3 |
 | [3–8 November 2021](2021-11-08-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 2–3 |
@@ -446,9 +470,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 71% | 97% | Median |
-| 3 | 26% | 26% |  |
-| 4 | 0% | 0% |  |
+| 1 | 0% | 100% |  |
+| 2 | 17% | 100% |  |
+| 3 | 57% | 83% | Median |
+| 4 | 26% | 26% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 
