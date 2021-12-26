@@ -10,11 +10,12 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.5% | 22.6–28.5% | 21.8–29.3% | 21.2–29.8% | 20.2–30.7% |
+| N/A | [Poll Average](average.html) | 25.8% | 22.8–28.5% | 22.0–29.2% | 21.3–29.7% | 20.2–30.7% |
 | [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 24.2% | 22.5–26.0% | 22.1–26.5% | 21.6–27.0% | 20.9–27.8% |
 | [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
 | [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 22.4% | 20.8–24.1% | 20.3–24.6% | 19.9–25.1% | 19.2–25.9% |
 | [14–15 December 2021](2021-12-15-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 28.7% | 27.4–30.1% | 27.0–30.5% | 26.7–30.8% | 26.1–31.5% |
+| [13–15 December 2021](2021-12-15-Interview.html) | Interview <br> Politic.gr | 26.8% | 25.3–28.4% | 24.9–28.8% | 24.5–29.2% | 23.8–30.0% |
 | [13–14 December 2021](2021-12-14-ΚάπαResearch.html) | Κάπα Research | 27.3% | 25.6–29.2% | 25.1–29.7% | 24.6–30.2% | 23.8–31.1% |
 | [13–14 December 2021](2021-12-14-MRB.html) | MRB | 24.4% | 22.7–26.2% | 22.2–26.7% | 21.8–27.2% | 21.0–28.0% |
 | [1–10 December 2021](2021-12-10-MRB.html) | MRB | 25.9% | N/A | N/A | N/A | N/A |
@@ -224,18 +225,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.8% | 99.8% |  |
-| 20.5–21.5% | 3% | 99.0% |  |
-| 21.5–22.5% | 6% | 96% |  |
-| 22.5–23.5% | 10% | 90% |  |
-| 23.5–24.5% | 15% | 80% |  |
-| 24.5–25.5% | 16% | 66% |  |
-| 25.5–26.5% | 17% | 50% | Median |
-| 26.5–27.5% | 14% | 33% | Last Result |
-| 27.5–28.5% | 9% | 19% |  |
+| 19.5–20.5% | 0.7% | 99.9% |  |
+| 20.5–21.5% | 2% | 99.1% |  |
+| 21.5–22.5% | 5% | 97% |  |
+| 22.5–23.5% | 9% | 92% |  |
+| 23.5–24.5% | 13% | 83% |  |
+| 24.5–25.5% | 16% | 69% |  |
+| 25.5–26.5% | 18% | 54% | Median |
+| 26.5–27.5% | 16% | 36% | Last Result |
+| 27.5–28.5% | 10% | 20% |  |
 | 28.5–29.5% | 6% | 10% |  |
 | 29.5–30.5% | 3% | 3% |  |
-| 30.5–31.5% | 0.6% | 0.7% |  |
+| 30.5–31.5% | 0.6% | 0.6% |  |
 | 31.5–32.5% | 0.1% | 0.1% |  |
 | 32.5–33.5% | 0% | 0% |  |
 
@@ -248,11 +249,12 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [14–15 December 2021](2021-12-15-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 6 | 6–7 | 6–7 | 6–7 |
+| [13–15 December 2021](2021-12-15-Interview.html) | Interview <br> Politic.gr | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13–14 December 2021](2021-12-14-ΚάπαResearch.html) | Κάπα Research | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [13–14 December 2021](2021-12-14-MRB.html) | MRB | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [1–10 December 2021](2021-12-10-MRB.html) | MRB |  |  |  |  |  |
@@ -463,8 +465,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 51% | 98% | Median |
-| 6 | 46% | 47% | Last Result |
+| 5 | 47% | 98% |  |
+| 6 | 50% | 51% | Last Result, Median |
 | 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 

@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 December 2021](2021-12-15-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 December 2021](2021-12-15-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 December 2021](2021-12-14-ΚάπαResearch.html) | Κάπα Research | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 December 2021](2021-12-14-MRB.html) | MRB | 0.0% | N/A | N/A | N/A | N/A |
 | [1–10 December 2021](2021-12-10-MRB.html) | MRB | 0.0% | N/A | N/A | N/A | N/A |
@@ -242,6 +243,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [14–15 December 2021](2021-12-15-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [13–15 December 2021](2021-12-15-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [13–14 December 2021](2021-12-14-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
 | [13–14 December 2021](2021-12-14-MRB.html) | MRB |  |  |  |  |  |
 | [1–10 December 2021](2021-12-10-MRB.html) | MRB |  |  |  |  |  |
