@@ -11,6 +11,9 @@ Last result: **9.4%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.6% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.0% | N/A | N/A | N/A | N/A |
+| [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 0.0% | N/A | N/A | N/A | N/A |
+| [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
@@ -244,6 +247,9 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis |  |  |  |  |  |
+| [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [13–16 December 2021](2021-12-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
