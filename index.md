@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ | ΕΛ | ΜέΡΑ25 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 22–31% <br> 5–7 | 34–40% <br> 7–9 | 2–4% <br> 0–1 | N/A <br> N/A | 4–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 12–20% <br> 3–4 | N/A <br> N/A | 1–2% <br> 0 | 3–6% <br> 1 | 2–5% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 16–31% <br> 4–7 | 30–40% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 12–20% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 2–6% <br> 0–1 | 2–5% <br> 0–1 |
+| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 15–20% <br> 3–4 | 29–35% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 15–19% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0–1 | 1–3% <br> 0 |
+| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 18–23% <br> 4–5 | 30–36% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 13–17% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 1 | 2–4% <br> 0–1 |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 22–27% <br> 5–6 | 34–39% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 17–21% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 3–5% <br> 1 |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 27–32% <br> 6–7 | 34–40% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 2–3% <br> 0–1 |
 | [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 23–28% <br> 5–6 | 35–40% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 3–5% <br> 0–1 |
-| [13–18 December 2021](2021-12-18-Alco.html) | Alco <br> Open TV | 22–27% <br> 5–6 | 34–40% <br> 7–9 | 2–4% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 3–4 | N/A <br> N/A | 1–2% <br> 0 | 3–6% <br> 1 | 3–5% <br> 0–1 |
-| [13–17 December 2021](2021-12-17-GPO.html) | GPO <br> Powergame.gr | 23–28% <br> 5–6 | 35–41% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 1 | 2–5% <br> 0–1 |
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
