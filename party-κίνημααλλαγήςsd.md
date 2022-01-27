@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.2% | 13.2–18.7% | 12.8–19.4% | 12.4–19.9% | 11.7–20.8% |
+| N/A | [Poll Average](average.html) | 15.2% | 13.2–18.8% | 12.7–19.5% | 12.4–19.9% | 11.7–20.8% |
+| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.8–19.4% | 14.1–20.2% |
+| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 14.8% | 13.4–16.3% | 13.0–16.7% | 12.7–17.1% | 12.1–17.9% |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 18.6% | 17.3–20.1% | 16.9–20.5% | 16.6–20.8% | 16.0–21.5% |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
 | [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 14.0% | 12.9–15.3% | 12.6–15.6% | 12.3–15.9% | 11.8–16.5% |
@@ -239,15 +241,15 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.3% | 100% |  |
 | 11.5–12.5% | 3% | 99.7% |  |
-| 12.5–13.5% | 12% | 97% |  |
-| 13.5–14.5% | 21% | 85% |  |
-| 14.5–15.5% | 21% | 64% | Median |
-| 15.5–16.5% | 15% | 43% |  |
-| 16.5–17.5% | 9% | 28% |  |
-| 17.5–18.5% | 8% | 19% |  |
-| 18.5–19.5% | 7% | 11% |  |
-| 19.5–20.5% | 3% | 4% |  |
-| 20.5–21.5% | 0.8% | 0.8% |  |
+| 12.5–13.5% | 13% | 97% |  |
+| 13.5–14.5% | 21% | 84% |  |
+| 14.5–15.5% | 17% | 63% | Median |
+| 15.5–16.5% | 11% | 46% |  |
+| 16.5–17.5% | 10% | 34% |  |
+| 17.5–18.5% | 11% | 24% |  |
+| 18.5–19.5% | 8% | 13% |  |
+| 19.5–20.5% | 4% | 4% |  |
+| 20.5–21.5% | 0.8% | 0.9% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -261,6 +263,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4 | 4 | 4 | 3–4 | 3–5 |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 3 | 3 | 3 | 2–3 | 2–3 |
@@ -481,9 +485,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 64% | 98% | Median |
-| 4 | 34% | 34% |  |
-| 5 | 0.3% | 0.3% |  |
+| 3 | 60% | 98% | Median |
+| 4 | 37% | 38% |  |
+| 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
 
