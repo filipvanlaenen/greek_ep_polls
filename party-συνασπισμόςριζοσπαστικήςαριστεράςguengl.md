@@ -10,9 +10,10 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.0% | 17.5–29.3% | 16.7–30.3% | 16.2–31.0% | 15.3–32.2% |
-| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 17.5% | 16.0–19.1% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
-| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 20.2% | 18.6–21.9% | 18.2–22.3% | 17.8–22.8% | 17.1–23.6% |
+| N/A | [Poll Average](average.html) | 25.8% | 23.5–30.1% | 23.0–30.8% | 22.6–31.4% | 21.8–32.5% |
+| [26–29 January 2022](2022-01-29-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.0% | N/A | N/A | N/A | N/A |
+| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 21.3% | N/A | N/A | N/A | N/A |
+| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 23.7% | N/A | N/A | N/A | N/A |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 24.3% | 22.8–25.8% | 22.4–26.3% | 22.0–26.7% | 21.3–27.5% |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
 | [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 25.5% | 24.1–27.1% | 23.7–27.5% | 23.3–27.9% | 22.6–28.6% |
@@ -228,28 +229,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.1% | 100% |  |
-| 14.5–15.5% | 0.8% | 99.9% |  |
-| 15.5–16.5% | 3% | 99.1% |  |
-| 16.5–17.5% | 6% | 96% |  |
-| 17.5–18.5% | 7% | 90% |  |
-| 18.5–19.5% | 7% | 82% |  |
-| 19.5–20.5% | 7% | 75% |  |
-| 20.5–21.5% | 5% | 68% |  |
-| 21.5–22.5% | 4% | 63% |  |
-| 22.5–23.5% | 5% | 59% |  |
-| 23.5–24.5% | 10% | 54% | Median |
-| 24.5–25.5% | 11% | 44% |  |
-| 25.5–26.5% | 9% | 33% |  |
-| 26.5–27.5% | 5% | 24% | Last Result |
-| 27.5–28.5% | 5% | 19% |  |
-| 28.5–29.5% | 6% | 14% |  |
-| 29.5–30.5% | 5% | 9% |  |
-| 30.5–31.5% | 3% | 4% |  |
-| 31.5–32.5% | 1.0% | 1.3% |  |
-| 32.5–33.5% | 0.2% | 0.3% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.3% | 100% |  |
+| 21.5–22.5% | 2% | 99.7% |  |
+| 22.5–23.5% | 8% | 98% |  |
+| 23.5–24.5% | 16% | 90% |  |
+| 24.5–25.5% | 19% | 74% |  |
+| 25.5–26.5% | 15% | 55% | Median |
+| 26.5–27.5% | 9% | 40% | Last Result |
+| 27.5–28.5% | 8% | 31% |  |
+| 28.5–29.5% | 9% | 24% |  |
+| 29.5–30.5% | 8% | 15% |  |
+| 30.5–31.5% | 5% | 7% |  |
+| 31.5–32.5% | 2% | 2% |  |
+| 32.5–33.5% | 0.4% | 0.5% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -260,9 +255,10 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
-| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [26–29 January 2022](2022-01-29-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV |  |  |  |  |  |
+| [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
 | [12–18 January 2022](2022-01-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [14–16 January 2022](2022-01-16-Prorata.html) | Prorata <br> iEidiseis | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [10–12 January 2022](2022-01-12-Interview.html) | Interview <br> Politic.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -480,11 +476,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 2% | 100% |  |
-| 4 | 31% | 98% |  |
-| 5 | 38% | 66% | Median |
-| 6 | 24% | 28% | Last Result |
-| 7 | 5% | 5% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 53% | 99.9% | Median |
+| 6 | 39% | 47% | Last Result |
+| 7 | 8% | 8% |  |
 | 8 | 0% | 0% |  |
 
 
