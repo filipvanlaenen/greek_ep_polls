@@ -10,7 +10,13 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.7% | 21.5–29.0% | 20.7–30.1% | 20.1–30.8% | 19.0–32.1% |
+| N/A | [Poll Average](average.html) | 25.0% | 22.1–28.2% | 21.0–29.3% | 20.3–30.2% | 19.2–31.5% |
+| [14–18 February 2022](2022-02-18-Alco.html) | Alco <br> Open TV | 26.1% | 24.4–27.9% | 23.9–28.5% | 23.5–28.9% | 22.7–29.8% |
+| [10–14 February 2022](2022-02-14-Interview.html) | Interview <br> Politic.gr | 24.3% | 22.9–25.8% | 22.5–26.3% | 22.1–26.6% | 21.5–27.4% |
+| [7–12 February 2022](2022-02-12-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 24.2% | 22.7–25.8% | 22.3–26.3% | 21.9–26.7% | 21.2–27.5% |
+| [8–12 February 2022](2022-02-12-Marc.html) | Marc <br> ANT1 | 24.9% | 23.2–26.7% | 22.7–27.2% | 22.3–27.6% | 21.6–28.5% |
+| [31 January–3 February 2022](2022-02-03-GPO.html) | GPO <br> Powergame.gr | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
+| [28–31 January 2022](2022-01-31-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
 | [26–29 January 2022](2022-01-29-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 25.0% | 23.5–26.6% | 23.1–27.0% | 22.7–27.4% | 22.0–28.2% |
 | [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 21.3% | 19.8–23.1% | 19.3–23.6% | 18.9–24.0% | 18.2–24.8% |
 | [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 23.7% | 22.0–25.4% | 21.5–25.9% | 21.1–26.4% | 20.3–27.3% |
@@ -230,22 +236,22 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 1.0% | 99.8% |  |
-| 19.5–20.5% | 3% | 98.8% |  |
-| 20.5–21.5% | 6% | 96% |  |
-| 21.5–22.5% | 8% | 90% |  |
-| 22.5–23.5% | 12% | 82% |  |
-| 23.5–24.5% | 17% | 70% |  |
-| 24.5–25.5% | 18% | 52% | Median |
-| 25.5–26.5% | 12% | 34% |  |
-| 26.5–27.5% | 6% | 22% | Last Result |
-| 27.5–28.5% | 4% | 16% |  |
-| 28.5–29.5% | 5% | 12% |  |
-| 29.5–30.5% | 4% | 7% |  |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.8% | 1.1% |  |
-| 32.5–33.5% | 0.2% | 0.2% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 0.8% | 99.9% |  |
+| 19.5–20.5% | 2% | 99.1% |  |
+| 20.5–21.5% | 4% | 97% |  |
+| 21.5–22.5% | 6% | 93% |  |
+| 22.5–23.5% | 10% | 87% |  |
+| 23.5–24.5% | 18% | 77% |  |
+| 24.5–25.5% | 20% | 59% | Median |
+| 25.5–26.5% | 16% | 39% |  |
+| 26.5–27.5% | 9% | 23% | Last Result |
+| 27.5–28.5% | 6% | 14% |  |
+| 28.5–29.5% | 4% | 8% |  |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 1.2% | 2% |  |
+| 31.5–32.5% | 0.4% | 0.5% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
 
@@ -257,7 +263,13 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| [14–18 February 2022](2022-02-18-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [10–14 February 2022](2022-02-14-Interview.html) | Interview <br> Politic.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [7–12 February 2022](2022-02-12-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [8–12 February 2022](2022-02-12-Marc.html) | Marc <br> ANT1 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [31 January–3 February 2022](2022-02-03-GPO.html) | GPO <br> Powergame.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [28–31 January 2022](2022-01-31-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [26–29 January 2022](2022-01-29-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [19–23 January 2022](2022-01-23-AbacusResearch.html) | Abacus Research <br> Alpha TV | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18–22 January 2022](2022-01-22-Marc.html) | Marc <br> ANT1 | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
@@ -478,10 +490,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 6% | 100% |  |
-| 5 | 62% | 94% | Median |
-| 6 | 28% | 32% | Last Result |
-| 7 | 4% | 4% |  |
+| 4 | 4% | 100% |  |
+| 5 | 55% | 96% | Median |
+| 6 | 37% | 40% | Last Result |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 
