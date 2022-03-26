@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 14.7–18.3% | 14.2–18.8% | 13.8–19.2% | 13.0–20.0% |
+| N/A | [Poll Average](average.html) | 16.3% | 14.6–18.0% | 14.1–18.4% | 13.6–18.8% | 12.8–19.6% |
+| [16–21 March 2022](2022-03-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 16.7% | 15.5–18.1% | 15.1–18.5% | 14.8–18.9% | 14.2–19.5% |
+| [16–21 March 2022](2022-03-21-Marc.html) | Marc <br> ANT1 | 16.2% | 14.8–17.7% | 14.4–18.1% | 14.1–18.5% | 13.4–19.3% |
+| [11–14 March 2022](2022-03-14-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
+| [9–11 March 2022](2022-03-11-GPO.html) | GPO <br> Powergame.gr | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
+| [8–10 March 2022](2022-03-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 16.6% | N/A | N/A | N/A | N/A |
+| [2–8 March 2022](2022-03-08-AbacusResearch.html) | Abacus Research <br> Alpha TV | 16.5% | 15.1–18.0% | 14.7–18.5% | 14.3–18.9% | 13.7–19.6% |
+| [2–6 March 2022](2022-03-06-Interview.html) | Interview <br> Politic.gr | 17.4% | 16.1–18.7% | 15.8–19.1% | 15.5–19.4% | 14.9–20.1% |
 | [25–28 February 2022](2022-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 15.8% | 14.5–17.2% | 14.1–17.6% | 13.8–17.9% | 13.2–18.6% |
 | [14–18 February 2022](2022-02-18-Alco.html) | Alco <br> Open TV | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
 | [10–14 February 2022](2022-02-14-Interview.html) | Interview <br> Politic.gr | 16.3% | 15.1–17.6% | 14.7–18.0% | 14.4–18.3% | 13.9–19.0% |
@@ -248,17 +255,16 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 1.4% | 99.8% |  |
-| 13.5–14.5% | 6% | 98% |  |
-| 14.5–15.5% | 16% | 92% |  |
-| 15.5–16.5% | 27% | 76% |  |
-| 16.5–17.5% | 26% | 49% | Median |
-| 17.5–18.5% | 16% | 23% |  |
-| 18.5–19.5% | 6% | 7% |  |
-| 19.5–20.5% | 1.1% | 1.2% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 2% | 99.8% |  |
+| 13.5–14.5% | 8% | 98% |  |
+| 14.5–15.5% | 19% | 90% |  |
+| 15.5–16.5% | 29% | 71% | Median |
+| 16.5–17.5% | 25% | 43% |  |
+| 17.5–18.5% | 13% | 17% |  |
+| 18.5–19.5% | 4% | 4% |  |
+| 19.5–20.5% | 0.5% | 0.5% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -270,6 +276,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [16–21 March 2022](2022-03-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [16–21 March 2022](2022-03-21-Marc.html) | Marc <br> ANT1 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [11–14 March 2022](2022-03-14-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [9–11 March 2022](2022-03-11-GPO.html) | GPO <br> Powergame.gr | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [8–10 March 2022](2022-03-10-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [2–8 March 2022](2022-03-08-AbacusResearch.html) | Abacus Research <br> Alpha TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [2–6 March 2022](2022-03-06-Interview.html) | Interview <br> Politic.gr | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25–28 February 2022](2022-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14–18 February 2022](2022-02-18-Alco.html) | Alco <br> Open TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–14 February 2022](2022-02-14-Interview.html) | Interview <br> Politic.gr | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -499,10 +512,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 52% | 100% | Median |
-| 4 | 48% | 48% |  |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 58% | 99.9% | Median |
+| 4 | 42% | 42% |  |
+| 5 | 0% | 0% |  |
 
 
