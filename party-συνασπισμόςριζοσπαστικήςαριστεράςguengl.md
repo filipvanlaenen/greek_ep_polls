@@ -10,7 +10,15 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 23.8–29.2% | 23.2–30.0% | 22.8–30.6% | 22.0–31.7% |
+| N/A | [Poll Average](average.html) | 25.9% | 24.1–27.9% | 23.6–28.5% | 23.1–29.0% | 22.3–30.0% |
+| [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 26.1% | 24.4–27.9% | 23.9–28.5% | 23.5–28.9% | 22.7–29.8% |
+| [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 27.2% | 25.5–29.1% | 25.0–29.6% | 24.5–30.1% | 23.7–31.0% |
+| [11–13 May 2022](2022-05-13-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 25.6% | 23.9–27.4% | 23.4–27.9% | 23.0–28.4% | 22.2–29.3% |
+| [9–11 May 2022](2022-05-11-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 26.4% | 24.8–28.0% | 24.3–28.5% | 24.0–28.9% | 23.2–29.8% |
+| [7–11 May 2022](2022-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 25.1% | 23.5–27.0% | 23.0–27.5% | 22.6–27.9% | 21.8–28.8% |
+| [4–9 May 2022](2022-05-09-Interview.html) | Interview <br> Politic.gr | 25.0% | 23.6–26.5% | 23.2–26.9% | 22.8–27.3% | 22.2–28.0% |
+| [4–7 May 2022](2022-05-07-GPO.html) | GPO <br> Powergame.gr | 26.7% | N/A | N/A | N/A | N/A |
+| [26–30 April 2022](2022-04-30-Alco.html) | Alco <br> Open TV | 26.1% | 24.4–27.9% | 23.9–28.5% | 23.5–28.9% | 22.7–29.8% |
 | [28 March–15 April 2022](2022-04-15-DATARC.html) | DATA RC <br> Πελοπόννησος & Dnews | 28.9% | 27.2–30.8% | 26.7–31.4% | 26.2–31.8% | 25.4–32.7% |
 | [8–11 April 2022](2022-04-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 29.0% | 27.3–30.7% | 26.9–31.1% | 26.5–31.6% | 25.7–32.4% |
 | [30 March–5 April 2022](2022-04-05-Interview.html) | Interview <br> Politic.gr | 24.3% | 22.9–25.8% | 22.5–26.3% | 22.1–26.6% | 21.5–27.4% |
@@ -251,20 +259,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 1.5% | 99.8% |  |
-| 22.5–23.5% | 6% | 98% |  |
-| 23.5–24.5% | 14% | 92% |  |
-| 24.5–25.5% | 20% | 78% |  |
-| 25.5–26.5% | 19% | 58% | Median |
-| 26.5–27.5% | 14% | 39% | Last Result |
-| 27.5–28.5% | 10% | 25% |  |
-| 28.5–29.5% | 8% | 15% |  |
-| 29.5–30.5% | 5% | 8% |  |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.6% | 0.7% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.7% | 99.9% |  |
+| 22.5–23.5% | 4% | 99.2% |  |
+| 23.5–24.5% | 13% | 95% |  |
+| 24.5–25.5% | 22% | 82% |  |
+| 25.5–26.5% | 26% | 60% | Median |
+| 26.5–27.5% | 19% | 34% | Last Result |
+| 27.5–28.5% | 10% | 15% |  |
+| 28.5–29.5% | 4% | 5% |  |
+| 29.5–30.5% | 0.9% | 1.1% |  |
+| 30.5–31.5% | 0.2% | 0.2% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -275,7 +281,15 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [11–13 May 2022](2022-05-13-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [9–11 May 2022](2022-05-11-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [7–11 May 2022](2022-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [4–9 May 2022](2022-05-09-Interview.html) | Interview <br> Politic.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [4–7 May 2022](2022-05-07-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
+| [26–30 April 2022](2022-04-30-Alco.html) | Alco <br> Open TV | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [28 March–15 April 2022](2022-04-15-DATARC.html) | DATA RC <br> Πελοπόννησος & Dnews | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [8–11 April 2022](2022-04-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [30 March–5 April 2022](2022-04-05-Interview.html) | Interview <br> Politic.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -517,10 +531,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 44% | 99.9% |  |
-| 6 | 51% | 56% | Last Result, Median |
-| 7 | 5% | 5% |  |
+| 5 | 41% | 100% |  |
+| 6 | 58% | 59% | Last Result, Median |
+| 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 
 
