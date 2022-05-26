@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/greek_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-05-23T18:01:03.469686+02:00</updated>
+  <updated>2022-05-26T09:49:10.964072+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 22.9–28.2%, 5–6 seats</li><li>Νέα Δημοκρατία (EPP): 34.1–40.0%, 7–9 seats</li><li>Κίνημα Αλλαγής (S&amp;D): 13.3–17.7%, 3–4 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.2–8.2%, 1–2 seats</li><li>Ελληνική Λύση (ECR): 4.1–6.8%, 1 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.3–4.5%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/greek_ep_polls/2022-05-22-Marc.html</id>
+    <link href="https://filipvanlaenen.github.io/greek_ep_polls/2022-05-22-Marc.html"/>
+    <title>Opinion Poll by Marc for ANT1, 18–22 May 2022</title>
+    <updated>2022-05-26T09:49:10.964072+02:00</updated>
+    <dc:date>2022-05-26T09:49:10.964072+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 23.5–28.9%, 5–6 seats</li><li>Νέα Δημοκρατία (EPP): 32.1–38.0%, 7–8 seats</li><li>Κίνημα Αλλαγής (S&amp;D): 12.2–16.6%, 2–4 seats</li><li>Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.5–7.4%, 1–2 seats</li><li>Ελληνική Λύση (ECR): 4.2–7.1%, 1 seats</li><li>Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.6–4.9%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/greek_ep_polls/2022-05-18-MRB.html</id>
@@ -1687,5 +1695,5 @@
     <updated>2019-06-23T14:23:44+02:00</updated>
     <dc:date>2019-06-23T14:23:44+02:00</dc:date>
   </entry>
-  <dc:date>2022-05-23T18:01:03.469686+02:00</dc:date>
+  <dc:date>2022-05-26T09:49:10.964072+02:00</dc:date>
 </feed>
