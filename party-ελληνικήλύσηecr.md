@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.6% | 4.4–6.8% | 4.1–7.1% | 3.9–7.4% | 3.5–8.0% |
+| [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.7–7.4% |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 5.5% | 4.6–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [11–13 May 2022](2022-05-13-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 6.3% | 5.4–7.4% | 5.2–7.7% | 4.9–8.0% | 4.6–8.5% |
@@ -261,10 +262,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.7% | 100% |  |
-| 3.5–4.5% | 13% | 99.3% |  |
-| 4.5–5.5% | 36% | 86% |  |
-| 5.5–6.5% | 36% | 51% | Median |
+| 2.5–3.5% | 0.6% | 100% |  |
+| 3.5–4.5% | 12% | 99.4% |  |
+| 4.5–5.5% | 35% | 87% |  |
+| 5.5–6.5% | 37% | 52% | Median |
 | 6.5–7.5% | 13% | 15% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
@@ -280,6 +281,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 | 1 | 1 | 1 | 1 | 1–2 |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 1 | 1 | 1 | 1 | 1–2 |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 1 | 1 | 1 | 1 | 1–2 |
 | [11–13 May 2022](2022-05-13-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

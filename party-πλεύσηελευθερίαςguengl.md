@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.5% | 1.0–2.1% | 0.9–2.3% | 0.8–2.4% | 0.6–2.8% |
+| [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
 | [11–13 May 2022](2022-05-13-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -274,6 +275,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb |  |  |  |  |  |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
 | [11–13 May 2022](2022-05-13-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 0 | 0 | 0 | 0 | 0 |
