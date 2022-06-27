@@ -10,13 +10,13 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.5% | 24.2–29.2% | 23.6–29.9% | 23.2–30.5% | 22.3–31.6% |
+| N/A | [Poll Average](average.html) | 26.4% | 24.2–29.1% | 23.6–29.8% | 23.2–30.4% | 22.4–31.6% |
 | [6–8 June 2022](2022-06-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 27.3% | 25.7–29.0% | 25.2–29.5% | 24.8–29.9% | 24.1–30.7% |
 | [27 May–1 June 2022](2022-06-01-ΚάπαResearch.html) | Κάπα Research | 28.1% | 26.3–30.0% | 25.8–30.5% | 25.4–31.0% | 24.6–31.9% |
 | [30 May–1 June 2022](2022-06-01-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 29.1% | 27.3–30.9% | 26.8–31.4% | 26.4–31.9% | 25.6–32.8% |
 | [24–31 May 2022](2022-05-31-Interview.html) | Interview <br> Politic.gr | 24.5% | 23.1–26.0% | 22.7–26.4% | 22.4–26.8% | 21.7–27.5% |
 | [23–28 May 2022](2022-05-28-Alco.html) | Alco <br> Open TV | 25.8% | 24.1–27.6% | 23.6–28.2% | 23.2–28.6% | 22.4–29.5% |
-| [16–23 May 2022](2022-05-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 25.7% | N/A | N/A | N/A | N/A |
+| [16–23 May 2022](2022-05-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 25.7% | 24.2–27.3% | 23.7–27.8% | 23.4–28.2% | 22.7–28.9% |
 | [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.2% | 22.1–29.1% |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 26.1% | 24.4–27.9% | 23.9–28.5% | 23.5–28.9% | 22.7–29.8% |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 27.2% | 25.5–29.1% | 25.0–29.6% | 24.5–30.1% | 23.7–31.0% |
@@ -265,19 +265,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0.1% | 100% |  |
 | 21.5–22.5% | 0.7% | 99.9% |  |
 | 22.5–23.5% | 4% | 99.2% |  |
 | 23.5–24.5% | 10% | 96% |  |
-| 24.5–25.5% | 16% | 85% |  |
-| 25.5–26.5% | 20% | 69% |  |
-| 26.5–27.5% | 19% | 49% | Last Result, Median |
-| 27.5–28.5% | 14% | 31% |  |
-| 28.5–29.5% | 9% | 16% |  |
-| 29.5–30.5% | 5% | 7% |  |
+| 24.5–25.5% | 18% | 85% |  |
+| 25.5–26.5% | 21% | 68% | Median |
+| 26.5–27.5% | 18% | 47% | Last Result |
+| 27.5–28.5% | 13% | 28% |  |
+| 28.5–29.5% | 9% | 15% |  |
+| 29.5–30.5% | 4% | 6% |  |
 | 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.5% | 0.6% |  |
+| 31.5–32.5% | 0.4% | 0.5% |  |
 | 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -296,7 +295,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [30 May–1 June 2022](2022-06-01-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [24–31 May 2022](2022-05-31-Interview.html) | Interview <br> Politic.gr | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [23–28 May 2022](2022-05-28-Alco.html) | Alco <br> Open TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
-| [16–23 May 2022](2022-05-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [16–23 May 2022](2022-05-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [18–22 May 2022](2022-05-22-Marc.html) | Marc <br> ANT1 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [16–18 May 2022](2022-05-18-MRB.html) | MRB <br> Newsbomb | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [16–18 May 2022](2022-05-18-GPO.html) | GPO <br> Τα Νέα | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -547,9 +546,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 32% | 100% |  |
-| 6 | 64% | 68% | Last Result, Median |
-| 7 | 4% | 4% |  |
+| 5 | 34% | 100% |  |
+| 6 | 62% | 66% | Last Result, Median |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 
