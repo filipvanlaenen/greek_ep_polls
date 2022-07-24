@@ -10,14 +10,14 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.0% | 35.2–38.8% | 34.7–39.3% | 34.2–39.8% | 33.3–40.7% |
+| N/A | [Poll Average](average.html) | 36.4% | 34.0–38.6% | 33.4–39.3% | 32.9–39.8% | 32.1–40.8% |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 36.9% | 35.0–38.9% | 34.5–39.5% | 34.0–40.0% | 33.1–40.9% |
 | [11–13 July 2022](2022-07-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.9% | 35.3–38.7% | 34.8–39.1% | 34.4–39.6% | 33.6–40.4% |
-| [4–6 July 2022](2022-07-06-Interview.html) | Interview <br> Politic.gr | 36.0% | N/A | N/A | N/A | N/A |
-| [27 June–4 July 2022](2022-07-04-Alco.html) | Alco <br> Open TV | 35.2% | N/A | N/A | N/A | N/A |
-| [28 June–1 July 2022](2022-07-01-GPO.html) | GPO <br> Powergame.gr | 37.8% | N/A | N/A | N/A | N/A |
-| [22–30 June 2022](2022-06-30-MRB.html) | MRB | 34.1% | N/A | N/A | N/A | N/A |
-| [22–25 June 2022](2022-06-25-Marc.html) | Marc <br> ANT1 | 37.1% | N/A | N/A | N/A | N/A |
+| [4–6 July 2022](2022-07-06-Interview.html) | Interview <br> Politic.gr | 36.0% | 34.3–37.8% | 33.9–38.2% | 33.5–38.7% | 32.6–39.5% |
+| [27 June–4 July 2022](2022-07-04-Alco.html) | Alco <br> Open TV | 35.2% | 33.6–36.9% | 33.1–37.4% | 32.8–37.8% | 32.0–38.6% |
+| [28 June–1 July 2022](2022-07-01-GPO.html) | GPO <br> Powergame.gr | 37.8% | 36.1–39.7% | 35.6–40.2% | 35.1–40.6% | 34.3–41.5% |
+| [22–30 June 2022](2022-06-30-MRB.html) | MRB | 34.1% | 32.8–35.5% | 32.4–35.9% | 32.1–36.2% | 31.4–36.9% |
+| [22–25 June 2022](2022-06-25-Marc.html) | Marc <br> ANT1 | 37.1% | 35.2–39.0% | 34.7–39.6% | 34.2–40.1% | 33.4–41.0% |
 | [6–8 June 2022](2022-06-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.4% | 34.6–38.2% | 34.2–38.7% | 33.7–39.2% | 32.9–40.0% |
 | [27 May–1 June 2022](2022-06-01-ΚάπαResearch.html) | Κάπα Research | 37.6% | 35.7–39.6% | 35.2–40.2% | 34.7–40.7% | 33.8–41.7% |
 | [30 May–1 June 2022](2022-06-01-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 36.0% | 34.1–37.9% | 33.6–38.4% | 33.2–38.9% | 32.3–39.8% |
@@ -280,17 +280,17 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0.1% | 100% |  |
-| 32.5–33.5% | 0.7% | 99.9% |  |
-| 33.5–34.5% | 4% | 99.2% |  |
-| 34.5–35.5% | 11% | 96% |  |
-| 35.5–36.5% | 23% | 84% |  |
-| 36.5–37.5% | 28% | 61% | Median |
-| 37.5–38.5% | 20% | 34% |  |
-| 38.5–39.5% | 10% | 13% |  |
+| 30.5–31.5% | 0.1% | 100% |  |
+| 31.5–32.5% | 1.2% | 99.9% |  |
+| 32.5–33.5% | 5% | 98.7% |  |
+| 33.5–34.5% | 11% | 94% |  |
+| 34.5–35.5% | 16% | 82% |  |
+| 35.5–36.5% | 20% | 66% | Median |
+| 36.5–37.5% | 20% | 46% |  |
+| 37.5–38.5% | 15% | 26% |  |
+| 38.5–39.5% | 8% | 11% |  |
 | 39.5–40.5% | 3% | 3% |  |
-| 40.5–41.5% | 0.6% | 0.7% |  |
+| 40.5–41.5% | 0.6% | 0.8% |  |
 | 41.5–42.5% | 0.1% | 0.1% |  |
 | 42.5–43.5% | 0% | 0% |  |
 
@@ -303,14 +303,14 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 8 | 7–9 | 7–9 | 7–9 |
+| N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| [11–13 July 2022](2022-07-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 7–9 | 7–9 | 7–9 |
-| [4–6 July 2022](2022-07-06-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
-| [27 June–4 July 2022](2022-07-04-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
-| [28 June–1 July 2022](2022-07-01-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
-| [22–30 June 2022](2022-06-30-MRB.html) | MRB |  |  |  |  |  |
-| [22–25 June 2022](2022-06-25-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [11–13 July 2022](2022-07-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8 | 7–9 | 7–9 |
+| [4–6 July 2022](2022-07-06-Interview.html) | Interview <br> Politic.gr | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [27 June–4 July 2022](2022-07-04-Alco.html) | Alco <br> Open TV | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [28 June–1 July 2022](2022-07-01-GPO.html) | GPO <br> Powergame.gr | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [22–30 June 2022](2022-06-30-MRB.html) | MRB | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [22–25 June 2022](2022-06-25-Marc.html) | Marc <br> ANT1 | 8 | 8 | 7–9 | 7–9 | 7–9 |
 | [6–8 June 2022](2022-06-08-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [27 May–1 June 2022](2022-06-01-ΚάπαResearch.html) | Κάπα Research | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
 | [30 May–1 June 2022](2022-06-01-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
@@ -569,9 +569,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
-| 7 | 5% | 100% |  |
-| 8 | 87% | 95% | Median |
-| 9 | 8% | 8% |  |
+| 7 | 22% | 100% |  |
+| 8 | 72% | 78% | Median |
+| 9 | 6% | 6% |  |
 | 10 | 0% | 0% |  |
 
 
