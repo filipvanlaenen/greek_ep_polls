@@ -10,7 +10,8 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.4% | 34.0–38.6% | 33.4–39.3% | 32.9–39.8% | 32.1–40.8% |
+| N/A | [Poll Average](average.html) | 36.4% | 34.0–38.7% | 33.4–39.3% | 32.9–39.8% | 32.1–40.8% |
+| [16–20 July 2022](2022-07-20-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 37.2% | 35.2–39.2% | 34.7–39.7% | 34.2–40.2% | 33.3–41.2% |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 36.9% | 35.0–38.9% | 34.5–39.5% | 34.0–40.0% | 33.1–40.9% |
 | [11–13 July 2022](2022-07-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.9% | 35.3–38.7% | 34.8–39.1% | 34.4–39.6% | 33.6–40.4% |
 | [4–6 July 2022](2022-07-06-Interview.html) | Interview <br> Politic.gr | 36.0% | 34.3–37.8% | 33.9–38.2% | 33.5–38.7% | 32.6–39.5% |
@@ -289,8 +290,8 @@ The following table shows the probability mass function per percentage block of 
 | 36.5–37.5% | 20% | 46% |  |
 | 37.5–38.5% | 15% | 26% |  |
 | 38.5–39.5% | 8% | 11% |  |
-| 39.5–40.5% | 3% | 3% |  |
-| 40.5–41.5% | 0.6% | 0.8% |  |
+| 39.5–40.5% | 3% | 4% |  |
+| 40.5–41.5% | 0.7% | 0.8% |  |
 | 41.5–42.5% | 0.1% | 0.1% |  |
 | 42.5–43.5% | 0% | 0% |  |
 
@@ -304,6 +305,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [16–20 July 2022](2022-07-20-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [11–13 July 2022](2022-07-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8 | 8 | 7–9 | 7–9 |
 | [4–6 July 2022](2022-07-06-Interview.html) | Interview <br> Politic.gr | 8 | 7–8 | 7–8 | 7–8 | 7–9 |

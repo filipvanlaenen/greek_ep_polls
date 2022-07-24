@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.5% | 24.6–28.8% | 24.1–29.4% | 23.7–29.9% | 22.9–30.9% |
+| N/A | [Poll Average](average.html) | 26.7% | 24.7–28.9% | 24.3–29.5% | 23.8–29.9% | 23.1–30.9% |
+| [16–20 July 2022](2022-07-20-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 26.6% | 24.8–28.4% | 24.3–28.9% | 23.9–29.4% | 23.1–30.3% |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 26.6% | 24.9–28.4% | 24.4–29.0% | 24.0–29.4% | 23.2–30.3% |
 | [11–13 July 2022](2022-07-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 28.4% | 26.9–30.0% | 26.4–30.5% | 26.1–30.9% | 25.3–31.7% |
 | [4–6 July 2022](2022-07-06-Interview.html) | Interview <br> Politic.gr | 26.8% | 25.3–28.4% | 24.9–28.9% | 24.5–29.3% | 23.8–30.1% |
@@ -273,14 +274,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 2% | 99.8% |  |
-| 23.5–24.5% | 7% | 98% |  |
-| 24.5–25.5% | 17% | 91% |  |
-| 25.5–26.5% | 24% | 73% |  |
-| 26.5–27.5% | 21% | 50% | Last Result, Median |
-| 27.5–28.5% | 15% | 28% |  |
-| 28.5–29.5% | 9% | 13% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 1.3% | 99.8% |  |
+| 23.5–24.5% | 6% | 98.6% |  |
+| 24.5–25.5% | 16% | 92% |  |
+| 25.5–26.5% | 23% | 76% |  |
+| 26.5–27.5% | 23% | 53% | Last Result, Median |
+| 27.5–28.5% | 17% | 30% |  |
+| 28.5–29.5% | 9% | 14% |  |
 | 29.5–30.5% | 3% | 4% |  |
 | 30.5–31.5% | 0.8% | 0.9% |  |
 | 31.5–32.5% | 0.1% | 0.1% |  |
@@ -296,6 +297,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [16–20 July 2022](2022-07-20-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [11–13 July 2022](2022-07-13-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [4–6 July 2022](2022-07-06-Interview.html) | Interview <br> Politic.gr | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -559,8 +561,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 30% | 100% |  |
-| 6 | 68% | 70% | Last Result, Median |
+| 5 | 27% | 100% |  |
+| 6 | 70% | 73% | Last Result, Median |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
