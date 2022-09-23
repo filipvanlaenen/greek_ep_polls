@@ -10,7 +10,19 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.2% | 34.0–38.6% | 33.4–39.2% | 32.9–39.7% | 32.1–40.7% |
+| N/A | [Poll Average](average.html) | 36.4% | 33.9–39.0% | 33.2–39.7% | 32.5–40.3% | 31.4–41.4% |
+| [19–21 September 2022](2022-09-21-MRB.html) | MRB <br> Open TV | 35.7% | 33.8–37.7% | 33.2–38.2% | 32.8–38.7% | 31.9–39.7% |
+| [18–20 September 2022](2022-09-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 37.9% | 36.0–39.9% | 35.5–40.5% | 35.0–41.0% | 34.1–41.9% |
+| [12–15 September 2022](2022-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 37.9% | N/A | N/A | N/A | N/A |
+| [12–14 September 2022](2022-09-14-OpinionPoll.html) | Opinion Poll <br> Mononews | 38.3% | 36.4–40.3% | 35.8–40.9% | 35.4–41.4% | 34.5–42.4% |
+| [12–14 September 2022](2022-09-14-GPO.html) | GPO <br> Παραπολιτικά | 37.2% | 35.3–39.2% | 34.7–39.8% | 34.2–40.3% | 33.3–41.2% |
+| [8–9 September 2022](2022-09-09-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 36.8% | N/A | N/A | N/A | N/A |
+| [2–5 September 2022](2022-09-05-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 35.7% | 33.8–37.7% | 33.3–38.3% | 32.8–38.8% | 31.9–39.7% |
+| [31 August–5 September 2022](2022-09-05-MRB.html) | MRB <br> Newsbomb | 34.5% | N/A | N/A | N/A | N/A |
+| [29–31 August 2022](2022-08-31-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
+| [23–29 August 2022](2022-08-29-Interview.html) | Interview <br> Politic.gr | 35.8% | 34.3–37.4% | 33.9–37.8% | 33.5–38.2% | 32.8–39.0% |
+| [22–25 August 2022](2022-08-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 36.4% | 34.4–38.3% | 33.9–38.9% | 33.4–39.4% | 32.5–40.4% |
+| [22–24 August 2022](2022-08-24-GPO.html) | GPO <br> Τα Νέα | 35.8% | 33.9–37.8% | 33.3–38.3% | 32.9–38.8% | 32.0–39.8% |
 | [21–24 July 2022](2022-07-24-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 35.6% | 33.9–37.4% | 33.5–37.8% | 33.0–38.3% | 32.3–39.1% |
 | [16–20 July 2022](2022-07-20-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 37.2% | 35.2–39.2% | 34.7–39.7% | 34.2–40.2% | 33.3–41.2% |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 36.9% | 35.0–38.9% | 34.5–39.5% | 34.0–40.0% | 33.1–40.9% |
@@ -281,20 +293,21 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.1% | 100% |  |
-| 31.5–32.5% | 1.2% | 99.9% |  |
-| 32.5–33.5% | 5% | 98.7% |  |
-| 33.5–34.5% | 12% | 94% |  |
-| 34.5–35.5% | 18% | 82% |  |
-| 35.5–36.5% | 21% | 65% | Median |
-| 36.5–37.5% | 20% | 43% |  |
-| 37.5–38.5% | 14% | 24% |  |
-| 38.5–39.5% | 7% | 10% |  |
-| 39.5–40.5% | 2% | 3% |  |
-| 40.5–41.5% | 0.6% | 0.7% |  |
-| 41.5–42.5% | 0.1% | 0.1% |  |
-| 42.5–43.5% | 0% | 0% |  |
+| 29.5–30.5% | 0.1% | 100% |  |
+| 30.5–31.5% | 0.5% | 99.9% |  |
+| 31.5–32.5% | 2% | 99.3% |  |
+| 32.5–33.5% | 5% | 97% |  |
+| 33.5–34.5% | 10% | 93% |  |
+| 34.5–35.5% | 16% | 83% |  |
+| 35.5–36.5% | 20% | 67% | Median |
+| 36.5–37.5% | 19% | 47% |  |
+| 37.5–38.5% | 14% | 28% |  |
+| 38.5–39.5% | 9% | 14% |  |
+| 39.5–40.5% | 4% | 6% |  |
+| 40.5–41.5% | 1.4% | 2% |  |
+| 41.5–42.5% | 0.3% | 0.4% |  |
+| 42.5–43.5% | 0.1% | 0.1% |  |
+| 43.5–44.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -306,6 +319,18 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [19–21 September 2022](2022-09-21-MRB.html) | MRB <br> Open TV | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [18–20 September 2022](2022-09-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
+| [12–15 September 2022](2022-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [12–14 September 2022](2022-09-14-OpinionPoll.html) | Opinion Poll <br> Mononews | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
+| [12–14 September 2022](2022-09-14-GPO.html) | GPO <br> Παραπολιτικά | 8 | 8 | 7–9 | 7–9 | 7–9 |
+| [8–9 September 2022](2022-09-09-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [2–5 September 2022](2022-09-05-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
+| [31 August–5 September 2022](2022-09-05-MRB.html) | MRB <br> Newsbomb |  |  |  |  |  |
+| [29–31 August 2022](2022-08-31-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
+| [23–29 August 2022](2022-08-29-Interview.html) | Interview <br> Politic.gr | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [22–25 August 2022](2022-08-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
+| [22–24 August 2022](2022-08-24-GPO.html) | GPO <br> Τα Νέα | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [21–24 July 2022](2022-07-24-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [16–20 July 2022](2022-07-20-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
 | [12–15 July 2022](2022-07-15-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
@@ -572,10 +597,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 0% | 100% |  |
-| 7 | 23% | 100% |  |
-| 8 | 71% | 77% | Median |
-| 9 | 6% | 6% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 25% | 99.9% |  |
+| 8 | 67% | 75% | Median |
+| 9 | 8% | 8% |  |
 | 10 | 0% | 0% |  |
 
 
