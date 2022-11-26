@@ -10,7 +10,15 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.3% | 24.8–30.0% | 24.2–30.7% | 23.7–31.3% | 22.8–32.4% |
+| N/A | [Poll Average](average.html) | 28.1% | 25.7–30.4% | 25.1–31.1% | 24.6–31.7% | 23.6–32.8% |
+| [19–22 November 2022](2022-11-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.1% | 27.5–30.8% | 27.0–31.3% | 26.6–31.8% | 25.8–32.6% |
+| [16–22 November 2022](2022-11-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 22.9–30.1% |
+| [17–21 November 2022](2022-11-21-Interview.html) | Interview <br> Politic.gr | 28.0% | 26.6–29.4% | 26.2–29.9% | 25.8–30.2% | 25.2–30.9% |
+| [14–18 November 2022](2022-11-18-Alco.html) | Alco <br> Alpha TV | 26.8% | 25.1–28.7% | 24.6–29.2% | 24.1–29.6% | 23.3–30.5% |
+| [8–10 November 2022](2022-11-10-GPO.html) | GPO <br> Παραπολιτικά | 29.9% | 28.1–31.8% | 27.6–32.3% | 27.1–32.8% | 26.3–33.7% |
+| [31 October–2 November 2022](2022-11-02-MRB.html) | MRB <br> Open TV | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
+| [23–25 October 2022](2022-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.1% | 27.4–30.8% | 27.0–31.3% | 26.6–31.7% | 25.8–32.6% |
+| [18–22 October 2022](2022-10-22-Marc.html) | Marc <br> ANT1 | 27.3% | 25.6–29.2% | 25.1–29.7% | 24.7–30.1% | 23.9–31.0% |
 | [13–19 October 2022](2022-10-19-Interview.html) | Interview <br> Politic.gr | 27.6% | 26.2–29.1% | 25.8–29.5% | 25.5–29.9% | 24.8–30.6% |
 | [12–15 October 2022](2022-10-15-GPO.html) | GPO <br> Powergame.gr | 29.4% | 27.8–31.2% | 27.3–31.6% | 26.9–32.1% | 26.1–32.9% |
 | [10–14 October 2022](2022-10-14-Alco.html) | Alco <br> Alpha TV | 26.1% | 24.4–28.0% | 23.9–28.5% | 23.5–29.0% | 22.7–29.9% |
@@ -295,20 +303,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.3% | 100% |  |
-| 22.5–23.5% | 2% | 99.7% |  |
-| 23.5–24.5% | 6% | 98% |  |
-| 24.5–25.5% | 12% | 92% |  |
-| 25.5–26.5% | 16% | 80% |  |
-| 26.5–27.5% | 19% | 64% | Last Result, Median |
-| 27.5–28.5% | 17% | 45% |  |
-| 28.5–29.5% | 14% | 28% |  |
-| 29.5–30.5% | 8% | 14% |  |
-| 30.5–31.5% | 4% | 6% |  |
-| 31.5–32.5% | 1.4% | 2% |  |
-| 32.5–33.5% | 0.3% | 0.3% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.4% | 100% |  |
+| 23.5–24.5% | 2% | 99.6% |  |
+| 24.5–25.5% | 6% | 98% |  |
+| 25.5–26.5% | 12% | 92% |  |
+| 26.5–27.5% | 19% | 80% | Last Result |
+| 27.5–28.5% | 21% | 61% | Median |
+| 28.5–29.5% | 18% | 39% |  |
+| 29.5–30.5% | 12% | 21% |  |
+| 30.5–31.5% | 6% | 9% |  |
+| 31.5–32.5% | 2% | 3% |  |
+| 32.5–33.5% | 0.6% | 0.7% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
 
@@ -320,7 +327,15 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [19–22 November 2022](2022-11-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [16–22 November 2022](2022-11-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [17–21 November 2022](2022-11-21-Interview.html) | Interview <br> Politic.gr | 6 | 6 | 6 | 6–7 | 5–7 |
+| [14–18 November 2022](2022-11-18-Alco.html) | Alco <br> Alpha TV | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [8–10 November 2022](2022-11-10-GPO.html) | GPO <br> Παραπολιτικά | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [31 October–2 November 2022](2022-11-02-MRB.html) | MRB <br> Open TV | 6 | 6 | 5–7 | 5–7 | 5–7 |
+| [23–25 October 2022](2022-10-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [18–22 October 2022](2022-10-22-Marc.html) | Marc <br> ANT1 | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [13–19 October 2022](2022-10-19-Interview.html) | Interview <br> Politic.gr | 6 | 6 | 5–6 | 5–6 | 5–7 |
 | [12–15 October 2022](2022-10-15-GPO.html) | GPO <br> Powergame.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [10–14 October 2022](2022-10-14-Alco.html) | Alco <br> Alpha TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
@@ -607,9 +622,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 23% | 100% |  |
-| 6 | 69% | 77% | Last Result, Median |
-| 7 | 8% | 8% |  |
+| 5 | 12% | 100% |  |
+| 6 | 77% | 88% | Last Result, Median |
+| 7 | 11% | 11% |  |
 | 8 | 0% | 0% |  |
 
 
