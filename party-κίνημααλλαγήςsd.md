@@ -10,8 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.0% | 11.1–14.9% | 10.7–15.5% | 10.4–15.9% | 9.8–16.7% |
+| N/A | [Poll Average](average.html) | 12.9% | 11.0–15.3% | 10.5–16.1% | 10.2–16.7% | 9.6–17.7% |
+| [18–19 December 2022](2022-12-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 11.5% | 10.4–12.8% | 10.0–13.2% | 9.8–13.5% | 9.2–14.2% |
+| [15–19 December 2022](2022-12-19-Interview.html) | Interview <br> Politic.gr | 11.3% | 10.3–12.4% | 10.1–12.7% | 9.9–12.9% | 9.4–13.4% |
+| [13–15 December 2022](2022-12-15-GPO.html) | GPO <br> Powergame.gr | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
+| [1–9 December 2022](2022-12-09-MRB.html) | MRB | 13.3% | 12.4–14.3% | 12.1–14.6% | 11.9–14.9% | 11.4–15.4% |
+| [28 November–2 December 2022](2022-12-02-RASS.html) | RASS <br> Action 24 | 15.7% | 14.3–17.2% | 13.9–17.7% | 13.5–18.1% | 12.9–18.8% |
+| [29 November–2 December 2022](2022-12-02-OpinionPoll.html) | Opinion Poll <br> Lykavitos | 13.3% | 12.1–14.6% | 11.8–15.0% | 11.5–15.3% | 11.0–15.9% |
+| [24–28 November 2022](2022-11-28-GPO.html) | GPO <br> Star TV | 12.6% | 11.4–13.9% | 11.1–14.3% | 10.8–14.6% | 10.3–15.2% |
+| [22–27 November 2022](2022-11-27-Marc.html) | Marc <br> ANT1 | 13.0% | 11.8–14.4% | 11.4–14.9% | 11.1–15.2% | 10.5–15.9% |
 | [19–22 November 2022](2022-11-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12.6% | 11.5–13.9% | 11.1–14.3% | 10.9–14.6% | 10.3–15.3% |
+| [19–22 November 2022](2022-11-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 12.6% | 11.7–13.6% | 11.4–13.9% | 11.2–14.2% | 10.7–14.7% |
 | [16–22 November 2022](2022-11-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
 | [17–21 November 2022](2022-11-21-Interview.html) | Interview <br> Politic.gr | 11.3% | 10.3–12.4% | 10.0–12.7% | 9.8–12.9% | 9.4–13.5% |
 | [14–18 November 2022](2022-11-18-Alco.html) | Alco <br> Alpha TV | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
@@ -312,17 +321,18 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 3% | 99.8% |  |
-| 10.5–11.5% | 14% | 96% |  |
-| 11.5–12.5% | 22% | 83% |  |
-| 12.5–13.5% | 25% | 61% | Median |
-| 13.5–14.5% | 21% | 36% |  |
-| 14.5–15.5% | 11% | 16% |  |
-| 15.5–16.5% | 4% | 4% |  |
-| 16.5–17.5% | 0.7% | 0.8% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.4% | 100% |  |
+| 9.5–10.5% | 5% | 99.5% |  |
+| 10.5–11.5% | 15% | 95% |  |
+| 11.5–12.5% | 22% | 80% |  |
+| 12.5–13.5% | 24% | 58% | Median |
+| 13.5–14.5% | 17% | 34% |  |
+| 14.5–15.5% | 9% | 17% |  |
+| 15.5–16.5% | 5% | 8% |  |
+| 16.5–17.5% | 2% | 3% |  |
+| 17.5–18.5% | 0.6% | 0.7% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -333,8 +343,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [18–19 December 2022](2022-12-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [15–19 December 2022](2022-12-19-Interview.html) | Interview <br> Politic.gr | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–15 December 2022](2022-12-15-GPO.html) | GPO <br> Powergame.gr | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–9 December 2022](2022-12-09-MRB.html) | MRB | 3 | 3 | 3 | 2–3 | 2–3 |
+| [28 November–2 December 2022](2022-12-02-RASS.html) | RASS <br> Action 24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [29 November–2 December 2022](2022-12-02-OpinionPoll.html) | Opinion Poll <br> Lykavitos | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [24–28 November 2022](2022-11-28-GPO.html) | GPO <br> Star TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [22–27 November 2022](2022-11-27-Marc.html) | Marc <br> ANT1 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–22 November 2022](2022-11-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19–22 November 2022](2022-11-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–22 November 2022](2022-11-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3 | 3 | 2–3 | 2–4 |
 | [17–21 November 2022](2022-11-21-Interview.html) | Interview <br> Politic.gr | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14–18 November 2022](2022-11-18-Alco.html) | Alco <br> Alpha TV | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -630,9 +649,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 31% | 100% |  |
-| 3 | 69% | 69% | Median |
-| 4 | 0.8% | 0.8% |  |
+| 2 | 32% | 100% |  |
+| 3 | 65% | 68% | Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 
