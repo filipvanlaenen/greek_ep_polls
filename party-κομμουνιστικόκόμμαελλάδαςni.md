@@ -10,7 +10,12 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.9–7.4% | 4.7–7.9% | 4.4–8.2% | 4.0–8.9% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.9–7.2% | 4.6–7.5% | 4.3–7.8% | 3.9–8.4% |
+| [11–17 January 2023](2023-01-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6.0% | 5.3–7.0% | 5.0–7.2% | 4.9–7.5% | 4.5–7.9% |
+| [12–16 January 2023](2023-01-16-Interview.html) | Interview <br> Politic.gr | 6.7% | 6.0–7.5% | 5.8–7.8% | 5.6–8.0% | 5.3–8.4% |
+| [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC | 5.3% | 4.5–6.3% | 4.2–6.6% | 4.1–6.8% | 3.7–7.4% |
+| [9–13 January 2023](2023-01-13-Alco.html) | Alco <br> Alpha TV | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
+| [16–21 December 2022](2022-12-21-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
 | [18–19 December 2022](2022-12-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.6% | 3.7–7.1% |
 | [15–19 December 2022](2022-12-19-Interview.html) | Interview <br> Politic.gr | 5.6% | 5.0–6.4% | 4.8–6.6% | 4.6–6.8% | 4.3–7.2% |
 | [13–15 December 2022](2022-12-15-GPO.html) | GPO <br> Powergame.gr | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
@@ -312,15 +317,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 4% | 100% |  |
-| 4.5–5.5% | 28% | 96% |  |
-| 5.5–6.5% | 39% | 68% | Last Result, Median |
-| 6.5–7.5% | 21% | 29% |  |
-| 7.5–8.5% | 7% | 9% |  |
-| 8.5–9.5% | 1.2% | 1.3% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 5% | 99.9% |  |
+| 4.5–5.5% | 24% | 95% |  |
+| 5.5–6.5% | 40% | 71% | Last Result, Median |
+| 6.5–7.5% | 25% | 30% |  |
+| 7.5–8.5% | 5% | 5% |  |
+| 8.5–9.5% | 0.3% | 0.3% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -331,7 +335,12 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| [11–17 January 2023](2023-01-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 1–2 |
+| [12–16 January 2023](2023-01-16-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [11–13 January 2023](2023-01-13-OpinionPoll.html) | Opinion Poll <br> The TOC | 1 | 1 | 1 | 1 | 1–2 |
+| [9–13 January 2023](2023-01-13-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [16–21 December 2022](2022-12-21-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [18–19 December 2022](2022-12-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1 |
 | [15–19 December 2022](2022-12-19-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1–2 |
 | [13–15 December 2022](2022-12-15-GPO.html) | GPO <br> Powergame.gr | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -635,8 +644,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 91% | 100% | Median |
-| 2 | 9% | 9% | Last Result |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% | Last Result |
 | 3 | 0% | 0% |  |
 
 
