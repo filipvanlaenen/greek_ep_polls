@@ -10,7 +10,10 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.4% | 27.5–31.4% | 27.0–32.0% | 26.5–32.6% | 25.7–33.6% |
+| N/A | [Poll Average](average.html) | 29.5% | 27.7–31.5% | 27.1–32.1% | 26.7–32.6% | 25.8–33.7% |
+| [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 29.4% | 27.8–31.1% | 27.4–31.6% | 27.0–32.0% | 26.3–32.8% |
+| [6–8 March 2023](2023-03-08-GPO.html) | GPO <br> Παραπολιτικά | 30.6% | 28.8–32.5% | 28.3–33.1% | 27.8–33.5% | 27.0–34.5% |
+| [4–7 March 2023](2023-03-07-Marc.html) | Marc <br> ANT1 | 29.3% | 27.7–31.0% | 27.3–31.5% | 26.9–31.9% | 26.1–32.8% |
 | [16–20 February 2023](2023-02-20-Interview.html) | Interview <br> Politic.gr | 29.2% | 27.7–30.7% | 27.3–31.1% | 26.9–31.5% | 26.2–32.3% |
 | [14–17 February 2023](2023-02-17-OpinionPoll.html) | Opinion Poll <br> The TOC | 29.6% | 27.8–31.5% | 27.3–32.0% | 26.8–32.5% | 26.0–33.4% |
 | [13–17 February 2023](2023-02-17-Alco.html) | Alco <br> Alpha TV | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
@@ -329,14 +332,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.4% | 100% |  |
-| 25.5–26.5% | 2% | 99.6% |  |
-| 26.5–27.5% | 8% | 97% | Last Result |
-| 27.5–28.5% | 18% | 89% |  |
-| 28.5–29.5% | 26% | 71% | Median |
-| 29.5–30.5% | 23% | 46% |  |
-| 30.5–31.5% | 14% | 23% |  |
-| 31.5–32.5% | 6% | 9% |  |
+| 24.5–25.5% | 0.3% | 100% |  |
+| 25.5–26.5% | 2% | 99.7% |  |
+| 26.5–27.5% | 7% | 98% | Last Result |
+| 27.5–28.5% | 16% | 91% |  |
+| 28.5–29.5% | 25% | 75% |  |
+| 29.5–30.5% | 24% | 49% | Median |
+| 30.5–31.5% | 16% | 25% |  |
+| 31.5–32.5% | 7% | 10% |  |
 | 32.5–33.5% | 2% | 3% |  |
 | 33.5–34.5% | 0.5% | 0.6% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
@@ -352,6 +355,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [6–8 March 2023](2023-03-08-GPO.html) | GPO <br> Παραπολιτικά | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [4–7 March 2023](2023-03-07-Marc.html) | Marc <br> ANT1 | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [16–20 February 2023](2023-02-20-Interview.html) | Interview <br> Politic.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [14–17 February 2023](2023-02-17-OpinionPoll.html) | Opinion Poll <br> The TOC | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [13–17 February 2023](2023-02-17-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
@@ -671,9 +677,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.8% | 100% |  |
-| 6 | 72% | 99.2% | Last Result, Median |
-| 7 | 27% | 27% |  |
+| 5 | 0.6% | 100% |  |
+| 6 | 68% | 99.4% | Last Result, Median |
+| 7 | 32% | 32% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
