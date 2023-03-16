@@ -10,7 +10,9 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.5% | 27.7–31.5% | 27.1–32.1% | 26.7–32.6% | 25.8–33.7% |
+| N/A | [Poll Average](average.html) | 29.7% | 27.9–31.7% | 27.3–32.3% | 26.8–32.8% | 25.9–33.8% |
+| [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 29.7% | 28.2–31.3% | 27.8–31.7% | 27.4–32.1% | 26.7–32.9% |
+| [8–11 March 2023](2023-03-11-Prorata.html) | Prorata <br> Attica TV | 30.8% | 29.0–32.6% | 28.5–33.1% | 28.1–33.6% | 27.3–34.4% |
 | [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 29.4% | 27.8–31.1% | 27.4–31.6% | 27.0–32.0% | 26.3–32.8% |
 | [6–8 March 2023](2023-03-08-GPO.html) | GPO <br> Παραπολιτικά | 30.6% | 28.8–32.5% | 28.3–33.1% | 27.8–33.5% | 27.0–34.5% |
 | [4–7 March 2023](2023-03-07-Marc.html) | Marc <br> ANT1 | 29.3% | 27.7–31.0% | 27.3–31.5% | 26.9–31.9% | 26.1–32.8% |
@@ -332,16 +334,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.3% | 100% |  |
-| 25.5–26.5% | 2% | 99.7% |  |
-| 26.5–27.5% | 7% | 98% | Last Result |
-| 27.5–28.5% | 16% | 91% |  |
-| 28.5–29.5% | 25% | 75% |  |
-| 29.5–30.5% | 24% | 49% | Median |
-| 30.5–31.5% | 16% | 25% |  |
-| 31.5–32.5% | 7% | 10% |  |
-| 32.5–33.5% | 2% | 3% |  |
-| 33.5–34.5% | 0.5% | 0.6% |  |
+| 24.5–25.5% | 0.2% | 100% |  |
+| 25.5–26.5% | 1.3% | 99.8% |  |
+| 26.5–27.5% | 5% | 98% | Last Result |
+| 27.5–28.5% | 14% | 93% |  |
+| 28.5–29.5% | 24% | 79% |  |
+| 29.5–30.5% | 25% | 55% | Median |
+| 30.5–31.5% | 18% | 30% |  |
+| 31.5–32.5% | 8% | 12% |  |
+| 32.5–33.5% | 3% | 4% |  |
+| 33.5–34.5% | 0.7% | 0.8% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -354,7 +356,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [8–11 March 2023](2023-03-11-Prorata.html) | Prorata <br> Attica TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [6–8 March 2023](2023-03-08-GPO.html) | GPO <br> Παραπολιτικά | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [4–7 March 2023](2023-03-07-Marc.html) | Marc <br> ANT1 | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -677,9 +681,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.6% | 100% |  |
-| 6 | 68% | 99.4% | Last Result, Median |
-| 7 | 32% | 32% |  |
+| 5 | 0.4% | 100% |  |
+| 6 | 60% | 99.6% | Last Result, Median |
+| 7 | 40% | 40% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 

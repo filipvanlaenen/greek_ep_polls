@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.5% | 3.2–5.8% | 3.0–6.1% | 2.6–6.6% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.5–5.7% | 3.3–6.0% | 3.0–6.2% | 2.7–6.7% |
+| [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 5.4% | 4.7–6.2% | 4.5–6.5% | 4.3–6.7% | 4.0–7.1% |
+| [8–11 March 2023](2023-03-11-Prorata.html) | Prorata <br> Attica TV | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.1–5.4% | 2.8–5.9% |
 | [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 5.1% | 4.4–6.0% | 4.2–6.3% | 4.1–6.5% | 3.7–6.9% |
 | [6–8 March 2023](2023-03-08-GPO.html) | GPO <br> Παραπολιτικά | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [4–7 March 2023](2023-03-07-Marc.html) | Marc <br> ANT1 | 4.6% | 3.9–5.5% | 3.7–5.7% | 3.6–5.9% | 3.3–6.4% |
@@ -333,12 +335,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 12% | 99.6% |  |
-| 3.5–4.5% | 41% | 88% |  |
-| 4.5–5.5% | 38% | 47% | Median |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 11% | 99.7% |  |
+| 3.5–4.5% | 38% | 89% |  |
+| 4.5–5.5% | 38% | 51% | Median |
+| 5.5–6.5% | 12% | 13% |  |
+| 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -351,6 +353,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 1–2 |
+| [8–11 March 2023](2023-03-11-Prorata.html) | Prorata <br> Attica TV | 1 | 1 | 1 | 0–1 | 0–1 |
 | [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
 | [6–8 March 2023](2023-03-08-GPO.html) | GPO <br> Παραπολιτικά | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–7 March 2023](2023-03-07-Marc.html) | Marc <br> ANT1 | 1 | 1 | 1 | 1 | 1 |
@@ -673,9 +677,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 95% | 95% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 4% | 100% | Last Result |
+| 1 | 96% | 96% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
