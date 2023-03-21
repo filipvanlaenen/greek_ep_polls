@@ -10,7 +10,9 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.7% | 27.9–31.7% | 27.3–32.3% | 26.8–32.8% | 25.9–33.8% |
+| N/A | [Poll Average](average.html) | 29.6% | 27.0–31.7% | 26.0–32.3% | 25.3–32.8% | 24.2–33.8% |
+| [13–15 March 2023](2023-03-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 30.3% | 28.6–32.1% | 28.1–32.6% | 27.7–33.1% | 26.9–34.0% |
+| [7–13 March 2023](2023-03-13-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 26.3% | 24.7–28.0% | 24.3–28.5% | 23.9–28.9% | 23.2–29.7% |
 | [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 29.7% | 28.2–31.3% | 27.8–31.7% | 27.4–32.1% | 26.7–32.9% |
 | [8–11 March 2023](2023-03-11-Prorata.html) | Prorata <br> Attica TV | 30.8% | 29.0–32.6% | 28.5–33.1% | 28.1–33.6% | 27.3–34.4% |
 | [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 29.4% | 27.8–31.1% | 27.4–31.6% | 27.0–32.0% | 26.3–32.8% |
@@ -333,17 +335,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.2% | 100% |  |
-| 25.5–26.5% | 1.3% | 99.8% |  |
-| 26.5–27.5% | 5% | 98% | Last Result |
-| 27.5–28.5% | 14% | 93% |  |
-| 28.5–29.5% | 24% | 79% |  |
-| 29.5–30.5% | 25% | 55% | Median |
-| 30.5–31.5% | 18% | 30% |  |
-| 31.5–32.5% | 8% | 12% |  |
-| 32.5–33.5% | 3% | 4% |  |
-| 33.5–34.5% | 0.7% | 0.8% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 0.7% | 99.9% |  |
+| 24.5–25.5% | 2% | 99.1% |  |
+| 25.5–26.5% | 4% | 97% |  |
+| 26.5–27.5% | 7% | 92% | Last Result |
+| 27.5–28.5% | 13% | 85% |  |
+| 28.5–29.5% | 21% | 72% |  |
+| 29.5–30.5% | 23% | 51% | Median |
+| 30.5–31.5% | 17% | 28% |  |
+| 31.5–32.5% | 8% | 11% |  |
+| 32.5–33.5% | 3% | 3% |  |
+| 33.5–34.5% | 0.6% | 0.7% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -356,7 +360,9 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [13–15 March 2023](2023-03-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [7–13 March 2023](2023-03-13-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [6–13 March 2023](2023-03-13-MRB.html) | MRB <br> Open TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [8–11 March 2023](2023-03-11-Prorata.html) | Prorata <br> Attica TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [6–9 March 2023](2023-03-09-Interview.html) | Interview <br> Politic.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -681,9 +687,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.4% | 100% |  |
-| 6 | 60% | 99.6% | Last Result, Median |
-| 7 | 40% | 40% |  |
+| 5 | 4% | 100% |  |
+| 6 | 60% | 96% | Last Result, Median |
+| 7 | 36% | 36% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
