@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.7–5.9% | 3.5–6.2% | 3.3–6.6% | 3.0–7.2% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.8–5.8% | 3.5–6.2% | 3.3–6.5% | 3.0–7.1% |
+| [19–23 April 2023](2023-04-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
+| [18–22 April 2023](2023-04-22-Alco.html) | Alco <br> Alpha TV | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
+| [18–21 April 2023](2023-04-21-OpinionPoll.html) | Opinion Poll <br> The TOC | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
+| [19–20 April 2023](2023-04-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 4.9% | 4.1–5.9% | 3.9–6.1% | 3.7–6.4% | 3.4–6.9% |
+| [3–5 April 2023](2023-04-05-GPO.html) | GPO <br> Παραπολιτικά | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.2% | 3.5–5.0% | 3.3–5.3% | 3.1–5.5% | 2.8–6.0% |
 | [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.6–5.7% | 3.3–6.1% |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.2% | 4.0–7.7% |
@@ -348,12 +353,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 6% | 100% |  |
-| 3.5–4.5% | 38% | 94% |  |
-| 4.5–5.5% | 39% | 56% | Median |
-| 5.5–6.5% | 15% | 17% |  |
-| 6.5–7.5% | 2% | 3% |  |
-| 7.5–8.5% | 0.2% | 0.2% |  |
+| 2.5–3.5% | 5% | 100% |  |
+| 3.5–4.5% | 39% | 95% |  |
+| 4.5–5.5% | 40% | 56% | Median |
+| 5.5–6.5% | 14% | 16% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -366,6 +371,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| [19–23 April 2023](2023-04-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–1 |
+| [18–22 April 2023](2023-04-22-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 1 | 1 | 0–1 |
+| [18–21 April 2023](2023-04-21-OpinionPoll.html) | Opinion Poll <br> The TOC | 1 | 1 | 1 | 1 | 1 |
+| [19–20 April 2023](2023-04-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 1 | 1 | 1 | 1 |
+| [3–5 April 2023](2023-04-05-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–1 |
 | [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 0–1 |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 1 | 1 | 1 | 1 | 1–2 |
