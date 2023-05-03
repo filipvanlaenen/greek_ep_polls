@@ -384,10 +384,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–23 April 2023](2023-04-23-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [18–22 April 2023](2023-04-22-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [18–21 April 2023](2023-04-21-OpinionPoll.html) | Opinion Poll <br> The TOC | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [19–20 April 2023](2023-04-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [3–5 April 2023](2023-04-05-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [19–20 April 2023](2023-04-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2 | 2 | 2 | 2–3 | 2–3 |
+| [3–5 April 2023](2023-04-05-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 2–3 |
+| [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -724,8 +724,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.2% | 100% |  |
-| 2 | 82% | 99.8% | Median |
-| 3 | 18% | 18% |  |
+| 2 | 80% | 99.8% | Median |
+| 3 | 20% | 20% |  |
 | 4 | 0% | 0% |  |
 
 

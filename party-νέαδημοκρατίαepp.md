@@ -389,7 +389,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [19–20 April 2023](2023-04-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [3–5 April 2023](2023-04-05-GPO.html) | GPO <br> Παραπολιτικά | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
@@ -726,8 +726,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 3% | 100% |  |
-| 7 | 50% | 97% | Median |
-| 8 | 45% | 46% |  |
+| 7 | 49% | 97% | Median |
+| 8 | 48% | 49% |  |
 | 9 | 1.1% | 1.1% |  |
 | 10 | 0% | 0% |  |
 
