@@ -391,7 +391,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb | 2 | 2 | 2 | 2 | 1–3 |
 | [18–21 March 2023](2023-03-21-GPO.html) | GPO <br> Star TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -724,8 +724,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.2% | 100% |  |
-| 2 | 80% | 99.8% | Median |
-| 3 | 20% | 20% |  |
+| 2 | 78% | 99.8% | Median |
+| 3 | 22% | 22% |  |
 | 4 | 0% | 0% |  |
 
 
