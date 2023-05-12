@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.6–2.4% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.9–1.9% | 0.8–2.1% | 0.7–2.2% | 0.6–2.5% |
+| [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.6–2.4% |
+| [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [25 April–5 May 2023](2023-05-05-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1.5% | 1.2–2.1% | 1.1–2.2% | 1.0–2.4% | 0.8–2.7% |
+| [2–3 May 2023](2023-05-03-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 April 2023](2023-04-30-Prorata.html) | Prorata <br> Attica TV | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 April 2023](2023-04-30-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 April 2023](2023-04-26-MRB.html) | MRB <br> Open TV | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
@@ -27,6 +31,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb | 0.0% | N/A | N/A | N/A | N/A |
+| [24–27 March 2023](2023-03-27-Rass.html) | Rass <br> iefimerida | 0.0% | N/A | N/A | N/A | N/A |
 | [18–21 March 2023](2023-03-21-GPO.html) | GPO <br> Star TV | 0.0% | N/A | N/A | N/A | N/A |
 | [13–17 March 2023](2023-03-17-Alco.html) | Alco <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [13–15 March 2023](2023-03-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
@@ -353,10 +358,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.4% | 100% | Last Result |
-| 0.5–1.5% | 78% | 99.6% | Median |
-| 1.5–2.5% | 22% | 22% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 68% | 99.8% | Median |
+| 1.5–2.5% | 32% | 32% |  |
+| 2.5–3.5% | 0.5% | 0.5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -369,6 +374,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
+| [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
+| [25 April–5 May 2023](2023-05-05-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0 | 0 | 0 | 0 | 0 |
+| [2–3 May 2023](2023-05-03-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
 | [27–30 April 2023](2023-04-30-Prorata.html) | Prorata <br> Attica TV |  |  |  |  |  |
 | [27–30 April 2023](2023-04-30-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [24–26 April 2023](2023-04-26-MRB.html) | MRB <br> Open TV | 0 | 0 | 0 | 0 | 0 |
@@ -385,6 +394,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb |  |  |  |  |  |
+| [24–27 March 2023](2023-03-27-Rass.html) | Rass <br> iefimerida |  |  |  |  |  |
 | [18–21 March 2023](2023-03-21-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [13–17 March 2023](2023-03-17-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [13–15 March 2023](2023-03-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
