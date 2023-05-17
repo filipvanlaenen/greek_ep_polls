@@ -33,7 +33,7 @@ Last result: **22.7%** (General Election of 26 May 2019)
 | [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 35.0% | N/A | N/A | N/A | N/A |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 32.9% | 31.0–34.8% | 30.5–35.4% | 30.0–35.8% | 29.1–36.8% |
 | [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 31.0% | 29.3–32.9% | 28.8–33.4% | 28.3–33.9% | 27.5–34.8% |
-| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 35.1% | N/A | N/A | N/A | N/A |
+| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 35.1% | 33.4–36.9% | 32.9–37.4% | 32.5–37.9% | 31.7–38.7% |
 | [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 33.9% | N/A | N/A | N/A | N/A |
 | [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 32.5% | N/A | N/A | N/A | N/A |
 | [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb | 33.3% | N/A | N/A | N/A | N/A |
@@ -400,7 +400,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb |  |  |  |  |  |
