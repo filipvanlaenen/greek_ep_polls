@@ -139,7 +139,6 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Νέα Δημοκρατία (EPP) | 5 | 7 | 0% | 7–8 | 7–8 | 7–8 | 6–8 |
-| Εθνικό Κόμμα – Έλληνες (*) | 0 | 1 | 0% | 1 | 1 | 1 | 0–1 |
 
 ### Νέα Δημοκρατία (EPP)
 
@@ -152,16 +151,6 @@
 | 7 | 74% | 99.1% | Median |
 | 8 | 25% | 25% |  |
 | 9 | 0% | 0% |  |
-
-### Εθνικό Κόμμα – Έλληνες (*)
-
-![Graph with seats probability mass function not yet produced](2023-04-20-MetronAnalysis-coalitions-seats-pmf-εκε.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 98% | 98% | Median |
-| 2 | 0% | 0% |  |
 
 
 ## Technical Information

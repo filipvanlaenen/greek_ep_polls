@@ -152,7 +152,6 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Νέα Δημοκρατία (EPP) | 5 | 8 | 0% | 7–8 | 7–8 | 7–8 | 7–8 |
-| Εθνικό Κόμμα – Έλληνες (*) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Εθνική Δημιουργία (ID) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
 ### Νέα Δημοκρατία (EPP)
@@ -167,16 +166,6 @@
 | 8 | 83% | 83% | Median |
 | 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
-
-### Εθνικό Κόμμα – Έλληνες (*)
-
-![Graph with seats probability mass function not yet produced](2023-04-30-Interview-coalitions-seats-pmf-εκε.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% | Last Result |
-| 1 | 83% | 83% | Median |
-| 2 | 0% | 0% |  |
 
 ### Εθνική Δημιουργία (ID)
 

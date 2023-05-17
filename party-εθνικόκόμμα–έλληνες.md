@@ -30,11 +30,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19–20 April 2023](2023-04-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [3–5 April 2023](2023-04-05-GPO.html) | GPO <br> Παραπολιτικά | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.6% | N/A | N/A | N/A | N/A |
-| [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 2.2% | 1.8–2.8% | 1.6–3.0% | 1.5–3.1% | 1.4–3.4% |
+| [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 2.2% | N/A | N/A | N/A | N/A |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.7% |
-| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4.2% | 3.6–5.0% | 3.4–5.3% | 3.2–5.5% | 2.9–5.9% |
-| [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.6% | 3.0–4.4% | 2.8–4.7% | 2.6–4.9% | 2.4–5.3% |
+| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4.2% | N/A | N/A | N/A | N/A |
+| [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.6% | N/A | N/A | N/A | N/A |
 | [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.7% | N/A | N/A | N/A | N/A |
 | [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb | 4.8% | N/A | N/A | N/A | N/A |
 | [24–27 March 2023](2023-03-27-Rass.html) | Rass <br> iefimerida | 4.4% | N/A | N/A | N/A | N/A |
@@ -190,66 +190,48 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα | 1.7% | N/A | N/A | N/A | N/A |
 | [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
-| [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 July 2021](2021-07-11-Prorata.html) | Prorata | 0.0% | N/A | N/A | N/A | N/A |
-| [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
 | [7–10 July 2021](2021-07-10-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.1% | N/A | N/A | N/A | N/A |
 | [30 June–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr | 0.0% | N/A | N/A | N/A | N/A |
-| [4–7 July 2021](2021-07-07-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
-| [1–2 July 2021](2021-07-02-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
 | [23 June–1 July 2021](2021-07-01-MRB.html) | MRB | 0.0% | N/A | N/A | N/A | N/A |
 | [26–29 June 2021](2021-06-29-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
-| [20–25 June 2021](2021-06-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [18–24 June 2021](2021-06-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
-| [4–7 June 2021](2021-06-07-GPO.html) | GPO <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 June 2021](2021-06-05-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.1% | N/A | N/A | N/A | N/A |
-| [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1.8% | N/A | N/A | N/A | N/A |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
-| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
-| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [19–23 April 2021](2021-04-23-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
-| [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
-| [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 April 2021](2021-04-09-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [31 March–6 April 2021](2021-04-06-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
-| [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega | 0.0% | N/A | N/A | N/A | N/A |
 | [16–22 March 2021](2021-03-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.0% | N/A | N/A | N/A | N/A |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
-| [14–18 March 2021](2021-03-18-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Powergame.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star | 0.0% | N/A | N/A | N/A | N/A |
 | [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
-| [22–27 February 2021](2021-02-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 0.0% | N/A | N/A | N/A | N/A |
-| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political | 0.0% | N/A | N/A | N/A | N/A |
-| [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research | 0.0% | N/A | N/A | N/A | N/A |
 | [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV | 0.0% | N/A | N/A | N/A | N/A |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.0% | N/A | N/A | N/A | N/A |
-| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
-| [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
@@ -403,11 +385,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–20 April 2023](2023-04-20-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 1 | 1 | 1 | 0–1 |
 | [3–5 April 2023](2023-04-05-GPO.html) | GPO <br> Παραπολιτικά | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 March–3 April 2023](2023-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr | 0 | 0 | 0 | 0–1 | 0–1 |
+| [28 March–1 April 2023](2023-04-01-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [27–31 March 2023](2023-03-31-Rass.html) | Rass <br> Action 24 | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [27–30 March 2023](2023-03-30-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 1 | 1 | 1 | 1 | 1 |
-| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1 | 1 | 0–1 |
-| [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–30 March 2023](2023-03-30-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [24–28 March 2023](2023-03-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [22–28 March 2023](2023-03-28-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [24–28 March 2023](2023-03-28-MRB.html) | MRB <br> Newsbomb |  |  |  |  |  |
 | [24–27 March 2023](2023-03-27-Rass.html) | Rass <br> iefimerida |  |  |  |  |  |
@@ -563,66 +545,48 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–25 August 2021](2021-08-25-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
 | [23–24 August 2021](2021-08-24-Prorata.html) | Prorata <br> iEidiseis |  |  |  |  |  |
 | [12–17 July 2021](2021-07-17-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
-| [9–12 July 2021](2021-07-12-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [7–11 July 2021](2021-07-11-Prorata.html) | Prorata |  |  |  |  |  |
-| [7–11 July 2021](2021-07-11-GPO.html) | GPO <br> ANT1 |  |  |  |  |  |
 | [7–10 July 2021](2021-07-10-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [27 June–7 July 2021](2021-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [30 June–7 July 2021](2021-07-07-OpinionPoll.html) | Opinion Poll <br> tomanifesto.gr |  |  |  |  |  |
-| [4–7 July 2021](2021-07-07-MRB.html) | MRB <br> Star |  |  |  |  |  |
-| [1–2 July 2021](2021-07-02-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
 | [23 June–1 July 2021](2021-07-01-MRB.html) | MRB |  |  |  |  |  |
 | [26–29 June 2021](2021-06-29-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
-| [20–25 June 2021](2021-06-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [18–24 June 2021](2021-06-24-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [17–23 June 2021](2021-06-23-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [15–19 June 2021](2021-06-19-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
-| [4–7 June 2021](2021-06-07-GPO.html) | GPO <br> ANT1 |  |  |  |  |  |
 | [3–5 June 2021](2021-06-05-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [31 May–2 June 2021](2021-06-02-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [27–30 May 2021](2021-05-30-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [18–28 May 2021](2021-05-28-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [18–24 May 2021](2021-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [17–21 May 2021](2021-05-21-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [11–17 May 2021](2021-05-17-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [5–7 May 2021](2021-05-07-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
-| [27–29 April 2021](2021-04-29-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [22–27 April 2021](2021-04-27-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [23–25 April 2021](2021-04-25-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [21–24 April 2021](2021-04-24-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [19–23 April 2021](2021-04-23-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [19–22 April 2021](2021-04-22-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [13–19 April 2021](2021-04-19-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [12–16 April 2021](2021-04-16-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
-| [10–12 April 2021](2021-04-12-GPO.html) | GPO <br> powergame.gr |  |  |  |  |  |
-| [8–9 April 2021](2021-04-09-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [6–9 April 2021](2021-04-09-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [31 March–6 April 2021](2021-04-06-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [26–28 March 2021](2021-03-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [17–23 March 2021](2021-03-23-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |
 | [16–22 March 2021](2021-03-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [19–22 March 2021](2021-03-22-Marc.html) | Marc <br> Alpha TV |  |  |  |  |  |
 | [17–22 March 2021](2021-03-22-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
-| [14–18 March 2021](2021-03-18-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [12–17 March 2021](2021-03-17-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [3–5 March 2021](2021-03-05-GPO.html) | GPO <br> Powergame.gr |  |  |  |  |  |
 | [1–3 March 2021](2021-03-03-MRB.html) | MRB <br> Star |  |  |  |  |  |
 | [1–3 March 2021](2021-03-03-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
 | [26–28 February 2021](2021-02-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [22–27 February 2021](2021-02-27-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |
-| [23–26 February 2021](2021-02-26-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [22–26 February 2021](2021-02-26-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
-| [20–24 February 2021](2021-02-24-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
 | [14–22 February 2021](2021-02-22-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [15–19 February 2021](2021-02-19-OpinionPoll.html) | Opinion Poll |  |  |  |  |  |
 | [15–18 February 2021](2021-02-18-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
 | [15–17 February 2021](2021-02-17-Interview.html) | Interview <br> Βεργίνα TV |  |  |  |  |  |
 | [25–27 January 2021](2021-01-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [19–25 January 2021](2021-01-25-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [19–22 January 2021](2021-01-22-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [19–20 January 2021](2021-01-20-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [14–19 January 2021](2021-01-19-Alco.html) | Alco <br> Open TV |  |  |  |  |  |
-| [7–16 January 2021](2021-01-16-ToThePoint.html) | To The Point <br> Voria.gr |  |  |  |  |  |
 | [7–11 January 2021](2021-01-11-Marc.html) | Marc <br> Αlpha TV |  |  |  |  |  |
 | [4–8 January 2021](2021-01-08-OpinionPoll.html) | Opinion Poll <br> Political |  |  |  |  |  |
 | [12–16 December 2020](2020-12-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
