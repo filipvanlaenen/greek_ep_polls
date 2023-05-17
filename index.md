@@ -2,21 +2,21 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ | ΕΛ | ΜέΡΑ25 | ΕΚΕ | ΕΔ |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 27–32% <br> 6–7 | 33–40% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | 1–3% <br> 0 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 1–2% <br> 0 |
-| [28–11 May 2023](2023-05-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 27–33% <br> 6–7 | 32–38% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 26–30% <br> 6–7 | 34–38% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | 2–3% <br> 0–1 | 3–4% <br> 0–1 | 4–5% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
-| [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 28–33% <br> 6–7 | 35–40% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [10–11 May 2023](2023-05-11-GPO.html) | GPO <br> Παραπολιτικά | 28–33% <br> 6–7 | 34–40% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 3–5% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
-| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 27–33% <br> 6–7 | 34–39% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | 3–6% <br> 1 | 3–5% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
-| [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 27–33% <br> 6–7 | 34–40% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0–1 | 4–6% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
-| [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV | 26–32% <br> 6–7 | 34–40% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | 3–6% <br> 1 | 3–5% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
-| [27–30 April 2023](2023-04-30-Interview.html) | Interview <br> Politic.gr | 27–31% <br> 6–7 | 33–38% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1 | 4–5% <br> 1 | 3–4% <br> 0–1 | 2–3% <br> 0 |
-| [24–26 April 2023](2023-04-26-MRB.html) | MRB <br> Open TV | 26–31% <br> 6–7 | 31–37% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | 2–5% <br> 0–1 | 3–5% <br> 0–1 | 3–6% <br> 1 | 1–2% <br> 0 |
-| [18–21 April 2023](2023-04-21-OpinionPoll.html) | Opinion Poll <br> The TOC | 27–32% <br> 6–7 | 33–39% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | 4–6% <br> 1 | 3–5% <br> 0–1 | 3–5% <br> 0–1 | 1–2% <br> 0 |
-| 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | ΣΥΡΙΖΑ | ΝΔ | ΧΑ | Ποτάμι | ΚΚΕ | ΑΝΕΛ | ΕΚ | ΚΑ | ΛΑΕ | ΠΕ | ΕΛ | ΜέΡΑ25 | ΕΚΕ | ΕΔ | Ν | ΕΑΝ |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 27–32% <br> 6–7 | 33–40% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | 1–3% <br> 0 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 3–6% <br> 0–1 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [28–11 May 2023](2023-05-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 27–33% <br> 6–7 | 32–38% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 26–30% <br> 6–7 | 34–38% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | 2–3% <br> 0–1 | 3–4% <br> 0–1 | 4–5% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 28–33% <br> 6–7 | 35–40% <br> 8–9 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | 1–3% <br> 0 | 3–5% <br> 0–1 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–11 May 2023](2023-05-11-GPO.html) | GPO <br> Παραπολιτικά | 28–33% <br> 6–7 | 34–40% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | 3–5% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 27–33% <br> 6–7 | 34–39% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | 3–6% <br> 1 | 3–5% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 27–33% <br> 6–7 | 34–40% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | 3–5% <br> 0–1 | 4–6% <br> 1 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV | 26–32% <br> 6–7 | 34–40% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | 3–6% <br> 1 | 3–5% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [27–30 April 2023](2023-04-30-Interview.html) | Interview <br> Politic.gr | 27–31% <br> 6–7 | 33–38% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 1 | 4–5% <br> 1 | 3–4% <br> 0–1 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [24–26 April 2023](2023-04-26-MRB.html) | MRB <br> Open TV | 26–31% <br> 6–7 | 31–37% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | 2–5% <br> 0–1 | 3–5% <br> 0–1 | 3–6% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [18–21 April 2023](2023-04-21-OpinionPoll.html) | Opinion Poll <br> The TOC | 27–32% <br> 6–7 | 33–39% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | 4–6% <br> 1 | 3–5% <br> 0–1 | 3–5% <br> 0–1 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -37,6 +37,8 @@ Only polls for which at least the sample size has been published are included in
 + **ΜέΡΑ25:** Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL)
 + **ΕΚΕ:** Εθνικό Κόμμα – Έλληνες (*)
 + **ΕΔ:** Εθνική Δημιουργία (ID)
++ **Ν:** Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*)
++ **ΕΑΝ:** ΕΑΝ… (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
