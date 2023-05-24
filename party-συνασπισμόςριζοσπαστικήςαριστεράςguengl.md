@@ -10,15 +10,24 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.4% | 27.5–31.4% | 27.0–32.0% | 26.6–32.5% | 25.8–33.4% |
-| [28–11 May 2023](2023-05-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.9% |
-| [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 28.0% | 26.7–29.3% | 26.4–29.6% | 26.1–29.9% | 25.5–30.6% |
-| [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 30.0% | 28.4–31.8% | 27.9–32.3% | 27.5–32.7% | 26.7–33.5% |
-| [10–11 May 2023](2023-05-11-GPO.html) | GPO <br> Παραπολιτικά | 30.4% | 28.6–32.2% | 28.2–32.7% | 27.7–33.1% | 26.9–34.0% |
-| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 29.9% | 28.2–31.6% | 27.7–32.1% | 27.3–32.5% | 26.6–33.4% |
+| N/A | [Poll Average](average.html) | 29.2% | 27.3–31.2% | 26.8–31.7% | 26.3–32.2% | 25.5–33.2% |
+| [14–19 May 2023](2023-05-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.0% | 27.5–30.6% | 27.0–31.0% | 26.7–31.4% | 26.0–32.2% |
+| [16–19 May 2023](2023-05-19-MRB.html) | MRB <br> Open TV | 30.3% | 28.5–32.1% | 28.0–32.6% | 27.6–33.1% | 26.8–33.9% |
+| [15–18 May 2023](2023-05-18-Rass.html) | Rass <br> iefimerida | 28.6% | 27.0–30.3% | 26.5–30.8% | 26.1–31.2% | 25.3–32.0% |
+| [16–18 May 2023](2023-05-18-Marc.html) | Marc <br> ΑΝΤ1 | 29.7% | 28.1–31.4% | 27.6–31.9% | 27.2–32.3% | 26.5–33.1% |
+| [13–17 May 2023](2023-05-17-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 28.0% | 26.5–29.7% | 26.0–30.1% | 25.7–30.5% | 24.9–31.3% |
+| [12–17 May 2023](2023-05-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 28.1% | N/A | N/A | N/A | N/A |
+| [12–17 May 2023](2023-05-17-Interview.html) | Interview <br> Politic.gr | 30.7% | N/A | N/A | N/A | N/A |
+| [15–17 May 2023](2023-05-17-GPO.html) | GPO <br> Παραπολιτικά | 30.3% | N/A | N/A | N/A | N/A |
+| [11–16 May 2023](2023-05-16-Alco.html) | Alco <br> Alpha TV | 29.2% | N/A | N/A | N/A | N/A |
+| [28–11 May 2023](2023-05-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 30.0% | N/A | N/A | N/A | N/A |
+| [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 28.0% | N/A | N/A | N/A | N/A |
+| [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 30.0% | N/A | N/A | N/A | N/A |
+| [10–11 May 2023](2023-05-11-GPO.html) | GPO <br> Παραπολιτικά | 30.4% | N/A | N/A | N/A | N/A |
+| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 29.9% | N/A | N/A | N/A | N/A |
 | [5–9 May 2023](2023-05-09-Marc.html) | Marc <br> ΑΝΤ1 | 30.1% | N/A | N/A | N/A | N/A |
-| [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.8% | 28.0–31.6% | 27.5–32.2% | 27.1–32.6% | 26.3–33.5% |
-| [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV | 29.2% | 27.4–31.1% | 26.9–31.6% | 26.5–32.1% | 25.6–33.0% |
+| [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.8% | N/A | N/A | N/A | N/A |
+| [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV | 29.2% | N/A | N/A | N/A | N/A |
 | [25 April–5 May 2023](2023-05-05-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 27.8% | N/A | N/A | N/A | N/A |
 | [2–3 May 2023](2023-05-03-GPO.html) | GPO <br> Τα Νέα | 30.4% | N/A | N/A | N/A | N/A |
 | [27–30 April 2023](2023-04-30-Prorata.html) | Prorata <br> Attica TV | 30.7% | 29.0–32.5% | 28.5–33.0% | 28.1–33.4% | 27.3–34.3% |
@@ -347,16 +356,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.3% | 100% |  |
-| 25.5–26.5% | 2% | 99.7% |  |
-| 26.5–27.5% | 8% | 98% | Last Result |
-| 27.5–28.5% | 18% | 89% |  |
-| 28.5–29.5% | 25% | 71% | Median |
-| 29.5–30.5% | 23% | 46% |  |
-| 30.5–31.5% | 15% | 23% |  |
-| 31.5–32.5% | 6% | 9% |  |
-| 32.5–33.5% | 2% | 2% |  |
-| 33.5–34.5% | 0.3% | 0.4% |  |
+| 24.5–25.5% | 0.5% | 100% |  |
+| 25.5–26.5% | 3% | 99.5% |  |
+| 26.5–27.5% | 10% | 97% | Last Result |
+| 27.5–28.5% | 20% | 86% |  |
+| 28.5–29.5% | 26% | 66% | Median |
+| 29.5–30.5% | 22% | 40% |  |
+| 30.5–31.5% | 12% | 19% |  |
+| 31.5–32.5% | 5% | 6% |  |
+| 32.5–33.5% | 1.3% | 2% |  |
+| 33.5–34.5% | 0.2% | 0.3% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
 
@@ -369,14 +378,23 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [28–11 May 2023](2023-05-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 6 | 6 | 6–7 | 6–7 |
-| [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [10–11 May 2023](2023-05-11-GPO.html) | GPO <br> Παραπολιτικά | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [14–19 May 2023](2023-05-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [16–19 May 2023](2023-05-19-MRB.html) | MRB <br> Open TV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [15–18 May 2023](2023-05-18-Rass.html) | Rass <br> iefimerida | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [16–18 May 2023](2023-05-18-Marc.html) | Marc <br> ΑΝΤ1 | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [13–17 May 2023](2023-05-17-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 6 | 6 | 6–7 | 6–7 | 5–7 |
+| [12–17 May 2023](2023-05-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [12–17 May 2023](2023-05-17-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [15–17 May 2023](2023-05-17-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [11–16 May 2023](2023-05-16-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [28–11 May 2023](2023-05-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [10–11 May 2023](2023-05-11-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [5 May 2022–9 May 2023](2023-05-09-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
 | [5–9 May 2023](2023-05-09-Marc.html) | Marc <br> ΑΝΤ1 |  |  |  |  |  |
-| [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [4–7 May 2023](2023-05-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [3–6 May 2023](2023-05-06-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [25 April–5 May 2023](2023-05-05-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [2–3 May 2023](2023-05-03-GPO.html) | GPO <br> Τα Νέα |  |  |  |  |  |
 | [27–30 April 2023](2023-04-30-Prorata.html) | Prorata <br> Attica TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -706,10 +724,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.4% | 100% |  |
-| 6 | 65% | 99.6% | Last Result, Median |
-| 7 | 34% | 35% |  |
-| 8 | 0.1% | 0.1% |  |
+| 5 | 0.5% | 100% |  |
+| 6 | 60% | 99.5% | Last Result, Median |
+| 7 | 40% | 40% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
 
