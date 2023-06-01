@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.4–3.5% | 1.2–4.1% | 1.1–4.4% | 0.9–5.1% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.4–4.5% | 1.2–5.0% | 1.1–5.4% | 0.9–6.0% |
+| [25–30 May 2023](2023-05-30-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.6% |
 | [22 May 2022–23 May 2023](2023-05-23-ΚάπαResearch.html) | Κάπα Research | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.7% |
 | [14–19 May 2023](2023-05-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.5% | 1.0–2.8% |
 | [16–19 May 2023](2023-05-19-MRB.html) | MRB <br> Open TV | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
@@ -357,13 +358,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 21% | 100% |  |
-| 1.5–2.5% | 50% | 79% | Median |
-| 2.5–3.5% | 19% | 29% |  |
-| 3.5–4.5% | 8% | 10% |  |
-| 4.5–5.5% | 2% | 2% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 18% | 100% |  |
+| 1.5–2.5% | 42% | 82% | Median |
+| 2.5–3.5% | 19% | 40% |  |
+| 3.5–4.5% | 11% | 21% |  |
+| 4.5–5.5% | 8% | 10% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -375,6 +377,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25–30 May 2023](2023-05-30-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 1 |
 | [22 May 2022–23 May 2023](2023-05-23-ΚάπαResearch.html) | Κάπα Research | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [14–19 May 2023](2023-05-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [16–19 May 2023](2023-05-19-MRB.html) | MRB <br> Open TV | 0 | 0 | 0 | 0 | 0 |
@@ -722,8 +725,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 18% | 18% |  |
+| 0 | 71% | 100% | Last Result, Median |
+| 1 | 29% | 29% |  |
 | 2 | 0% | 0% |  |
 
 
