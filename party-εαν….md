@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.7–1.8% | 0.7–1.9% | 0.5–2.2% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% |
+| [22 May 2022–23 May 2023](2023-05-23-ΚάπαResearch.html) | Κάπα Research | 0.0% | N/A | N/A | N/A | N/A |
 | [14–19 May 2023](2023-05-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 May 2023](2023-05-19-MRB.html) | MRB <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 May 2023](2023-05-18-Rass.html) | Rass <br> iefimerida | 0.0% | N/A | N/A | N/A | N/A |
@@ -355,9 +356,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 87% | 99.5% | Median |
-| 1.5–2.5% | 13% | 13% |  |
+| 0.0–0.5% | 0.6% | 100% | Last Result |
+| 0.5–1.5% | 88% | 99.4% | Median |
+| 1.5–2.5% | 11% | 11% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -370,6 +371,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22 May 2022–23 May 2023](2023-05-23-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
 | [14–19 May 2023](2023-05-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [16–19 May 2023](2023-05-19-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [15–18 May 2023](2023-05-18-Rass.html) | Rass <br> iefimerida |  |  |  |  |  |

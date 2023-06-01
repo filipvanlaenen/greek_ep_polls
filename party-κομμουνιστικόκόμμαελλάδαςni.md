@@ -10,7 +10,8 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.8–8.1% | 5.5–8.4% | 5.3–8.8% | 4.8–9.4% |
+| N/A | [Poll Average](average.html) | 6.9% | 5.9–8.1% | 5.6–8.4% | 5.4–8.8% | 5.0–9.4% |
+| [22 May 2022–23 May 2023](2023-05-23-ΚάπαResearch.html) | Κάπα Research | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.5% |
 | [14–19 May 2023](2023-05-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.8% | 6.0–7.7% | 5.8–8.0% | 5.6–8.2% | 5.3–8.7% |
 | [16–19 May 2023](2023-05-19-MRB.html) | MRB <br> Open TV | 6.4% | 5.5–7.4% | 5.3–7.7% | 5.1–8.0% | 4.7–8.5% |
 | [15–18 May 2023](2023-05-18-Rass.html) | Rass <br> iefimerida | 6.7% | 5.9–7.7% | 5.6–8.0% | 5.4–8.3% | 5.1–8.8% |
@@ -355,14 +356,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 5% | 99.8% |  |
-| 5.5–6.5% | 32% | 95% | Last Result |
-| 6.5–7.5% | 40% | 63% | Median |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 4% | 100% |  |
+| 5.5–6.5% | 31% | 96% | Last Result |
+| 6.5–7.5% | 42% | 65% | Median |
 | 7.5–8.5% | 19% | 23% |  |
-| 8.5–9.5% | 4% | 4% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
+| 8.5–9.5% | 3% | 4% |  |
+| 9.5–10.5% | 0.3% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -375,6 +375,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22 May 2022–23 May 2023](2023-05-23-ΚάπαResearch.html) | Κάπα Research | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–19 May 2023](2023-05-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–19 May 2023](2023-05-19-MRB.html) | MRB <br> Open TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–18 May 2023](2023-05-18-Rass.html) | Rass <br> iefimerida | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -721,8 +722,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 47% | 100% |  |
-| 2 | 53% | 53% | Last Result, Median |
+| 1 | 49% | 100% |  |
+| 2 | 51% | 51% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 
