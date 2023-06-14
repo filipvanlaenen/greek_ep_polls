@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.2–4.8% | 2.9–5.1% | 2.8–5.4% | 2.4–5.9% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.1–5.1% | 2.9–5.5% | 2.7–5.8% | 2.4–6.4% |
+| [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.9% | 3.3–4.7% | 3.1–4.9% | 3.0–5.1% | 2.7–5.5% |
+| [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
+| [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.1% | 4.3–6.0% | 4.1–6.2% | 4.0–6.5% | 3.6–7.0% |
+| [6–10 June 2023](2023-06-10-Alco.html) | Alco <br> Alpha TV | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
+| [6–8 June 2023](2023-06-08-GPO.html) | GPO <br> Τα Νέα | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [6–7 June 2023](2023-06-07-MRB.html) | MRB <br> Open TV | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [23–31 May 2023](2023-05-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4.2% | 3.7–4.7% | 3.6–4.8% | 3.5–5.0% | 3.3–5.2% |
 | [30–31 May 2023](2023-05-31-GPO.html) | GPO <br> Παραπολιτικά | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [25–30 May 2023](2023-05-30-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.4–5.7% | 3.1–6.2% |
@@ -361,12 +367,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.9% | 100% |  |
-| 2.5–3.5% | 24% | 99.1% |  |
-| 3.5–4.5% | 56% | 75% | Median |
-| 4.5–5.5% | 17% | 19% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 1.3% | 100% |  |
+| 2.5–3.5% | 26% | 98.7% |  |
+| 3.5–4.5% | 49% | 73% | Median |
+| 4.5–5.5% | 19% | 24% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -379,6 +385,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–1 |
+| [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 1 | 1 | 1 | 1 | 0–1 |
+| [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 1–2 |
+| [6–10 June 2023](2023-06-10-Alco.html) | Alco <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–8 June 2023](2023-06-08-GPO.html) | GPO <br> Τα Νέα | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–7 June 2023](2023-06-07-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 0–1 |
 | [23–31 May 2023](2023-05-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1 | 1 | 1 |
 | [30–31 May 2023](2023-05-31-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [25–30 May 2023](2023-05-30-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 0–1 |
@@ -731,6 +743,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
 | 1 | 92% | 92% | Median |
-| 2 | 0% | 0% |  |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 

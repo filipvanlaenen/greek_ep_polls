@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.5–5.1% | 1.4–5.4% | 1.2–5.6% | 1.0–6.2% |
+| N/A | [Poll Average](average.html) | 4.5% | 2.1–5.7% | 1.6–6.0% | 1.4–6.3% | 1.1–6.8% |
+| [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.4% | 3.8–5.3% | 3.6–5.5% | 3.4–5.7% | 3.2–6.1% |
+| [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 5.2% | 4.5–6.0% | 4.3–6.2% | 4.2–6.4% | 3.9–6.9% |
+| [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.4% | 4.7–6.4% | 4.5–6.6% | 4.3–6.9% | 3.9–7.3% |
+| [6–10 June 2023](2023-06-10-Alco.html) | Alco <br> Alpha TV | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.7% |
+| [6–8 June 2023](2023-06-08-GPO.html) | GPO <br> Τα Νέα | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
+| [6–7 June 2023](2023-06-07-MRB.html) | MRB <br> Open TV | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [23–31 May 2023](2023-05-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4.8% | 4.3–5.3% | 4.2–5.5% | 4.1–5.6% | 3.9–5.9% |
 | [30–31 May 2023](2023-05-31-GPO.html) | GPO <br> Παραπολιτικά | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [25–30 May 2023](2023-05-30-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.6% |
@@ -360,13 +366,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 33% | 89% |  |
-| 2.5–3.5% | 13% | 55% | Median |
-| 3.5–4.5% | 18% | 42% |  |
-| 4.5–5.5% | 21% | 24% |  |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 10% | 96% |  |
+| 2.5–3.5% | 12% | 87% |  |
+| 3.5–4.5% | 26% | 75% |  |
+| 4.5–5.5% | 35% | 49% | Median |
+| 5.5–6.5% | 13% | 14% |  |
+| 6.5–7.5% | 1.1% | 1.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -378,7 +384,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 0–1 |
+| [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 1 | 1 | 1 | 1 | 1–2 |
+| [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1–2 | 1–2 |
+| [6–10 June 2023](2023-06-10-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 1 | 1 | 1 |
+| [6–8 June 2023](2023-06-08-GPO.html) | GPO <br> Τα Νέα | 1 | 1 | 1 | 1 | 1 |
+| [6–7 June 2023](2023-06-07-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 1 |
 | [23–31 May 2023](2023-05-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1 | 1 | 1 |
 | [30–31 May 2023](2023-05-31-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1 | 1 | 1 | 0–1 |
 | [25–30 May 2023](2023-05-30-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 1 |
@@ -729,9 +741,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 52% | 100% | Last Result, Median |
-| 1 | 48% | 48% |  |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 19% | 100% | Last Result |
+| 1 | 81% | 81% | Median |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 
