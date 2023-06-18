@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 1.4–4.4% | 1.2–4.7% | 1.0–4.9% | 0.8–5.4% |
+| N/A | [Poll Average](average.html) | 3.3% | 1.4–4.4% | 1.2–4.6% | 1.0–4.9% | 0.8–5.4% |
+| [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
 | [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.9% | 3.3–4.7% | 3.1–4.9% | 3.0–5.1% | 2.7–5.5% |
 | [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 3.3% | 2.8–4.0% | 2.7–4.2% | 2.5–4.4% | 2.3–4.7% |
 | [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
@@ -366,9 +367,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 17% | 87% |  |
-| 2.5–3.5% | 30% | 70% | Median |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 16% | 88% |  |
+| 2.5–3.5% | 33% | 72% | Median |
 | 3.5–4.5% | 33% | 39% |  |
 | 4.5–5.5% | 6% | 6% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
@@ -384,6 +385,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–1 |
 | [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

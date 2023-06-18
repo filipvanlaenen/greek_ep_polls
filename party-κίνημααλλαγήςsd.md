@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.2% | 9.2–13.6% | 8.8–14.5% | 8.4–15.2% | 7.8–16.3% |
+| N/A | [Poll Average](average.html) | 11.2% | 9.2–13.5% | 8.8–14.4% | 8.4–15.1% | 7.8–16.3% |
+| [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 11.0% | 9.8–12.4% | 9.5–12.7% | 9.2–13.1% | 8.7–13.8% |
 | [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12.2% | 11.1–13.5% | 10.8–13.8% | 10.6–14.1% | 10.1–14.7% |
 | [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 11.2% | 10.2–12.3% | 9.9–12.6% | 9.7–12.9% | 9.2–13.4% |
 | [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 11.1% | 10.0–12.3% | 9.7–12.7% | 9.4–13.0% | 8.9–13.6% |
@@ -375,13 +376,13 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.2% | 100% |  |
 | 7.5–8.5% | 3% | 99.8% |  |
 | 8.5–9.5% | 12% | 97% |  |
-| 9.5–10.5% | 19% | 84% |  |
-| 10.5–11.5% | 23% | 65% | Median |
-| 11.5–12.5% | 20% | 42% |  |
-| 12.5–13.5% | 11% | 22% |  |
-| 13.5–14.5% | 6% | 10% |  |
-| 14.5–15.5% | 3% | 5% |  |
-| 15.5–16.5% | 1.3% | 2% |  |
+| 9.5–10.5% | 20% | 85% |  |
+| 10.5–11.5% | 24% | 65% | Median |
+| 11.5–12.5% | 21% | 41% |  |
+| 12.5–13.5% | 11% | 20% |  |
+| 13.5–14.5% | 5% | 10% |  |
+| 14.5–15.5% | 3% | 4% |  |
+| 15.5–16.5% | 1.2% | 1.5% |  |
 | 16.5–17.5% | 0.3% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -395,6 +396,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -753,8 +755,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
-| 2 | 62% | 99.9% | Median |
-| 3 | 37% | 38% |  |
+| 2 | 63% | 99.9% | Median |
+| 3 | 36% | 37% |  |
 | 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
