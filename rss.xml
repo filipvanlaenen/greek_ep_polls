@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 14 Jun 2023 21:25:45 +0200</pubDate>
+    <pubDate>Sun, 18 Jun 2023 17:40:21 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Opinion Poll for The TOC, 12–14 June 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-06-14-OpinionPoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 4–5 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 8–10 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2023-06-14-OpinionPoll-seats.png"
+        length="269023"
+        type="image/png"/>
+      <pubDate>Sun, 18 Jun 2023 17:40:21 +0200</pubDate>
+      <dc:date>2023-06-18T17:40:21.777794+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for The TOC, 12–14 June 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-06-14-OpinionPoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2023-06-14-OpinionPoll-coalitions-seats.png"
+        length="226745"
+        type="image/png"/>
+      <pubDate>Sun, 18 Jun 2023 17:40:21 +0200</pubDate>
+      <dc:date>2023-06-18T17:40:21.777794+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for The TOC, 12–14 June 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-06-14-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 17.8–22.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 38.3–44.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (GUE/NGL): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 2.3–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2023-06-14-OpinionPoll.png"
+        length="302468"
+        type="image/png"/>
+      <pubDate>Sun, 18 Jun 2023 17:40:21 +0200</pubDate>
+      <dc:date>2023-06-18T17:40:21.777794+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 8–12 June 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-06-12-PulseRC.html#seats</link>
@@ -969,6 +999,6 @@
       <pubDate>Wed, 17 May 2023 17:35:26 +0200</pubDate>
       <dc:date>2023-05-17T17:35:26.914775+02:00</dc:date>
     </item>
-    <dc:date>2023-06-14T21:25:45.230361+02:00</dc:date>
+    <dc:date>2023-06-18T17:40:21.777794+02:00</dc:date>
   </channel>
 </rss>
