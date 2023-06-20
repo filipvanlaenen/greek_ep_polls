@@ -10,8 +10,12 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.4% | 18.5–29.8% | 18.0–30.7% | 17.6–31.3% | 16.9–32.2% |
+| N/A | [Poll Average](average.html) | 19.7% | 18.1–21.3% | 17.7–21.8% | 17.3–22.2% | 16.5–23.0% |
+| [15–19 June 2023](2023-06-19-MRB.html) | MRB <br> Newsbomb | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
+| [9–15 June 2023](2023-06-15-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 19.6% | 18.2–21.1% | 17.8–21.5% | 17.4–21.9% | 16.8–22.7% |
+| [12–15 June 2023](2023-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 20.2% | 19.0–21.4% | 18.7–21.8% | 18.4–22.1% | 17.9–22.7% |
 | [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
+| [12–14 June 2023](2023-06-14-GPO.html) | GPO <br> Παραπολιτικά | 18.9% | 17.4–20.6% | 16.9–21.0% | 16.6–21.5% | 15.9–22.3% |
 | [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 19.4% | 18.1–20.9% | 17.7–21.3% | 17.4–21.7% | 16.7–22.4% |
 | [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 19.8% | 18.5–21.2% | 18.2–21.6% | 17.8–21.9% | 17.3–22.6% |
 | [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 19.2% | 17.8–20.7% | 17.4–21.1% | 17.0–21.5% | 16.4–22.3% |
@@ -30,6 +34,7 @@ Last result: **26.6%** (General Election of 26 May 2019)
 | [12–17 May 2023](2023-05-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 28.1% | 26.7–29.7% | 26.3–30.1% | 25.9–30.5% | 25.2–31.2% |
 | [12–17 May 2023](2023-05-17-Interview.html) | Interview <br> Politic.gr | 30.7% | 29.5–31.9% | 29.2–32.3% | 28.9–32.6% | 28.3–33.2% |
 | [15–17 May 2023](2023-05-17-GPO.html) | GPO <br> Παραπολιτικά | 30.3% | 28.7–32.1% | 28.2–32.6% | 27.8–33.0% | 27.0–33.9% |
+| [13 June–16 May 2023](2023-05-16-Rass.html) | Rass <br> Action 24 | 17.9% | N/A | N/A | N/A | N/A |
 | [11–16 May 2023](2023-05-16-Alco.html) | Alco <br> Alpha TV | 29.2% | 27.5–30.9% | 27.1–31.4% | 26.7–31.8% | 25.9–32.6% |
 | [28–11 May 2023](2023-05-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.9% |
 | [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 28.0% | N/A | N/A | N/A | N/A |
@@ -367,25 +372,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 2% | 99.8% |  |
-| 17.5–18.5% | 9% | 98% |  |
-| 18.5–19.5% | 19% | 89% |  |
-| 19.5–20.5% | 21% | 70% | Median |
-| 20.5–21.5% | 14% | 48% |  |
-| 21.5–22.5% | 5% | 34% |  |
-| 22.5–23.5% | 1.5% | 29% |  |
-| 23.5–24.5% | 0.3% | 28% |  |
-| 24.5–25.5% | 0.3% | 27% |  |
-| 25.5–26.5% | 1.2% | 27% |  |
-| 26.5–27.5% | 4% | 26% | Last Result |
-| 27.5–28.5% | 5% | 22% |  |
-| 28.5–29.5% | 6% | 17% |  |
-| 29.5–30.5% | 5% | 11% |  |
-| 30.5–31.5% | 4% | 6% |  |
-| 31.5–32.5% | 2% | 2% |  |
-| 32.5–33.5% | 0.2% | 0.2% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 15.5–16.5% | 0.5% | 100% |  |
+| 16.5–17.5% | 3% | 99.5% |  |
+| 17.5–18.5% | 13% | 96% |  |
+| 18.5–19.5% | 28% | 83% |  |
+| 19.5–20.5% | 30% | 55% | Median |
+| 20.5–21.5% | 18% | 25% |  |
+| 21.5–22.5% | 6% | 7% |  |
+| 22.5–23.5% | 1.1% | 1.2% |  |
+| 23.5–24.5% | 0.1% | 0.2% |  |
+| 24.5–25.5% | 0% | 0% |  |
+| 25.5–26.5% | 0% | 0% |  |
+| 26.5–27.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -396,8 +394,12 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–7 | 4–7 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [15–19 June 2023](2023-06-19-MRB.html) | MRB <br> Newsbomb | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [9–15 June 2023](2023-06-15-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [12–15 June 2023](2023-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [12–14 June 2023](2023-06-14-GPO.html) | GPO <br> Παραπολιτικά | 4 | 4 | 4–5 | 3–5 | 3–5 |
 | [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4 | 4 | 4–5 | 4–5 | 3–5 |
@@ -416,6 +418,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [12–17 May 2023](2023-05-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 6 | 6–7 | 6–7 | 5–7 |
 | [12–17 May 2023](2023-05-17-Interview.html) | Interview <br> Politic.gr | 7 | 7 | 6–7 | 6–7 | 6–7 |
 | [15–17 May 2023](2023-05-17-GPO.html) | GPO <br> Παραπολιτικά | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [13 June–16 May 2023](2023-05-16-Rass.html) | Rass <br> Action 24 |  |  |  |  |  |
 | [11–16 May 2023](2023-05-16-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [28–11 May 2023](2023-05-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
@@ -754,11 +757,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 57% | 99.7% | Median |
-| 5 | 16% | 43% |  |
-| 6 | 17% | 27% | Last Result |
-| 7 | 10% | 10% |  |
-| 8 | 0% | 0% |  |
+| 3 | 0.9% | 100% |  |
+| 4 | 81% | 99.1% | Median |
+| 5 | 18% | 18% |  |
+| 6 | 0% | 0% | Last Result |
 
 
