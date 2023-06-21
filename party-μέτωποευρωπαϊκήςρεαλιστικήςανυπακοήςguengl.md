@@ -390,7 +390,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–19 June 2023](2023-06-19-MRB.html) | MRB <br> Newsbomb | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–15 June 2023](2023-06-15-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–15 June 2023](2023-06-15-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [12–15 June 2023](2023-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0–1 | 0–1 |
 | [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–14 June 2023](2023-06-14-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

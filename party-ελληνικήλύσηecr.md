@@ -394,8 +394,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–19 June 2023](2023-06-19-MRB.html) | MRB <br> Newsbomb | 1 | 1 | 1 | 0–1 | 0–1 |
 | [9–15 June 2023](2023-06-15-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 1 | 1 | 1 | 1 |
 | [12–15 June 2023](2023-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 1 | 1 | 1 | 0–1 | 0–1 |
-| [12–14 June 2023](2023-06-14-GPO.html) | GPO <br> Παραπολιτικά | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 1 | 1 | 1 | 1 | 0–1 |
+| [12–14 June 2023](2023-06-14-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–1 |
 | [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 1 | 1 | 1 | 1 | 0–1 |
 | [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 1–2 |
@@ -753,8 +753,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 94% | 94% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 5% | 100% | Last Result |
+| 1 | 95% | 95% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
