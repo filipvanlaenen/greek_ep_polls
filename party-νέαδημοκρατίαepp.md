@@ -415,7 +415,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [12–15 June 2023](2023-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
 | [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
 | [12–14 June 2023](2023-06-14-GPO.html) | GPO <br> Παραπολιτικά | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
-| [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9 | 9–10 | 9–10 | 8–10 |
+| [8–12 June 2023](2023-06-12-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9 | 9–10 | 9–10 | 9–10 | 8–10 |
 | [7–11 June 2023](2023-06-11-Marc.html) | Marc <br> ΑΝΤ1 | 9 | 9 | 9–10 | 8–10 | 8–10 |
 | [7–10 June 2023](2023-06-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [6–10 June 2023](2023-06-10-Alco.html) | Alco <br> Alpha TV | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -776,8 +776,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 8% | 100% |  |
-| 9 | 73% | 92% | Median |
-| 10 | 19% | 19% |  |
+| 9 | 72% | 92% | Median |
+| 10 | 20% | 20% |  |
 | 11 | 0.2% | 0.2% | Majority |
 | 12 | 0% | 0% |  |
 
