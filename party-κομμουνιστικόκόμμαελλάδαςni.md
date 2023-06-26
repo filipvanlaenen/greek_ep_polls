@@ -32,7 +32,7 @@ Last result: **6.1%** (General Election of 26 May 2019)
 | [16–18 May 2023](2023-05-18-Marc.html) | Marc <br> ΑΝΤ1 | 6.5% | 5.7–7.5% | 5.4–7.7% | 5.2–8.0% | 4.9–8.5% |
 | [13–17 May 2023](2023-05-17-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 6.7% | 5.9–7.7% | 5.7–8.0% | 5.5–8.2% | 5.1–8.7% |
 | [12–17 May 2023](2023-05-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7.1% | 6.3–8.1% | 6.1–8.3% | 5.9–8.6% | 5.6–9.0% |
-| [12–17 May 2023](2023-05-17-Interview.html) | Interview <br> Politic.gr | 6.1% | 5.5–6.8% | 5.3–7.0% | 5.2–7.1% | 5.0–7.5% |
+| [12–17 May 2023](2023-05-17-Interview.html) | Interview <br> Politic.gr | 6.1% | 5.5–6.8% | 5.3–7.0% | 5.2–7.2% | 4.9–7.5% |
 | [15–17 May 2023](2023-05-17-GPO.html) | GPO <br> Παραπολιτικά | 7.3% | 6.4–8.4% | 6.2–8.7% | 6.0–9.0% | 5.6–9.5% |
 | [13 June–16 May 2023](2023-05-16-Rass.html) | Rass <br> Action 24 | 8.1% | N/A | N/A | N/A | N/A |
 | [11–16 May 2023](2023-05-16-Alco.html) | Alco <br> Alpha TV | 6.8% | 6.0–7.9% | 5.7–8.2% | 5.5–8.4% | 5.2–8.9% |
