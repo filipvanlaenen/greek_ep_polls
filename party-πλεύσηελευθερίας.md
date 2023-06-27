@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12–17 May 2023](2023-05-17-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 May 2023](2023-05-17-GPO.html) | GPO <br> Παραπολιτικά | 1.4% | N/A | N/A | N/A | N/A |
 | [13 June–16 May 2023](2023-05-16-Rass.html) | Rass <br> Action 24 | 4.0% | N/A | N/A | N/A | N/A |
-| [11–16 May 2023](2023-05-16-Alco.html) | Alco <br> Alpha TV | 2.0% | N/A | N/A | N/A | N/A |
+| [11–16 May 2023](2023-05-16-Alco.html) | Alco <br> Alpha TV | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [28–11 May 2023](2023-05-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2.4% | N/A | N/A | N/A | N/A |
 | [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1.8% | N/A | N/A | N/A | N/A |
@@ -415,7 +415,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–17 May 2023](2023-05-17-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [15–17 May 2023](2023-05-17-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [13 June–16 May 2023](2023-05-16-Rass.html) | Rass <br> Action 24 |  |  |  |  |  |
-| [11–16 May 2023](2023-05-16-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [11–16 May 2023](2023-05-16-Alco.html) | Alco <br> Alpha TV | 0 | 0 | 0 | 0 | 0–1 |
 | [28–11 May 2023](2023-05-11-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [4–11 May 2023](2023-05-11-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [9–11 May 2023](2023-05-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
