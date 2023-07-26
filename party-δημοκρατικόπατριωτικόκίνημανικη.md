@@ -10,18 +10,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.6–4.0% | 2.4–4.2% | 2.3–4.5% | 2.0–4.9% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.3–4.1% | 2.1–4.4% | 1.9–4.7% | 1.6–5.1% |
 | [21–23 June 2023](2023-06-23-MetronAnalysis.html) | Metron Analysis | 3.2% | 2.6–3.9% | 2.5–4.2% | 2.3–4.4% | 2.1–4.7% |
-| [19–22 June 2023](2023-06-22-Rass.html) | Rass <br> iefimerida | 2.9% | N/A | N/A | N/A | N/A |
-| [20–22 June 2023](2023-06-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.8% | N/A | N/A | N/A | N/A |
-| [19–22 June 2023](2023-06-22-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 3.5% | N/A | N/A | N/A | N/A |
-| [20–22 June 2023](2023-06-22-Marc.html) | Marc <br> ΑΝΤ1 | 3.3% | N/A | N/A | N/A | N/A |
-| [20–22 June 2023](2023-06-22-MRB.html) | MRB <br> Open TV | 3.5% | N/A | N/A | N/A | N/A |
+| [19–22 June 2023](2023-06-22-Rass.html) | Rass <br> iefimerida | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
+| [20–22 June 2023](2023-06-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.8% | 3.2–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.6% |
+| [19–22 June 2023](2023-06-22-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.3–5.3% |
+| [20–22 June 2023](2023-06-22-Marc.html) | Marc <br> ΑΝΤ1 | 3.3% | 2.8–4.0% | 2.7–4.2% | 2.5–4.4% | 2.3–4.7% |
+| [20–22 June 2023](2023-06-22-MRB.html) | MRB <br> Open TV | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [15–21 June 2023](2023-06-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.5% | N/A | N/A | N/A | N/A |
-| [16–21 June 2023](2023-06-21-Alco.html) | Alco <br> Alpha TV | 3.0% | N/A | N/A | N/A | N/A |
+| [16–21 June 2023](2023-06-21-Alco.html) | Alco <br> Alpha TV | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.0% | 2.0–4.4% |
 | [18–20 June 2023](2023-06-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.8% | N/A | N/A | N/A | N/A |
 | [15–19 June 2023](2023-06-19-MRB.html) | MRB <br> Newsbomb | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
-| [16–19 June 2023](2023-06-19-Interview.html) | Interview <br> Politic.gr | 2.1% | N/A | N/A | N/A | N/A |
+| [16–19 June 2023](2023-06-19-Interview.html) | Interview <br> Politic.gr | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.6–2.8% | 1.4–3.1% |
 | [9–15 June 2023](2023-06-15-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
 | [12–15 June 2023](2023-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.3% | 2.8–3.9% | 2.7–4.1% | 2.6–4.2% | 2.4–4.5% |
 | [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
@@ -382,12 +382,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 8% | 100% |  |
-| 2.5–3.5% | 62% | 92% | Median |
-| 3.5–4.5% | 28% | 30% |  |
-| 4.5–5.5% | 2% | 2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 15% | 99.7% |  |
+| 2.5–3.5% | 52% | 84% | Median |
+| 3.5–4.5% | 29% | 33% |  |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -400,16 +401,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–23 June 2023](2023-06-23-MetronAnalysis.html) | Metron Analysis | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–22 June 2023](2023-06-22-Rass.html) | Rass <br> iefimerida |  |  |  |  |  |
-| [20–22 June 2023](2023-06-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [19–22 June 2023](2023-06-22-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr |  |  |  |  |  |
-| [20–22 June 2023](2023-06-22-Marc.html) | Marc <br> ΑΝΤ1 |  |  |  |  |  |
-| [20–22 June 2023](2023-06-22-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [19–22 June 2023](2023-06-22-Rass.html) | Rass <br> iefimerida | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–22 June 2023](2023-06-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [19–22 June 2023](2023-06-22-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–22 June 2023](2023-06-22-Marc.html) | Marc <br> ΑΝΤ1 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–22 June 2023](2023-06-22-MRB.html) | MRB <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–21 June 2023](2023-06-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [16–21 June 2023](2023-06-21-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [16–21 June 2023](2023-06-21-Alco.html) | Alco <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–20 June 2023](2023-06-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [15–19 June 2023](2023-06-19-MRB.html) | MRB <br> Newsbomb | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–19 June 2023](2023-06-19-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [16–19 June 2023](2023-06-19-Interview.html) | Interview <br> Politic.gr | 0 | 0 | 0 | 0 | 0–1 |
 | [9–15 June 2023](2023-06-15-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [12–15 June 2023](2023-06-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–14 June 2023](2023-06-14-OpinionPoll.html) | Opinion Poll <br> The TOC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -771,8 +772,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 68% | 68% | Median |
+| 0 | 37% | 100% | Last Result |
+| 1 | 63% | 63% | Median |
 | 2 | 0% | 0% |  |
 
 
