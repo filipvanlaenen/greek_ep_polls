@@ -10,13 +10,15 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.3–8.6% | 6.0–8.9% | 5.8–9.2% | 5.4–9.9% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.4–8.6% | 6.1–9.0% | 5.8–9.3% | 5.4–9.9% |
 | [21–23 June 2023](2023-06-23-MetronAnalysis.html) | Metron Analysis | 7.5% | 6.6–8.5% | 6.3–8.8% | 6.1–9.1% | 5.7–9.6% |
+| [22–23 June 2023](2023-06-23-GPO.html) | GPO <br> Παραπολιτικά | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
 | [19–22 June 2023](2023-06-22-Rass.html) | Rass <br> iefimerida | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [20–22 June 2023](2023-06-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.6% | 6.7–8.8% | 6.4–9.1% | 6.2–9.4% | 5.7–10.0% |
 | [19–22 June 2023](2023-06-22-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 7.4% | 6.5–8.6% | 6.2–8.9% | 6.0–9.2% | 5.5–9.8% |
 | [20–22 June 2023](2023-06-22-Marc.html) | Marc <br> ΑΝΤ1 | 7.4% | 6.6–8.3% | 6.3–8.6% | 6.2–8.8% | 5.8–9.3% |
 | [20–22 June 2023](2023-06-22-MRB.html) | MRB <br> Open TV | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [18–22 June 2023](2023-06-22-GPO.html) | GPO <br> Star TV | 7.5% | N/A | N/A | N/A | N/A |
 | [15–21 June 2023](2023-06-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7.3% | N/A | N/A | N/A | N/A |
 | [16–21 June 2023](2023-06-21-Alco.html) | Alco <br> Alpha TV | 7.2% | 6.4–8.2% | 6.1–8.4% | 6.0–8.7% | 5.6–9.2% |
 | [18–20 June 2023](2023-06-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.0% | N/A | N/A | N/A | N/A |
@@ -304,7 +306,7 @@ Last result: **6.1%** (General Election of 26 May 2019)
 | [1–3 July 2020](2020-07-03-OpinionPoll.html) | Opinion Poll | 6.0% | N/A | N/A | N/A | N/A |
 | [2 July 2020](2020-07-02-ΚάπαResearch.html) | Κάπα Research | 5.2% | N/A | N/A | N/A | N/A |
 | [1–2 July 2020](2020-07-02-Marc.html) | Marc | 6.0% | N/A | N/A | N/A | N/A |
-| [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 7.5% | N/A | N/A | N/A | N/A |
+| [24–29 June 2020](2020-06-29-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 7.6% | N/A | N/A | N/A | N/A |
 | [22–26 June 2020](2020-06-26-Prorata.html) | Prorata | 5.0% | N/A | N/A | N/A | N/A |
 | [22–26 June 2020](2020-06-26-GPO.html) | GPO <br> Τα Νέα | 6.5% | N/A | N/A | N/A | N/A |
 | [17–25 June 2020](2020-06-25-MRB.html) | MRB <br> Star | 6.0% | N/A | N/A | N/A | N/A |
@@ -382,12 +384,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.0% | 100% |  |
-| 5.5–6.5% | 16% | 99.0% | Last Result |
-| 6.5–7.5% | 40% | 83% | Median |
-| 7.5–8.5% | 33% | 43% |  |
-| 8.5–9.5% | 9% | 10% |  |
-| 9.5–10.5% | 1.1% | 1.2% |  |
+| 4.5–5.5% | 0.8% | 100% |  |
+| 5.5–6.5% | 14% | 99.2% | Last Result |
+| 6.5–7.5% | 40% | 85% | Median |
+| 7.5–8.5% | 34% | 45% |  |
+| 8.5–9.5% | 10% | 11% |  |
+| 9.5–10.5% | 1.2% | 1.3% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -402,11 +404,13 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–23 June 2023](2023-06-23-MetronAnalysis.html) | Metron Analysis | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22–23 June 2023](2023-06-23-GPO.html) | GPO <br> Παραπολιτικά | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–22 June 2023](2023-06-22-Rass.html) | Rass <br> iefimerida | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [20–22 June 2023](2023-06-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–22 June 2023](2023-06-22-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–22 June 2023](2023-06-22-Marc.html) | Marc <br> ΑΝΤ1 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–22 June 2023](2023-06-22-MRB.html) | MRB <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–22 June 2023](2023-06-22-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [15–21 June 2023](2023-06-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [16–21 June 2023](2023-06-21-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–20 June 2023](2023-06-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |

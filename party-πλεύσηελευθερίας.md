@@ -10,13 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.6% | 2.8–4.9% | 2.6–5.1% | 2.3–5.6% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.6% | 2.8–4.9% | 2.6–5.1% | 2.2–5.6% |
 | [21–23 June 2023](2023-06-23-MetronAnalysis.html) | Metron Analysis | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 2.0–4.5% |
+| [22–23 June 2023](2023-06-23-GPO.html) | GPO <br> Παραπολιτικά | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [19–22 June 2023](2023-06-22-Rass.html) | Rass <br> iefimerida | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [20–22 June 2023](2023-06-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.8% | 3.2–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [19–22 June 2023](2023-06-22-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 3.8% | 3.1–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [20–22 June 2023](2023-06-22-Marc.html) | Marc <br> ΑΝΤ1 | 3.9% | 3.3–4.6% | 3.2–4.8% | 3.0–5.0% | 2.8–5.4% |
 | [20–22 June 2023](2023-06-22-MRB.html) | MRB <br> Open TV | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [18–22 June 2023](2023-06-22-GPO.html) | GPO <br> Star TV | 3.3% | N/A | N/A | N/A | N/A |
 | [15–21 June 2023](2023-06-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.8% | N/A | N/A | N/A | N/A |
 | [16–21 June 2023](2023-06-21-Alco.html) | Alco <br> Alpha TV | 3.6% | 3.1–4.4% | 2.9–4.6% | 2.8–4.8% | 2.5–5.1% |
 | [18–20 June 2023](2023-06-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.8% | N/A | N/A | N/A | N/A |
@@ -384,9 +386,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 32% | 98% |  |
-| 3.5–4.5% | 54% | 66% | Median |
-| 4.5–5.5% | 12% | 12% |  |
+| 2.5–3.5% | 34% | 98% |  |
+| 3.5–4.5% | 52% | 63% | Median |
+| 4.5–5.5% | 11% | 11% |  |
 | 5.5–6.5% | 0.6% | 0.6% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -399,13 +401,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–23 June 2023](2023-06-23-MetronAnalysis.html) | Metron Analysis | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–23 June 2023](2023-06-23-GPO.html) | GPO <br> Παραπολιτικά | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–22 June 2023](2023-06-22-Rass.html) | Rass <br> iefimerida | 1 | 1 | 1 | 0–1 | 0–2 |
 | [20–22 June 2023](2023-06-22-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [19–22 June 2023](2023-06-22-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [20–22 June 2023](2023-06-22-Marc.html) | Marc <br> ΑΝΤ1 | 1 | 1 | 1 | 1 | 0–1 |
 | [20–22 June 2023](2023-06-22-MRB.html) | MRB <br> Open TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [18–22 June 2023](2023-06-22-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [15–21 June 2023](2023-06-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [16–21 June 2023](2023-06-21-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [18–20 June 2023](2023-06-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
@@ -772,8 +776,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 90% | 90% | Median |
+| 0 | 12% | 100% | Last Result |
+| 1 | 88% | 88% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
