@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 11.2–14.5% | 10.8–14.9% | 10.5–15.3% | 9.9–16.1% |
+| N/A | [Poll Average](average.html) | 12.6% | 11.2–14.3% | 10.8–14.8% | 10.5–15.2% | 9.9–16.0% |
 | [27 September–2 October 2023](2023-10-02-Prorata.html) | Prorata <br> Attica TV | 12.8% | 11.5–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
 | [25–28 September 2023](2023-09-28-MRB.html) | MRB <br> Open TV | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.3–14.2% | 9.7–14.9% |
 | [25–28 September 2023](2023-09-28-Alco.html) | Alco <br> Alpha TV | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.9% | 11.0–16.6% |
 | [25–27 September 2023](2023-09-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13.6% | 12.5–14.9% | 12.1–15.3% | 11.9–15.6% | 11.3–16.2% |
 | [25–27 September 2023](2023-09-27-GPO.html) | GPO <br> Απογευματινή | 11.8% | 10.7–13.1% | 10.3–13.5% | 10.1–13.8% | 9.5–14.5% |
-| [21–26 September 2023](2023-09-26-OpinionPoll.html) | Opinion Poll <br> Action 24 | 12.3% | N/A | N/A | N/A | N/A |
-| [21–26 September 2023](2023-09-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 12.1% | N/A | N/A | N/A | N/A |
+| [21–26 September 2023](2023-09-26-OpinionPoll.html) | Opinion Poll <br> Action 24 | 12.3% | 11.2–13.6% | 10.9–14.0% | 10.6–14.3% | 10.0–14.9% |
+| [21–26 September 2023](2023-09-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 12.1% | 10.9–13.6% | 10.5–14.0% | 10.3–14.3% | 9.7–15.0% |
 | [21–23 June 2023](2023-06-23-MetronAnalysis.html) | Metron Analysis | 12.0% | 10.9–13.3% | 10.5–13.6% | 10.3–13.9% | 9.8–14.6% |
 | [22–23 June 2023](2023-06-23-GPO.html) | GPO <br> Παραπολιτικά | 12.7% | 11.4–14.1% | 11.1–14.6% | 10.8–14.9% | 10.2–15.6% |
 | [19–22 June 2023](2023-06-22-Rass.html) | Rass <br> iefimerida | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
@@ -401,13 +401,13 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.2% | 100% |  |
 | 9.5–10.5% | 3% | 99.8% |  |
-| 10.5–11.5% | 13% | 97% |  |
-| 11.5–12.5% | 26% | 84% |  |
-| 12.5–13.5% | 29% | 59% | Median |
-| 13.5–14.5% | 20% | 30% |  |
-| 14.5–15.5% | 8% | 9% |  |
-| 15.5–16.5% | 1.5% | 2% |  |
-| 16.5–17.5% | 0.2% | 0.2% |  |
+| 10.5–11.5% | 15% | 97% |  |
+| 11.5–12.5% | 29% | 82% |  |
+| 12.5–13.5% | 29% | 53% | Median |
+| 13.5–14.5% | 17% | 24% |  |
+| 14.5–15.5% | 6% | 7% |  |
+| 15.5–16.5% | 1.1% | 1.2% |  |
+| 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -425,8 +425,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–28 September 2023](2023-09-28-Alco.html) | Alco <br> Alpha TV | 3 | 3 | 3 | 2–4 | 2–4 |
 | [25–27 September 2023](2023-09-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3 | 3 | 2–4 | 2–4 |
 | [25–27 September 2023](2023-09-27-GPO.html) | GPO <br> Απογευματινή | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [21–26 September 2023](2023-09-26-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
-| [21–26 September 2023](2023-09-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [21–26 September 2023](2023-09-26-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21–26 September 2023](2023-09-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–23 June 2023](2023-06-23-MetronAnalysis.html) | Metron Analysis | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–23 June 2023](2023-06-23-GPO.html) | GPO <br> Παραπολιτικά | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [19–22 June 2023](2023-06-22-Rass.html) | Rass <br> iefimerida | 3 | 3 | 3–4 | 2–4 | 2–4 |
@@ -803,9 +803,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 23% | 100% |  |
-| 3 | 75% | 77% | Median |
-| 4 | 2% | 2% |  |
+| 2 | 30% | 100% |  |
+| 3 | 68% | 70% | Median |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 
