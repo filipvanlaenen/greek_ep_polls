@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 12 Oct 2023 23:02:50 +0200</pubDate>
+    <pubDate>Fri, 13 Oct 2023 20:35:48 +0200</pubDate>
     <item>
       <title>Opinion Poll by Prorata for Attica TV, 27 September–2 October 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-10-02-Prorata.html#seats</link>
@@ -158,6 +158,66 @@
         type="image/png"/>
       <pubDate>Thu, 12 Oct 2023 23:02:50 +0200</pubDate>
       <dc:date>2023-10-12T23:02:50.685971+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Action 24, 21–26 September 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-OpinionPoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 1 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-OpinionPoll-seats.png"
+        length="242543"
+        type="image/png"/>
+      <pubDate>Fri, 13 Oct 2023 20:27:33 +0200</pubDate>
+      <dc:date>2023-10-13T20:27:33.048042+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Action 24, 21–26 September 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-OpinionPoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-OpinionPoll-coalitions-seats.png"
+        length="171507"
+        type="image/png"/>
+      <pubDate>Fri, 13 Oct 2023 20:27:33 +0200</pubDate>
+      <dc:date>2023-10-13T20:27:33.048042+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Action 24, 21–26 September 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 3.6–5.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 36.4–41.9%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 15.3–19.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 4.7–7.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 10.6–14.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 8.0–11.3%&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 2.7–4.8%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 2.6–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-OpinionPoll.png"
+        length="282626"
+        type="image/png"/>
+      <pubDate>Fri, 13 Oct 2023 20:27:33 +0200</pubDate>
+      <dc:date>2023-10-13T20:27:33.048042+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega TV, 21–26 September 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 1 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-MetronAnalysis-seats.png"
+        length="280560"
+        type="image/png"/>
+      <pubDate>Fri, 13 Oct 2023 20:35:48 +0200</pubDate>
+      <dc:date>2023-10-13T20:35:48.688583+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega TV, 21–26 September 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-MetronAnalysis-coalitions-seats.png"
+        length="212054"
+        type="image/png"/>
+      <pubDate>Fri, 13 Oct 2023 20:35:48 +0200</pubDate>
+      <dc:date>2023-10-13T20:35:48.688583+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega TV, 21–26 September 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 3.3–5.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 33.5–39.4%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 14.6–19.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 10.3–14.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 7.7–11.3%&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 2.3–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2023-09-26-MetronAnalysis.png"
+        length="333976"
+        type="image/png"/>
+      <pubDate>Fri, 13 Oct 2023 20:35:48 +0200</pubDate>
+      <dc:date>2023-10-13T20:35:48.688583+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis, 21–23 June 2023 – Seat Projections for the Parties</title>
@@ -1299,6 +1359,6 @@
       <pubDate>Wed, 17 May 2023 17:35:26 +0200</pubDate>
       <dc:date>2023-05-17T17:35:26.914775+02:00</dc:date>
     </item>
-    <dc:date>2023-10-12T23:02:50.685971+02:00</dc:date>
+    <dc:date>2023-10-13T20:35:48.688583+02:00</dc:date>
   </channel>
 </rss>
