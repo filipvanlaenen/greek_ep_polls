@@ -10,7 +10,9 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.7% | 16.0–19.8% | 15.6–20.5% | 15.2–21.0% | 14.5–21.9% |
+| N/A | [Poll Average](average.html) | 17.1% | 14.6–19.7% | 14.0–20.4% | 13.6–20.9% | 12.8–21.9% |
+| [18–24 October 2023](2023-10-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 15.2% | 14.0–16.6% | 13.7–17.0% | 13.4–17.3% | 12.8–18.0% |
+| [23–24 October 2023](2023-10-24-GPO.html) | GPO <br> Star TV | 14.7% | 13.4–16.2% | 13.1–16.6% | 12.8–16.9% | 12.1–17.7% |
 | [27 September–2 October 2023](2023-10-02-Prorata.html) | Prorata <br> Attica TV | 17.3% | 15.8–18.9% | 15.4–19.4% | 15.1–19.8% | 14.4–20.6% |
 | [25–28 September 2023](2023-09-28-MRB.html) | MRB <br> Open TV | 17.3% | 15.9–18.9% | 15.5–19.3% | 15.1–19.7% | 14.5–20.5% |
 | [25–28 September 2023](2023-09-28-Alco.html) | Alco <br> Alpha TV | 17.6% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.7–20.9% |
@@ -390,15 +392,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.6% | 100% |  |
-| 14.5–15.5% | 4% | 99.4% |  |
-| 15.5–16.5% | 15% | 95% |  |
-| 16.5–17.5% | 26% | 80% |  |
-| 17.5–18.5% | 25% | 55% | Median |
-| 18.5–19.5% | 16% | 29% |  |
-| 19.5–20.5% | 8% | 13% |  |
-| 20.5–21.5% | 4% | 5% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 2% | 99.8% |  |
+| 13.5–14.5% | 7% | 98% |  |
+| 14.5–15.5% | 13% | 90% |  |
+| 15.5–16.5% | 17% | 78% |  |
+| 16.5–17.5% | 20% | 61% | Median |
+| 17.5–18.5% | 18% | 40% |  |
+| 18.5–19.5% | 11% | 22% |  |
+| 19.5–20.5% | 7% | 11% |  |
+| 20.5–21.5% | 3% | 4% |  |
 | 21.5–22.5% | 0.9% | 1.0% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
@@ -416,6 +420,8 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [18–24 October 2023](2023-10-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [23–24 October 2023](2023-10-24-GPO.html) | GPO <br> Star TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27 September–2 October 2023](2023-10-02-Prorata.html) | Prorata <br> Attica TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25–28 September 2023](2023-09-28-MRB.html) | MRB <br> Open TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25–28 September 2023](2023-09-28-Alco.html) | Alco <br> Alpha TV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -797,8 +803,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 21% | 100% |  |
-| 4 | 74% | 79% | Median |
+| 2 | 0.1% | 100% |  |
+| 3 | 38% | 99.9% |  |
+| 4 | 57% | 62% | Median |
 | 5 | 5% | 5% |  |
 | 6 | 0% | 0% | Last Result |
 
