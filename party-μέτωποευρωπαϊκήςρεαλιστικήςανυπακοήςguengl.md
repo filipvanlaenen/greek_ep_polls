@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.0–4.0% | 1.8–4.2% | 1.6–4.4% | 1.3–4.9% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.9–3.9% | 1.7–4.1% | 1.6–4.4% | 1.3–4.8% |
+| [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2.3% | 1.8–3.2% | 1.6–3.4% | 1.5–3.6% | 1.3–4.1% |
 | [30 October–3 November 2023](2023-11-03-Alco.html) | Alco <br> Alpha TV | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [30 October–1 November 2023](2023-11-01-MRB.html) | MRB <br> Open TV | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.9% | 2.4–3.7% | 2.2–3.9% | 2.1–4.1% | 1.9–4.5% |
@@ -380,7 +381,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [18–20 June 2019](2019-06-20-Prorata.html) | Prorata <br> Newpost | 3.4% | N/A | N/A | N/A | N/A |
 | [18–20 June 2019](2019-06-20-Interview.html) | Interview <br> Βεργίνα TV | 2.5% | N/A | N/A | N/A | N/A |
 | [18–19 June 2019](2019-06-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.5% | N/A | N/A | N/A | N/A |
-| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 4.1% | N/A | N/A | N/A | N/A |
+| [17–19 June 2019](2019-06-19-OpinionPoll.html) | Opinion Poll | 4.0% | N/A | N/A | N/A | N/A |
 | [14–19 June 2019](2019-06-19-MetronAnalysis.html) | Metron Analysis <br> Το Βήμα | 2.4% | N/A | N/A | N/A | N/A |
 | [13–19 June 2019](2019-06-19-Alco.html) | Alco | 3.5% | N/A | N/A | N/A | N/A |
 | [10–13 June 2019](2019-06-13-Marc.html) | Marc | 0.0% | N/A | N/A | N/A | N/A |
@@ -397,10 +398,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 25% | 98% |  |
-| 2.5–3.5% | 49% | 73% | Median |
-| 3.5–4.5% | 23% | 24% |  |
-| 4.5–5.5% | 2% | 2% |  |
+| 1.5–2.5% | 31% | 98% |  |
+| 2.5–3.5% | 47% | 67% | Median |
+| 3.5–4.5% | 19% | 20% |  |
+| 4.5–5.5% | 1.3% | 1.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -413,6 +414,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 October–3 November 2023](2023-11-03-Alco.html) | Alco <br> Alpha TV | 0 | 0 | 0 | 0–1 | 0–1 |
 | [30 October–1 November 2023](2023-11-01-MRB.html) | MRB <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -799,8 +801,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 51% | 100% | Last Result, Median |
-| 1 | 49% | 49% |  |
+| 0 | 58% | 100% | Last Result, Median |
+| 1 | 42% | 42% |  |
 | 2 | 0% | 0% |  |
 
 

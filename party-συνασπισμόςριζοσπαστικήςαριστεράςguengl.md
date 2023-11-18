@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.5% | 13.9–17.5% | 13.5–18.1% | 13.2–18.6% | 12.5–19.5% |
+| N/A | [Poll Average](average.html) | 15.4% | 13.8–17.4% | 13.3–18.0% | 13.0–18.5% | 12.3–19.4% |
+| [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 14.7% | 13.2–16.4% | 12.8–16.9% | 12.4–17.3% | 11.8–18.2% |
 | [30 October–3 November 2023](2023-11-03-Alco.html) | Alco <br> Alpha TV | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [30 October–1 November 2023](2023-11-01-MRB.html) | MRB <br> Open TV | 15.2% | 13.8–16.8% | 13.4–17.2% | 13.1–17.6% | 12.5–18.3% |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17.2% | 15.8–18.7% | 15.5–19.1% | 15.1–19.5% | 14.5–20.2% |
@@ -395,16 +396,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.5% | 100% |  |
-| 12.5–13.5% | 5% | 99.5% |  |
-| 13.5–14.5% | 18% | 95% |  |
-| 14.5–15.5% | 29% | 77% | Median |
-| 15.5–16.5% | 25% | 49% |  |
-| 16.5–17.5% | 14% | 24% |  |
-| 17.5–18.5% | 7% | 10% |  |
-| 18.5–19.5% | 2% | 3% |  |
-| 19.5–20.5% | 0.4% | 0.4% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 0.9% | 99.9% |  |
+| 12.5–13.5% | 6% | 99.1% |  |
+| 13.5–14.5% | 19% | 93% |  |
+| 14.5–15.5% | 29% | 74% | Median |
+| 15.5–16.5% | 24% | 45% |  |
+| 16.5–17.5% | 13% | 21% |  |
+| 17.5–18.5% | 6% | 8% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0.3% | 0.4% |  |
 | 20.5–21.5% | 0% | 0% |  |
 | 21.5–22.5% | 0% | 0% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -423,6 +424,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 October–3 November 2023](2023-11-03-Alco.html) | Alco <br> Alpha TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 October–1 November 2023](2023-11-01-MRB.html) | MRB <br> Open TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -809,10 +811,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% |  |
-| 3 | 68% | 99.9% | Median |
-| 4 | 32% | 32% |  |
-| 5 | 0.2% | 0.2% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 69% | 99.8% | Median |
+| 4 | 30% | 30% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% | Last Result |
 
 
