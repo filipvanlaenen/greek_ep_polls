@@ -10,8 +10,12 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.8–11.3% | 8.5–11.7% | 8.2–12.1% | 7.7–12.9% |
+| N/A | [Poll Average](average.html) | 10.3% | 8.9–12.2% | 8.5–12.9% | 8.2–13.5% | 7.7–14.6% |
+| [19–21 November 2023](2023-11-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10.4% | 9.2–11.8% | 8.9–12.1% | 8.6–12.5% | 8.1–13.2% |
+| [15–20 November 2023](2023-11-20-Prorata.html) | Prorata <br> Attica TV | 12.4% | 11.1–14.0% | 10.7–14.4% | 10.4–14.8% | 9.8–15.6% |
+| [13–16 November 2023](2023-11-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9.5% | 8.3–10.8% | 8.0–11.2% | 7.8–11.5% | 7.2–12.2% |
 | [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.5% | 9.3–12.0% | 8.9–12.5% | 8.6–12.8% | 8.0–13.6% |
+| [13–15 November 2023](2023-11-15-GPO.html) | GPO <br> Παραπολιτικά | 10.3% | 9.2–11.7% | 8.9–12.0% | 8.6–12.4% | 8.1–13.0% |
 | [30 October–3 November 2023](2023-11-03-Alco.html) | Alco <br> Alpha TV | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [30 October–1 November 2023](2023-11-01-MRB.html) | MRB <br> Open TV | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.8% | 8.8–11.0% | 8.5–11.4% | 8.2–11.7% | 7.7–12.3% |
@@ -398,14 +402,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% | Last Result |
 | 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 6% | 99.7% |  |
-| 8.5–9.5% | 26% | 94% |  |
-| 9.5–10.5% | 39% | 68% | Median |
-| 10.5–11.5% | 22% | 29% |  |
-| 11.5–12.5% | 6% | 7% |  |
-| 12.5–13.5% | 0.9% | 1.0% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 7.5–8.5% | 5% | 99.7% |  |
+| 8.5–9.5% | 20% | 95% |  |
+| 9.5–10.5% | 33% | 75% | Median |
+| 10.5–11.5% | 24% | 42% |  |
+| 11.5–12.5% | 11% | 18% |  |
+| 12.5–13.5% | 5% | 7% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.4% | 0.5% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -417,7 +423,11 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19–21 November 2023](2023-11-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [15–20 November 2023](2023-11-20-Prorata.html) | Prorata <br> Attica TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–16 November 2023](2023-11-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2 | 2–3 | 1–3 |
 | [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–15 November 2023](2023-11-15-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 October–3 November 2023](2023-11-03-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [30 October–1 November 2023](2023-11-01-MRB.html) | MRB <br> Open TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -804,9 +814,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% |  |
-| 2 | 89% | 99.8% | Last Result, Median |
-| 3 | 10% | 10% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 80% | 99.7% | Last Result, Median |
+| 3 | 20% | 20% |  |
 | 4 | 0% | 0% |  |
 
 

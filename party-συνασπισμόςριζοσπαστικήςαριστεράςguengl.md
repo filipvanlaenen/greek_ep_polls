@@ -10,8 +10,12 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.4% | 13.8–17.4% | 13.3–18.0% | 13.0–18.5% | 12.3–19.4% |
+| N/A | [Poll Average](average.html) | 14.4% | 12.2–16.3% | 11.7–16.8% | 11.3–17.2% | 10.5–18.0% |
+| [19–21 November 2023](2023-11-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14.4% | 13.1–16.0% | 12.7–16.4% | 12.4–16.8% | 11.7–17.6% |
+| [15–20 November 2023](2023-11-20-Prorata.html) | Prorata <br> Attica TV | 12.4% | 11.1–14.0% | 10.7–14.4% | 10.4–14.8% | 9.8–15.6% |
+| [13–16 November 2023](2023-11-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 13.8% | 12.5–15.4% | 12.1–15.8% | 11.8–16.2% | 11.1–17.0% |
 | [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 14.7% | 13.2–16.4% | 12.8–16.9% | 12.4–17.3% | 11.8–18.2% |
+| [13–15 November 2023](2023-11-15-GPO.html) | GPO <br> Παραπολιτικά | 12.8% | 11.5–14.2% | 11.2–14.6% | 10.9–15.0% | 10.3–15.7% |
 | [30 October–3 November 2023](2023-11-03-Alco.html) | Alco <br> Alpha TV | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [30 October–1 November 2023](2023-11-01-MRB.html) | MRB <br> Open TV | 15.2% | 13.8–16.8% | 13.4–17.2% | 13.1–17.6% | 12.5–18.3% |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 17.2% | 15.8–18.7% | 15.5–19.1% | 15.1–19.5% | 14.5–20.2% |
@@ -396,16 +400,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.9% | 99.9% |  |
-| 12.5–13.5% | 6% | 99.1% |  |
-| 13.5–14.5% | 19% | 93% |  |
-| 14.5–15.5% | 29% | 74% | Median |
-| 15.5–16.5% | 24% | 45% |  |
-| 16.5–17.5% | 13% | 21% |  |
-| 17.5–18.5% | 6% | 8% |  |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.3% | 0.4% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.6% | 100% |  |
+| 10.5–11.5% | 3% | 99.4% |  |
+| 11.5–12.5% | 10% | 96% |  |
+| 12.5–13.5% | 17% | 86% |  |
+| 13.5–14.5% | 23% | 69% | Median |
+| 14.5–15.5% | 24% | 46% |  |
+| 15.5–16.5% | 16% | 22% |  |
+| 16.5–17.5% | 5% | 7% |  |
+| 17.5–18.5% | 1.1% | 1.3% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% |  |
 | 21.5–22.5% | 0% | 0% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -423,8 +429,12 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [19–21 November 2023](2023-11-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [15–20 November 2023](2023-11-20-Prorata.html) | Prorata <br> Attica TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–16 November 2023](2023-11-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3 | 3 | 3 | 2–4 | 2–4 |
 | [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [13–15 November 2023](2023-11-15-GPO.html) | GPO <br> Παραπολιτικά | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [30 October–3 November 2023](2023-11-03-Alco.html) | Alco <br> Alpha TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 October–1 November 2023](2023-11-01-MRB.html) | MRB <br> Open TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -811,10 +821,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% |  |
-| 3 | 69% | 99.8% | Median |
-| 4 | 30% | 30% |  |
-| 5 | 0.1% | 0.1% |  |
+| 2 | 7% | 100% |  |
+| 3 | 81% | 93% | Median |
+| 4 | 12% | 12% |  |
+| 5 | 0% | 0% |  |
 | 6 | 0% | 0% | Last Result |
 
 
