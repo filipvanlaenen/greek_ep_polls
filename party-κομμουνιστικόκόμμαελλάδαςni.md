@@ -10,9 +10,13 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.3% | 8.9–12.2% | 8.5–12.9% | 8.2–13.5% | 7.7–14.6% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.1–12.3% | 7.7–13.0% | 7.4–13.6% | 6.9–14.6% |
+| [4–8 December 2023](2023-12-08-Interview.html) | Interview <br> Politic.gr | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
+| [5–7 December 2023](2023-12-07-GPO.html) | GPO <br> Παραπολιτικά | 10.3% | 9.1–11.7% | 8.7–12.1% | 8.4–12.5% | 7.9–13.2% |
+| [27 November–6 December 2023](2023-12-06-MRB.html) | MRB | 9.7% | 8.8–10.7% | 8.6–10.9% | 8.4–11.2% | 7.9–11.7% |
+| [22–28 November 2023](2023-11-28-MetronAnalysis.html) | Metron Analysis | 11.5% | N/A | N/A | N/A | N/A |
 | [19–21 November 2023](2023-11-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10.4% | 9.2–11.8% | 8.9–12.1% | 8.6–12.5% | 8.1–13.2% |
-| [15–20 November 2023](2023-11-20-Prorata.html) | Prorata <br> Attica TV | 12.4% | 11.1–14.0% | 10.7–14.4% | 10.4–14.8% | 9.8–15.6% |
+| [15–20 November 2023](2023-11-20-Prorata.html) | Prorata | 12.4% | 11.1–14.0% | 10.7–14.4% | 10.4–14.8% | 9.8–15.6% |
 | [13–16 November 2023](2023-11-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9.5% | 8.3–10.8% | 8.0–11.2% | 7.8–11.5% | 7.2–12.2% |
 | [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.5% | 9.3–12.0% | 8.9–12.5% | 8.6–12.8% | 8.0–13.6% |
 | [13–15 November 2023](2023-11-15-GPO.html) | GPO <br> Παραπολιτικά | 10.3% | 9.2–11.7% | 8.9–12.0% | 8.6–12.4% | 8.1–13.0% |
@@ -400,16 +404,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% | Last Result |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 5% | 99.7% |  |
-| 8.5–9.5% | 20% | 95% |  |
-| 9.5–10.5% | 33% | 75% | Median |
-| 10.5–11.5% | 24% | 42% |  |
-| 11.5–12.5% | 11% | 18% |  |
-| 12.5–13.5% | 5% | 7% |  |
-| 13.5–14.5% | 2% | 2% |  |
-| 14.5–15.5% | 0.4% | 0.5% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.1% | 100% | Last Result |
+| 6.5–7.5% | 4% | 99.9% |  |
+| 7.5–8.5% | 12% | 96% |  |
+| 8.5–9.5% | 20% | 84% |  |
+| 9.5–10.5% | 27% | 65% | Median |
+| 10.5–11.5% | 19% | 38% |  |
+| 11.5–12.5% | 10% | 18% |  |
+| 12.5–13.5% | 5% | 8% |  |
+| 13.5–14.5% | 2% | 3% |  |
+| 14.5–15.5% | 0.5% | 0.6% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -422,9 +427,13 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [4–8 December 2023](2023-12-08-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–7 December 2023](2023-12-07-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [27 November–6 December 2023](2023-12-06-MRB.html) | MRB | 2 | 2 | 2 | 2–3 | 2–3 |
+| [22–28 November 2023](2023-11-28-MetronAnalysis.html) | Metron Analysis |  |  |  |  |  |
 | [19–21 November 2023](2023-11-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [15–20 November 2023](2023-11-20-Prorata.html) | Prorata <br> Attica TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [15–20 November 2023](2023-11-20-Prorata.html) | Prorata | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–16 November 2023](2023-11-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2 | 2–3 | 1–3 |
 | [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–15 November 2023](2023-11-15-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -814,9 +823,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.3% | 100% |  |
-| 2 | 80% | 99.7% | Last Result, Median |
-| 3 | 20% | 20% |  |
+| 1 | 3% | 100% |  |
+| 2 | 76% | 97% | Last Result, Median |
+| 3 | 21% | 21% |  |
 | 4 | 0% | 0% |  |
 
 
