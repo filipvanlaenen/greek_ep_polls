@@ -10,18 +10,9 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.3% | 8.2–12.5% | 7.7–13.1% | 7.4–13.6% | 6.9–14.6% |
+| N/A | [Poll Average](average.html) | 8.8% | 7.4–11.4% | 7.2–11.9% | 7.0–12.3% | 6.6–13.2% |
 | [4–8 December 2023](2023-12-08-Interview.html) | Interview <br> Politic.gr | 7.9% | 7.2–8.7% | 7.0–9.0% | 6.8–9.2% | 6.5–9.6% |
-| [5–7 December 2023](2023-12-07-GPO.html) | GPO <br> Παραπολιτικά | 10.3% | 9.1–11.7% | 8.7–12.1% | 8.4–12.5% | 7.9–13.2% |
-| [27 November–6 December 2023](2023-12-06-MRB.html) | MRB | 9.7% | 8.8–10.7% | 8.6–10.9% | 8.4–11.2% | 7.9–11.7% |
-| [22–28 November 2023](2023-11-28-MetronAnalysis.html) | Metron Analysis | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.2–14.3% |
-| [19–21 November 2023](2023-11-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10.4% | 9.2–11.8% | 8.9–12.1% | 8.6–12.5% | 8.1–13.2% |
-| [15–20 November 2023](2023-11-20-Prorata.html) | Prorata | 12.4% | 11.1–14.0% | 10.7–14.4% | 10.4–14.8% | 9.8–15.6% |
-| [13–16 November 2023](2023-11-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9.5% | 8.3–10.8% | 8.0–11.2% | 7.8–11.5% | 7.2–12.2% |
-| [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.5% | 9.3–12.0% | 8.9–12.5% | 8.6–12.8% | 8.0–13.6% |
-| [13–15 November 2023](2023-11-15-GPO.html) | GPO <br> Παραπολιτικά | 10.3% | 9.2–11.7% | 8.9–12.0% | 8.6–12.4% | 8.1–13.0% |
-| [30 October–3 November 2023](2023-11-03-Alco.html) | Alco <br> Alpha TV | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
-| [30 October–1 November 2023](2023-11-01-MRB.html) | MRB <br> Open TV | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
+| [5–7 December 2023](2023-12-07-GPO.html) | GPO <br> Παραπολιτικά | 10.3% | 9.0–11.9% | 8.7–12.3% | 8.4–12.7% | 7.8–13.5% |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.8% | 8.8–11.0% | 8.5–11.4% | 8.2–11.7% | 7.7–12.3% |
 | [18–24 October 2023](2023-10-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 10.3% | 9.3–11.5% | 9.0–11.8% | 8.8–12.1% | 8.3–12.7% |
 | [23–24 October 2023](2023-10-24-GPO.html) | GPO <br> Star TV | 9.7% | 8.7–11.0% | 8.4–11.3% | 8.1–11.6% | 7.6–12.3% |
@@ -405,18 +396,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% | Last Result |
-| 6.5–7.5% | 3% | 99.9% |  |
-| 7.5–8.5% | 11% | 97% |  |
-| 8.5–9.5% | 17% | 86% |  |
-| 9.5–10.5% | 25% | 69% | Median |
-| 10.5–11.5% | 21% | 44% |  |
-| 11.5–12.5% | 13% | 23% |  |
-| 12.5–13.5% | 7% | 9% |  |
-| 13.5–14.5% | 2% | 3% |  |
-| 14.5–15.5% | 0.5% | 0.5% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.4% | 100% | Last Result |
+| 6.5–7.5% | 13% | 99.6% |  |
+| 7.5–8.5% | 31% | 87% |  |
+| 8.5–9.5% | 17% | 56% | Median |
+| 9.5–10.5% | 17% | 39% |  |
+| 10.5–11.5% | 15% | 22% |  |
+| 11.5–12.5% | 6% | 8% |  |
+| 12.5–13.5% | 1.5% | 2% |  |
+| 13.5–14.5% | 0.2% | 0.2% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -427,18 +416,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [4–8 December 2023](2023-12-08-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–7 December 2023](2023-12-07-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [27 November–6 December 2023](2023-12-06-MRB.html) | MRB | 2 | 2 | 2 | 2–3 | 2–3 |
-| [22–28 November 2023](2023-11-28-MetronAnalysis.html) | Metron Analysis | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [19–21 November 2023](2023-11-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [15–20 November 2023](2023-11-20-Prorata.html) | Prorata | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [13–16 November 2023](2023-11-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2 | 2–3 | 1–3 |
-| [13–15 November 2023](2023-11-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [13–15 November 2023](2023-11-15-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [30 October–3 November 2023](2023-11-03-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [30 October–1 November 2023](2023-11-01-MRB.html) | MRB <br> Open TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [18–24 October 2023](2023-10-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–24 October 2023](2023-10-24-GPO.html) | GPO <br> Star TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -823,9 +803,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 73% | 98% | Last Result, Median |
-| 3 | 24% | 24% |  |
+| 1 | 9% | 100% |  |
+| 2 | 77% | 91% | Last Result, Median |
+| 3 | 14% | 14% |  |
 | 4 | 0% | 0% |  |
 
 
