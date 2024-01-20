@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.1% | 12.5–15.4% | 12.0–15.7% | 11.6–16.0% | 10.9–16.8% |
+| N/A | [Poll Average](average.html) | 14.9% | 13.2–16.9% | 12.7–17.4% | 12.3–17.9% | 11.6–18.9% |
+| [9–11 January 2024](2024-01-11-GPO.html) | GPO <br> Παραπολιτικά | 14.5% | 13.0–16.2% | 12.5–16.7% | 12.2–17.2% | 11.5–18.0% |
+| [5–9 January 2024](2024-01-09-Prorata.html) | Prorata <br> Attica TV | 15.9% | 14.3–17.6% | 13.9–18.1% | 13.5–18.5% | 12.8–19.4% |
+| [2–5 January 2024](2024-01-05-Alco.html) | Alco <br> Alpha TV | 14.4% | 12.9–16.1% | 12.4–16.6% | 12.1–17.0% | 11.4–17.8% |
 | [4–8 December 2023](2023-12-08-Interview.html) | Interview <br> Politic.gr | 14.4% | 13.4–15.4% | 13.1–15.7% | 12.9–16.0% | 12.5–16.5% |
 | [5–7 December 2023](2023-12-07-GPO.html) | GPO <br> Παραπολιτικά | 13.5% | 12.0–15.2% | 11.6–15.7% | 11.2–16.1% | 10.6–17.0% |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13.8% | 12.5–15.1% | 12.2–15.5% | 11.9–15.9% | 11.3–16.6% |
@@ -405,16 +408,18 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.2% | 100% |  |
-| 10.5–11.5% | 2% | 99.8% |  |
-| 11.5–12.5% | 8% | 98% |  |
-| 12.5–13.5% | 21% | 90% |  |
-| 13.5–14.5% | 37% | 69% | Median |
-| 14.5–15.5% | 25% | 32% |  |
-| 15.5–16.5% | 6% | 7% |  |
-| 16.5–17.5% | 0.7% | 0.8% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.4% | 100% |  |
+| 11.5–12.5% | 3% | 99.5% |  |
+| 12.5–13.5% | 12% | 96% |  |
+| 13.5–14.5% | 24% | 84% |  |
+| 14.5–15.5% | 26% | 61% | Median |
+| 15.5–16.5% | 20% | 34% |  |
+| 16.5–17.5% | 10% | 14% |  |
+| 17.5–18.5% | 3% | 4% |  |
+| 18.5–19.5% | 0.8% | 0.9% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -425,7 +430,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [9–11 January 2024](2024-01-11-GPO.html) | GPO <br> Παραπολιτικά | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [5–9 January 2024](2024-01-09-Prorata.html) | Prorata <br> Attica TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [2–5 January 2024](2024-01-05-Alco.html) | Alco <br> Alpha TV | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [4–8 December 2023](2023-12-08-Interview.html) | Interview <br> Politic.gr | 3 | 3 | 3 | 3 | 3–4 |
 | [5–7 December 2023](2023-12-07-GPO.html) | GPO <br> Παραπολιτικά | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3 | 2–3 | 2–4 | 2–4 |
@@ -815,8 +823,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 1.2% | 100% |  |
-| 3 | 94% | 98.8% | Median |
-| 4 | 5% | 5% |  |
+| 3 | 62% | 98.8% | Median |
+| 4 | 36% | 36% |  |
 | 5 | 0% | 0% |  |
 
 
