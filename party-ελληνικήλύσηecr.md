@@ -10,13 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.7–8.5% | 5.4–8.8% | 5.1–9.0% | 4.6–9.6% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.8–8.4% | 5.4–8.7% | 5.1–9.0% | 4.6–9.6% |
+| [8–15 January 2024](2024-01-15-Marc.html) | Marc <br> ΑΝΤ1 | 7.0% | 6.0–8.2% | 5.7–8.6% | 5.5–8.9% | 5.0–9.5% |
 | [10–15 January 2024](2024-01-15-Interview.html) | Interview <br> Politic.gr | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.3% | 6.6–9.6% |
 | [9–11 January 2024](2024-01-11-GPO.html) | GPO <br> Παραπολιτικά | 7.2% | 6.1–8.5% | 5.8–8.9% | 5.5–9.2% | 5.1–9.9% |
 | [5–9 January 2024](2024-01-09-Prorata.html) | Prorata <br> Attica TV | 6.1% | 5.2–7.3% | 4.9–7.7% | 4.6–8.0% | 4.2–8.6% |
 | [2–5 January 2024](2024-01-05-Alco.html) | Alco <br> Alpha TV | 6.9% | 5.8–8.2% | 5.5–8.5% | 5.3–8.9% | 4.8–9.5% |
 | [4–8 December 2023](2023-12-08-Interview.html) | Interview <br> Politic.gr | 7.6% | 6.9–8.4% | 6.7–8.7% | 6.5–8.9% | 6.2–9.3% |
 | [5–7 December 2023](2023-12-07-GPO.html) | GPO <br> Παραπολιτικά | 6.6% | 5.6–7.9% | 5.3–8.3% | 5.1–8.6% | 4.6–9.3% |
+| [27 November–6 December 2023](2023-12-06-MRB.html) | MRB <br> Open TV | 9.5% | 8.2–11.0% | 7.9–11.4% | 7.6–11.8% | 7.0–12.5% |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.6% | 3.7–7.1% |
 | [18–24 October 2023](2023-10-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7.0% | 6.2–8.0% | 5.9–8.3% | 5.7–8.5% | 5.3–9.0% |
 | [23–24 October 2023](2023-10-24-GPO.html) | GPO <br> Star TV | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.7% | 4.5–8.2% |
@@ -403,13 +405,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 7% | 99.5% |  |
-| 5.5–6.5% | 23% | 93% |  |
-| 6.5–7.5% | 32% | 69% | Median |
-| 7.5–8.5% | 29% | 37% |  |
-| 8.5–9.5% | 8% | 8% |  |
-| 9.5–10.5% | 0.6% | 0.6% |  |
+| 3.5–4.5% | 0.4% | 100% |  |
+| 4.5–5.5% | 6% | 99.6% |  |
+| 5.5–6.5% | 24% | 93% |  |
+| 6.5–7.5% | 34% | 70% | Median |
+| 7.5–8.5% | 28% | 35% |  |
+| 8.5–9.5% | 7% | 8% |  |
+| 9.5–10.5% | 0.5% | 0.6% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -422,12 +424,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–15 January 2024](2024-01-15-Marc.html) | Marc <br> ΑΝΤ1 | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [10–15 January 2024](2024-01-15-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 1–2 | 1–2 |
 | [9–11 January 2024](2024-01-11-GPO.html) | GPO <br> Παραπολιτικά | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–9 January 2024](2024-01-09-Prorata.html) | Prorata <br> Attica TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–5 January 2024](2024-01-05-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–8 December 2023](2023-12-08-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–7 December 2023](2023-12-07-GPO.html) | GPO <br> Παραπολιτικά | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27 November–6 December 2023](2023-12-06-MRB.html) | MRB <br> Open TV | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [26–30 October 2023](2023-10-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1–2 | 1–2 |
 | [18–24 October 2023](2023-10-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–24 October 2023](2023-10-24-GPO.html) | GPO <br> Star TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -813,9 +817,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 37% | 100% |  |
-| 2 | 63% | 63% | Median |
-| 3 | 0.1% | 0.1% |  |
+| 1 | 38% | 100% |  |
+| 2 | 62% | 62% | Median |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 
