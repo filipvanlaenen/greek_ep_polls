@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.6% | 12.3–17.2% | 11.5–17.9% | 11.0–18.4% | 10.1–19.4% |
+| N/A | [Poll Average](average.html) | 14.8% | 12.3–17.2% | 11.6–17.9% | 11.0–18.4% | 10.1–19.4% |
+| [1–7 February 2024](2024-02-07-Alco.html) | Alco <br> Alpha TV | 15.1% | 13.6–16.7% | 13.2–17.2% | 12.8–17.6% | 12.2–18.4% |
 | [22–24 January 2024](2024-01-24-MRB.html) | MRB <br> Open TV | 12.1% | 10.7–13.8% | 10.3–14.3% | 10.0–14.7% | 9.3–15.5% |
 | [22–24 January 2024](2024-01-24-GPO.html) | GPO <br> Star TV | 14.2% | 12.8–15.8% | 12.5–16.2% | 12.1–16.6% | 11.5–17.4% |
 | [17–23 January 2024](2024-01-23-Marc.html) | Marc <br> ΑΝΤ1 | 16.8% | 15.3–18.5% | 14.8–19.0% | 14.5–19.4% | 13.8–20.3% |
@@ -416,14 +417,14 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 1.1% | 99.9% |  |
 | 10.5–11.5% | 4% | 98.8% |  |
 | 11.5–12.5% | 7% | 95% |  |
-| 12.5–13.5% | 14% | 88% |  |
-| 13.5–14.5% | 23% | 74% |  |
-| 14.5–15.5% | 20% | 51% | Median |
-| 15.5–16.5% | 14% | 31% |  |
-| 16.5–17.5% | 10% | 16% |  |
+| 12.5–13.5% | 12% | 88% |  |
+| 13.5–14.5% | 21% | 76% |  |
+| 14.5–15.5% | 21% | 55% | Median |
+| 15.5–16.5% | 16% | 34% |  |
+| 16.5–17.5% | 10% | 18% |  |
 | 17.5–18.5% | 5% | 7% |  |
 | 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.3% | 0.4% |  |
+| 19.5–20.5% | 0.4% | 0.4% |  |
 | 20.5–21.5% | 0% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -437,6 +438,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [1–7 February 2024](2024-02-07-Alco.html) | Alco <br> Alpha TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–24 January 2024](2024-01-24-MRB.html) | MRB <br> Open TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–24 January 2024](2024-01-24-GPO.html) | GPO <br> Star TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [17–23 January 2024](2024-01-23-Marc.html) | Marc <br> ΑΝΤ1 | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -834,8 +836,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 8% | 100% |  |
-| 3 | 66% | 92% | Median |
-| 4 | 26% | 26% |  |
+| 3 | 64% | 92% | Median |
+| 4 | 28% | 28% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
