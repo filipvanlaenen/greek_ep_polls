@@ -10,7 +10,8 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 8.0–11.5% | 7.7–12.1% | 7.4–12.6% | 7.0–13.5% |
+| N/A | [Poll Average](average.html) | 9.5% | 8.0–11.4% | 7.7–12.0% | 7.5–12.5% | 7.0–13.4% |
+| [13–16 February 2024](2024-02-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 9.5% | 8.2–10.9% | 7.9–11.3% | 7.6–11.7% | 7.1–12.4% |
 | [6–12 February 2024](2024-02-12-Interview.html) | Interview <br> Politic.gr | 8.3% | 7.5–9.2% | 7.3–9.4% | 7.1–9.6% | 6.8–10.1% |
 | [1–7 February 2024](2024-02-07-Alco.html) | Alco <br> Alpha TV | 11.2% | 10.0–12.7% | 9.6–13.1% | 9.3–13.5% | 8.7–14.2% |
 | [22–24 January 2024](2024-01-24-MRB.html) | MRB <br> Open TV | 9.3% | 8.1–10.8% | 7.7–11.3% | 7.5–11.6% | 6.9–12.4% |
@@ -408,14 +409,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0.1% | 100% | Last Result |
 | 6.5–7.5% | 3% | 99.9% |  |
 | 7.5–8.5% | 19% | 97% |  |
-| 8.5–9.5% | 28% | 77% |  |
-| 9.5–10.5% | 24% | 49% | Median |
-| 10.5–11.5% | 15% | 25% |  |
-| 11.5–12.5% | 7% | 10% |  |
-| 12.5–13.5% | 2% | 3% |  |
-| 13.5–14.5% | 0.4% | 0.4% |  |
+| 8.5–9.5% | 29% | 78% |  |
+| 9.5–10.5% | 25% | 49% | Median |
+| 10.5–11.5% | 15% | 24% |  |
+| 11.5–12.5% | 6% | 9% |  |
+| 12.5–13.5% | 2% | 2% |  |
+| 13.5–14.5% | 0.3% | 0.4% |  |
 | 14.5–15.5% | 0% | 0% |  |
-| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -427,6 +427,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [13–16 February 2024](2024-02-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2 | 2–3 | 1–3 |
 | [6–12 February 2024](2024-02-12-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 1–2 |
 | [1–7 February 2024](2024-02-07-Alco.html) | Alco <br> Alpha TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [22–24 January 2024](2024-01-24-MRB.html) | MRB <br> Open TV | 2 | 2 | 1–2 | 1–3 | 1–3 |
@@ -824,8 +825,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 2% | 100% |  |
-| 2 | 81% | 98% | Last Result, Median |
-| 3 | 17% | 17% |  |
+| 2 | 84% | 98% | Last Result, Median |
+| 3 | 15% | 15% |  |
 | 4 | 0% | 0% |  |
 
 
