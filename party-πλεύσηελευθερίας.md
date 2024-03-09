@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.4% | 2.1–4.7% | 2.0–5.1% | 1.7–5.7% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.3–4.4% | 2.2–4.7% | 2.1–5.0% | 1.9–5.6% |
+| [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 3.6% | 2.9–4.7% | 2.7–5.0% | 2.5–5.3% | 2.2–5.8% |
+| [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 2.4% | N/A | N/A | N/A | N/A |
+| [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3.5% | N/A | N/A | N/A | N/A |
+| [21–27 February 2024](2024-02-27-MRB.html) | MRB <br> Open TV | 3.6% | N/A | N/A | N/A | N/A |
 | [13–16 February 2024](2024-02-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3.7% | 2.9–4.7% | 2.7–5.0% | 2.6–5.2% | 2.2–5.7% |
 | [6–12 February 2024](2024-02-12-Interview.html) | Interview <br> Politic.gr | 2.6% | 2.2–3.1% | 2.1–3.3% | 2.0–3.4% | 1.8–3.7% |
 | [1–7 February 2024](2024-02-07-Alco.html) | Alco <br> Alpha TV | 3.1% | 2.5–4.0% | 2.3–4.3% | 2.2–4.5% | 1.9–5.0% |
@@ -407,12 +411,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 19% | 99.9% |  |
-| 2.5–3.5% | 48% | 81% | Median |
-| 3.5–4.5% | 26% | 33% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 22% | 100% |  |
+| 2.5–3.5% | 47% | 78% | Median |
+| 3.5–4.5% | 24% | 31% |  |
 | 4.5–5.5% | 6% | 7% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -424,7 +428,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [21–27 February 2024](2024-02-27-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [13–16 February 2024](2024-02-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 February 2024](2024-02-12-Interview.html) | Interview <br> Politic.gr | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–7 February 2024](2024-02-07-Alco.html) | Alco <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -822,8 +830,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% | Last Result |
-| 1 | 55% | 55% | Median |
+| 0 | 51% | 100% | Last Result, Median |
+| 1 | 49% | 49% |  |
 | 2 | 0% | 0% |  |
 
 

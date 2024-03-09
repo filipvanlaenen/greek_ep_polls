@@ -10,7 +10,11 @@ Last result: **22.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.5% | 31.2–39.1% | 30.4–40.0% | 29.9–40.7% | 29.0–41.9% |
+| N/A | [Poll Average](average.html) | 31.7% | 29.9–34.3% | 29.5–35.1% | 29.1–35.7% | 28.4–37.0% |
+| [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 32.8% | 30.7–35.1% | 30.1–35.8% | 29.5–36.3% | 28.5–37.4% |
+| [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 36.4% | N/A | N/A | N/A | N/A |
+| [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 33.9% | N/A | N/A | N/A | N/A |
+| [21–27 February 2024](2024-02-27-MRB.html) | MRB <br> Open TV | 36.2% | N/A | N/A | N/A | N/A |
 | [13–16 February 2024](2024-02-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 34.3% | 32.2–36.5% | 31.6–37.1% | 31.1–37.7% | 30.1–38.7% |
 | [6–12 February 2024](2024-02-12-Interview.html) | Interview <br> Politic.gr | 31.0% | 29.6–32.4% | 29.2–32.8% | 28.9–33.2% | 28.3–33.8% |
 | [1–7 February 2024](2024-02-07-Alco.html) | Alco <br> Alpha TV | 34.7% | 32.7–36.8% | 32.1–37.4% | 31.7–37.9% | 30.7–38.9% |
@@ -410,24 +414,19 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.2% | 100% |  |
-| 28.5–29.5% | 1.3% | 99.8% |  |
-| 29.5–30.5% | 4% | 98.5% |  |
-| 30.5–31.5% | 7% | 94% |  |
-| 31.5–32.5% | 7% | 87% |  |
-| 32.5–33.5% | 7% | 80% |  |
-| 33.5–34.5% | 10% | 73% |  |
-| 34.5–35.5% | 13% | 63% |  |
-| 35.5–36.5% | 13% | 50% | Median |
-| 36.5–37.5% | 12% | 37% |  |
-| 37.5–38.5% | 10% | 24% |  |
-| 38.5–39.5% | 7% | 14% |  |
-| 39.5–40.5% | 4% | 7% |  |
-| 40.5–41.5% | 2% | 3% |  |
-| 41.5–42.5% | 0.7% | 0.8% |  |
-| 42.5–43.5% | 0.2% | 0.2% |  |
-| 43.5–44.5% | 0% | 0% |  |
+| 26.5–27.5% | 0.1% | 100% |  |
+| 27.5–28.5% | 0.7% | 99.9% |  |
+| 28.5–29.5% | 5% | 99.2% |  |
+| 29.5–30.5% | 15% | 94% |  |
+| 30.5–31.5% | 25% | 79% |  |
+| 31.5–32.5% | 22% | 54% | Median |
+| 32.5–33.5% | 15% | 32% |  |
+| 33.5–34.5% | 10% | 18% |  |
+| 34.5–35.5% | 5% | 8% |  |
+| 35.5–36.5% | 2% | 3% |  |
+| 36.5–37.5% | 0.7% | 0.9% |  |
+| 37.5–38.5% | 0.2% | 0.2% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -438,7 +437,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [21–27 February 2024](2024-02-27-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [13–16 February 2024](2024-02-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [6–12 February 2024](2024-02-12-Interview.html) | Interview <br> Politic.gr | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–7 February 2024](2024-02-07-Alco.html) | Alco <br> Alpha TV | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
@@ -837,11 +840,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 2% | 100% |  |
-| 7 | 35% | 98% |  |
-| 8 | 47% | 63% | Median |
-| 9 | 16% | 16% |  |
-| 10 | 0.4% | 0.4% |  |
-| 11 | 0% | 0% | Majority |
+| 6 | 10% | 100% |  |
+| 7 | 85% | 90% | Median |
+| 8 | 5% | 5% |  |
+| 9 | 0% | 0% |  |
 
 
