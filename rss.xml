@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 09 Mar 2024 18:47:44 +0100</pubDate>
+    <pubDate>Sat, 09 Mar 2024 20:41:19 +0100</pubDate>
     <item>
       <title>Opinion Poll by Alco for Alpha TV, 1–6 March 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-03-06-Alco.html#seats</link>
@@ -38,6 +38,96 @@
         type="image/png"/>
       <pubDate>Sat, 09 Mar 2024 18:47:44 +0100</pubDate>
       <dc:date>2024-03-09T18:47:44.570682+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 26–29 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-02-29-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 2–4 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1–3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-02-29-GPO-seats.png"
+        length="302432"
+        type="image/png"/>
+      <pubDate>Sat, 09 Mar 2024 19:58:45 +0100</pubDate>
+      <dc:date>2024-03-09T19:58:45.296493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 26–29 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-02-29-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-02-29-GPO-coalitions-seats.png"
+        length="234775"
+        type="image/png"/>
+      <pubDate>Sat, 09 Mar 2024 19:58:45 +0100</pubDate>
+      <dc:date>2024-03-09T19:58:45.296493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Παραπολιτικά, 26–29 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-02-29-GPO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 8.7–13.1%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 2.4–5.0%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.8–4.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 12.1–17.0%&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 1.4–3.4%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 2.0–4.4%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 1.6–3.7%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 11.3–16.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 6.4–10.3%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 33.1–39.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-02-29-GPO.png"
+        length="356260"
+        type="image/png"/>
+      <pubDate>Sat, 09 Mar 2024 19:58:45 +0100</pubDate>
+      <dc:date>2024-03-09T19:58:45.296493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Action 24, 26–27 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-OpinionPoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-OpinionPoll-seats.png"
+        length="282409"
+        type="image/png"/>
+      <pubDate>Sat, 09 Mar 2024 20:30:47 +0100</pubDate>
+      <dc:date>2024-03-09T20:30:47.38339+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Action 24, 26–27 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-OpinionPoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-OpinionPoll-coalitions-seats.png"
+        length="214403"
+        type="image/png"/>
+      <pubDate>Sat, 09 Mar 2024 20:30:47 +0100</pubDate>
+      <dc:date>2024-03-09T20:30:47.38339+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Action 24, 26–27 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 8.5–12.1%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 3.1–5.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 11.9–16.0%&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 1.9–3.9%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 2.4–4.5%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 2.6–4.8%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 10.1–13.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 8.6–12.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 31.1–36.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-OpinionPoll.png"
+        length="350224"
+        type="image/png"/>
+      <pubDate>Sat, 09 Mar 2024 20:30:47 +0100</pubDate>
+      <dc:date>2024-03-09T20:30:47.38339+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Open TV, 21–27 February 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-MRB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-MRB-seats.png"
+        length="294181"
+        type="image/png"/>
+      <pubDate>Sat, 09 Mar 2024 20:41:19 +0100</pubDate>
+      <dc:date>2024-03-09T20:41:19.184885+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Open TV, 21–27 February 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-MRB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-MRB-coalitions-seats.png"
+        length="215291"
+        type="image/png"/>
+      <pubDate>Sat, 09 Mar 2024 20:41:19 +0100</pubDate>
+      <dc:date>2024-03-09T20:41:19.184885+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MRB for Open TV, 21–27 February 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-MRB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 7.7–10.6%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (*): 3.1–5.0%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.8–3.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 10.9–14.3%&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 2.0–3.7%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 2.4–4.1%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 2.8–4.7%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 9.9–13.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 8.3–11.3%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 33.8–38.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-02-27-MRB.png"
+        length="341670"
+        type="image/png"/>
+      <pubDate>Sat, 09 Mar 2024 20:41:19 +0100</pubDate>
+      <dc:date>2024-03-09T20:41:19.184885+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll for Action 24, 13–16 February 2024 – Seat Projections for the Parties</title>
@@ -1869,6 +1959,6 @@
       <pubDate>Wed, 17 May 2023 17:35:26 +0200</pubDate>
       <dc:date>2023-05-17T17:35:26.914775+02:00</dc:date>
     </item>
-    <dc:date>2024-03-09T18:47:44.570682+01:00</dc:date>
+    <dc:date>2024-03-09T20:41:19.184885+01:00</dc:date>
   </channel>
 </rss>
