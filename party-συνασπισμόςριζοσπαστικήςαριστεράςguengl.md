@@ -10,8 +10,12 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.7% | 11.0–14.8% | 10.6–15.2% | 10.3–15.6% | 9.7–16.3% |
+| N/A | [Poll Average](average.html) | 13.2% | 11.2–15.1% | 10.7–15.5% | 10.4–15.9% | 9.8–16.7% |
+| [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 13.4% | 12.0–15.0% | 11.6–15.4% | 11.3–15.8% | 10.7–16.6% |
+| [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 14.3% | 13.0–15.8% | 12.6–16.3% | 12.3–16.6% | 11.6–17.4% |
+| [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 14.4% | 13.4–15.5% | 13.1–15.8% | 12.9–16.0% | 12.4–16.6% |
 | [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 12.7% | 11.2–14.4% | 10.8–14.9% | 10.5–15.3% | 9.8–16.2% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.9% | 11.0–16.6% |
 | [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 13.5% | 12.0–15.2% | 11.6–15.7% | 11.3–16.1% | 10.6–16.9% |
 | [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 11.9% | 10.7–13.2% | 10.4–13.6% | 10.1–13.9% | 9.6–14.6% |
 | [21–27 February 2024](2024-02-27-MRB.html) | MRB <br> Open TV | 11.4% | 10.4–12.5% | 10.1–12.8% | 9.9–13.1% | 9.4–13.7% |
@@ -411,16 +415,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.3% | 100% |  |
-| 9.5–10.5% | 4% | 99.7% |  |
-| 10.5–11.5% | 17% | 95% |  |
-| 11.5–12.5% | 23% | 78% |  |
-| 12.5–13.5% | 22% | 54% | Median |
-| 13.5–14.5% | 20% | 33% |  |
-| 14.5–15.5% | 10% | 13% |  |
-| 15.5–16.5% | 2% | 3% |  |
-| 16.5–17.5% | 0.3% | 0.3% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.2% | 100% |  |
+| 9.5–10.5% | 3% | 99.8% |  |
+| 10.5–11.5% | 13% | 97% |  |
+| 11.5–12.5% | 19% | 84% |  |
+| 12.5–13.5% | 22% | 65% | Median |
+| 13.5–14.5% | 23% | 42% |  |
+| 14.5–15.5% | 14% | 19% |  |
+| 15.5–16.5% | 4% | 5% |  |
+| 16.5–17.5% | 0.6% | 0.7% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% |  |
@@ -440,8 +444,12 @@ Last result: **6** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 3 | 3 | 3 | 3 | 3–4 |
 | [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 3 | 3 | 3 | 2–4 | 2–4 |
 | [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–27 February 2024](2024-02-27-MRB.html) | MRB <br> Open TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -842,9 +850,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 24% | 100% |  |
-| 3 | 74% | 76% | Median |
-| 4 | 1.1% | 1.1% |  |
+| 2 | 19% | 100% |  |
+| 3 | 78% | 81% | Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% | Last Result |
 
