@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 12.1% | 11.2–13.1% | 10.9–13.4% | 10.7–13.6% | 10.3–14.1% |
 | [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 7.7% | 6.6–9.1% | 6.2–9.5% | 6.0–9.9% | 5.5–10.6% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
-| [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV | 9.9% | N/A | N/A | N/A | N/A |
+| [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 8.2% | 7.0–9.5% | 6.7–9.9% | 6.4–10.3% | 5.9–11.0% |
 | [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.2% | 9.1–11.5% | 8.8–11.9% | 8.6–12.2% | 8.1–12.8% |
 | [21–27 February 2024](2024-02-27-MRB.html) | MRB <br> Open TV | 9.7% | 8.7–10.7% | 8.5–11.0% | 8.3–11.3% | 7.8–11.8% |
@@ -453,7 +453,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [21–27 February 2024](2024-02-27-MRB.html) | MRB <br> Open TV | 2 | 2 | 2 | 2 | 2–3 |
