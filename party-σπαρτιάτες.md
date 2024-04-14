@@ -442,7 +442,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 0 | 0 | 0 | 0–1 | 0–1 |
 | [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 0 | 0 | 0 | 0 | 0 |
-| [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV | 0 | 0 | 0 | 0–1 | 0–1 |
 | [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -845,8 +845,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 22% | 22% |  |
+| 0 | 79% | 100% | Last Result, Median |
+| 1 | 21% | 21% |  |
 | 2 | 0% | 0% |  |
 
 

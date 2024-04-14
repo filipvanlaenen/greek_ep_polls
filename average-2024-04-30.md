@@ -342,8 +342,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 5% | 100% |  |
-| 3 | 77% | 95% | Median |
+| 2 | 6% | 100% |  |
+| 3 | 77% | 94% | Median |
 | 4 | 17% | 17% |  |
 | 5 | 0% | 0% |  |
 | 6 | 0% | 0% | Last Result |
@@ -357,8 +357,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 12% | 100% |  |
-| 7 | 49% | 88% | Median |
+| 6 | 11% | 100% |  |
+| 7 | 49% | 89% | Median |
 | 8 | 36% | 40% |  |
 | 9 | 3% | 3% |  |
 | 10 | 0% | 0% |  |
@@ -384,8 +384,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 6% | 100% |  |
-| 2 | 80% | 94% | Last Result, Median |
-| 3 | 14% | 14% |  |
+| 2 | 81% | 94% | Last Result, Median |
+| 3 | 12% | 12% |  |
 | 4 | 0% | 0% |  |
 
 ### Ανεξάρτητοι Έλληνες (ECR)
@@ -443,8 +443,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 8% | 100% |  |
-| 2 | 68% | 92% | Median |
+| 1 | 7% | 100% |  |
+| 2 | 69% | 93% | Median |
 | 3 | 24% | 24% |  |
 | 4 | 0% | 0% |  |
 
@@ -499,8 +499,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 22% | 22% |  |
+| 0 | 79% | 100% | Last Result, Median |
+| 1 | 21% | 21% |  |
 | 2 | 0% | 0% |  |
 
 ### Νέα Αριστερά (GUE/NGL)
@@ -570,8 +570,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 12% | 100% |  |
-| 7 | 49% | 88% | Median |
+| 6 | 11% | 100% |  |
+| 7 | 49% | 89% | Median |
 | 8 | 36% | 40% |  |
 | 9 | 3% | 3% |  |
 | 10 | 0% | 0% |  |
@@ -582,10 +582,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.7% | 100% |  |
-| 3 | 27% | 99.3% |  |
+| 2 | 0.6% | 100% |  |
+| 3 | 27% | 99.4% |  |
 | 4 | 64% | 72% | Median |
-| 5 | 8% | 9% |  |
+| 5 | 8% | 8% |  |
 | 6 | 0.1% | 0.1% | Last Result |
 | 7 | 0% | 0% |  |
 
@@ -606,8 +606,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% | Last Result |
-| 2 | 68% | 92% | Median |
+| 1 | 7% | 100% | Last Result |
+| 2 | 69% | 93% | Median |
 | 3 | 24% | 24% |  |
 | 4 | 0% | 0% |  |
 
@@ -618,8 +618,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 6% | 100% |  |
-| 2 | 80% | 94% | Median |
-| 3 | 14% | 14% |  |
+| 2 | 81% | 94% | Median |
+| 3 | 12% | 12% |  |
 | 4 | 0% | 0% |  |
 | 5 | 0% | 0% | Last Result |
 
@@ -631,8 +631,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% | Last Result |
 | 1 | 39% | 97% |  |
-| 2 | 44% | 58% | Median |
-| 3 | 14% | 14% |  |
+| 2 | 45% | 58% | Median |
+| 3 | 13% | 13% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -659,5 +659,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 8
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 14,680,064
-+ **Error estimate:** 2.64%
++ **Total number of simulations done in the polls included in this average:** 15,728,640
++ **Error estimate:** 2.73%
