@@ -448,12 +448,12 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [15–20 March 2024](2024-03-20-OpinionPoll.html) | Opinion Poll <br> Action 24 | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 7 | 7–8 | 6–8 | 6–8 |
+| [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
-| [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
@@ -859,10 +859,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
-| 6 | 11% | 100% |  |
-| 7 | 48% | 89% | Median |
-| 8 | 36% | 41% |  |
-| 9 | 5% | 5% |  |
+| 6 | 12% | 100% |  |
+| 7 | 49% | 88% | Median |
+| 8 | 36% | 40% |  |
+| 9 | 3% | 3% |  |
 | 10 | 0% | 0% |  |
 
 
