@@ -445,7 +445,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
 | [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 1 | 1 | 0–1 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 1 | 0–1 |
@@ -847,9 +847,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% | Last Result |
-| 1 | 81% | 81% | Median |
-| 2 | 0.5% | 0.5% |  |
+| 0 | 18% | 100% | Last Result |
+| 1 | 81% | 82% | Median |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
