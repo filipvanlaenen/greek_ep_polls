@@ -457,7 +457,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–15 January 2024](2024-01-15-Marc.html) | Marc <br> ΑΝΤ1 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–15 January 2024](2024-01-15-Interview.html) | Interview <br> Politic.gr | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [9–11 January 2024](2024-01-11-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–9 January 2024](2024-01-09-Prorata.html) | Prorata <br> Attica TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [5–9 January 2024](2024-01-09-Prorata.html) | Prorata <br> Attica TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–5 January 2024](2024-01-05-Alco.html) | Alco <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–8 December 2023](2023-12-08-Interview.html) | Interview <br> Politic.gr | 0 | 0 | 0 | 0 | 0–1 |
 | [5–7 December 2023](2023-12-07-GPO.html) | GPO <br> Παραπολιτικά | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
