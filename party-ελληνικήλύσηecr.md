@@ -10,8 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.5–11.8% | 7.1–12.4% | 6.7–12.8% | 6.1–13.5% |
+| N/A | [Poll Average](average.html) | 9.9% | 8.2–11.8% | 7.8–12.3% | 7.4–12.6% | 6.8–13.3% |
+| [10–16 April 2024](2024-04-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 8.2% | 7.3–9.4% | 7.0–9.8% | 6.7–10.0% | 6.3–10.6% |
+| [5–10 April 2024](2024-04-10-Prorata.html) | Prorata <br> Attica TV | 9.8% | 8.6–11.2% | 8.3–11.6% | 8.0–12.0% | 7.5–12.7% |
+| [8–10 April 2024](2024-04-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.7% | 9.4–12.2% | 9.1–12.6% | 8.7–13.0% | 8.2–13.7% |
+| [4–8 April 2024](2024-04-08-Interview.html) | Interview <br> Politic.gr | 11.8% | 10.9–12.7% | 10.7–13.0% | 10.5–13.2% | 10.1–13.7% |
+| [2–5 April 2024](2024-04-05-Alco.html) | Alco <br> Alpha TV | 9.6% | 8.4–11.1% | 8.1–11.5% | 7.8–11.9% | 7.2–12.7% |
+| [1–4 April 2024](2024-04-04-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 10.3% | 9.2–11.6% | 8.9–12.0% | 8.6–12.4% | 8.1–13.0% |
 | [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | 7.9–10.2% | 7.7–10.5% | 7.4–10.8% | 7.0–11.4% |
+| [1–3 April 2024](2024-04-03-GPO.html) | GPO <br> Παραπολιτικά | 9.5% | 8.3–10.9% | 8.0–11.3% | 7.7–11.7% | 7.1–12.4% |
 | [15–20 March 2024](2024-03-20-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.1% | 8.8–11.7% | 8.5–12.1% | 8.2–12.5% | 7.6–13.3% |
 | [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 9.7% | 8.6–11.0% | 8.3–11.3% | 8.0–11.7% | 7.5–12.3% |
 | [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9.2% | 8.1–10.6% | 7.8–11.0% | 7.5–11.3% | 7.0–12.0% |
@@ -423,16 +430,16 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 9% | 98% |  |
-| 7.5–8.5% | 22% | 89% |  |
-| 8.5–9.5% | 27% | 68% | Median |
-| 9.5–10.5% | 19% | 41% |  |
-| 10.5–11.5% | 10% | 22% |  |
-| 11.5–12.5% | 8% | 12% |  |
-| 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.2% | 100% |  |
+| 6.5–7.5% | 3% | 99.8% |  |
+| 7.5–8.5% | 13% | 97% |  |
+| 8.5–9.5% | 25% | 84% |  |
+| 9.5–10.5% | 26% | 59% | Median |
+| 10.5–11.5% | 19% | 33% |  |
+| 11.5–12.5% | 11% | 14% |  |
+| 12.5–13.5% | 3% | 3% |  |
+| 13.5–14.5% | 0.2% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -444,12 +451,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [10–16 April 2024](2024-04-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [5–10 April 2024](2024-04-10-Prorata.html) | Prorata <br> Attica TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [8–10 April 2024](2024-04-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [4–8 April 2024](2024-04-08-Interview.html) | Interview <br> Politic.gr | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [2–5 April 2024](2024-04-05-Alco.html) | Alco <br> Alpha TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–4 April 2024](2024-04-04-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 1–2 | 1–3 |
+| [1–3 April 2024](2024-04-03-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–20 March 2024](2024-03-20-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -855,9 +869,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 7% | 100% |  |
-| 2 | 69% | 93% | Median |
-| 3 | 24% | 24% |  |
+| 1 | 0.7% | 100% |  |
+| 2 | 68% | 99.3% | Median |
+| 3 | 31% | 31% |  |
 | 4 | 0% | 0% |  |
 
 
