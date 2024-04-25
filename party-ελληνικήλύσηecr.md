@@ -19,14 +19,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–4 April 2024](2024-04-04-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.8% | 8.3–13.5% |
 | [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.2% | 8.2–10.5% | 7.9–10.8% | 7.6–11.1% | 7.2–11.7% |
 | [1–3 April 2024](2024-04-03-GPO.html) | GPO <br> Παραπολιτικά | 9.7% | 8.5–11.2% | 8.2–11.6% | 7.9–11.9% | 7.3–12.7% |
-| [15–20 March 2024](2024-03-20-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.4% | N/A | N/A | N/A | N/A |
-| [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 9.9% | N/A | N/A | N/A | N/A |
-| [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9.5% | N/A | N/A | N/A | N/A |
-| [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 8.1% | N/A | N/A | N/A | N/A |
-| [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 12.3% | N/A | N/A | N/A | N/A |
-| [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 7.9% | N/A | N/A | N/A | N/A |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 9.0% | N/A | N/A | N/A | N/A |
-| [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV | 10.1% | N/A | N/A | N/A | N/A |
+| [15–20 March 2024](2024-03-20-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.4% | 9.1–12.0% | 8.7–12.4% | 8.4–12.8% | 7.8–13.6% |
+| [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.5% |
+| [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 9.5% | 8.3–10.9% | 8.0–11.3% | 7.7–11.6% | 7.2–12.3% |
+| [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 8.1% | 7.0–9.3% | 6.8–9.6% | 6.5–10.0% | 6.1–10.6% |
+| [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 12.3% | 11.4–13.3% | 11.1–13.6% | 10.9–13.9% | 10.5–14.4% |
+| [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 7.9% | 6.8–9.4% | 6.5–9.8% | 6.2–10.2% | 5.7–10.9% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.8–11.6% |
+| [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV | 10.1% | 9.0–11.5% | 8.6–11.8% | 8.4–12.2% | 7.8–12.8% |
 | [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 8.3% | 7.0–9.5% | 6.7–9.9% | 6.4–10.3% | 5.9–11.0% |
 | [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.5% | 9.1–11.5% | 8.8–11.9% | 8.6–12.2% | 8.1–12.8% |
 | [21–27 February 2024](2024-02-27-MRB.html) | MRB <br> Open TV | 9.9% | 8.7–10.7% | 8.5–11.0% | 8.3–11.3% | 7.8–11.8% |
@@ -460,14 +460,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 April 2024](2024-04-04-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2–3 | 1–3 |
 | [1–3 April 2024](2024-04-03-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [15–20 March 2024](2024-03-20-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
-| [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
-| [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
-| [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
-| [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [15–20 March 2024](2024-03-20-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [21–27 February 2024](2024-02-27-MRB.html) | MRB <br> Open TV | 2 | 2 | 2 | 2 | 2–3 |
