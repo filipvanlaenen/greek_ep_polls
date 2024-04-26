@@ -448,7 +448,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–10 April 2024](2024-04-10-Prorata.html) | Prorata <br> Attica TV | 1 | 1 | 1 | 0–1 | 0–2 |
 | [8–10 April 2024](2024-04-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–8 April 2024](2024-04-08-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
-| [2–5 April 2024](2024-04-05-Alco.html) | Alco <br> Alpha TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–5 April 2024](2024-04-05-Alco.html) | Alco <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–4 April 2024](2024-04-04-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 1 | 1 | 1 | 0–1 | 0–1 |
 | [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–3 April 2024](2024-04-03-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -860,8 +860,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 37% | 100% | Last Result |
-| 1 | 63% | 63% | Median |
+| 0 | 36% | 100% | Last Result |
+| 1 | 64% | 64% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 

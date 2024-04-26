@@ -459,9 +459,9 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [8–10 April 2024](2024-04-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [4–8 April 2024](2024-04-08-Interview.html) | Interview <br> Politic.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [2–5 April 2024](2024-04-05-Alco.html) | Alco <br> Alpha TV | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [1–4 April 2024](2024-04-04-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| [1–3 April 2024](2024-04-03-GPO.html) | GPO <br> Παραπολιτικά | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [1–4 April 2024](2024-04-04-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 7 | 7 | 7–8 | 6–8 | 6–8 |
+| [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [1–3 April 2024](2024-04-03-GPO.html) | GPO <br> Παραπολιτικά | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [15–20 March 2024](2024-03-20-OpinionPoll.html) | Opinion Poll <br> Action 24 | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
@@ -872,9 +872,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 21% | 100% |  |
-| 7 | 55% | 79% | Median |
-| 8 | 24% | 24% |  |
-| 9 | 0.3% | 0.3% |  |
+| 7 | 57% | 79% | Median |
+| 8 | 21% | 22% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 
 

@@ -451,7 +451,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4–8 April 2024](2024-04-08-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
 | [2–5 April 2024](2024-04-05-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 1 | 0–1 | 0–2 |
 | [1–4 April 2024](2024-04-04-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [1–3 April 2024](2024-04-03-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–3 April 2024](2024-04-03-GPO.html) | GPO <br> Παραπολιτικά | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–20 March 2024](2024-03-20-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 0–2 | 0–2 |
 | [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -861,8 +861,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% | Last Result |
-| 1 | 88% | 88% | Median |
+| 0 | 11% | 100% | Last Result |
+| 1 | 89% | 89% | Median |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
