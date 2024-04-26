@@ -466,7 +466,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–3 April 2024](2024-04-03-GPO.html) | GPO <br> Παραπολιτικά | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [15–20 March 2024](2024-03-20-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [12–19 March 2024](2024-03-19-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3 | 2–3 | 2–4 | 2–4 |
-| [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [11–16 March 2024](2024-03-16-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 3 | 3 | 3–4 | 2–4 | 2–4 |
