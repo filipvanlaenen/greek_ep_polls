@@ -445,7 +445,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–16 April 2024](2024-04-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 0–1 | 0–1 |
+| [10–16 April 2024](2024-04-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 0–1 |
 | [5–10 April 2024](2024-04-10-Prorata.html) | Prorata <br> Attica TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–10 April 2024](2024-04-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [4–8 April 2024](2024-04-08-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
@@ -861,9 +861,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% | Last Result |
-| 1 | 88% | 88% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 11% | 100% | Last Result |
+| 1 | 88% | 89% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
