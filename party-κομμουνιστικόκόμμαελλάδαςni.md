@@ -460,7 +460,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [11–13 March 2024](2024-03-13-GPO.html) | GPO <br> Star TV | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [7–11 March 2024](2024-03-11-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–6 March 2024](2024-03-06-Alco.html) | Alco <br> Alpha TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 2 | 2 | 1–3 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2 | 2 | 1–2 | 1–3 |
 | [1 April–3 March 2024](2024-03-03-MRB.html) | MRB <br> Open TV | 2 | 2 | 2 | 2 | 1–3 |
 | [26–29 February 2024](2024-02-29-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–27 February 2024](2024-02-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
