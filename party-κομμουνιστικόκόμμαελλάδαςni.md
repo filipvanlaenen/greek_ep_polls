@@ -10,7 +10,9 @@ Last result: **6.1%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.3% | 7.3–10.8% | 6.8–11.2% | 6.5–11.6% | 6.1–12.3% |
+| N/A | [Poll Average](average.html) | 9.2% | 7.3–10.7% | 6.8–11.2% | 6.5–11.5% | 6.1–12.3% |
+| [20–22 April 2024](2024-04-22-OpinionPoll.html) | Opinion Poll <br> Action 24 | 8.8% | 7.7–10.2% | 7.3–10.5% | 7.1–10.9% | 6.6–11.6% |
+| [17–22 April 2024](2024-04-22-GPO.html) | GPO <br> Παραπολιτικά | 9.1% | 8.0–10.2% | 7.8–10.6% | 7.5–10.9% | 7.1–11.4% |
 | [10–16 April 2024](2024-04-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 10.1% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.9–12.7% |
 | [5–10 April 2024](2024-04-10-Prorata.html) | Prorata <br> Attica TV | 9.4% | 8.2–10.8% | 7.9–11.2% | 7.6–11.6% | 7.1–12.3% |
 | [8–10 April 2024](2024-04-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 8.9% | 7.7–10.3% | 7.4–10.7% | 7.1–11.1% | 6.6–11.8% |
@@ -429,11 +431,11 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 3% | 100% | Last Result |
 | 6.5–7.5% | 10% | 97% |  |
 | 7.5–8.5% | 17% | 87% |  |
-| 8.5–9.5% | 30% | 70% | Median |
-| 9.5–10.5% | 26% | 40% |  |
-| 10.5–11.5% | 11% | 14% |  |
-| 11.5–12.5% | 2% | 3% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
+| 8.5–9.5% | 31% | 70% | Median |
+| 9.5–10.5% | 26% | 39% |  |
+| 10.5–11.5% | 11% | 13% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.2% | 0.3% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -446,6 +448,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| [20–22 April 2024](2024-04-22-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2 | 2 | 1–3 |
+| [17–22 April 2024](2024-04-22-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 2 | 2–3 | 2–3 |
 | [10–16 April 2024](2024-04-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–10 April 2024](2024-04-10-Prorata.html) | Prorata <br> Attica TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–10 April 2024](2024-04-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2 | 2 | 1–3 |
@@ -864,7 +868,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 3% | 100% |  |
 | 2 | 88% | 97% | Last Result, Median |
-| 3 | 10% | 10% |  |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 
