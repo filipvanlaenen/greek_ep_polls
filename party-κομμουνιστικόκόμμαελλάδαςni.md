@@ -449,7 +449,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [20–22 April 2024](2024-04-22-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2 | 2 | 1–3 |
-| [17–22 April 2024](2024-04-22-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 2 | 2–3 | 2–3 |
+| [17–22 April 2024](2024-04-22-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [10–16 April 2024](2024-04-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–10 April 2024](2024-04-10-Prorata.html) | Prorata <br> Attica TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–10 April 2024](2024-04-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2 | 2 | 1–3 |
