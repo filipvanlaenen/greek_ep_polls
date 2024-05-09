@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 01 May 2024 20:17:04 +0200</pubDate>
+    <pubDate>Thu, 09 May 2024 11:39:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 18–25 April 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-04-25-Marc.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 3–4 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-04-25-Marc-seats.png"
+        length="293539"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2024 11:39:57 +0200</pubDate>
+      <dc:date>2024-05-09T11:39:57.250247+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 18–25 April 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-04-25-Marc.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-04-25-Marc-coalitions-seats.png"
+        length="247803"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2024 11:39:57 +0200</pubDate>
+      <dc:date>2024-05-09T11:39:57.250247+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 18–25 April 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-04-25-Marc.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 32.6–38.9%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 1.7–3.8%&lt;/li&gt;&lt;li&gt;Δημοκράτες (RE): 1.1–2.9%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 8.2–12.1%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 9.1–13.2%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 2.3–4.6%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 4.1–7.1%&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (*): 1.4–3.4%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 12.7–17.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.5–3.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 7.3–11.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-04-25-Marc.png"
+        length="371487"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2024 11:39:57 +0200</pubDate>
+      <dc:date>2024-05-09T11:39:57.250247+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Opinion Poll for Action 24, 20–22 April 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-04-22-OpinionPoll.html#seats</link>
@@ -2289,6 +2319,6 @@
       <pubDate>Wed, 17 May 2023 17:35:26 +0200</pubDate>
       <dc:date>2023-05-17T17:35:26.914775+02:00</dc:date>
     </item>
-    <dc:date>2024-05-01T20:17:04.437118+02:00</dc:date>
+    <dc:date>2024-05-09T11:39:57.250247+02:00</dc:date>
   </channel>
 </rss>
