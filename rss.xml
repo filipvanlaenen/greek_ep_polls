@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 09 May 2024 11:39:57 +0200</pubDate>
+    <pubDate>Fri, 10 May 2024 19:11:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 18–25 April 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-04-25-Marc.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-04-25-Marc-seats.png"
         length="293539"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2024 11:39:57 +0200</pubDate>
-      <dc:date>2024-05-09T11:39:57.250247+02:00</dc:date>
+      <pubDate>Fri, 10 May 2024 19:11:08 +0200</pubDate>
+      <dc:date>2024-05-10T19:11:08.483226+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 18–25 April 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-04-25-Marc-coalitions-seats.png"
         length="247803"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2024 11:39:57 +0200</pubDate>
-      <dc:date>2024-05-09T11:39:57.250247+02:00</dc:date>
+      <pubDate>Fri, 10 May 2024 19:11:08 +0200</pubDate>
+      <dc:date>2024-05-10T19:11:08.483226+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 18–25 April 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-04-25-Marc.png"
         length="371487"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2024 11:39:57 +0200</pubDate>
-      <dc:date>2024-05-09T11:39:57.250247+02:00</dc:date>
+      <pubDate>Fri, 10 May 2024 19:11:08 +0200</pubDate>
+      <dc:date>2024-05-10T19:11:08.483226+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinion Poll for Action 24, 20–22 April 2024 – Seat Projections for the Parties</title>
@@ -2319,6 +2319,6 @@
       <pubDate>Wed, 17 May 2023 17:35:26 +0200</pubDate>
       <dc:date>2023-05-17T17:35:26.914775+02:00</dc:date>
     </item>
-    <dc:date>2024-05-09T11:39:57.250247+02:00</dc:date>
+    <dc:date>2024-05-10T19:11:08.483226+02:00</dc:date>
   </channel>
 </rss>
