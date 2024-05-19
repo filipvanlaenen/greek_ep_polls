@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.6–2.0% | 0.5–2.4% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% |
+| [13–15 May 2024](2024-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [10–15 May 2024](2024-05-15-Marc.html) | Marc <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
+| [10–14 May 2024](2024-05-14-MRB.html) | MRB <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
+| [8–13 May 2024](2024-05-13-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [18–25 April 2024](2024-04-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [20–22 April 2024](2024-04-22-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 April 2024](2024-04-22-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
@@ -428,10 +432,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.2% | 100% | Last Result |
-| 0.5–1.5% | 82% | 98.8% | Median |
-| 1.5–2.5% | 17% | 17% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 88% | 98% | Median |
+| 1.5–2.5% | 11% | 11% |  |
+| 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -444,6 +448,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–15 May 2024](2024-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [10–15 May 2024](2024-05-15-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [10–14 May 2024](2024-05-14-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [8–13 May 2024](2024-05-13-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [18–25 April 2024](2024-04-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [20–22 April 2024](2024-04-22-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
 | [17–22 April 2024](2024-04-22-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |

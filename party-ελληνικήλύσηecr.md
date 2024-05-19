@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.4–11.9% | 8.0–12.4% | 7.7–12.7% | 7.0–13.4% |
+| N/A | [Poll Average](average.html) | 9.4% | 8.0–11.1% | 7.6–11.7% | 7.3–12.2% | 6.8–13.0% |
+| [13–15 May 2024](2024-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.1% | 8.0–10.4% | 7.7–10.8% | 7.5–11.1% | 7.0–11.8% |
+| [10–15 May 2024](2024-05-15-Marc.html) | Marc <br> ANT1 | 8.3% | N/A | N/A | N/A | N/A |
+| [10–14 May 2024](2024-05-14-MRB.html) | MRB <br> Open TV | 9.9% | N/A | N/A | N/A | N/A |
+| [8–13 May 2024](2024-05-13-Interview.html) | Interview <br> Politic.gr | 7.8% | N/A | N/A | N/A | N/A |
 | [18–25 April 2024](2024-04-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10.0% | 8.8–11.4% | 8.5–11.8% | 8.2–12.1% | 7.7–12.8% |
 | [20–22 April 2024](2024-04-22-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.7% | 9.4–12.1% | 9.1–12.6% | 8.8–12.9% | 8.2–13.7% |
 | [17–22 April 2024](2024-04-22-GPO.html) | GPO <br> Παραπολιτικά | 9.3% | 8.3–10.5% | 8.0–10.8% | 7.8–11.1% | 7.3–11.7% |
@@ -434,15 +438,15 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 10% | 98% |  |
-| 8.5–9.5% | 24% | 88% |  |
-| 9.5–10.5% | 27% | 63% | Median |
-| 10.5–11.5% | 21% | 36% |  |
-| 11.5–12.5% | 12% | 16% |  |
-| 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 0.2% | 100% |  |
+| 6.5–7.5% | 4% | 99.8% |  |
+| 7.5–8.5% | 20% | 96% |  |
+| 8.5–9.5% | 33% | 76% | Median |
+| 9.5–10.5% | 25% | 43% |  |
+| 10.5–11.5% | 13% | 19% |  |
+| 11.5–12.5% | 5% | 6% |  |
+| 12.5–13.5% | 1.1% | 1.3% |  |
+| 13.5–14.5% | 0.1% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -454,7 +458,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [13–15 May 2024](2024-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2–3 | 1–3 |
+| [10–15 May 2024](2024-05-15-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [10–14 May 2024](2024-05-14-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [8–13 May 2024](2024-05-13-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [18–25 April 2024](2024-04-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–22 April 2024](2024-04-22-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–22 April 2024](2024-04-22-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -875,9 +883,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.3% | 100% |  |
-| 2 | 71% | 99.7% | Median |
-| 3 | 29% | 29% |  |
+| 1 | 0.6% | 100% |  |
+| 2 | 85% | 99.4% | Median |
+| 3 | 15% | 15% |  |
 | 4 | 0% | 0% |  |
 
 
