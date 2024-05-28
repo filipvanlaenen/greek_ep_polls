@@ -11,8 +11,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.2–2.2% | 1.0–2.4% |
-| [13–15 May 2024](2024-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [13–22 May 2024](2024-05-22-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
+| [15–16 May 2024](2024-05-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0.0% | N/A | N/A | N/A | N/A |
+| [13–16 May 2024](2024-05-16-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 May 2024](2024-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.3% | N/A | N/A | N/A | N/A |
 | [10–15 May 2024](2024-05-15-Marc.html) | Marc <br> ANT1 | 0.0% | N/A | N/A | N/A | N/A |
+| [13–15 May 2024](2024-05-15-Alco.html) | Alco <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [10–14 May 2024](2024-05-14-MRB.html) | MRB <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [8–13 May 2024](2024-05-13-Interview.html) | Interview <br> Politic.gr | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.2–2.2% | 1.0–2.5% |
 | [18–25 April 2024](2024-04-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
@@ -448,8 +452,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–22 May 2024](2024-05-22-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [15–16 May 2024](2024-05-16-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [13–16 May 2024](2024-05-16-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [13–15 May 2024](2024-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [10–15 May 2024](2024-05-15-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [13–15 May 2024](2024-05-15-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [10–14 May 2024](2024-05-14-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [8–13 May 2024](2024-05-13-Interview.html) | Interview <br> Politic.gr | 0 | 0 | 0 | 0 | 0 |
 | [18–25 April 2024](2024-04-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
