@@ -10,7 +10,8 @@ Last result: **26.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.9% | 14.2–17.5% | 13.8–18.0% | 13.4–18.4% | 12.6–19.1% |
+| N/A | [Poll Average](average.html) | 15.8% | 14.2–17.5% | 13.8–18.0% | 13.4–18.3% | 12.6–19.1% |
+| [20–24 May 2024](2024-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 15.8% | 14.4–17.3% | 14.0–17.7% | 13.7–18.1% | 13.1–18.8% |
 | [13–22 May 2024](2024-05-22-GPO.html) | GPO <br> Παραπολιτικά | 15.8% | 14.9–16.8% | 14.6–17.0% | 14.4–17.3% | 14.0–17.7% |
 | [15–16 May 2024](2024-05-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 15.4% | 14.0–17.1% | 13.5–17.6% | 13.2–18.0% | 12.5–18.8% |
 | [13–16 May 2024](2024-05-16-GPO.html) | GPO <br> Παραπολιτικά | 15.6% | N/A | N/A | N/A | N/A |
@@ -439,12 +440,12 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.4% | 100% |  |
 | 12.5–13.5% | 3% | 99.6% |  |
-| 13.5–14.5% | 12% | 96% |  |
+| 13.5–14.5% | 12% | 97% |  |
 | 14.5–15.5% | 25% | 85% |  |
 | 15.5–16.5% | 30% | 60% | Median |
-| 16.5–17.5% | 20% | 30% |  |
+| 16.5–17.5% | 20% | 29% |  |
 | 17.5–18.5% | 8% | 10% |  |
-| 18.5–19.5% | 2% | 2% |  |
+| 18.5–19.5% | 1.5% | 2% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 | 21.5–22.5% | 0% | 0% |  |
@@ -464,6 +465,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [20–24 May 2024](2024-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–22 May 2024](2024-05-22-GPO.html) | GPO <br> Παραπολιτικά | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–16 May 2024](2024-05-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–16 May 2024](2024-05-16-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
@@ -892,9 +894,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 45% | 99.9% |  |
-| 4 | 54% | 55% | Median |
-| 5 | 0.8% | 0.8% |  |
+| 3 | 47% | 99.9% |  |
+| 4 | 52% | 53% | Median |
+| 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% | Last Result |
 
 
