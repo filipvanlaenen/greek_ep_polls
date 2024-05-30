@@ -471,7 +471,7 @@ Last result: **6** seats (General Election of 26 May 2019)
 | [13–16 May 2024](2024-05-16-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [13–15 May 2024](2024-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–15 May 2024](2024-05-15-Marc.html) | Marc <br> ANT1 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [13–15 May 2024](2024-05-15-Alco.html) | Alco <br> Alpha TV | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [13–15 May 2024](2024-05-15-Alco.html) | Alco <br> Alpha TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–14 May 2024](2024-05-14-MRB.html) | MRB <br> Open TV | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8–13 May 2024](2024-05-13-Interview.html) | Interview <br> Politic.gr | 4 | 4 | 4 | 4–5 | 3–5 |
 | [18–25 April 2024](2024-04-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -894,8 +894,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 47% | 99.9% |  |
-| 4 | 52% | 53% | Median |
+| 3 | 48% | 99.9% |  |
+| 4 | 51% | 52% | Median |
 | 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% | Last Result |
 
