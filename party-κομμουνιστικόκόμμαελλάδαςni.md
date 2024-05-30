@@ -457,14 +457,14 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [20–24 May 2024](2024-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [20–24 May 2024](2024-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [13–22 May 2024](2024-05-22-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 2 | 2 | 1–3 |
 | [15–16 May 2024](2024-05-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [13–16 May 2024](2024-05-16-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [13–15 May 2024](2024-05-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [10–15 May 2024](2024-05-15-Marc.html) | Marc <br> ANT1 | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [13–15 May 2024](2024-05-15-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [13–15 May 2024](2024-05-15-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 2 | 1–3 | 1–3 |
 | [10–14 May 2024](2024-05-14-MRB.html) | MRB <br> Open TV | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [8–13 May 2024](2024-05-13-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–25 April 2024](2024-04-25-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -886,8 +886,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 10% | 100% |  |
-| 2 | 88% | 90% | Last Result, Median |
+| 1 | 9% | 100% |  |
+| 2 | 89% | 91% | Last Result, Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
