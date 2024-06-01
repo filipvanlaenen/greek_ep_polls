@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 01 Jun 2024 18:42:53 +0200</pubDate>
+    <pubDate>Sat, 01 Jun 2024 20:27:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 27–30 May 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-05-30-PulseRC.html#seats</link>
@@ -98,6 +98,36 @@
         type="image/png"/>
       <pubDate>Sat, 01 Jun 2024 18:42:53 +0200</pubDate>
       <dc:date>2024-06-01T18:42:53.898075+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata, 22–28 May 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-05-28-Prorata.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 1 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Κόσμος (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-05-28-Prorata-seats.png"
+        length="295339"
+        type="image/png"/>
+      <pubDate>Sat, 01 Jun 2024 20:27:54 +0200</pubDate>
+      <dc:date>2024-06-01T20:27:54.776802+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata, 22–28 May 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-05-28-Prorata.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-05-28-Prorata-coalitions-seats.png"
+        length="251023"
+        type="image/png"/>
+      <pubDate>Sat, 01 Jun 2024 20:27:54 +0200</pubDate>
+      <dc:date>2024-06-01T20:27:54.776802+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Prorata, 22–28 May 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-05-28-Prorata.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 6.9–10.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 11.1–15.2%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (*): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Κόσμος (Greens/EFA): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (*): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 10.1–14.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 9.4–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-05-28-Prorata.png"
+        length="379949"
+        type="image/png"/>
+      <pubDate>Sat, 01 Jun 2024 20:27:54 +0200</pubDate>
+      <dc:date>2024-06-01T20:27:54.776802+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Mega TV, 20–24 May 2024 – Seat Projections for the Parties</title>
@@ -2649,6 +2679,6 @@
       <pubDate>Wed, 17 May 2023 17:35:26 +0200</pubDate>
       <dc:date>2023-05-17T17:35:26.914775+02:00</dc:date>
     </item>
-    <dc:date>2024-06-01T18:42:53.898075+02:00</dc:date>
+    <dc:date>2024-06-01T20:27:54.776802+02:00</dc:date>
   </channel>
 </rss>
