@@ -13,7 +13,7 @@ The table below lists the polls on which the average is based. They are the most
 | [27–30 May 2024](2024-05-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14–19% <br> 3–4 | 30–35% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 2–3 | N/A <br> N/A | 2–5% <br> 0–1 | 7–10% <br> 1–2 | 2–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 2–3% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | [27–30 May 2024](2024-05-30-Marc.html) | Marc <br> ANT1 | 15–20% <br> 3–4 | 32–38% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 10–13% <br> 2–3 | N/A <br> N/A | 3–5% <br> 1 | 7–10% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | [27–29 May 2024](2024-05-29-GPO.html) | GPO <br> Star TV | 14–19% <br> 3–4 | 30–36% <br> 7–8 | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 2–3 | N/A <br> N/A | 3–5% <br> 0–1 | 7–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0–1 | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
-| [22–28 May 2024](2024-05-28-Prorata.html) | Prorata | 10–14% <br> 2–3 | 28–34% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 2–3 | N/A <br> N/A | 3–5% <br> 0–1 | 7–10% <br> 2 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 1 | N/A <br> N/A | 2–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0–1 |
+| [22–28 May 2024](2024-05-28-Prorata.html) | Prorata | 10–14% <br> 2–3 | 28–34% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 2–3 | N/A <br> N/A | 3–5% <br> 0–1 | 7–10% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 1 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 1 | N/A <br> N/A | 2–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0–1 |
 | [20–24 May 2024](2024-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 14–18% <br> 3–4 | 28–34% <br> 6–7 | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 2–3 | N/A <br> N/A | 3–6% <br> 1 | 6–9% <br> 1–2 | 2–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 1–2% <br> 0 | 2–4% <br> 0–1 | 2–3% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
 | 26 May 2019 | General Election | 26.6% <br> 6 | 22.7% <br> 5 | 9.4% <br> 3 | 6.6% <br> 2 | 6.1% <br> 2 | 3.5% <br> 1 | 0.6% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -354,8 +354,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 7% | 100% |  |
-| 3 | 44% | 93% | Median |
+| 2 | 6% | 100% |  |
+| 3 | 45% | 94% | Median |
 | 4 | 48% | 49% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% | Last Result |
@@ -422,8 +422,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 19% | 100% |  |
-| 3 | 80% | 81% | Median |
+| 2 | 20% | 100% |  |
+| 3 | 79% | 80% | Median |
 | 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -441,8 +441,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 92% | 92% | Median |
+| 0 | 9% | 100% | Last Result |
+| 1 | 91% | 91% | Median |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
@@ -457,7 +457,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 10% | 100% |  |
 | 2 | 89% | 90% | Median |
-| 3 | 0.7% | 0.7% |  |
+| 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
 ### Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL)
@@ -519,8 +519,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 54% | 100% | Last Result, Median |
 | 1 | 46% | 46% |  |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
+| 2 | 0% | 0% |  |
 
 ### Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή (*)
 
@@ -612,8 +611,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 14% | 100% | Median |
-| 4 | 42% | 86% |  |
+| 3 | 12% | 100% | Median |
+| 4 | 43% | 88% |  |
 | 5 | 39% | 44% |  |
 | 6 | 6% | 6% | Last Result |
 | 7 | 0% | 0% |  |
@@ -627,7 +626,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 1.3% | 100% |  |
 | 2 | 27% | 98.7% |  |
 | 3 | 63% | 72% | Median |
-| 4 | 9% | 9% |  |
+| 4 | 8% | 8% |  |
 | 5 | 0% | 0% | Last Result |
 
 ### Το Ποτάμι (S&D) – Κίνημα Αλλαγής (S&D)
@@ -636,8 +635,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 19% | 100% | Last Result |
-| 3 | 80% | 81% | Median |
+| 2 | 20% | 100% | Last Result |
+| 3 | 79% | 80% | Median |
 | 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
@@ -649,7 +648,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 10% | 100% | Last Result |
 | 2 | 89% | 90% | Median |
-| 3 | 0.7% | 0.7% |  |
+| 3 | 0.8% | 0.8% |  |
 | 4 | 0% | 0% |  |
 
 ### Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή (*) – Δημιουργία, Ξανά (*) – ΕΑΝ… (*) – Εθνικό Κόμμα – Έλληνες (*) – Πλεύση Ελευθερίας (*) – Σπαρτιάτες (*) – Φωνή Λογικής (*)
@@ -658,8 +657,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 78% | 93% | Median |
+| 0 | 8% | 100% | Last Result |
+| 1 | 77% | 92% | Median |
 | 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
@@ -695,6 +694,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 9,437,184
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 2.32%

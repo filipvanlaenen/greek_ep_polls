@@ -463,7 +463,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–30 May 2024](2024-05-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–30 May 2024](2024-05-30-Marc.html) | Marc <br> ANT1 | 1 | 1 | 1 | 1 | 0–2 |
 | [27–29 May 2024](2024-05-29-GPO.html) | GPO <br> Star TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–28 May 2024](2024-05-28-Prorata.html) | Prorata | 1 | 1 | 1 | 0–1 | 0–1 |
+| [22–28 May 2024](2024-05-28-Prorata.html) | Prorata | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [20–24 May 2024](2024-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 0–2 |
 | [13–22 May 2024](2024-05-22-GPO.html) | GPO <br> Παραπολιτικά | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–16 May 2024](2024-05-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -892,8 +892,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 92% | 92% | Median |
+| 0 | 9% | 100% | Last Result |
+| 1 | 91% | 91% | Median |
 | 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
