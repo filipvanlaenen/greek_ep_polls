@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 1.9–4.0% | 1.7–4.2% | 1.5–4.5% | 1.3–4.9% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.6–3.9% | 1.4–4.2% | 1.3–4.4% | 1.1–4.8% |
 | [27–30 May 2024](2024-05-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.2% |
 | [27–30 May 2024](2024-05-30-Marc.html) | Marc <br> ANT1 | 3.0% | 2.5–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [27–29 May 2024](2024-05-29-GPO.html) | GPO <br> Star TV | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
-| [22–28 May 2024](2024-05-28-Prorata.html) | Prorata | 1.7% | N/A | N/A | N/A | N/A |
+| [22–28 May 2024](2024-05-28-Prorata.html) | Prorata | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [20–24 May 2024](2024-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.3–4.5% | 2.1–4.9% |
 | [13–22 May 2024](2024-05-22-GPO.html) | GPO <br> Παραπολιτικά | 2.1% | 1.8–2.5% | 1.7–2.6% | 1.6–2.7% | 1.4–2.9% |
 | [15–16 May 2024](2024-05-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2.3% | 1.7–3.1% | 1.6–3.3% | 1.5–3.5% | 1.2–3.9% |
@@ -442,11 +442,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 25% | 97% |  |
-| 2.5–3.5% | 47% | 73% | Median |
-| 3.5–4.5% | 23% | 25% |  |
-| 4.5–5.5% | 2% | 2% |  |
+| 0.5–1.5% | 8% | 100% |  |
+| 1.5–2.5% | 33% | 92% |  |
+| 2.5–3.5% | 39% | 59% | Median |
+| 3.5–4.5% | 19% | 20% |  |
+| 4.5–5.5% | 1.4% | 1.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -458,11 +458,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–30 May 2024](2024-05-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–30 May 2024](2024-05-30-Marc.html) | Marc <br> ANT1 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–29 May 2024](2024-05-29-GPO.html) | GPO <br> Star TV | 0 | 0 | 0 | 0 | 0–1 |
-| [22–28 May 2024](2024-05-28-Prorata.html) | Prorata |  |  |  |  |  |
+| [22–28 May 2024](2024-05-28-Prorata.html) | Prorata | 0 | 0 | 0 | 0 | 0 |
 | [20–24 May 2024](2024-05-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–22 May 2024](2024-05-22-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0 | 0 | 0 | 0 |
 | [15–16 May 2024](2024-05-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -891,8 +891,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 48% | 48% |  |
 | 2 | 0% | 0% |  |
 
 
