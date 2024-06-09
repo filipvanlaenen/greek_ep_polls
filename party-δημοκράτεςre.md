@@ -469,10 +469,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [4–6 June 2024](2024-06-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [4–6 June 2024](2024-06-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0–1 | 0–1 |
 | [4–6 June 2024](2024-06-06-MRB.html) | MRB <br> Open TV | 0 | 0 | 0 | 0 | 0–1 |
 | [30 May–6 June 2024](2024-06-06-Interview.html) | Interview <br> Political | 0 | 0 | 0 | 0–1 | 0–1 |
-| [2–6 June 2024](2024-06-06-Alco.html) | Alco <br> Alpha TV | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [2–6 June 2024](2024-06-06-Alco.html) | Alco <br> Alpha TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28 May–5 June 2024](2024-06-05-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0 | 0 | 0 | 0 | 0 |
 | [3–5 June 2024](2024-06-05-Marc.html) | Marc <br> ANT1 | 0 | 0 | 0 | 0 | 0–1 |
 | [29 May–4 June 2024](2024-06-04-Prorata.html) | Prorata |  |  |  |  |  |

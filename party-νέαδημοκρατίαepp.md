@@ -481,9 +481,9 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [4–6 June 2024](2024-06-06-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [4–6 June 2024](2024-06-06-MRB.html) | MRB <br> Open TV | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [4–6 June 2024](2024-06-06-MRB.html) | MRB <br> Open TV | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [30 May–6 June 2024](2024-06-06-Interview.html) | Interview <br> Political | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [2–6 June 2024](2024-06-06-Alco.html) | Alco <br> Alpha TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [2–6 June 2024](2024-06-06-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [28 May–5 June 2024](2024-06-05-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [3–5 June 2024](2024-06-05-Marc.html) | Marc <br> ANT1 | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [29 May–4 June 2024](2024-06-04-Prorata.html) | Prorata | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
@@ -925,8 +925,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 17% | 100% |  |
-| 7 | 68% | 83% | Median |
-| 8 | 14% | 14% |  |
+| 7 | 69% | 83% | Median |
+| 8 | 15% | 15% |  |
 | 9 | 0% | 0% |  |
 
 
