@@ -477,12 +477,12 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [4–6 June 2024](2024-06-06-MRB.html) | MRB <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 May–6 June 2024](2024-06-06-Interview.html) | Interview <br> Political | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–6 June 2024](2024-06-06-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [28 May–5 June 2024](2024-06-05-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28 May–5 June 2024](2024-06-05-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–5 June 2024](2024-06-05-Marc.html) | Marc <br> ANT1 | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [29 May–4 June 2024](2024-06-04-Prorata.html) | Prorata | 2 | 2 | 2 | 2–3 | 1–3 |
+| [29 May–4 June 2024](2024-06-04-Prorata.html) | Prorata | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [2–4 June 2024](2024-06-04-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [30 May–3 June 2024](2024-06-03-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
-| [29 May–1 June 2024](2024-06-01-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [29 May–1 June 2024](2024-06-01-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [29–31 May 2024](2024-05-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–30 May 2024](2024-05-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–30 May 2024](2024-05-30-Marc.html) | Marc <br> ANT1 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -916,9 +916,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 17% | 100% |  |
-| 2 | 82% | 83% | Last Result, Median |
-| 3 | 1.2% | 1.2% |  |
+| 1 | 18% | 100% |  |
+| 2 | 80% | 82% | Last Result, Median |
+| 3 | 1.5% | 1.5% |  |
 | 4 | 0% | 0% |  |
 
 

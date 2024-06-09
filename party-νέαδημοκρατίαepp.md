@@ -489,8 +489,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [29 May–4 June 2024](2024-06-04-Prorata.html) | Prorata | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [2–4 June 2024](2024-06-04-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [30 May–3 June 2024](2024-06-03-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
-| [29 May–1 June 2024](2024-06-01-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [29–31 May 2024](2024-05-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [29 May–1 June 2024](2024-06-01-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [29–31 May 2024](2024-05-31-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [27–30 May 2024](2024-05-30-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [27–30 May 2024](2024-05-30-Marc.html) | Marc <br> ANT1 | 7 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [27–29 May 2024](2024-05-29-GPO.html) | GPO <br> Star TV | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
@@ -926,7 +926,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 17% | 100% |  |
 | 7 | 69% | 83% | Median |
-| 8 | 15% | 15% |  |
+| 8 | 14% | 14% |  |
 | 9 | 0% | 0% |  |
 
 

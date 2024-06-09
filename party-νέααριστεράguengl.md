@@ -475,7 +475,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4–6 June 2024](2024-06-06-MRB.html) | MRB <br> Open TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [30 May–6 June 2024](2024-06-06-Interview.html) | Interview <br> Political | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [2–6 June 2024](2024-06-06-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [28 May–5 June 2024](2024-06-05-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 May–5 June 2024](2024-06-05-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–5 June 2024](2024-06-05-Marc.html) | Marc <br> ANT1 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 May–4 June 2024](2024-06-04-Prorata.html) | Prorata | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [2–4 June 2024](2024-06-04-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
@@ -914,8 +914,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 60% | 60% | Median |
+| 0 | 41% | 100% | Last Result |
+| 1 | 59% | 59% | Median |
 | 2 | 0% | 0% |  |
 
 
