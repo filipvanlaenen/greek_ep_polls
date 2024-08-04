@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 3.0–4.2% | 2.9–4.4% | 2.8–4.5% | 2.5–4.9% |
+| N/A | [Poll Average](average.html) | 3.1% | 1.8–4.0% | 1.7–4.2% | 1.5–4.4% | 1.3–4.7% |
 | [27 June–4 July 2024](2024-07-04-MRB.html) | MRB | 3.5% | 3.0–4.2% | 2.9–4.4% | 2.7–4.5% | 2.5–4.9% |
-| [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.2% | N/A | N/A | N/A | N/A |
-| [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research | 2.0% | N/A | N/A | N/A | N/A |
+| [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.2% | 2.6–4.0% | 2.5–4.2% | 2.3–4.4% | 2.1–4.8% |
+| [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.4–2.9% | 1.2–3.2% |
 | [17–19 June 2024](2024-06-19-GPO.html) | GPO <br> Star TV | 0.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -23,11 +23,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 48% | 99.4% |  |
-| 3.5–4.5% | 49% | 51% | Median |
-| 4.5–5.5% | 2% | 2% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 29% | 97% |  |
+| 2.5–3.5% | 41% | 68% | Median |
+| 3.5–4.5% | 25% | 27% |  |
+| 4.5–5.5% | 1.1% | 1.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -39,10 +39,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27 June–4 July 2024](2024-07-04-MRB.html) | MRB | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
+| [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research | 0 | 0 | 0 | 0 | 0–1 |
 | [17–19 June 2024](2024-06-19-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 
 ### Probability Mass Function
@@ -53,8 +53,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% | Last Result |
-| 1 | 85% | 85% | Median |
+| 0 | 55% | 100% | Last Result, Median |
+| 1 | 45% | 45% |  |
 | 2 | 0% | 0% |  |
 
 

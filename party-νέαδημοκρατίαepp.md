@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.7% | 28.3–31.1% | 27.9–31.6% | 27.5–31.9% | 26.9–32.6% |
+| N/A | [Poll Average](average.html) | 30.9% | 28.8–35.2% | 28.3–35.9% | 27.9–36.4% | 27.1–37.4% |
 | [27 June–4 July 2024](2024-07-04-MRB.html) | MRB | 29.7% | 28.3–31.2% | 27.9–31.6% | 27.5–31.9% | 26.9–32.6% |
-| [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 30.4% | N/A | N/A | N/A | N/A |
-| [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research | 34.5% | N/A | N/A | N/A | N/A |
+| [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 30.4% | 28.7–32.2% | 28.2–32.7% | 27.8–33.1% | 27.0–34.0% |
+| [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research | 34.5% | 32.8–36.2% | 32.4–36.7% | 32.0–37.1% | 31.2–38.0% |
 | [17–19 June 2024](2024-06-19-GPO.html) | GPO <br> Star TV | 33.9% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -48,15 +48,20 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0.2% | 100% |  |
-| 26.5–27.5% | 2% | 99.8% |  |
-| 27.5–28.5% | 12% | 97% |  |
-| 28.5–29.5% | 30% | 85% |  |
-| 29.5–30.5% | 33% | 55% | Median |
-| 30.5–31.5% | 18% | 23% |  |
-| 31.5–32.5% | 5% | 5% |  |
-| 32.5–33.5% | 0.6% | 0.6% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 25.5–26.5% | 0.1% | 100% |  |
+| 26.5–27.5% | 1.2% | 99.9% |  |
+| 27.5–28.5% | 6% | 98.6% |  |
+| 28.5–29.5% | 16% | 92% |  |
+| 29.5–30.5% | 20% | 76% |  |
+| 30.5–31.5% | 15% | 56% | Median |
+| 31.5–32.5% | 8% | 41% |  |
+| 32.5–33.5% | 7% | 33% |  |
+| 33.5–34.5% | 10% | 26% |  |
+| 34.5–35.5% | 9% | 16% |  |
+| 35.5–36.5% | 5% | 7% |  |
+| 36.5–37.5% | 2% | 2% |  |
+| 37.5–38.5% | 0.3% | 0.4% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,10 +72,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [27 June–4 July 2024](2024-07-04-MRB.html) | MRB | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research |  |  |  |  |  |
+| [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [17–19 June 2024](2024-06-19-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 
 ### Probability Mass Function
@@ -86,9 +91,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 74% | 99.9% | Median |
-| 7 | 26% | 26% |  |
-| 8 | 0% | 0% |  |
+| 5 | 0% | 100% |  |
+| 6 | 31% | 100% |  |
+| 7 | 51% | 69% | Median |
+| 8 | 18% | 19% |  |
+| 9 | 0.3% | 0.3% |  |
+| 10 | 0% | 0% |  |
 
 
