@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.5% | 9.9–16.5% | 9.5–17.0% | 9.2–17.4% | 8.8–18.3% |
+| N/A | [Poll Average](average.html) | 13.7% | 9.8–16.4% | 9.4–17.0% | 9.2–17.4% | 8.7–18.3% |
+| [26–30 August 2024](2024-08-30-MRB.html) | MRB <br> Open TV | 10.9% | 9.8–12.1% | 9.5–12.4% | 9.3–12.7% | 8.8–13.3% |
 | [21–26 August 2024](2024-08-26-Interview.html) | Interview <br> Politic.gr | 9.9% | 9.2–10.7% | 8.9–11.0% | 8.8–11.2% | 8.4–11.6% |
 | [27 June–4 July 2024](2024-07-04-MRB.html) | MRB | 14.5% | 13.5–15.7% | 13.2–16.0% | 12.9–16.3% | 12.4–16.9% |
 | [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 13.8% | 12.6–15.2% | 12.2–15.6% | 11.9–15.9% | 11.4–16.6% |
@@ -32,14 +33,14 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 5% | 99.8% |  |
-| 9.5–10.5% | 11% | 95% |  |
-| 10.5–11.5% | 3% | 83% |  |
-| 11.5–12.5% | 2% | 80% |  |
-| 12.5–13.5% | 9% | 78% |  |
-| 13.5–14.5% | 20% | 69% |  |
-| 14.5–15.5% | 24% | 49% | Median |
-| 15.5–16.5% | 16% | 25% |  |
+| 8.5–9.5% | 6% | 99.8% |  |
+| 9.5–10.5% | 17% | 94% |  |
+| 10.5–11.5% | 12% | 77% |  |
+| 11.5–12.5% | 6% | 65% |  |
+| 12.5–13.5% | 7% | 59% |  |
+| 13.5–14.5% | 13% | 52% | Median |
+| 14.5–15.5% | 16% | 39% |  |
+| 15.5–16.5% | 14% | 23% |  |
 | 16.5–17.5% | 7% | 9% |  |
 | 17.5–18.5% | 2% | 2% |  |
 | 18.5–19.5% | 0.3% | 0.3% |  |
@@ -55,6 +56,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [26–30 August 2024](2024-08-30-MRB.html) | MRB <br> Open TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21–26 August 2024](2024-08-26-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 2 |
 | [27 June–4 July 2024](2024-07-04-MRB.html) | MRB | 3 | 3 | 3 | 3 | 2–4 |
 | [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3 | 3–4 | 3–4 | 2–4 |
@@ -71,8 +73,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 20% | 100% |  |
-| 3 | 60% | 80% | Median |
+| 2 | 32% | 100% |  |
+| 3 | 49% | 68% | Median |
 | 4 | 19% | 19% |  |
 | 5 | 0% | 0% |  |
 
