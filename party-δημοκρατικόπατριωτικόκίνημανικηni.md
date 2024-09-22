@@ -44,7 +44,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–30 August 2024](2024-08-30-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 0–1 |
-| [21–26 August 2024](2024-08-26-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 0–1 |
+| [21–26 August 2024](2024-08-26-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
 | [27 June–4 July 2024](2024-07-04-MRB.html) | MRB | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research | 1 | 1 | 0–1 | 0–1 | 0–1 |

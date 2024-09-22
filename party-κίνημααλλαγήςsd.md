@@ -55,7 +55,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| [26–30 August 2024](2024-08-30-MRB.html) | MRB <br> Open TV | 3 | 3 | 3 | 3 | 2–3 |
+| [26–30 August 2024](2024-08-30-MRB.html) | MRB <br> Open TV | 3 | 3 | 3 | 2–3 | 2–4 |
 | [21–26 August 2024](2024-08-26-Interview.html) | Interview <br> Politic.gr | 3 | 3 | 3 | 3 | 3 |
 | [27 June–4 July 2024](2024-07-04-MRB.html) | MRB | 3 | 3 | 3 | 2–3 | 2–3 |
 | [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
