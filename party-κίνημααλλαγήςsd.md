@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 14.4–17.3% | 14.0–17.7% | 13.7–18.1% | 13.1–18.9% |
+| N/A | [Poll Average](average.html) | 16.1% | 14.5–17.7% | 14.1–18.3% | 13.8–18.7% | 13.1–19.6% |
 | [13–18 September 2024](2024-09-18-MRB.html) | MRB <br> Open TV | 15.5% | 14.2–16.9% | 13.9–17.3% | 13.6–17.6% | 13.0–18.3% |
-| [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16.0% | 14.6–17.6% | 14.3–18.0% | 13.9–18.4% | 13.3–19.2% |
-| [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 16.0% | N/A | N/A | N/A | N/A |
-| [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos | 16.5% | N/A | N/A | N/A | N/A |
+| [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 16.0% | 14.7–17.6% | 14.3–18.0% | 13.9–18.4% | 13.3–19.1% |
+| [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 16.0% | 14.4–17.9% | 14.0–18.4% | 13.6–18.9% | 12.8–19.8% |
+| [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos | 16.5% | 15.0–18.3% | 14.6–18.8% | 14.2–19.2% | 13.5–20.1% |
 | [4–10 September 2024](2024-09-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 15.7% | N/A | N/A | N/A | N/A |
 | [8–10 September 2024](2024-09-10-GPO.html) | GPO <br> Star TV | 14.7% | N/A | N/A | N/A | N/A |
 | [2–6 September 2024](2024-09-06-Interview.html) | Interview <br> Political | 14.6% | N/A | N/A | N/A | N/A |
@@ -45,15 +45,16 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 2% | 99.9% |  |
-| 13.5–14.5% | 11% | 98% |  |
-| 14.5–15.5% | 29% | 88% |  |
-| 15.5–16.5% | 34% | 59% | Median |
-| 16.5–17.5% | 19% | 25% |  |
-| 17.5–18.5% | 5% | 6% |  |
-| 18.5–19.5% | 0.9% | 1.0% |  |
-| 19.5–20.5% | 0.1% | 0.1% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 12.5–13.5% | 1.4% | 99.9% |  |
+| 13.5–14.5% | 9% | 98% |  |
+| 14.5–15.5% | 24% | 90% |  |
+| 15.5–16.5% | 31% | 66% | Median |
+| 16.5–17.5% | 22% | 35% |  |
+| 17.5–18.5% | 10% | 13% |  |
+| 18.5–19.5% | 3% | 3% |  |
+| 19.5–20.5% | 0.5% | 0.6% |  |
+| 20.5–21.5% | 0.1% | 0.1% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -66,9 +67,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13–18 September 2024](2024-09-18-MRB.html) | MRB <br> Open TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
-| [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos |  |  |  |  |  |
+| [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–10 September 2024](2024-09-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [8–10 September 2024](2024-09-10-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [2–6 September 2024](2024-09-06-Interview.html) | Interview <br> Political |  |  |  |  |  |
@@ -91,8 +92,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 77% | 100% | Median |
-| 4 | 23% | 23% |  |
-| 5 | 0% | 0% |  |
+| 3 | 60% | 100% | Median |
+| 4 | 40% | 40% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 

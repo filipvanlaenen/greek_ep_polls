@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 8.4–13.2% | 8.0–13.7% | 7.8–14.1% | 7.3–14.9% |
+| N/A | [Poll Average](average.html) | 10.6% | 8.6–12.9% | 8.3–13.4% | 7.9–13.8% | 7.4–14.6% |
 | [13–18 September 2024](2024-09-18-MRB.html) | MRB <br> Open TV | 9.0% | 8.0–10.1% | 7.8–10.5% | 7.5–10.7% | 7.1–11.3% |
-| [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12.3% | 11.1–13.8% | 10.7–14.1% | 10.5–14.5% | 9.9–15.2% |
-| [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 11.1% | N/A | N/A | N/A | N/A |
-| [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos | 9.9% | N/A | N/A | N/A | N/A |
+| [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 12.3% | 11.1–13.7% | 10.8–14.1% | 10.5–14.5% | 9.9–15.2% |
+| [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 11.1% | 9.7–12.7% | 9.4–13.2% | 9.0–13.6% | 8.4–14.4% |
+| [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos | 9.9% | 8.7–11.4% | 8.4–11.8% | 8.1–12.1% | 7.5–12.9% |
 | [4–10 September 2024](2024-09-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 9.5% | N/A | N/A | N/A | N/A |
 | [8–10 September 2024](2024-09-10-GPO.html) | GPO <br> Star TV | 11.6% | N/A | N/A | N/A | N/A |
 | [2–6 September 2024](2024-09-06-Interview.html) | Interview <br> Political | 10.7% | N/A | N/A | N/A | N/A |
@@ -39,16 +39,16 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.3% | 100% |  |
-| 7.5–8.5% | 12% | 98.7% |  |
-| 8.5–9.5% | 23% | 87% |  |
-| 9.5–10.5% | 13% | 63% |  |
-| 10.5–11.5% | 11% | 50% | Median |
-| 11.5–12.5% | 18% | 40% |  |
-| 12.5–13.5% | 15% | 22% |  |
-| 13.5–14.5% | 6% | 7% |  |
-| 14.5–15.5% | 1.0% | 1.0% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0.8% | 100% |  |
+| 7.5–8.5% | 8% | 99.2% |  |
+| 8.5–9.5% | 20% | 91% |  |
+| 9.5–10.5% | 21% | 72% |  |
+| 10.5–11.5% | 19% | 50% | Median |
+| 11.5–12.5% | 17% | 31% |  |
+| 12.5–13.5% | 10% | 14% |  |
+| 13.5–14.5% | 3% | 4% |  |
+| 14.5–15.5% | 0.5% | 0.6% |  |
+| 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -60,11 +60,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–18 September 2024](2024-09-18-MRB.html) | MRB <br> Open TV | 2 | 2 | 2 | 2 | 1–3 |
-| [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
-| [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos |  |  |  |  |  |
+| [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [4–10 September 2024](2024-09-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [8–10 September 2024](2024-09-10-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [2–6 September 2024](2024-09-06-Interview.html) | Interview <br> Political |  |  |  |  |  |
@@ -85,9 +85,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.7% | 100% |  |
-| 2 | 98.6% | 99.3% | Median |
-| 3 | 0.7% | 0.7% |  |
+| 1 | 0.4% | 100% |  |
+| 2 | 70% | 99.6% | Median |
+| 3 | 30% | 30% |  |
 | 4 | 0% | 0% |  |
 
 
