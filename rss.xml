@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Sep 2024 22:39:43 +0200</pubDate>
+    <pubDate>Tue, 24 Sep 2024 19:58:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by MRB for Open TV, 13–18 September 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-18-MRB.html#seats</link>
@@ -100,14 +100,154 @@
       <dc:date>2024-09-23T22:34:00.885649+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Data RC for Peloponnisos, 2–11 September 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-11-DataRC.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Φωνή Λογικής (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-11-DataRC-seats.png"
+        length="282789"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2024 22:44:06 +0200</pubDate>
+      <dc:date>2024-09-23T22:44:06.236116+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Data RC for Peloponnisos, 2–11 September 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-11-DataRC.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-11-DataRC-coalitions-seats.png"
+        length="233483"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2024 22:44:06 +0200</pubDate>
+      <dc:date>2024-09-23T22:44:06.236116+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Data RC for Peloponnisos, 2–11 September 2024 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-11-DataRC.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Φωνή Λογικής (PfE): 2.5–5.0%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 2.9–5.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 7.6–11.5%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 8.6–12.8%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 3.1–5.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 27.1–33.3%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 8.1–12.1%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 2.2–4.6%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 14.2–19.2%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.8–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-11-DataRC.png"
         length="362806"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2024 22:39:43 +0200</pubDate>
-      <dc:date>2024-09-23T22:39:43.735925+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2024 22:44:06 +0200</pubDate>
+      <dc:date>2024-09-23T22:44:06.236116+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega TV, 4–10 September 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-MetronAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 1 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-MetronAnalysis-seats.png"
+        length="282691"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:18:48 +0200</pubDate>
+      <dc:date>2024-09-24T19:18:48.949113+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega TV, 4–10 September 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-MetronAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-MetronAnalysis-coalitions-seats.png"
+        length="208031"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:18:48 +0200</pubDate>
+      <dc:date>2024-09-24T19:18:48.949113+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metron Analysis for Mega TV, 4–10 September 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-MetronAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Φωνή Λογικής (PfE): 4.1–7.0%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 3.4–6.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 8.0–11.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 9.1–13.1%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 4.0–6.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 26.9–32.6%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 7.8–11.5%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 13.5–18.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-MetronAnalysis.png"
+        length="382246"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:18:48 +0200</pubDate>
+      <dc:date>2024-09-24T19:18:48.949113+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Star TV, 8–10 September 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-GPO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-GPO-seats.png"
+        length="269803"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:28:15 +0200</pubDate>
+      <dc:date>2024-09-24T19:28:15.91503+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Star TV, 8–10 September 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-GPO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-GPO-coalitions-seats.png"
+        length="207063"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:28:15 +0200</pubDate>
+      <dc:date>2024-09-24T19:28:15.91503+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPO for Star TV, 8–10 September 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-GPO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Φωνή Λογικής (PfE): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 2.4–4.8%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 8.5–12.3%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 8.4–12.2%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 3.2–5.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 30.9–36.9%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 9.7–13.8%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 12.6–17.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-10-GPO.png"
+        length="354807"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:28:15 +0200</pubDate>
+      <dc:date>2024-09-24T19:28:15.91503+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Political, 2–6 September 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-06-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 1 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-06-Interview-seats.png"
+        length="257452"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:36:39 +0200</pubDate>
+      <dc:date>2024-09-24T19:36:39.02439+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Political, 2–6 September 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-06-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-06-Interview-coalitions-seats.png"
+        length="212394"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:36:39 +0200</pubDate>
+      <dc:date>2024-09-24T19:36:39.02439+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Political, 2–6 September 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-09-06-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Φωνή Λογικής (PfE): 3.2–5.8%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 3.4–6.1%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 9.3–13.4%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 9.8–13.9%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 3.2–5.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 24.4–30.1%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 8.9–12.8%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 12.5–17.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-09-06-Interview.png"
+        length="322525"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:36:39 +0200</pubDate>
+      <dc:date>2024-09-24T19:36:39.02439+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Action 24, 27–30 August 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-08-30-OpinionPoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Φωνή Λογικής (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-08-30-OpinionPoll-seats.png"
+        length="308891"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:58:50 +0200</pubDate>
+      <dc:date>2024-09-24T19:58:50.32672+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Action 24, 27–30 August 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-08-30-OpinionPoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-08-30-OpinionPoll-coalitions-seats.png"
+        length="258468"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:58:50 +0200</pubDate>
+      <dc:date>2024-09-24T19:58:50.32672+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinion Poll for Action 24, 27–30 August 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-08-30-OpinionPoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Φωνή Λογικής (PfE): 2.5–4.7%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 8.4–12.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 7.0–10.3%&lt;/li&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 3.1–5.5%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 28.4–34.0%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 10.2–14.2%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 13.0–17.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.2–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-08-30-OpinionPoll.png"
+        length="358423"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2024 19:58:50 +0200</pubDate>
+      <dc:date>2024-09-24T19:58:50.32672+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Open TV, 26–30 August 2024 – Seat Projections for the Parties</title>
@@ -289,6 +429,6 @@
       <pubDate>Sun, 04 Aug 2024 14:54:36 +0200</pubDate>
       <dc:date>2024-08-04T14:54:36.871711+02:00</dc:date>
     </item>
-    <dc:date>2024-09-23T22:39:43.735925+02:00</dc:date>
+    <dc:date>2024-09-24T19:58:50.32672+02:00</dc:date>
   </channel>
 </rss>
