@@ -58,7 +58,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [4–10 September 2024](2024-09-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 0–1 |
 | [8–10 September 2024](2024-09-10-GPO.html) | GPO <br> Star TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [2–6 September 2024](2024-09-06-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 1 |
+| [2–6 September 2024](2024-09-06-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 0–1 |
 | [27–30 August 2024](2024-08-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 0–1 | 0–1 |
 | [26–30 August 2024](2024-08-30-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 0–1 |
 | [21–26 August 2024](2024-08-26-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
@@ -75,8 +75,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 95% | 96% | Median |
+| 0 | 5% | 100% | Last Result |
+| 1 | 95% | 95% | Median |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 

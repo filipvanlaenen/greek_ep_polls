@@ -64,7 +64,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| [4–10 September 2024](2024-09-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [4–10 September 2024](2024-09-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–10 September 2024](2024-09-10-GPO.html) | GPO <br> Star TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–6 September 2024](2024-09-06-Interview.html) | Interview <br> Political | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27–30 August 2024](2024-08-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -85,8 +85,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.3% | 100% |  |
-| 2 | 62% | 99.7% | Median |
-| 3 | 37% | 37% |  |
+| 2 | 64% | 99.7% | Median |
+| 3 | 36% | 36% |  |
 | 4 | 0% | 0% |  |
 
 
