@@ -72,7 +72,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–26 August 2024](2024-08-26-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 2–3 |
 | [27 June–4 July 2024](2024-07-04-MRB.html) | MRB | 3 | 3 | 3 | 3 | 2–4 |
 | [21 June–1 July 2024](2024-07-01-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [25–28 June 2024](2024-06-28-ΚάπαResearch.html) | Κάπα Research | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [17–19 June 2024](2024-06-19-GPO.html) | GPO <br> Star TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 
 ### Probability Mass Function
