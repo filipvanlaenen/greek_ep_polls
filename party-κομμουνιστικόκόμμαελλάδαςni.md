@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.7–11.5% | 8.3–12.0% | 8.0–12.4% | 7.4–13.2% |
+| N/A | [Poll Average](average.html) | 10.0% | 8.5–11.4% | 8.1–11.9% | 7.8–12.2% | 7.3–13.0% |
+| [13–23 September 2024](2024-09-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 10.6% | 9.5–11.8% | 9.2–12.1% | 9.0–12.4% | 8.5–13.0% |
+| [19–23 September 2024](2024-09-23-Interview.html) | Interview <br> Politic.gr | 8.5% | 7.8–9.3% | 7.6–9.5% | 7.5–9.7% | 7.1–10.1% |
+| [16–21 September 2024](2024-09-21-Prorata.html) | Prorata <br> Attica TV | 10.8% | 9.6–12.3% | 9.2–12.7% | 8.9–13.0% | 8.4–13.7% |
 | [13–18 September 2024](2024-09-18-MRB.html) | MRB <br> Open TV | 10.1% | 9.1–11.3% | 8.8–11.7% | 8.6–12.0% | 8.1–12.5% |
 | [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.9% | 8.8–11.1% | 8.5–11.5% | 8.2–11.8% | 7.7–12.5% |
 | [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 9.4% | 8.1–10.9% | 7.8–11.3% | 7.5–11.7% | 6.9–12.4% |
@@ -39,14 +42,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.8% | 100% |  |
-| 7.5–8.5% | 7% | 99.2% |  |
-| 8.5–9.5% | 25% | 92% |  |
-| 9.5–10.5% | 35% | 67% | Median |
-| 10.5–11.5% | 23% | 32% |  |
-| 11.5–12.5% | 8% | 10% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
+| 6.5–7.5% | 1.0% | 100% |  |
+| 7.5–8.5% | 11% | 99.0% |  |
+| 8.5–9.5% | 25% | 88% |  |
+| 9.5–10.5% | 32% | 63% | Median |
+| 10.5–11.5% | 22% | 31% |  |
+| 11.5–12.5% | 7% | 8% |  |
+| 12.5–13.5% | 1.2% | 1.3% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -58,7 +61,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [13–23 September 2024](2024-09-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19–23 September 2024](2024-09-23-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [16–21 September 2024](2024-09-21-Prorata.html) | Prorata <br> Attica TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–18 September 2024](2024-09-18-MRB.html) | MRB <br> Open TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 2–3 | 2–3 | 1–3 |
@@ -83,9 +89,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.5% | 100% |  |
-| 2 | 88% | 99.5% | Median |
-| 3 | 12% | 12% |  |
+| 1 | 2% | 100% |  |
+| 2 | 90% | 98% | Median |
+| 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
 
