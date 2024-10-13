@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.5–11.4% | 8.1–11.9% | 7.8–12.2% | 7.3–13.0% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.5–11.5% | 8.1–12.0% | 7.9–12.3% | 7.3–13.1% |
+| [26 September–2 October 2024](2024-10-02-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 10.5% | 9.5–11.7% | 9.2–12.0% | 9.0–12.3% | 8.5–12.9% |
+| [30 September–2 October 2024](2024-10-02-MRB.html) | MRB <br> Open TV | 10.0% | 9.0–11.1% | 8.7–11.5% | 8.5–11.7% | 8.0–12.3% |
+| [29 September–1 October 2024](2024-10-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 10.8% | 9.7–12.1% | 9.4–12.5% | 9.1–12.8% | 8.6–13.5% |
+| [24–28 September 2024](2024-09-28-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 9.7% | 8.5–11.2% | 8.2–11.6% | 7.9–11.9% | 7.3–12.7% |
+| [24–27 September 2024](2024-09-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.4% | 9.3–11.6% | 9.0–12.0% | 8.7–12.3% | 8.3–12.9% |
 | [13–23 September 2024](2024-09-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 10.6% | 9.5–11.8% | 9.2–12.1% | 9.0–12.4% | 8.5–13.0% |
 | [19–23 September 2024](2024-09-23-Interview.html) | Interview <br> Politic.gr | 8.5% | 7.8–9.3% | 7.6–9.5% | 7.5–9.7% | 7.1–10.1% |
 | [16–21 September 2024](2024-09-21-Prorata.html) | Prorata <br> Attica TV | 10.8% | 9.6–12.3% | 9.2–12.7% | 8.9–13.0% | 8.4–13.7% |
@@ -43,13 +48,13 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 1.0% | 100% |  |
-| 7.5–8.5% | 11% | 99.0% |  |
-| 8.5–9.5% | 25% | 88% |  |
-| 9.5–10.5% | 32% | 63% | Median |
-| 10.5–11.5% | 22% | 31% |  |
-| 11.5–12.5% | 7% | 8% |  |
-| 12.5–13.5% | 1.2% | 1.3% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 10% | 99.0% |  |
+| 8.5–9.5% | 23% | 89% |  |
+| 9.5–10.5% | 32% | 66% | Median |
+| 10.5–11.5% | 24% | 34% |  |
+| 11.5–12.5% | 8% | 10% |  |
+| 12.5–13.5% | 1.5% | 2% |  |
+| 13.5–14.5% | 0.1% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -62,6 +67,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [26 September–2 October 2024](2024-10-02-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [30 September–2 October 2024](2024-10-02-MRB.html) | MRB <br> Open TV | 2 | 2 | 2 | 2–3 | 2–3 |
+| [29 September–1 October 2024](2024-10-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [24–28 September 2024](2024-09-28-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 2 | 2 | 2 | 2–3 | 2–3 |
+| [24–27 September 2024](2024-09-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2 | 2–3 | 2–3 |
 | [13–23 September 2024](2024-09-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–23 September 2024](2024-09-23-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–21 September 2024](2024-09-21-Prorata.html) | Prorata <br> Attica TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -90,8 +100,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 90% | 98% | Median |
-| 3 | 8% | 8% |  |
+| 2 | 88% | 98% | Median |
+| 3 | 10% | 10% |  |
 | 4 | 0% | 0% |  |
 
 
