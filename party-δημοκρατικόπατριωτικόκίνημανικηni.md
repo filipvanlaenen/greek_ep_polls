@@ -67,8 +67,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–28 September 2024](2024-09-28-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–27 September 2024](2024-09-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 0–1 | 0–1 |
 | [13–23 September 2024](2024-09-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–23 September 2024](2024-09-23-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [16–21 September 2024](2024-09-21-Prorata.html) | Prorata <br> Attica TV | 1 | 1 | 1 | 0–1 | 0–1 |
+| [19–23 September 2024](2024-09-23-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 0–1 | 0–1 |
+| [16–21 September 2024](2024-09-21-Prorata.html) | Prorata <br> Attica TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [13–18 September 2024](2024-09-18-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 0–1 | 0–1 |
 | [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 0–1 |
 | [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 1 | 1 | 0–2 |

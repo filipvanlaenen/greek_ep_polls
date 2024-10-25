@@ -90,15 +90,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [26 September–2 October 2024](2024-10-02-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [30 September–2 October 2024](2024-10-02-MRB.html) | MRB <br> Open TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [29 September–1 October 2024](2024-10-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [24–28 September 2024](2024-09-28-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [24–27 September 2024](2024-09-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 7 | 6–7 | 6–8 | 6–8 |
-| [13–23 September 2024](2024-09-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [13–23 September 2024](2024-09-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [19–23 September 2024](2024-09-23-Interview.html) | Interview <br> Politic.gr | 6 | 6 | 6 | 6 | 5–7 |
-| [16–21 September 2024](2024-09-21-Prorata.html) | Prorata <br> Attica TV | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [16–21 September 2024](2024-09-21-Prorata.html) | Prorata <br> Attica TV | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [13–18 September 2024](2024-09-18-MRB.html) | MRB <br> Open TV | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
@@ -127,8 +127,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 3% | 100% |  |
-| 6 | 56% | 97% | Median |
+| 5 | 2% | 100% |  |
+| 6 | 57% | 98% | Median |
 | 7 | 35% | 40% |  |
 | 8 | 5% | 5% |  |
 | 9 | 0% | 0% |  |
