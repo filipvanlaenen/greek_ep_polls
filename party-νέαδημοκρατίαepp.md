@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.3% | 27.0–33.1% | 26.4–34.2% | 25.9–35.0% | 24.7–36.4% |
+| N/A | [Poll Average](average.html) | 30.2% | 27.8–33.0% | 27.2–33.6% | 26.7–34.2% | 25.7–35.2% |
+| [22–26 October 2024](2024-10-26-Marc.html) | Marc <br> ANT1 | 32.1% | N/A | N/A | N/A | N/A |
+| [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV | 28.1% | N/A | N/A | N/A | N/A |
+| [16–22 October 2024](2024-10-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 29.0% | N/A | N/A | N/A | N/A |
+| [16–21 October 2024](2024-10-21-Interview.html) | Interview <br> Politic.gr | 29.2% | N/A | N/A | N/A | N/A |
+| [15–19 October 2024](2024-10-19-Alco.html) | Alco <br> Alpha TV | 29.5% | N/A | N/A | N/A | N/A |
+| [14–16 October 2024](2024-10-16-GPO.html) | GPO <br> Star TV | 32.7% | N/A | N/A | N/A | N/A |
 | [26 September–2 October 2024](2024-10-02-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 29.1% | 27.5–30.7% | 27.1–31.2% | 26.7–31.6% | 25.9–32.4% |
 | [30 September–2 October 2024](2024-10-02-MRB.html) | MRB <br> Open TV | 28.4% | 26.9–30.1% | 26.4–30.5% | 26.0–30.9% | 25.3–31.7% |
 | [29 September–1 October 2024](2024-10-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.5% | 27.8–31.3% | 27.3–31.8% | 26.9–32.3% | 26.0–33.2% |
@@ -64,22 +70,20 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.3% | 99.9% |  |
-| 24.5–25.5% | 1.3% | 99.6% |  |
-| 25.5–26.5% | 4% | 98% |  |
-| 26.5–27.5% | 11% | 94% |  |
-| 27.5–28.5% | 18% | 83% |  |
-| 28.5–29.5% | 19% | 64% | Median |
-| 29.5–30.5% | 15% | 45% |  |
-| 30.5–31.5% | 10% | 31% |  |
-| 31.5–32.5% | 7% | 20% |  |
-| 32.5–33.5% | 5% | 13% |  |
-| 33.5–34.5% | 4% | 8% |  |
-| 34.5–35.5% | 2% | 4% |  |
-| 35.5–36.5% | 1.0% | 1.5% |  |
-| 36.5–37.5% | 0.3% | 0.4% |  |
-| 37.5–38.5% | 0.1% | 0.1% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0.3% | 100% |  |
+| 25.5–26.5% | 2% | 99.7% |  |
+| 26.5–27.5% | 5% | 98% |  |
+| 27.5–28.5% | 12% | 93% |  |
+| 28.5–29.5% | 18% | 81% |  |
+| 29.5–30.5% | 19% | 63% | Median |
+| 30.5–31.5% | 16% | 44% |  |
+| 31.5–32.5% | 13% | 27% |  |
+| 32.5–33.5% | 9% | 14% |  |
+| 33.5–34.5% | 4% | 6% |  |
+| 34.5–35.5% | 1.2% | 1.5% |  |
+| 35.5–36.5% | 0.2% | 0.3% |  |
+| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -90,7 +94,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [22–26 October 2024](2024-10-26-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [16–22 October 2024](2024-10-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [16–21 October 2024](2024-10-21-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [15–19 October 2024](2024-10-19-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [14–16 October 2024](2024-10-16-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [26 September–2 October 2024](2024-10-02-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [30 September–2 October 2024](2024-10-02-MRB.html) | MRB <br> Open TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [29 September–1 October 2024](2024-10-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -127,10 +137,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 57% | 98% | Median |
-| 7 | 35% | 40% |  |
-| 8 | 5% | 5% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 39% | 99.8% |  |
+| 7 | 59% | 61% | Median |
+| 8 | 1.5% | 1.5% |  |
 | 9 | 0% | 0% |  |
 
 
