@@ -402,8 +402,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 28% | 28% |  |
+| 0 | 71% | 100% | Last Result, Median |
+| 1 | 29% | 29% |  |
 | 2 | 0% | 0% |  |
 
 ### Κόσμος (Greens/EFA)
@@ -481,7 +481,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 4% | 100% |  |
-| 2 | 88% | 96% | Median |
+| 2 | 87% | 96% | Median |
 | 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
@@ -527,7 +527,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 19% | 100% | Last Result |
-| 1 | 80% | 81% | Median |
+| 1 | 79% | 81% | Median |
 | 2 | 1.4% | 1.4% |  |
 | 3 | 0% | 0% |  |
 
@@ -633,7 +633,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0.2% | 100% |  |
 | 3 | 17% | 99.8% |  |
 | 4 | 74% | 83% | Median |
-| 5 | 8% | 9% |  |
+| 5 | 8% | 8% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -659,7 +659,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.3% | 100% |  |
-| 2 | 30% | 99.7% |  |
+| 2 | 29% | 99.7% |  |
 | 3 | 53% | 70% | Median |
 | 4 | 17% | 17% |  |
 | 5 | 0.4% | 0.4% |  |
@@ -673,7 +673,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 4% | 100% |  |
-| 2 | 88% | 96% | Median |
+| 2 | 87% | 96% | Median |
 | 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
@@ -718,6 +718,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 9
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 17,825,792
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 18,874,368
 + **Error estimate:** 2.56%
