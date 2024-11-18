@@ -371,8 +371,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 8% | 100% |  |
-| 2 | 78% | 92% | Median |
+| 1 | 7% | 100% |  |
+| 2 | 79% | 93% | Median |
 | 3 | 14% | 14% |  |
 | 4 | 0% | 0% |  |
 
@@ -480,9 +480,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 87% | 95% | Median |
-| 3 | 9% | 9% |  |
+| 1 | 4% | 100% |  |
+| 2 | 88% | 96% | Median |
+| 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
 ### Φωνή Λογικής (PfE)
@@ -493,9 +493,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% | Last Result |
-| 1 | 93% | 99.2% | Median |
-| 2 | 6% | 6% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 94% | 99.3% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 ### Χρυσή Αυγή (NI)
@@ -513,9 +513,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.2% | 100% |  |
-| 2 | 90% | 98.8% | Median |
-| 3 | 9% | 9% |  |
+| 1 | 0.8% | 100% |  |
+| 2 | 91% | 99.2% | Median |
+| 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
 ### Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI)
@@ -540,8 +540,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
-| 1 | 94% | 98% | Median |
-| 2 | 4% | 4% |  |
+| 1 | 95% | 98% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 ### Εθνικό Κόμμα – Έλληνες (*)
@@ -630,9 +630,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.4% | 100% |  |
-| 3 | 16% | 99.6% |  |
-| 4 | 75% | 83% | Median |
+| 2 | 0.2% | 100% |  |
+| 3 | 17% | 99.8% |  |
+| 4 | 74% | 83% | Median |
 | 5 | 8% | 9% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
@@ -660,8 +660,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.3% | 100% |  |
 | 2 | 30% | 99.7% |  |
-| 3 | 54% | 70% | Median |
-| 4 | 16% | 16% |  |
+| 3 | 53% | 70% | Median |
+| 4 | 17% | 17% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
@@ -672,9 +672,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 5% | 100% |  |
-| 2 | 87% | 95% | Median |
-| 3 | 9% | 9% |  |
+| 1 | 4% | 100% |  |
+| 2 | 88% | 96% | Median |
+| 3 | 8% | 8% |  |
 | 4 | 0% | 0% |  |
 
 ### Φωνή Λογικής (PfE)
@@ -683,9 +683,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% | Last Result |
-| 1 | 93% | 99.2% | Median |
-| 2 | 6% | 6% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 94% | 99.3% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 ### Ένωση Κεντρώων (RE) – Δημοκράτες (RE)
@@ -719,5 +719,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 9
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 14,680,064
++ **Total number of simulations done in the polls included in this average:** 17,825,792
 + **Error estimate:** 2.56%
