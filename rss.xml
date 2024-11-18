@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 18 Nov 2024 19:50:57 +0100</pubDate>
+    <pubDate>Mon, 18 Nov 2024 20:48:46 +0100</pubDate>
     <item>
       <title>Opinion Poll by Marc for ANT1, 22–26 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2024-10-26-Marc.html#seats</link>
@@ -166,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-10-16-GPO-seats.png"
         length="267774"
         type="image/png"/>
-      <pubDate>Sat, 16 Nov 2024 20:15:08 +0100</pubDate>
-      <dc:date>2024-11-16T20:15:08.789827+01:00</dc:date>
+      <pubDate>Mon, 18 Nov 2024 20:48:46 +0100</pubDate>
+      <dc:date>2024-11-18T20:48:46.269409+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Star TV, 14–16 October 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -176,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-10-16-GPO-coalitions-seats.png"
         length="205018"
         type="image/png"/>
-      <pubDate>Sat, 16 Nov 2024 20:15:08 +0100</pubDate>
-      <dc:date>2024-11-16T20:15:08.789827+01:00</dc:date>
+      <pubDate>Mon, 18 Nov 2024 20:48:46 +0100</pubDate>
+      <dc:date>2024-11-18T20:48:46.269409+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Star TV, 14–16 October 2024 – Voting Intentions</title>
@@ -186,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2024-10-16-GPO.png"
         length="356268"
         type="image/png"/>
-      <pubDate>Sat, 16 Nov 2024 20:15:08 +0100</pubDate>
-      <dc:date>2024-11-16T20:15:08.789827+01:00</dc:date>
+      <pubDate>Mon, 18 Nov 2024 20:48:46 +0100</pubDate>
+      <dc:date>2024-11-18T20:48:46.269409+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Mega TV, 26 September–2 October 2024 – Seat Projections for the Parties</title>
@@ -849,6 +849,6 @@
       <pubDate>Thu, 26 Sep 2024 22:57:14 +0200</pubDate>
       <dc:date>2024-09-26T22:57:14.203053+02:00</dc:date>
     </item>
-    <dc:date>2024-11-18T19:50:57.965932+01:00</dc:date>
+    <dc:date>2024-11-18T20:48:46.269409+01:00</dc:date>
   </channel>
 </rss>
