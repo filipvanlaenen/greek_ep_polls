@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.0–5.8% | 3.8–6.1% | 3.6–6.4% | 3.3–6.9% |
+| N/A | [Poll Average](average.html) | 5.0% | 4.0–7.0% | 3.7–7.4% | 3.5–7.7% | 3.2–8.2% |
 | [7–12 November 2024](2024-11-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.4% | 3.3–6.9% |
-| [22–26 October 2024](2024-10-26-Marc.html) | Marc <br> ANT1 | 4.7% | N/A | N/A | N/A | N/A |
-| [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV | 4.7% | N/A | N/A | N/A | N/A |
-| [16–22 October 2024](2024-10-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.5% | N/A | N/A | N/A | N/A |
-| [16–21 October 2024](2024-10-21-Interview.html) | Interview <br> Politic.gr | 7.0% | N/A | N/A | N/A | N/A |
+| [22–26 October 2024](2024-10-26-Marc.html) | Marc <br> ANT1 | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.5–6.2% | 3.2–6.8% |
+| [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV | 4.7% | 3.8–5.8% | 3.6–6.1% | 3.4–6.4% | 3.0–7.0% |
+| [16–22 October 2024](2024-10-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.5% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
+| [16–21 October 2024](2024-10-21-Interview.html) | Interview <br> Politic.gr | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [15–19 October 2024](2024-10-19-Alco.html) | Alco <br> Alpha TV | 4.8% | N/A | N/A | N/A | N/A |
 | [14–16 October 2024](2024-10-16-GPO.html) | GPO <br> Star TV | 5.4% | N/A | N/A | N/A | N/A |
 | [26 September–2 October 2024](2024-10-02-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.8% | N/A | N/A | N/A | N/A |
@@ -50,13 +50,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 30% | 98% |  |
-| 4.5–5.5% | 50% | 68% | Median |
-| 5.5–6.5% | 16% | 18% |  |
-| 6.5–7.5% | 1.4% | 1.4% |  |
-| 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 29% | 97% |  |
+| 4.5–5.5% | 37% | 69% | Median |
+| 5.5–6.5% | 14% | 31% |  |
+| 6.5–7.5% | 13% | 17% |  |
+| 7.5–8.5% | 4% | 4% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,12 +68,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–12 November 2024](2024-11-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 1 | 1–2 |
-| [22–26 October 2024](2024-10-26-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
-| [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
-| [16–22 October 2024](2024-10-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [16–21 October 2024](2024-10-21-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [22–26 October 2024](2024-10-26-Marc.html) | Marc <br> ANT1 | 1 | 1 | 1 | 1 | 1–2 |
+| [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 1–2 |
+| [16–22 October 2024](2024-10-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 0–2 |
+| [16–21 October 2024](2024-10-21-Interview.html) | Interview <br> Politic.gr | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 October 2024](2024-10-19-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [14–16 October 2024](2024-10-16-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [26 September–2 October 2024](2024-10-02-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
@@ -106,9 +107,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 98.9% | 99.9% | Median |
-| 2 | 1.0% | 1.0% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 94% | 99.7% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 
