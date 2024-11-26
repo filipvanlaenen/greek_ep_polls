@@ -385,7 +385,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 12% | 100% |  |
-| 2 | 81% | 88% | Median |
+| 2 | 82% | 88% | Median |
 | 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
@@ -415,8 +415,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Last Result, Median |
-| 1 | 31% | 31% |  |
+| 0 | 68% | 100% | Last Result, Median |
+| 1 | 32% | 32% |  |
 | 2 | 0% | 0% |  |
 
 ### Κόσμος (Greens/EFA)
@@ -475,7 +475,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.7% | 100% |  |
 | 6 | 49% | 99.3% |  |
 | 7 | 46% | 51% | Median |
-| 8 | 5% | 5% |  |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
 ### Ανεξάρτητοι Έλληνες (ECR)
@@ -507,7 +507,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
-| 1 | 92% | 99.7% | Median |
+| 1 | 93% | 99.7% | Median |
 | 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
@@ -644,7 +644,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.7% | 100% |  |
 | 6 | 49% | 99.3% |  |
 | 7 | 46% | 51% | Median |
-| 8 | 5% | 5% |  |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
 ### Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI) – Πλεύση Ελευθερίας (NI) – Χρυσή Αυγή (NI)
@@ -657,8 +657,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0.3% | 100% |  |
 | 3 | 20% | 99.7% |  |
-| 4 | 70% | 80% | Median |
-| 5 | 10% | 10% |  |
+| 4 | 71% | 80% | Median |
+| 5 | 9% | 9% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -685,7 +685,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
 | 2 | 35% | 98% | Median |
-| 3 | 52% | 63% |  |
+| 3 | 53% | 63% |  |
 | 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
@@ -708,7 +708,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
-| 1 | 92% | 99.7% | Median |
+| 1 | 93% | 99.7% | Median |
 | 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
@@ -742,6 +742,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 13,631,488
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 14,680,064
 + **Error estimate:** 2.64%

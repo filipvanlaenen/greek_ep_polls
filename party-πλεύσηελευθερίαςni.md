@@ -75,10 +75,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–22 October 2024](2024-10-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–21 October 2024](2024-10-21-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
 | [15–19 October 2024](2024-10-19-Alco.html) | Alco <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–16 October 2024](2024-10-16-GPO.html) | GPO <br> Star TV | 1 | 1 | 1 | 1 | 0–1 |
+| [14–16 October 2024](2024-10-16-GPO.html) | GPO <br> Star TV | 1 | 1 | 1 | 1 | 0–2 |
 | [26 September–2 October 2024](2024-10-02-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [30 September–2 October 2024](2024-10-02-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
-| [29 September–1 October 2024](2024-10-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 0–2 |
+| [29 September–1 October 2024](2024-10-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 0–1 |
 | [24–28 September 2024](2024-09-28-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 1 | 1 | 1 | 1 | 0–1 |
 | [24–27 September 2024](2024-09-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 1 | 0–1 |
 | [13–23 September 2024](2024-09-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |

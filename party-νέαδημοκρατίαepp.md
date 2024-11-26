@@ -108,14 +108,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30 September–2 October 2024](2024-10-02-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [29 September–1 October 2024](2024-10-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [24–28 September 2024](2024-09-28-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [24–27 September 2024](2024-09-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 7 | 6–7 | 6–7 | 6–8 |
+| [24–27 September 2024](2024-09-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 7 | 6–7 | 6–8 | 6–8 |
 | [13–23 September 2024](2024-09-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [19–23 September 2024](2024-09-23-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
-| [16–21 September 2024](2024-09-21-Prorata.html) | Prorata <br> Attica TV | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [16–21 September 2024](2024-09-21-Prorata.html) | Prorata <br> Attica TV | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [13–18 September 2024](2024-09-18-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [13–16 September 2024](2024-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [9–14 September 2024](2024-09-14-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
-| [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [2–11 September 2024](2024-09-11-DataRC.html) | Data RC <br> Peloponnisos | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [4–10 September 2024](2024-09-10-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [8–10 September 2024](2024-09-10-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [2–6 September 2024](2024-09-06-Interview.html) | Interview <br> Political |  |  |  |  |  |
@@ -143,7 +143,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.7% | 100% |  |
 | 6 | 49% | 99.3% |  |
 | 7 | 46% | 51% | Median |
-| 8 | 5% | 5% |  |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
 

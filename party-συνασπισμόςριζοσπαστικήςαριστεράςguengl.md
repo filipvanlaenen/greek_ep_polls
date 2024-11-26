@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–16 October 2024](2024-10-16-GPO.html) | GPO <br> Star TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [26 September–2 October 2024](2024-10-02-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [30 September–2 October 2024](2024-10-02-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
-| [29 September–1 October 2024](2024-10-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [29 September–1 October 2024](2024-10-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–28 September 2024](2024-09-28-PalmosAnalysis.html) | Palmos Analysis <br> Tvxs.gr | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–27 September 2024](2024-09-27-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2 | 2 | 1–2 |
 | [13–23 September 2024](2024-09-23-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
@@ -113,7 +113,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 12% | 100% |  |
-| 2 | 81% | 88% | Median |
+| 2 | 82% | 88% | Median |
 | 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
