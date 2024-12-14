@@ -85,7 +85,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–15 November 2024](2024-11-15-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [7–12 November 2024](2024-11-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–26 October 2024](2024-10-26-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
-| [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [16–22 October 2024](2024-10-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [16–21 October 2024](2024-10-21-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [15–19 October 2024](2024-10-19-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -122,8 +122,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 36% | 100% |  |
-| 2 | 63% | 64% | Median |
+| 1 | 34% | 100% |  |
+| 2 | 66% | 66% | Median |
 | 3 | 0% | 0% |  |
 
 

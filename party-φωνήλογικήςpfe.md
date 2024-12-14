@@ -74,8 +74,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [25–28 November 2024](2024-11-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [25–28 November 2024](2024-11-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1 | 0–1 | 0–1 |
 | [24–26 November 2024](2024-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1–2 |
 | [20–26 November 2024](2024-11-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–25 November 2024](2024-11-25-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -83,7 +83,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–15 November 2024](2024-11-15-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [7–12 November 2024](2024-11-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 1 | 1–2 |
 | [22–26 October 2024](2024-10-26-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
-| [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 1–2 |
+| [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 0–2 |
 | [16–22 October 2024](2024-10-22-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [16–21 October 2024](2024-10-21-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [15–19 October 2024](2024-10-19-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 1 | 1 | 0–2 |
@@ -119,9 +119,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% | Last Result |
-| 1 | 77% | 98.8% | Median |
-| 2 | 21% | 21% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 76% | 99.5% | Median |
+| 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
 
