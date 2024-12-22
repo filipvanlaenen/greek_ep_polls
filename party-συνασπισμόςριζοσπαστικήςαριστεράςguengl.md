@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 4.7–8.5% | 4.4–8.9% | 4.2–9.3% | 3.9–10.0% |
+| N/A | [Poll Average](average.html) | 7.4% | 4.9–9.6% | 4.5–10.2% | 4.3–10.6% | 3.9–11.3% |
+| [11–13 December 2024](2024-12-13-OpinionPoll.html) | Opinion Poll <br> Manifesto | 6.5% | 5.5–7.8% | 5.3–8.2% | 5.0–8.5% | 4.6–9.1% |
+| [4–13 December 2024](2024-12-13-MRB.html) | MRB <br>   | 9.9% | 9.0–10.9% | 8.7–11.2% | 8.5–11.4% | 8.1–11.9% |
+| [9–13 December 2024](2024-12-13-GPO.html) | GPO <br> Παραπολιτικά | 6.9% | 5.9–8.1% | 5.6–8.5% | 5.4–8.8% | 4.9–9.4% |
+| [3–9 December 2024](2024-12-09-Prorata.html) | Prorata <br> Attica TV | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.4–9.9% | 6.0–10.5% |
 | [25–28 November 2024](2024-11-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.8% | 6.8–9.0% | 6.5–9.4% | 6.2–9.7% | 5.8–10.3% |
 | [24–26 November 2024](2024-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.9% | 6.8–9.1% | 6.6–9.5% | 6.3–9.8% | 5.9–10.4% |
 | [20–26 November 2024](2024-11-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7.1% | 6.2–8.2% | 5.9–8.5% | 5.7–8.7% | 5.3–9.3% |
@@ -57,15 +61,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 8% | 100% |  |
-| 4.5–5.5% | 11% | 92% |  |
-| 5.5–6.5% | 17% | 81% |  |
-| 6.5–7.5% | 31% | 64% | Median |
-| 7.5–8.5% | 24% | 33% |  |
-| 8.5–9.5% | 8% | 9% |  |
-| 9.5–10.5% | 1.3% | 1.4% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 3.5–4.5% | 6% | 100% |  |
+| 4.5–5.5% | 9% | 94% |  |
+| 5.5–6.5% | 13% | 86% |  |
+| 6.5–7.5% | 26% | 73% | Median |
+| 7.5–8.5% | 24% | 47% |  |
+| 8.5–9.5% | 13% | 23% |  |
+| 9.5–10.5% | 8% | 10% |  |
+| 10.5–11.5% | 2% | 3% |  |
+| 11.5–12.5% | 0.2% | 0.2% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -76,7 +81,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [11–13 December 2024](2024-12-13-OpinionPoll.html) | Opinion Poll <br> Manifesto | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–13 December 2024](2024-12-13-MRB.html) | MRB <br>   | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [9–13 December 2024](2024-12-13-GPO.html) | GPO <br> Παραπολιτικά | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3–9 December 2024](2024-12-09-Prorata.html) | Prorata <br> Attica TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–28 November 2024](2024-11-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–26 November 2024](2024-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–26 November 2024](2024-11-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -122,8 +131,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 34% | 100% |  |
-| 2 | 66% | 66% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 36% | 100% |  |
+| 2 | 62% | 64% | Median |
+| 3 | 1.3% | 1.3% |  |
+| 4 | 0% | 0% |  |
 
 
