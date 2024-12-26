@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 2.4–6.3% | 2.1–6.7% | 1.9–7.0% | 1.6–7.4% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.3–6.3% | 2.8–6.7% | 2.5–7.0% | 2.1–7.4% |
+| [15–17 December 2024](2024-12-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.2–6.9% |
+| [11–17 December 2024](2024-12-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [11–13 December 2024](2024-12-13-OpinionPoll.html) | Opinion Poll <br> Manifesto | 5.0% | 4.2–6.2% | 3.9–6.5% | 3.7–6.8% | 3.3–7.4% |
 | [4–13 December 2024](2024-12-13-MRB.html) | MRB <br>   | 4.3% | 3.7–5.0% | 3.6–5.3% | 3.4–5.4% | 3.2–5.8% |
 | [9–13 December 2024](2024-12-13-GPO.html) | GPO <br> Παραπολιτικά | 4.4% | 3.6–5.5% | 3.4–5.8% | 3.2–6.0% | 2.9–6.6% |
@@ -58,11 +60,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.4% | 100% |  |
-| 1.5–2.5% | 11% | 99.6% |  |
-| 2.5–3.5% | 13% | 88% |  |
-| 3.5–4.5% | 24% | 75% |  |
-| 4.5–5.5% | 28% | 51% | Median |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 12% | 97% |  |
+| 3.5–4.5% | 32% | 86% |  |
+| 4.5–5.5% | 31% | 54% | Median |
 | 5.5–6.5% | 16% | 23% |  |
 | 6.5–7.5% | 7% | 7% |  |
 | 7.5–8.5% | 0.3% | 0.3% |  |
@@ -77,7 +79,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [15–17 December 2024](2024-12-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1 | 1–2 |
+| [11–17 December 2024](2024-12-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 0–1 |
 | [11–13 December 2024](2024-12-13-OpinionPoll.html) | Opinion Poll <br> Manifesto | 1 | 1 | 1 | 1–2 | 1–2 |
 | [4–13 December 2024](2024-12-13-MRB.html) | MRB <br>   | 1 | 1 | 1 | 1 | 1 |
 | [9–13 December 2024](2024-12-13-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1 | 1 | 1 | 0–1 |
@@ -126,8 +130,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% | Last Result |
-| 1 | 78% | 81% | Median |
+| 0 | 8% | 100% | Last Result |
+| 1 | 89% | 92% | Median |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
