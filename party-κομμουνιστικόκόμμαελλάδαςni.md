@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 9.0% | 7.7–10.5% | 7.3–10.9% | 7.0–11.2% | 6.4–11.9% |
 | [15–17 December 2024](2024-12-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.4% | 8.3–10.8% | 8.0–11.2% | 7.7–11.5% | 7.2–12.2% |
 | [11–17 December 2024](2024-12-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.4–10.8% | 7.0–11.4% |
+| [11–16 December 2024](2024-12-16-Interview.html) | Interview <br> Politic.gr | 8.5% | 7.8–9.3% | 7.6–9.5% | 7.4–9.7% | 7.1–10.1% |
 | [11–13 December 2024](2024-12-13-OpinionPoll.html) | Opinion Poll <br> Manifesto | 8.1% | 6.9–9.4% | 6.6–9.8% | 6.4–10.2% | 5.9–10.9% |
 | [4–13 December 2024](2024-12-13-MRB.html) | MRB <br>   | 9.9% | 9.0–10.9% | 8.7–11.2% | 8.5–11.4% | 8.1–11.9% |
 | [9–13 December 2024](2024-12-13-GPO.html) | GPO <br> Παραπολιτικά | 9.5% | 8.4–11.0% | 8.0–11.4% | 7.8–11.7% | 7.2–12.4% |
@@ -68,7 +69,7 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0.9% | 100% |  |
 | 6.5–7.5% | 7% | 99.1% |  |
 | 7.5–8.5% | 25% | 92% |  |
-| 8.5–9.5% | 36% | 68% | Median |
+| 8.5–9.5% | 35% | 67% | Median |
 | 9.5–10.5% | 23% | 32% |  |
 | 10.5–11.5% | 8% | 9% |  |
 | 11.5–12.5% | 1.0% | 1.1% |  |
@@ -87,6 +88,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–3 |
 | [15–17 December 2024](2024-12-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2–3 | 1–3 |
 | [11–17 December 2024](2024-12-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2 | 2 | 1–3 |
+| [11–16 December 2024](2024-12-16-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 2 |
 | [11–13 December 2024](2024-12-13-OpinionPoll.html) | Opinion Poll <br> Manifesto | 2 | 2 | 2 | 1–2 | 1–2 |
 | [4–13 December 2024](2024-12-13-MRB.html) | MRB <br>   | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [9–13 December 2024](2024-12-13-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 2–3 | 2–3 | 1–3 |

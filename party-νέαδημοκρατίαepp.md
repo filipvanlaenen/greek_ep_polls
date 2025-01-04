@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.7% | 27.7–32.1% | 27.2–32.9% | 26.7–33.5% | 25.9–34.7% |
+| N/A | [Poll Average](average.html) | 29.6% | 27.7–32.1% | 27.2–32.9% | 26.7–33.5% | 25.9–34.7% |
 | [15–17 December 2024](2024-12-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.8% | 28.0–31.8% | 27.4–32.4% | 27.0–32.8% | 26.1–33.8% |
 | [11–17 December 2024](2024-12-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 29.2% | 27.4–31.0% | 26.9–31.5% | 26.5–32.0% | 25.7–32.8% |
+| [11–16 December 2024](2024-12-16-Interview.html) | Interview <br> Politic.gr | 29.0% | 27.8–30.2% | 27.5–30.6% | 27.2–30.9% | 26.7–31.5% |
 | [11–13 December 2024](2024-12-13-OpinionPoll.html) | Opinion Poll <br> Manifesto | 30.4% | 28.3–32.5% | 27.7–33.1% | 27.3–33.7% | 26.3–34.7% |
 | [4–13 December 2024](2024-12-13-MRB.html) | MRB <br>   | 28.3% | 26.9–29.8% | 26.5–30.2% | 26.1–30.5% | 25.5–31.2% |
 | [9–13 December 2024](2024-12-13-GPO.html) | GPO <br> Παραπολιτικά | 30.3% | 28.3–32.3% | 27.8–32.9% | 27.3–33.4% | 26.4–34.4% |
@@ -86,11 +87,11 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0.2% | 100% |  |
 | 25.5–26.5% | 2% | 99.8% |  |
-| 26.5–27.5% | 6% | 98% |  |
-| 27.5–28.5% | 15% | 92% |  |
-| 28.5–29.5% | 23% | 76% |  |
-| 29.5–30.5% | 22% | 53% | Median |
-| 30.5–31.5% | 15% | 31% |  |
+| 26.5–27.5% | 7% | 98% |  |
+| 27.5–28.5% | 16% | 91% |  |
+| 28.5–29.5% | 24% | 75% |  |
+| 29.5–30.5% | 21% | 51% | Median |
+| 30.5–31.5% | 15% | 30% |  |
 | 31.5–32.5% | 9% | 16% |  |
 | 32.5–33.5% | 4% | 7% |  |
 | 33.5–34.5% | 2% | 2% |  |
@@ -110,6 +111,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [15–17 December 2024](2024-12-17-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [11–17 December 2024](2024-12-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [11–16 December 2024](2024-12-16-Interview.html) | Interview <br> Politic.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [11–13 December 2024](2024-12-13-OpinionPoll.html) | Opinion Poll <br> Manifesto | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [4–13 December 2024](2024-12-13-MRB.html) | MRB <br>   | 6 | 6 | 6–7 | 6–7 | 6–7 |
 | [9–13 December 2024](2024-12-13-GPO.html) | GPO <br> Παραπολιτικά | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -164,8 +166,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 55% | 99.8% | Median |
-| 7 | 44% | 45% |  |
+| 6 | 58% | 99.8% | Median |
+| 7 | 41% | 42% |  |
 | 8 | 1.0% | 1.0% |  |
 | 9 | 0% | 0% |  |
 
