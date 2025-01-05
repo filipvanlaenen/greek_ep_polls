@@ -366,14 +366,14 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#χρυσή-αυγή-(ni)">Χρυσή Αυγή (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#κομμουνιστικό-κόμμα-ελλάδας-(ni)">Κομμουνιστικό Κόμμα Ελλάδας (NI)</a> | 0 | 2 | 2 |2 | 1–2 | 1–3 |
 | <a href="#δημοκρατικό-πατριωτικό-κίνημα-νικη-(ni)">Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
-| <a href="#πλεύση-ελευθερίας-(ni)">Πλεύση Ελευθερίας (NI)</a> | 0 | 1 | 1–2 |1–2 | 0–2 | 0–2 |
+| <a href="#πλεύση-ελευθερίας-(ni)">Πλεύση Ελευθερίας (NI)</a> | 0 | 1 | 1–2 |0–2 | 0–2 | 0–2 |
 | <a href="#εθνικό-κόμμα-–-έλληνες-(*)">Εθνικό Κόμμα – Έλληνες (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#εθνική-δημιουργία-(*)">Εθνική Δημιουργία (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#εαν…-(*)">ΕΑΝ… (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#σπαρτιάτες-(*)">Σπαρτιάτες (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#αντικαπιταλιστική-αριστερή-συνεργασία-για-την-ανατροπή-(*)">Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#δημιουργία,-ξανά-(*)">Δημιουργία, Ξανά (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#κίνημα-δημοκρατίας-(*)">Κίνημα Δημοκρατίας (*)</a> | 0 | 1 | 1–2 |0–2 | 0–2 | 0–2 |
+| <a href="#κίνημα-δημοκρατίας-(*)">Κίνημα Δημοκρατίας (*)</a> | 0 | 1 | 1 |0–2 | 0–2 | 0–2 |
 | <a href="#πατριώτες-(*)">Πατριώτες (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
 ### Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)
@@ -385,8 +385,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 24% | 100% |  |
-| 2 | 75% | 76% | Median |
+| 1 | 25% | 100% |  |
+| 2 | 73% | 75% | Median |
 | 3 | 1.3% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -416,8 +416,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 14% | 14% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 13% | 13% |  |
 | 2 | 0% | 0% |  |
 
 ### Κόσμος (Greens/EFA)
@@ -443,8 +443,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 14% | 100% |  |
-| 4 | 79% | 86% | Median |
+| 3 | 11% | 100% |  |
+| 4 | 81% | 89% | Median |
 | 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
@@ -474,8 +474,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 58% | 99.8% | Median |
-| 7 | 41% | 42% |  |
+| 6 | 57% | 99.8% | Median |
+| 7 | 42% | 43% |  |
 | 8 | 1.0% | 1.0% |  |
 | 9 | 0% | 0% |  |
 
@@ -508,8 +508,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 92% | 99.6% | Median |
-| 2 | 8% | 8% |  |
+| 1 | 91% | 99.6% | Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Χρυσή Αυγή (NI)
@@ -609,8 +609,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
-| 1 | 81% | 92% | Median |
-| 2 | 11% | 11% |  |
+| 1 | 83% | 92% | Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Πατριώτες (*)
@@ -634,7 +634,7 @@ Only polls for which at least the sample size has been published are included in
 | Λαϊκή Ενότητα (GUE/NGL) – Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL) – Νέα Αριστερά (GUE/NGL) – Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | 0 | 2 | 0% | 2–3 | 1–3 | 1–4 | 1–4 |
 | Ανεξάρτητοι Έλληνες (ECR) – Ελληνική Λύση (ECR) | 0 | 2 | 0% | 2 | 1–2 | 1–3 | 1–3 |
 | Φωνή Λογικής (PfE) | 0 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
-| Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή (*) – Δημιουργία, Ξανά (*) – ΕΑΝ… (*) – Εθνική Δημιουργία (*) – Εθνικό Κόμμα – Έλληνες (*) – Κίνημα Δημοκρατίας (*) – Πατριώτες (*) – Σπαρτιάτες (*) | 0 | 1 | 0% | 1–2 | 0–2 | 0–2 | 0–2 |
+| Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή (*) – Δημιουργία, Ξανά (*) – ΕΑΝ… (*) – Εθνική Δημιουργία (*) – Εθνικό Κόμμα – Έλληνες (*) – Κίνημα Δημοκρατίας (*) – Πατριώτες (*) – Σπαρτιάτες (*) | 0 | 1 | 0% | 1 | 0–2 | 0–2 | 0–2 |
 | Ένωση Κεντρώων (RE) – Δημοκράτες (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Κόσμος (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -650,8 +650,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.2% | 100% |  |
-| 6 | 58% | 99.8% | Median |
-| 7 | 41% | 42% |  |
+| 6 | 57% | 99.8% | Median |
+| 7 | 42% | 43% |  |
 | 8 | 1.0% | 1.0% |  |
 | 9 | 0% | 0% |  |
 
@@ -665,7 +665,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 1.2% | 100% |  |
 | 3 | 22% | 98.8% |  |
-| 4 | 70% | 77% | Median |
+| 4 | 70% | 76% | Median |
 | 5 | 7% | 7% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
@@ -679,8 +679,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 14% | 100% |  |
-| 4 | 79% | 86% | Median |
+| 3 | 11% | 100% |  |
+| 4 | 81% | 89% | Median |
 | 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
@@ -692,9 +692,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 9% | 100% |  |
-| 2 | 45% | 91% | Median |
-| 3 | 43% | 46% |  |
-| 4 | 4% | 4% |  |
+| 2 | 47% | 91% | Median |
+| 3 | 41% | 44% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 ### Ανεξάρτητοι Έλληνες (ECR) – Ελληνική Λύση (ECR)
@@ -716,8 +716,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 92% | 99.6% | Median |
-| 2 | 8% | 8% |  |
+| 1 | 91% | 99.6% | Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή (*) – Δημιουργία, Ξανά (*) – ΕΑΝ… (*) – Εθνική Δημιουργία (*) – Εθνικό Κόμμα – Έλληνες (*) – Κίνημα Δημοκρατίας (*) – Πατριώτες (*) – Σπαρτιάτες (*)
@@ -727,8 +727,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
-| 1 | 81% | 92% | Median |
-| 2 | 11% | 11% |  |
+| 1 | 83% | 92% | Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Ένωση Κεντρώων (RE) – Δημοκράτες (RE)
@@ -751,6 +751,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 15,728,640
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 16,777,216
 + **Error estimate:** 2.94%
