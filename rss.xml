@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 21 Feb 2025 20:14:00 +0100</pubDate>
+    <pubDate>Fri, 21 Feb 2025 22:46:20 +0100</pubDate>
     <item>
       <title>Opinion Poll by Alco for Alpha TV, 11–16 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-02-16-Alco.html#seats</link>
@@ -16,18 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-02-16-Alco-seats.png"
         length="321787"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 20:14:00 +0100</pubDate>
-      <dc:date>2025-02-21T20:14:00.700369+01:00</dc:date>
+      <pubDate>Fri, 21 Feb 2025 22:46:20 +0100</pubDate>
+      <dc:date>2025-02-21T22:46:20.507348+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Alpha TV, 11–16 February 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-02-16-Alco.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-02-16-Alco-coalitions-seats.png"
-        length="249674"
+        length="260722"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 20:14:00 +0100</pubDate>
-      <dc:date>2025-02-21T20:14:00.700369+01:00</dc:date>
+      <pubDate>Fri, 21 Feb 2025 22:46:20 +0100</pubDate>
+      <dc:date>2025-02-21T22:46:20.507348+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Alpha TV, 11–16 February 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-02-16-Alco.png"
         length="409548"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 20:14:00 +0100</pubDate>
-      <dc:date>2025-02-21T20:14:00.700369+01:00</dc:date>
+      <pubDate>Fri, 21 Feb 2025 22:46:20 +0100</pubDate>
+      <dc:date>2025-02-21T22:46:20.507348+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Star TV, 20–22 January 2025 – Seat Projections for the Parties</title>
@@ -819,6 +819,6 @@
       <pubDate>Sat, 14 Dec 2024 23:35:22 +0100</pubDate>
       <dc:date>2024-12-14T23:35:22.182344+01:00</dc:date>
     </item>
-    <dc:date>2025-02-21T20:14:00.700369+01:00</dc:date>
+    <dc:date>2025-02-21T22:46:20.507348+01:00</dc:date>
   </channel>
 </rss>
