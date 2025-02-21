@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.7–10.4% | 7.4–10.8% | 7.1–11.2% | 6.5–12.0% |
+| N/A | [Poll Average](average.html) | 8.7% | 6.9–10.2% | 6.4–10.6% | 6.0–11.0% | 5.4–11.7% |
+| [11–16 February 2025](2025-02-16-Alco.html) | Alco <br> Alpha TV | 6.9% | 5.9–8.3% | 5.6–8.6% | 5.3–9.0% | 4.9–9.6% |
 | [20–22 January 2025](2025-01-22-GPO.html) | GPO <br> Star TV | 9.4% | 8.3–10.6% | 8.0–11.0% | 7.7–11.3% | 7.2–11.9% |
 | [19–21 January 2025](2025-01-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.5% | 8.4–10.8% | 8.0–11.2% | 7.8–11.5% | 7.3–12.2% |
 | [15–21 January 2025](2025-01-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 8.5% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
@@ -73,15 +74,15 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% |  |
-| 6.5–7.5% | 7% | 99.5% |  |
-| 7.5–8.5% | 29% | 93% |  |
-| 8.5–9.5% | 36% | 64% | Median |
-| 9.5–10.5% | 20% | 28% |  |
-| 10.5–11.5% | 7% | 8% |  |
-| 11.5–12.5% | 1.2% | 1.3% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0.8% | 100% |  |
+| 5.5–6.5% | 5% | 99.1% |  |
+| 6.5–7.5% | 12% | 94% |  |
+| 7.5–8.5% | 28% | 82% |  |
+| 8.5–9.5% | 32% | 54% | Median |
+| 9.5–10.5% | 16% | 22% |  |
+| 10.5–11.5% | 5% | 6% |  |
+| 11.5–12.5% | 0.7% | 0.7% |  |
+| 12.5–13.5% | 0% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -93,7 +94,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [11–16 February 2025](2025-02-16-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–22 January 2025](2025-01-22-GPO.html) | GPO <br> Star TV | 2 | 2 | 2 | 2 | 2–3 |
 | [19–21 January 2025](2025-01-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [15–21 January 2025](2025-01-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -154,8 +156,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 94% | 97% | Median |
+| 1 | 5% | 100% |  |
+| 2 | 93% | 95% | Median |
 | 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
