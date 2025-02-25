@@ -98,7 +98,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–16 February 2025](2025-02-16-Alco.html) | Alco <br> Alpha TV | 0 | 0 | 0 | 0 | 0–1 |
 | [10–14 February 2025](2025-02-14-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0 | 0 | 0–1 | 0–1 |
 | [30 January–4 February 2025](2025-02-04-Interview.html) | Interview <br> Political |  |  |  |  |  |
-| [27–29 January 2025](2025-01-29-MRB.html) | MRB <br> Open TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–29 January 2025](2025-01-29-MRB.html) | MRB <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [28–29 January 2025](2025-01-29-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0 | 0 | 0 | 0–1 |
 | [20–22 January 2025](2025-01-22-GPO.html) | GPO <br> Star TV | 0 | 0 | 0 | 0 | 0 |
 | [19–21 January 2025](2025-01-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -159,8 +159,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Last Result, Median |
-| 1 | 32% | 32% |  |
+| 0 | 67% | 100% | Last Result, Median |
+| 1 | 33% | 33% |  |
 | 2 | 0% | 0% |  |
 
 

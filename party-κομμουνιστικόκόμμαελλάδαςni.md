@@ -104,10 +104,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [19–24 February 2025](2025-02-24-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 2–3 |
 | [12–18 February 2025](2025-02-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2 | 2 | 1–3 |
 | [11–16 February 2025](2025-02-16-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–14 February 2025](2025-02-14-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 2 | 2–3 | 2–3 |
+| [10–14 February 2025](2025-02-14-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 2 | 2–3 | 1–3 |
 | [30 January–4 February 2025](2025-02-04-Interview.html) | Interview <br> Political |  |  |  |  |  |
 | [27–29 January 2025](2025-01-29-MRB.html) | MRB <br> Open TV | 2 | 2 | 2 | 2–3 | 1–3 |
-| [28–29 January 2025](2025-01-29-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [28–29 January 2025](2025-01-29-GPO.html) | GPO <br> Παραπολιτικά | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [20–22 January 2025](2025-01-22-GPO.html) | GPO <br> Star TV | 2 | 2 | 2 | 2 | 2–3 |
 | [19–21 January 2025](2025-01-21-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [15–21 January 2025](2025-01-21-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 1–2 | 1–2 | 1–2 |

@@ -99,8 +99,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [19–24 February 2025](2025-02-24-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–24 February 2025](2025-02-24-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 2 |
 | [12–18 February 2025](2025-02-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2 | 2 | 1–3 |
 | [11–16 February 2025](2025-02-16-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [10–14 February 2025](2025-02-14-GPO.html) | GPO <br> Παραπολιτικά | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -167,9 +167,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 28% | 100% |  |
-| 2 | 71% | 72% | Median |
-| 3 | 0.6% | 0.6% |  |
+| 1 | 27% | 100% |  |
+| 2 | 73% | 73% | Median |
+| 3 | 0.4% | 0.4% |  |
 | 4 | 0% | 0% |  |
 
 
