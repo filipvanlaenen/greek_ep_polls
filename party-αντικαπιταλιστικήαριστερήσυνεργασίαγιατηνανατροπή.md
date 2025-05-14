@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 1.0–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
+| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
+| [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 April 2025](2025-04-09-MRB.html) | MRB <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [2–8 April 2025](2025-04-08-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [4–8 April 2025](2025-04-08-Interview.html) | Interview <br> Political | 0.0% | N/A | N/A | N/A | N/A |
@@ -110,6 +112,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
 | [7–9 April 2025](2025-04-09-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [2–8 April 2025](2025-04-08-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0 | 0 | 0 | 0 | 0 |
 | [4–8 April 2025](2025-04-08-Interview.html) | Interview <br> Political |  |  |  |  |  |

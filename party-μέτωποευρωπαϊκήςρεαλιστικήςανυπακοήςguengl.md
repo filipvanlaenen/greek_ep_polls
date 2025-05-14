@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.1–3.9% | 1.9–4.1% | 1.7–4.4% | 1.4–4.9% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.8–3.8% | 1.6–4.1% | 1.5–4.3% | 1.2–4.8% |
+| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 2.0% | 1.4–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.7% |
+| [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2.3% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–3.9% |
 | [7–9 April 2025](2025-04-09-MRB.html) | MRB <br> Open TV | 3.3% | 2.6–4.3% | 2.4–4.6% | 2.2–4.8% | 2.0–5.3% |
 | [2–8 April 2025](2025-04-08-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [4–8 April 2025](2025-04-08-Interview.html) | Interview <br> Political | 3.4% | 2.9–4.1% | 2.7–4.4% | 2.6–4.5% | 2.3–4.9% |
@@ -95,13 +97,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.5% | 100% |  |
-| 1.5–2.5% | 25% | 98.5% |  |
-| 2.5–3.5% | 53% | 74% | Median |
-| 3.5–4.5% | 19% | 21% |  |
-| 4.5–5.5% | 1.4% | 1.4% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 34% | 96% |  |
+| 2.5–3.5% | 45% | 63% | Median |
+| 3.5–4.5% | 16% | 17% |  |
+| 4.5–5.5% | 1.1% | 1.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -113,6 +114,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 0 | 0 | 0 | 0–1 | 0–1 |
+| [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–9 April 2025](2025-04-09-MRB.html) | MRB <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–8 April 2025](2025-04-08-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–8 April 2025](2025-04-08-Interview.html) | Interview <br> Political | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -198,8 +201,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Last Result, Median |
-| 1 | 44% | 44% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 37% | 37% |  |
 | 2 | 0% | 0% |  |
 
 
