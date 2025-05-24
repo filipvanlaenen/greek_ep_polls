@@ -145,8 +145,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [28–30 April 2025](2025-04-30-GPO.html) | GPO <br> Παραπολιτικά | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [25–28 April 2025](2025-04-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3 | 3 | 2–4 | 2–4 |
-| [24–28 April 2025](2025-04-28-Interview.html) | Interview <br> Politic.gr | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [25–28 April 2025](2025-04-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [24–28 April 2025](2025-04-28-Interview.html) | Interview <br> Politic.gr | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–9 April 2025](2025-04-09-MRB.html) | MRB <br> Open TV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [2–8 April 2025](2025-04-08-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [4–8 April 2025](2025-04-08-Interview.html) | Interview <br> Political | 3 | 3 | 3–4 | 3–4 | 3–4 |
@@ -235,8 +235,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
 | 2 | 24% | 99.9% |  |
-| 3 | 49% | 76% | Median |
-| 4 | 23% | 27% |  |
+| 3 | 45% | 76% | Median |
+| 4 | 27% | 31% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 
