@@ -10,16 +10,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 7.0–10.9% | 6.6–11.4% | 6.3–11.9% | 5.9–12.7% |
+| N/A | [Poll Average](average.html) | 9.5% | 8.0–11.2% | 7.5–11.7% | 7.2–12.1% | 6.6–13.0% |
 | [19–21 May 2025](2025-05-21-OpinionPoll.html) | Opinion Poll <br> Action 24 | 9.5% | 8.4–11.0% | 8.0–11.4% | 7.7–11.7% | 7.2–12.5% |
+| [12–15 May 2025](2025-05-15-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.1–10.7% | 6.6–11.3% |
 | [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8.1% | 7.0–9.3% | 6.7–9.7% | 6.5–10.0% | 6.0–10.6% |
-| [9–12 May 2025](2025-05-12-RealPolls.html) | Real Polls <br> Protagon | 7.1% | 6.3–7.9% | 6.1–8.2% | 6.0–8.4% | 5.6–8.8% |
-| [6–11 May 2025](2025-05-11-Interview.html) | Interview <br> Political | 9.7% | 8.9–10.7% | 8.6–10.9% | 8.4–11.2% | 8.0–11.6% |
-| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 10.1% | 6.6–9.1% | 6.3–9.5% | 6.0–9.8% | 5.5–10.5% |
-| [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.4% | 7.6–10.2% | 7.3–10.5% | 7.0–10.9% | 6.5–11.6% |
-| [28–30 April 2025](2025-04-30-GPO.html) | GPO <br> Παραπολιτικά | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
-| [25–28 April 2025](2025-04-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.5% | 8.5–10.7% | 8.2–11.1% | 8.0–11.4% | 7.5–12.0% |
-| [24–28 April 2025](2025-04-28-Interview.html) | Interview <br> Politic.gr | 8.9% | 8.1–9.8% | 7.9–10.1% | 7.7–10.3% | 7.4–10.7% |
+| [6–11 May 2025](2025-05-11-Interview.html) | Interview <br> Political | 9.6% | 8.7–10.6% | 8.4–10.9% | 8.2–11.2% | 7.8–11.7% |
+| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 10.1% | 8.8–11.6% | 8.4–12.0% | 8.1–12.4% | 7.5–13.2% |
+| [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.6% | N/A | N/A | N/A | N/A |
+| [28–30 April 2025](2025-04-30-GPO.html) | GPO <br> Παραπολιτικά | 10.8% | 9.5–12.2% | 9.2–12.6% | 8.9–13.0% | 8.3–13.7% |
+| [25–28 April 2025](2025-04-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.6% | 8.5–11.0% | 8.2–11.3% | 7.9–11.7% | 7.4–12.3% |
+| [24–28 April 2025](2025-04-28-Interview.html) | Interview <br> Politic.gr | 9.2% | 8.3–10.2% | 8.1–10.4% | 7.9–10.7% | 7.5–11.2% |
 | [7–9 April 2025](2025-04-09-MRB.html) | MRB <br> Open TV | 11.3% | 10.0–12.9% | 9.6–13.4% | 9.3–13.8% | 8.6–14.6% |
 | [2–8 April 2025](2025-04-08-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 10.3% | 9.1–11.6% | 8.8–12.0% | 8.5–12.3% | 8.0–13.0% |
 | [4–8 April 2025](2025-04-08-Interview.html) | Interview <br> Political | 9.0% | 8.1–10.1% | 7.8–10.4% | 7.6–10.7% | 7.1–11.2% |
@@ -108,15 +108,15 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 4% | 99.9% |  |
-| 6.5–7.5% | 16% | 96% |  |
-| 7.5–8.5% | 19% | 80% |  |
-| 8.5–9.5% | 23% | 61% | Median |
-| 9.5–10.5% | 22% | 38% |  |
-| 10.5–11.5% | 11% | 15% |  |
-| 11.5–12.5% | 4% | 4% |  |
-| 12.5–13.5% | 0.7% | 0.8% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.5% | 100% |  |
+| 6.5–7.5% | 5% | 99.5% |  |
+| 7.5–8.5% | 16% | 95% |  |
+| 8.5–9.5% | 29% | 79% |  |
+| 9.5–10.5% | 28% | 50% | Median |
+| 10.5–11.5% | 15% | 21% |  |
+| 11.5–12.5% | 5% | 6% |  |
+| 12.5–13.5% | 1.1% | 1.2% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -129,13 +129,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [19–21 May 2025](2025-05-21-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2–3 | 2–3 | 1–3 |
-| [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2 | 1–2 | 1–3 |
-| [9–12 May 2025](2025-05-12-RealPolls.html) | Real Polls <br> Protagon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [6–11 May 2025](2025-05-11-Interview.html) | Interview <br> Political | 2 | 2 | 2 | 2–3 | 2–3 |
-| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 1–2 | 1–2 | 1–3 |
-| [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2 | 2 | 1–3 |
+| [12–15 May 2025](2025-05-15-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2 | 2–3 | 1–3 |
+| [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [6–11 May 2025](2025-05-11-Interview.html) | Interview <br> Political | 2 | 2 | 2 | 2 | 2–3 |
+| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
 | [28–30 April 2025](2025-04-30-GPO.html) | GPO <br> Παραπολιτικά | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [25–28 April 2025](2025-04-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2–3 | 2–3 |
 | [24–28 April 2025](2025-04-28-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 1–2 |
@@ -225,8 +225,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 84% | 97% | Median |
+| 1 | 2% | 100% |  |
+| 2 | 86% | 98% | Median |
 | 3 | 13% | 13% |  |
 | 4 | 0% | 0% |  |
 
