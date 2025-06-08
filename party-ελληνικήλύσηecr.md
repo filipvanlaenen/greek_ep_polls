@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.4% | 7.7–11.6% | 7.4–12.1% | 7.0–12.6% | 6.5–13.4% |
+| N/A | [Poll Average](average.html) | 9.4% | 7.9–11.5% | 7.5–12.1% | 7.2–12.6% | 6.6–13.4% |
 | [30 May–3 June 2025](2025-06-03-GPO.html) | GPO <br> Star TV | 11.3% | 10.2–12.7% | 9.8–13.1% | 9.6–13.4% | 9.0–14.1% |
 | [29 May–3 June 2025](2025-06-03-Alco.html) | Alco <br> Epikaira.gr | 9.5% | 8.3–11.0% | 8.0–11.4% | 7.7–11.7% | 7.2–12.4% |
-| [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV | 10.7% | N/A | N/A | N/A | N/A |
-| [24–27 May 2025](2025-05-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.9% | N/A | N/A | N/A | N/A |
-| [21–26 May 2025](2025-05-26-Interview.html) | Interview <br> Politic.gr | 9.0% | N/A | N/A | N/A | N/A |
+| [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV | 10.7% | 9.4–12.3% | 9.0–12.7% | 8.7–13.1% | 8.1–13.9% |
+| [24–27 May 2025](2025-05-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.9% | 7.8–10.2% | 7.5–10.5% | 7.3–10.8% | 6.8–11.5% |
+| [21–26 May 2025](2025-05-26-Interview.html) | Interview <br> Politic.gr | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
 | [19–21 May 2025](2025-05-21-OpinionPoll.html) | Opinion Poll <br> Action 24 | 9.5% | 8.4–11.0% | 8.0–11.4% | 7.7–11.7% | 7.2–12.5% |
 | [12–15 May 2025](2025-05-15-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.1–10.7% | 6.6–11.3% |
 | [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8.1% | 7.0–9.3% | 6.7–9.7% | 6.5–10.0% | 6.0–10.6% |
@@ -114,15 +114,15 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.7% | 100% |  |
-| 6.5–7.5% | 7% | 99.3% |  |
-| 7.5–8.5% | 20% | 93% |  |
-| 8.5–9.5% | 27% | 73% | Median |
-| 9.5–10.5% | 21% | 45% |  |
-| 10.5–11.5% | 14% | 24% |  |
+| 5.5–6.5% | 0.4% | 100% |  |
+| 6.5–7.5% | 5% | 99.6% |  |
+| 7.5–8.5% | 19% | 95% |  |
+| 8.5–9.5% | 30% | 76% | Median |
+| 9.5–10.5% | 22% | 46% |  |
+| 10.5–11.5% | 14% | 23% |  |
 | 11.5–12.5% | 7% | 10% |  |
 | 12.5–13.5% | 2% | 3% |  |
-| 13.5–14.5% | 0.4% | 0.4% |  |
+| 13.5–14.5% | 0.3% | 0.4% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -134,12 +134,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [30 May–3 June 2025](2025-06-03-GPO.html) | GPO <br> Star TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 May–3 June 2025](2025-06-03-Alco.html) | Alco <br> Epikaira.gr | 2 | 2 | 2 | 2 | 1–3 |
-| [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
-| [24–27 May 2025](2025-05-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [21–26 May 2025](2025-05-26-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [24–27 May 2025](2025-05-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 1–2 | 1–3 |
+| [21–26 May 2025](2025-05-26-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2 | 2 |
 | [19–21 May 2025](2025-05-21-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [12–15 May 2025](2025-05-15-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2 | 2–3 | 1–3 |
 | [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -235,9 +235,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 81% | 97% | Median |
-| 3 | 17% | 17% |  |
+| 1 | 2% | 100% |  |
+| 2 | 83% | 98% | Median |
+| 3 | 15% | 15% |  |
 | 4 | 0% | 0% |  |
 
 
