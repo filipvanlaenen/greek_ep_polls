@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.7% | 27.5–32.5% | 27.0–33.4% | 26.5–34.1% | 25.5–35.4% |
+| N/A | [Poll Average](average.html) | 30.3% | 28.1–33.0% | 27.6–33.8% | 27.1–34.4% | 26.1–35.6% |
+| [30 May–3 June 2025](2025-06-03-GPO.html) | GPO <br> Star TV | 29.6% | 27.8–31.5% | 27.3–32.0% | 26.9–32.5% | 26.1–33.4% |
+| [29 May–3 June 2025](2025-06-03-Alco.html) | Alco <br> Epikaira.gr | 29.4% | 27.5–31.5% | 26.9–32.1% | 26.4–32.6% | 25.5–33.6% |
+| [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV | 29.7% | N/A | N/A | N/A | N/A |
+| [24–27 May 2025](2025-05-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 28.4% | N/A | N/A | N/A | N/A |
+| [21–26 May 2025](2025-05-26-Interview.html) | Interview <br> Politic.gr | 28.8% | N/A | N/A | N/A | N/A |
 | [19–21 May 2025](2025-05-21-OpinionPoll.html) | Opinion Poll <br> Action 24 | 30.3% | 28.3–32.4% | 27.8–33.0% | 27.3–33.5% | 26.4–34.5% |
 | [12–15 May 2025](2025-05-15-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 30.2% | 28.3–32.1% | 27.8–32.6% | 27.3–33.1% | 26.5–34.0% |
 | [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 32.6% | 30.7–34.6% | 30.1–35.1% | 29.7–35.6% | 28.8–36.6% |
@@ -127,19 +132,19 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.1% | 100% |  |
-| 24.5–25.5% | 0.5% | 99.9% |  |
-| 25.5–26.5% | 2% | 99.4% |  |
-| 26.5–27.5% | 7% | 97% |  |
-| 27.5–28.5% | 15% | 90% |  |
-| 28.5–29.5% | 21% | 75% |  |
-| 29.5–30.5% | 20% | 53% | Median |
-| 30.5–31.5% | 14% | 34% |  |
-| 31.5–32.5% | 9% | 19% |  |
-| 32.5–33.5% | 5% | 10% |  |
-| 33.5–34.5% | 3% | 4% |  |
-| 34.5–35.5% | 1.1% | 2% |  |
-| 35.5–36.5% | 0.3% | 0.4% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0.1% | 100% |  |
+| 25.5–26.5% | 0.9% | 99.8% |  |
+| 26.5–27.5% | 4% | 98.9% |  |
+| 27.5–28.5% | 10% | 95% |  |
+| 28.5–29.5% | 18% | 85% |  |
+| 29.5–30.5% | 21% | 67% | Median |
+| 30.5–31.5% | 19% | 46% |  |
+| 31.5–32.5% | 13% | 27% |  |
+| 32.5–33.5% | 8% | 14% |  |
+| 33.5–34.5% | 4% | 6% |  |
+| 34.5–35.5% | 2% | 2% |  |
+| 35.5–36.5% | 0.5% | 0.6% |  |
 | 36.5–37.5% | 0.1% | 0.1% |  |
 | 37.5–38.5% | 0% | 0% |  |
 
@@ -152,7 +157,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [30 May–3 June 2025](2025-06-03-GPO.html) | GPO <br> Star TV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [29 May–3 June 2025](2025-06-03-Alco.html) | Alco <br> Epikaira.gr | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [24–27 May 2025](2025-05-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [21–26 May 2025](2025-05-26-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [19–21 May 2025](2025-05-21-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [12–15 May 2025](2025-05-15-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
@@ -252,10 +262,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.7% | 100% |  |
-| 6 | 49% | 99.3% |  |
-| 7 | 48% | 50% | Median |
-| 8 | 2% | 2% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 36% | 99.7% |  |
+| 7 | 60% | 64% | Median |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
 
