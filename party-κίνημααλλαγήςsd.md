@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.8% | 12.0–15.5% | 11.6–16.0% | 11.2–16.4% | 10.4–17.1% |
+| N/A | [Poll Average](average.html) | 13.8% | 12.2–15.4% | 11.8–15.9% | 11.4–16.4% | 10.6–17.3% |
+| [10–14 June 2025](2025-06-14-Alco.html) | Alco <br> Alpha TV | 13.0% | 11.5–14.7% | 11.1–15.2% | 10.7–15.6% | 10.1–16.4% |
+| [10–13 June 2025](2025-06-13-GPO.html) | GPO <br> Παραπολιτικά | 14.8% | 13.3–16.5% | 12.9–16.9% | 12.6–17.3% | 11.9–18.2% |
+| [4–9 June 2025](2025-06-09-Interview.html) | Interview <br> Political | 14.1% | 13.0–15.3% | 12.7–15.7% | 12.5–15.9% | 12.0–16.5% |
+| [2–5 June 2025](2025-06-05-OpinionPoll.html) | Opinion Poll <br> Libre | 13.6% | 12.1–15.3% | 11.7–15.8% | 11.4–16.2% | 10.7–17.0% |
 | [30 May–3 June 2025](2025-06-03-GPO.html) | GPO <br> Star TV | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.7–17.3% |
 | [29 May–3 June 2025](2025-06-03-Alco.html) | Alco <br> Epikaira.gr | 12.4% | 11.0–14.0% | 10.7–14.4% | 10.3–14.8% | 9.7–15.6% |
 | [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV | 13.2% | 11.7–14.9% | 11.3–15.4% | 11.0–15.8% | 10.3–16.6% |
@@ -118,15 +122,15 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.7% | 100% |  |
-| 10.5–11.5% | 4% | 99.3% |  |
-| 11.5–12.5% | 13% | 95% |  |
-| 12.5–13.5% | 25% | 82% |  |
-| 13.5–14.5% | 28% | 57% | Median |
-| 14.5–15.5% | 19% | 29% |  |
-| 15.5–16.5% | 8% | 10% |  |
+| 9.5–10.5% | 0.4% | 100% |  |
+| 10.5–11.5% | 3% | 99.6% |  |
+| 11.5–12.5% | 12% | 97% |  |
+| 12.5–13.5% | 26% | 85% |  |
+| 13.5–14.5% | 31% | 58% | Median |
+| 14.5–15.5% | 19% | 27% |  |
+| 15.5–16.5% | 7% | 9% |  |
 | 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.2% | 0.2% |  |
+| 17.5–18.5% | 0.3% | 0.3% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -138,7 +142,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [10–14 June 2025](2025-06-14-Alco.html) | Alco <br> Alpha TV | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [10–13 June 2025](2025-06-13-GPO.html) | GPO <br> Παραπολιτικά | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [4–9 June 2025](2025-06-09-Interview.html) | Interview <br> Political | 3 | 3 | 3 | 3–4 | 3–4 |
+| [2–5 June 2025](2025-06-05-OpinionPoll.html) | Opinion Poll <br> Libre | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [30 May–3 June 2025](2025-06-03-GPO.html) | GPO <br> Star TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29 May–3 June 2025](2025-06-03-Alco.html) | Alco <br> Epikaira.gr | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
@@ -241,8 +249,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 7% | 100% |  |
-| 3 | 85% | 93% | Median |
-| 4 | 8% | 8% |  |
+| 3 | 80% | 93% | Median |
+| 4 | 13% | 13% |  |
 | 5 | 0% | 0% |  |
 
 
