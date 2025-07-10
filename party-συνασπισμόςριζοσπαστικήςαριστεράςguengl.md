@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 4.4–7.1% | 4.0–7.5% | 3.8–7.8% | 3.4–8.4% |
+| N/A | [Poll Average](average.html) | 6.0% | 3.8–7.6% | 3.4–8.1% | 3.1–8.5% | 2.8–9.2% |
+| [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 5.5% | 4.6–6.7% | 4.4–7.0% | 4.2–7.3% | 3.8–7.9% |
+| [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.6% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.7–9.9% |
+| [18–24 June 2025](2025-06-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
+| [19–23 June 2025](2025-06-23-Interview.html) | Interview <br> Politic.gr | 3.5% | 3.0–4.2% | 2.8–4.4% | 2.7–4.5% | 2.5–4.9% |
+| [11–20 June 2025](2025-06-20-MRB.html) | MRB <br> Open TV | 6.3% | 5.6–7.2% | 5.4–7.4% | 5.2–7.6% | 4.9–8.1% |
 | [10–14 June 2025](2025-06-14-Alco.html) | Alco <br> Alpha TV | 6.1% | 5.1–7.4% | 4.8–7.7% | 4.6–8.0% | 4.1–8.7% |
 | [10–13 June 2025](2025-06-13-GPO.html) | GPO <br> Παραπολιτικά | 6.1% | 5.1–7.2% | 4.9–7.6% | 4.6–7.9% | 4.2–8.5% |
 | [4–9 June 2025](2025-06-09-Interview.html) | Interview <br> Political | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.3% | 3.0–5.7% |
@@ -114,15 +119,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.0% | 100% |  |
-| 3.5–4.5% | 11% | 99.0% |  |
-| 4.5–5.5% | 25% | 88% |  |
-| 5.5–6.5% | 39% | 63% | Median |
-| 6.5–7.5% | 20% | 24% |  |
-| 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 7% | 99.9% |  |
+| 3.5–4.5% | 9% | 93% |  |
+| 4.5–5.5% | 17% | 84% |  |
+| 5.5–6.5% | 34% | 67% | Median |
+| 6.5–7.5% | 22% | 32% |  |
+| 7.5–8.5% | 8% | 10% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -133,7 +139,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–24 June 2025](2025-06-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–23 June 2025](2025-06-23-Interview.html) | Interview <br> Politic.gr | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–20 June 2025](2025-06-20-MRB.html) | MRB <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–14 June 2025](2025-06-14-Alco.html) | Alco <br> Alpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–13 June 2025](2025-06-13-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–9 June 2025](2025-06-09-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 1 |
@@ -237,9 +248,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 82% | 100% | Median |
-| 2 | 18% | 18% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 74% | 97% | Median |
+| 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
 
