@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–3.1% | 1.3–3.5% | 1.2–3.8% | 1.0–4.3% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.6–3.3% | 1.4–3.6% | 1.3–3.8% | 1.0–4.4% |
+| [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 2.3% | 1.8–3.2% | 1.6–3.4% | 1.5–3.6% | 1.3–4.0% |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.7% | 1.2–2.4% | 1.1–2.6% | 1.0–2.8% | 0.8–3.2% |
 | [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [18–24 June 2025](2025-06-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.1% | 2.5–3.9% | 2.4–4.2% | 2.2–4.4% | 2.0–4.8% |
@@ -118,10 +119,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 61% | 87% | Median |
-| 2.5–3.5% | 22% | 27% |  |
-| 3.5–4.5% | 4% | 4% |  |
+| 0.5–1.5% | 9% | 100% |  |
+| 1.5–2.5% | 58% | 91% | Median |
+| 2.5–3.5% | 28% | 33% |  |
+| 3.5–4.5% | 5% | 5% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -135,6 +136,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0–1 |
 | [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [18–24 June 2025](2025-06-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -243,8 +245,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 11% | 11% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 14% | 14% |  |
 | 2 | 0% | 0% |  |
 
 
