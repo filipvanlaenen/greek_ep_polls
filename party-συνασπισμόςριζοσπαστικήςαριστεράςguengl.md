@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 3.7–8.4% | 3.3–9.0% | 3.1–9.4% | 2.8–10.2% |
+| N/A | [Poll Average](average.html) | 6.3% | 3.7–8.5% | 3.3–9.0% | 3.1–9.4% | 2.8–10.2% |
+| [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 6.3% | 5.3–7.5% | 5.0–7.8% | 4.8–8.2% | 4.3–8.8% |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 8.2% | 7.1–9.5% | 6.8–9.9% | 6.5–10.2% | 6.0–10.9% |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 5.5% | 4.6–6.7% | 4.4–7.0% | 4.2–7.3% | 3.8–7.9% |
 | [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.6% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.7–9.9% |
@@ -123,10 +124,10 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0.1% | 100% |  |
 | 2.5–3.5% | 8% | 99.9% |  |
 | 3.5–4.5% | 10% | 92% |  |
-| 4.5–5.5% | 13% | 82% |  |
-| 5.5–6.5% | 26% | 69% | Median |
-| 6.5–7.5% | 20% | 43% |  |
-| 7.5–8.5% | 14% | 23% |  |
+| 4.5–5.5% | 14% | 82% |  |
+| 5.5–6.5% | 24% | 67% | Median |
+| 6.5–7.5% | 20% | 44% |  |
+| 7.5–8.5% | 15% | 24% |  |
 | 8.5–9.5% | 7% | 9% |  |
 | 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
@@ -142,6 +143,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -252,8 +254,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% | Last Result |
-| 1 | 59% | 97% | Median |
-| 2 | 37% | 37% |  |
+| 1 | 60% | 97% | Median |
+| 2 | 36% | 36% |  |
 | 3 | 0% | 0% |  |
 
 

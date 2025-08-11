@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.8% | 12.3–15.2% | 11.9–15.7% | 11.6–16.0% | 10.9–16.7% |
+| N/A | [Poll Average](average.html) | 13.8% | 12.3–15.3% | 11.9–15.8% | 11.5–16.2% | 10.9–17.0% |
+| [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 14.0% | 12.5–15.7% | 12.1–16.2% | 11.8–16.6% | 11.1–17.5% |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 13.5% | 12.1–15.1% | 11.7–15.5% | 11.3–15.9% | 10.7–16.7% |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 13.9% | 12.5–15.6% | 12.1–16.1% | 11.8–16.5% | 11.1–17.3% |
 | [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.7% | 10.9–16.4% |
@@ -130,12 +131,12 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.2% | 100% |  |
 | 10.5–11.5% | 2% | 99.8% |  |
-| 11.5–12.5% | 11% | 98% |  |
-| 12.5–13.5% | 27% | 87% |  |
-| 13.5–14.5% | 34% | 59% | Median |
-| 14.5–15.5% | 19% | 25% |  |
-| 15.5–16.5% | 5% | 6% |  |
-| 16.5–17.5% | 0.7% | 0.8% |  |
+| 11.5–12.5% | 12% | 97% |  |
+| 12.5–13.5% | 27% | 86% |  |
+| 13.5–14.5% | 32% | 58% | Median |
+| 14.5–15.5% | 19% | 26% |  |
+| 15.5–16.5% | 6% | 7% |  |
+| 16.5–17.5% | 1.0% | 1.2% |  |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
@@ -148,7 +149,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–4 | 2–4 |
+| [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3 | 3 | 2–3 | 2–4 |
