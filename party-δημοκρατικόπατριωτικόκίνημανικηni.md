@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.2–4.1% | 2.0–4.4% | 1.8–4.7% | 1.5–5.1% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.3–3.9% | 1.2–4.2% | 1.1–4.4% | 0.9–4.9% |
+| [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr | 1.3% | 1.1–1.7% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 2.4% | 1.8–3.2% | 1.7–3.5% | 1.5–3.7% | 1.3–4.1% |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 2.9% | 2.3–3.8% | 2.1–4.1% | 2.0–4.3% | 1.7–4.8% |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.5% | 1.9–5.0% |
@@ -120,12 +121,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.6% | 100% |  |
-| 1.5–2.5% | 25% | 99.4% |  |
-| 2.5–3.5% | 46% | 74% | Median |
-| 3.5–4.5% | 25% | 28% |  |
-| 4.5–5.5% | 3% | 3% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 17% | 100% |  |
+| 1.5–2.5% | 22% | 83% |  |
+| 2.5–3.5% | 41% | 62% | Median |
+| 3.5–4.5% | 18% | 20% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -138,6 +139,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr | 0 | 0 | 0 | 0 | 0 |
 | [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -248,8 +250,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 52% | 100% | Last Result, Median |
-| 1 | 48% | 48% |  |
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 40% | 40% |  |
 | 2 | 0% | 0% |  |
 
 

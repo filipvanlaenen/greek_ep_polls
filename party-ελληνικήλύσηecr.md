@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.1–12.0% | 7.8–12.7% | 7.5–13.2% | 7.0–14.1% |
+| N/A | [Poll Average](average.html) | 10.4% | 8.7–12.2% | 8.3–12.8% | 7.9–13.3% | 7.2–14.2% |
+| [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr | 10.2% | 9.4–11.1% | 9.2–11.3% | 9.0–11.5% | 8.7–11.9% |
 | [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 11.8% | 10.4–13.4% | 10.0–13.8% | 9.7–14.2% | 9.1–15.0% |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 10.5% | 9.3–12.0% | 8.9–12.4% | 8.6–12.8% | 8.1–13.5% |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 10.5% | 9.2–11.9% | 8.9–12.4% | 8.6–12.7% | 8.0–13.5% |
@@ -125,16 +126,16 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 3% | 99.9% |  |
-| 7.5–8.5% | 16% | 97% |  |
-| 8.5–9.5% | 25% | 81% |  |
-| 9.5–10.5% | 22% | 57% | Median |
-| 10.5–11.5% | 18% | 34% |  |
-| 11.5–12.5% | 10% | 16% |  |
-| 12.5–13.5% | 4% | 6% |  |
-| 13.5–14.5% | 1.2% | 1.4% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 1.1% | 100% |  |
+| 7.5–8.5% | 7% | 98.9% |  |
+| 8.5–9.5% | 17% | 92% |  |
+| 9.5–10.5% | 30% | 75% | Median |
+| 10.5–11.5% | 25% | 45% |  |
+| 11.5–12.5% | 13% | 20% |  |
+| 12.5–13.5% | 5% | 7% |  |
+| 13.5–14.5% | 1.4% | 2% |  |
+| 14.5–15.5% | 0.2% | 0.3% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
 
@@ -147,6 +148,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr | 2 | 2 | 2 | 2–3 | 2–3 |
 | [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -258,9 +260,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.0% | 100% |  |
-| 2 | 78% | 99.0% | Median |
-| 3 | 21% | 21% |  |
+| 1 | 0.5% | 100% |  |
+| 2 | 74% | 99.5% | Median |
+| 3 | 25% | 25% |  |
 | 4 | 0% | 0% |  |
 
 

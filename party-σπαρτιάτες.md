@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.0–2.2% | 0.9–2.4% | 0.8–2.6% | 0.6–3.0% |
+| N/A | [Poll Average](average.html) | 1.6% | 1.0–2.3% | 0.8–2.5% | 0.7–2.7% | 0.6–3.1% |
+| [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 0.0% | N/A | N/A | N/A | N/A |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.2% | 0.8–1.8% | 0.7–2.0% | 0.7–2.2% | 0.5–2.6% |
@@ -119,11 +120,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 48% | 99.8% |  |
-| 1.5–2.5% | 48% | 51% | Median |
-| 2.5–3.5% | 3% | 3% |  |
+| 0.0–0.5% | 0.4% | 100% | Last Result |
+| 0.5–1.5% | 46% | 99.6% |  |
+| 1.5–2.5% | 49% | 53% | Median |
+| 2.5–3.5% | 5% | 5% |  |
 | 3.5–4.5% | 0% | 0% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -135,6 +137,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb |  |  |  |  |  |
 | [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
