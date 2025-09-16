@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2.1% | 1.3–2.8% | 1.2–3.0% | 1.1–3.2% | 0.9–3.6% |
 | [8–10 September 2025](2025-09-10-Opinion.html) | Opinion <br> Action 24 | 1.6% | 1.2–2.4% | 1.0–2.6% | 0.9–2.8% | 0.7–3.2% |
 | [8–10 September 2025](2025-09-10-Interview.html) | Interview <br> Political | 2.5% | 2.2–3.0% | 2.1–3.1% | 2.0–3.2% | 1.9–3.4% |
+| [8–10 September 2025](2025-09-10-GPO.html) | GPO <br> Parapolitika | 1.8% | 1.3–2.5% | 1.1–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr | 2.1% | 1.8–2.5% | 1.6–2.6% | 1.6–2.8% | 1.4–3.0% |
 | [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 1.8% | 1.3–2.5% | 1.2–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 2.3% | 1.8–3.2% | 1.6–3.4% | 1.5–3.6% | 1.3–4.0% |
@@ -141,6 +142,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [8–10 September 2025](2025-09-10-Opinion.html) | Opinion <br> Action 24 | 0 | 0 | 0 | 0 | 0–1 |
 | [8–10 September 2025](2025-09-10-Interview.html) | Interview <br> Political | 0 | 0 | 0 | 0–1 | 0–1 |
+| [8–10 September 2025](2025-09-10-GPO.html) | GPO <br> Parapolitika | 0 | 0 | 0 | 0 | 0–1 |
 | [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr | 0 | 0 | 0 | 0 | 0 |
 | [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0 | 0 | 0 | 0–1 |
 | [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
