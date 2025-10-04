@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.5% | 0.5–2.1% | 0.3–2.2% | 0.3–2.4% | 0.2–2.8% |
+| [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
@@ -150,6 +151,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |

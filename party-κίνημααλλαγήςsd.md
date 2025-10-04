@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.9% | 12.2–16.0% | 11.8–16.5% | 11.5–16.9% | 10.8–17.6% |
+| N/A | [Poll Average](average.html) | 13.9% | 12.3–16.0% | 11.9–16.5% | 11.5–16.9% | 10.9–17.6% |
+| [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV | 14.2% | 12.7–16.0% | 12.2–16.5% | 11.8–16.9% | 11.1–17.8% |
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 16.1% | 15.2–17.1% | 14.9–17.3% | 14.7–17.6% | 14.3–18.1% |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 13.2% | 11.8–14.7% | 11.4–15.2% | 11.1–15.5% | 10.5–16.3% |
@@ -145,12 +146,12 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.2% | 100% |  |
-| 10.5–11.5% | 3% | 99.8% |  |
+| 10.5–11.5% | 2% | 99.8% |  |
 | 11.5–12.5% | 12% | 97% |  |
-| 12.5–13.5% | 25% | 85% |  |
-| 13.5–14.5% | 26% | 60% | Median |
-| 14.5–15.5% | 17% | 34% |  |
-| 15.5–16.5% | 11% | 16% |  |
+| 12.5–13.5% | 25% | 86% |  |
+| 13.5–14.5% | 26% | 61% | Median |
+| 14.5–15.5% | 18% | 34% |  |
+| 15.5–16.5% | 12% | 16% |  |
 | 16.5–17.5% | 4% | 5% |  |
 | 17.5–18.5% | 0.5% | 0.6% |  |
 | 18.5–19.5% | 0% | 0% |  |
@@ -165,6 +166,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3 | 3 | 2–3 | 2–3 | 2–4 |

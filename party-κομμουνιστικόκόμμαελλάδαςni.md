@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 7.0–9.9% | 6.7–10.4% | 6.4–10.8% | 5.9–11.5% |
+| N/A | [Poll Average](average.html) | 8.3% | 7.1–9.9% | 6.7–10.4% | 6.5–10.8% | 5.9–11.6% |
+| [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV | 8.7% | 7.5–10.2% | 7.2–10.6% | 6.9–11.0% | 6.4–11.8% |
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 9.6% | 8.5–10.9% | 8.2–11.3% | 8.0–11.6% | 7.5–12.3% |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 7.4% | 6.8–8.1% | 6.6–8.3% | 6.4–8.5% | 6.1–8.8% |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 9.2% | 8.1–10.5% | 7.7–10.9% | 7.5–11.3% | 7.0–11.9% |
@@ -141,10 +142,10 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% |  |
 | 5.5–6.5% | 3% | 99.8% |  |
-| 6.5–7.5% | 21% | 97% |  |
-| 7.5–8.5% | 35% | 76% | Median |
-| 8.5–9.5% | 26% | 41% |  |
-| 9.5–10.5% | 12% | 15% |  |
+| 6.5–7.5% | 20% | 97% |  |
+| 7.5–8.5% | 34% | 77% | Median |
+| 8.5–9.5% | 27% | 43% |  |
+| 9.5–10.5% | 12% | 16% |  |
 | 10.5–11.5% | 3% | 4% |  |
 | 11.5–12.5% | 0.5% | 0.5% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -159,6 +160,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2 | 2 | 2 | 2 | 1–3 |
@@ -287,7 +289,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 11% | 100% |  |
 | 2 | 88% | 89% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 3 | 1.3% | 1.3% |  |
 | 4 | 0% | 0% |  |
 
 
