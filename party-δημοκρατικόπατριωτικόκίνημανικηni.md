@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 1.2% | 1.0–1.5% | 0.9–1.6% | 0.8–1.7% | 0.7–1.9% |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2.3% | 1.8–3.1% | 1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 2.5% | N/A | N/A | N/A | N/A |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 2.5% | 1.9–3.3% | 1.7–3.6% | 1.6–3.8% | 1.4–4.2% |
 | [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 3.1% | 2.4–4.1% | 2.2–4.3% | 2.1–4.6% | 1.8–5.1% |
 | [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 1.9–4.6% |
 | [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -170,7 +170,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 0 | 0 | 0 | 0 | 0 |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion |  |  |  |  |  |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0 | 0 | 0 | 0–1 | 0–1 |

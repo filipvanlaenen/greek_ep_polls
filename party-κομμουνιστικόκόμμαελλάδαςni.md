@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 9.6% | 8.5–10.9% | 8.2–11.3% | 8.0–11.6% | 7.5–12.3% |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 7.4% | 6.8–8.1% | 6.6–8.3% | 6.4–8.5% | 6.1–8.8% |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 9.2% | 8.1–10.5% | 7.7–10.9% | 7.5–11.3% | 7.0–11.9% |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 8.8% | N/A | N/A | N/A | N/A |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 8.8% | 7.7–10.2% | 7.3–10.6% | 7.1–11.0% | 6.5–11.7% |
 | [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 8.1% | 7.0–9.5% | 6.7–9.9% | 6.4–10.3% | 5.9–11.0% |
 | [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.4% | 7.5–9.7% | 7.2–10.0% | 7.0–10.3% | 6.6–10.9% |
 | [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 8.2% | 7.1–9.4% | 6.9–9.7% | 6.6–10.0% | 6.2–10.6% |
@@ -178,7 +178,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2 | 2 | 2 | 2 | 1–3 |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion |  |  |  |  |  |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 2 | 2 | 2 | 2–3 | 1–3 |
 | [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 1–2 |
 | [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2 | 1–2 | 1–2 |

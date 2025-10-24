@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 4.2% | 3.7–4.8% | 3.6–4.9% | 3.5–5.1% | 3.3–5.3% |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.7% | 3.9–5.7% | 3.6–6.0% | 3.5–6.2% | 3.1–6.8% |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 4.2% | N/A | N/A | N/A | N/A |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 4.2% | 3.4–5.2% | 3.2–5.5% | 3.0–5.8% | 2.7–6.3% |
 | [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 4.1% | 3.3–5.2% | 3.1–5.5% | 2.9–5.8% | 2.6–6.3% |
 | [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.6% | 2.9–4.4% | 2.8–4.6% | 2.6–4.8% | 2.3–5.2% |
 | [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
@@ -173,7 +173,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 1 | 1 | 1 | 0–2 |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion |  |  |  |  |  |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 1 | 1 | 1 | 1 | 0–1 |
 | [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 0–1 | 0–1 |
 | [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 0–1 |

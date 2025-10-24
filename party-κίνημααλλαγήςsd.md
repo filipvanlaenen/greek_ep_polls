@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 16.1% | 15.2–17.1% | 14.9–17.3% | 14.7–17.6% | 14.3–18.1% |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 13.2% | 11.8–14.7% | 11.4–15.2% | 11.1–15.5% | 10.5–16.3% |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 13.6% | N/A | N/A | N/A | N/A |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 13.6% | 12.2–15.3% | 11.8–15.7% | 11.4–16.1% | 10.8–16.9% |
 | [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 13.7% | 12.2–15.4% | 11.8–15.8% | 11.4–16.3% | 10.7–17.1% |
 | [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 13.9% | 12.7–15.4% | 12.4–15.8% | 12.1–16.2% | 11.5–16.8% |
 | [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 13.6% | 12.3–15.1% | 11.9–15.5% | 11.6–15.9% | 11.0–16.6% |
@@ -184,7 +184,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3 | 3 | 2–3 | 2–3 | 2–4 |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion |  |  |  |  |  |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3 | 3 | 3 | 2–4 |
