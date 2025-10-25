@@ -178,7 +178,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2 | 2 | 2 | 2 | 1–3 |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 2 | 2 | 2 | 2–3 | 1–3 |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 2 | 2 | 2 | 2 | 1–3 |
 | [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2 | 1–2 |
 | [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2 | 1–2 | 1–2 |

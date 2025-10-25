@@ -197,12 +197,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [13–15 October 2025](2025-10-15-MRB.html) | MRB <br> Open TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [8–11 October 2025](2025-10-11-GPO.html) | GPO <br> Parapolitika | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [7–10 October 2025](2025-10-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [1–8 October 2025](2025-10-08-Interview.html) | Interview <br> Political | 7 | 7 | 7 | 7 | 6–7 |
+| [1–8 October 2025](2025-10-08-Interview.html) | Interview <br> Political | 7 | 7 | 7 | 6–7 | 6–7 |
 | [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 6 | 6–7 | 6–7 | 5–7 |
@@ -332,7 +332,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 1.3% | 100% |  |
 | 6 | 47% | 98.7% |  |
-| 7 | 48% | 52% | Median |
+| 7 | 48% | 51% | Median |
 | 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 

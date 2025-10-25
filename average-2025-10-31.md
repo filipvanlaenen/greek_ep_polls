@@ -15,7 +15,7 @@ The table below lists the polls on which the average is based. They are the most
 | [13–15 October 2025](2025-10-15-MRB.html) | MRB <br> Open TV | 3–6% <br> 1 | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 25–31% <br> 6–7 | N/A <br> N/A | 10–15% <br> 2–3 | 4–7% <br> 1–2 | N/A <br> N/A | 7–11% <br> 2 | 1–3% <br> 0 | 8–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–11 October 2025](2025-10-11-GPO.html) | GPO <br> Parapolitika | 4–7% <br> 1–2 | N/A <br> N/A | 2–4% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 26–32% <br> 5–7 | N/A <br> N/A | 10–14% <br> 2–3 | 2–5% <br> 0–1 | N/A <br> N/A | 7–11% <br> 2–3 | 2–4% <br> 0–1 | 7–11% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–10 October 2025](2025-10-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3–6% <br> 1 | N/A <br> N/A | 2–5% <br> 0–1 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 27–33% <br> 6–7 | N/A <br> N/A | 9–13% <br> 2–3 | 3–6% <br> 0–1 | N/A <br> N/A | 6–10% <br> 1–2 | 2–4% <br> 0–1 | 9–13% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–8 October 2025](2025-10-08-Interview.html) | Interview <br> Political | 3–5% <br> 1 | N/A <br> N/A | 4–6% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 14–17% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 30–33% <br> 7 | N/A <br> N/A | 7–9% <br> 2 | 4–5% <br> 1 | N/A <br> N/A | 6–7% <br> 1–2 | 1–2% <br> 0 | 6–7% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–8 October 2025](2025-10-08-Interview.html) | Interview <br> Political | 3–5% <br> 1 | N/A <br> N/A | 4–6% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 14–17% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 1 | 30–33% <br> 6–7 | N/A <br> N/A | 7–9% <br> 2 | 4–5% <br> 1 | N/A <br> N/A | 6–7% <br> 1–2 | 1–2% <br> 0 | 6–7% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV | 6–10% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 12–17% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 26–33% <br> 6–7 | N/A <br> N/A | 9–14% <br> 2–3 | 3–6% <br> 1 | N/A <br> N/A | 7–11% <br> 1–2 | 2–4% <br> 0–1 | 7–11% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -348,7 +348,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#συνασπισμός-ριζοσπαστικής-αριστεράς-(gue/ngl)">Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 0–2 |
+| <a href="#συνασπισμός-ριζοσπαστικής-αριστεράς-(gue/ngl)">Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#λαϊκή-ενότητα-(gue/ngl)">Λαϊκή Ενότητα (GUE/NGL)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#μέτωπο-ευρωπαϊκής-ρεαλιστικής-ανυπακοής-(gue/ngl)">Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL)</a> | 0 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#νέα-αριστερά-(gue/ngl)">Νέα Αριστερά (GUE/NGL)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
@@ -402,8 +402,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 43% | 100% | Last Result |
-| 1 | 57% | 57% | Median |
-| 2 | 0% | 0% |  |
+| 1 | 56% | 57% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Νέα Αριστερά (GUE/NGL)
 
@@ -440,8 +441,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 87% | 98% | Median |
-| 4 | 11% | 11% |  |
+| 3 | 86% | 98% | Median |
+| 4 | 12% | 12% |  |
 | 5 | 0% | 0% |  |
 
 ### Δημοκράτες (RE)
@@ -483,7 +484,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 1.3% | 100% |  |
 | 6 | 47% | 98.7% |  |
-| 7 | 48% | 52% | Median |
+| 7 | 48% | 51% | Median |
 | 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
@@ -562,8 +563,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 11% | 100% |  |
-| 2 | 77% | 89% | Median |
+| 1 | 12% | 100% |  |
+| 2 | 77% | 88% | Median |
 | 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
@@ -625,7 +626,7 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Νέα Δημοκρατία (EPP) | 0 | 7 | 0% | 6–7 | 6–7 | 6–8 | 5–8 |
-| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI) – Πλεύση Ελευθερίας (NI) – Χρυσή Αυγή (NI) | 0 | 4 | 0% | 3–5 | 3–5 | 2–5 | 2–6 |
+| Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI) – Κομμουνιστικό Κόμμα Ελλάδας (NI) – Πλεύση Ελευθερίας (NI) – Χρυσή Αυγή (NI) | 0 | 4 | 0% | 3–5 | 2–5 | 2–5 | 2–6 |
 | Κίνημα Αλλαγής (S&D) – Το Ποτάμι (S&D) | 0 | 3 | 0% | 3–4 | 3–4 | 3–4 | 2–4 |
 | Ανεξάρτητοι Έλληνες (ECR) – Ελληνική Λύση (ECR) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Λαϊκή Ενότητα (GUE/NGL) – Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL) – Νέα Αριστερά (GUE/NGL) – Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL) | 0 | 2 | 0% | 1–2 | 1–3 | 1–3 | 1–3 |
@@ -647,7 +648,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 1.3% | 100% |  |
 | 6 | 47% | 98.7% |  |
-| 7 | 48% | 52% | Median |
+| 7 | 48% | 51% | Median |
 | 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
@@ -659,8 +660,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 4% | 100% |  |
-| 3 | 15% | 96% |  |
+| 2 | 5% | 100% |  |
+| 3 | 14% | 95% |  |
 | 4 | 49% | 80% | Median |
 | 5 | 31% | 32% |  |
 | 6 | 1.2% | 1.2% |  |
@@ -675,8 +676,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 87% | 98% | Median |
-| 4 | 11% | 11% |  |
+| 3 | 86% | 98% | Median |
+| 4 | 12% | 12% |  |
 | 5 | 0% | 0% |  |
 
 ### Ανεξάρτητοι Έλληνες (ECR) – Ελληνική Λύση (ECR)
@@ -748,6 +749,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 13,631,488
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 14,680,064
 + **Error estimate:** 2.94%
