@@ -179,7 +179,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [17–20 October 2025](2025-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3 | 3 | 3 | 2–4 |
+| [17–20 October 2025](2025-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [14–20 October 2025](2025-10-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3 | 3 | 2–3 | 2–3 |
 | [13–17 October 2025](2025-10-17-Marc.html) | Marc <br> ANT1 | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [13–15 October 2025](2025-10-15-MRB.html) | MRB <br> Open TV | 3 | 3 | 3 | 3–4 | 2–4 |

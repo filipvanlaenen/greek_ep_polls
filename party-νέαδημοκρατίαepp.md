@@ -197,7 +197,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [17–20 October 2025](2025-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [17–20 October 2025](2025-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [14–20 October 2025](2025-10-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [13–17 October 2025](2025-10-17-Marc.html) | Marc <br> ANT1 | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [13–15 October 2025](2025-10-15-MRB.html) | MRB <br> Open TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
@@ -337,8 +337,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
-| 6 | 56% | 98% | Median |
-| 7 | 38% | 42% |  |
+| 6 | 58% | 98% | Median |
+| 7 | 37% | 40% |  |
 | 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
