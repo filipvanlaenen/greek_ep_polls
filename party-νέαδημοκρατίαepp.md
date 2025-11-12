@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.4% | 27.2–32.4% | 26.6–33.4% | 26.0–34.2% | 25.0–35.6% |
+| N/A | [Poll Average](average.html) | 29.4% | 27.2–32.3% | 26.6–33.3% | 26.1–34.1% | 25.0–35.5% |
+| [29 October–2 November 2025](2025-11-02-Alco.html) | Alco <br> Alpha TV | 29.7% | 27.6–32.0% | 27.0–32.6% | 26.4–33.2% | 25.5–34.3% |
 | [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 28.1% | 26.0–30.2% | 25.5–30.8% | 25.0–31.3% | 24.1–32.4% |
 | [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 29.6% | 28.5–30.7% | 28.2–31.1% | 27.9–31.4% | 27.3–31.9% |
 | [17–20 October 2025](2025-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.1% | 27.2–31.1% | 26.7–31.7% | 26.3–32.1% | 25.4–33.1% |
@@ -171,16 +172,16 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.2% | 100% |  |
 | 24.5–25.5% | 1.0% | 99.8% |  |
-| 25.5–26.5% | 4% | 98.7% |  |
+| 25.5–26.5% | 4% | 98.8% |  |
 | 26.5–27.5% | 9% | 95% |  |
-| 27.5–28.5% | 17% | 86% |  |
-| 28.5–29.5% | 23% | 69% | Median |
-| 29.5–30.5% | 19% | 46% |  |
-| 30.5–31.5% | 11% | 27% |  |
+| 27.5–28.5% | 16% | 86% |  |
+| 28.5–29.5% | 23% | 70% | Median |
+| 29.5–30.5% | 20% | 47% |  |
+| 30.5–31.5% | 12% | 28% |  |
 | 31.5–32.5% | 7% | 16% |  |
 | 32.5–33.5% | 4% | 9% |  |
-| 33.5–34.5% | 3% | 5% |  |
-| 34.5–35.5% | 1.2% | 2% |  |
+| 33.5–34.5% | 3% | 4% |  |
+| 34.5–35.5% | 1.1% | 2% |  |
 | 35.5–36.5% | 0.4% | 0.5% |  |
 | 36.5–37.5% | 0.1% | 0.1% |  |
 | 37.5–38.5% | 0% | 0% |  |
@@ -195,6 +196,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [29 October–2 November 2025](2025-11-02-Alco.html) | Alco <br> Alpha TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [17–20 October 2025](2025-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -337,9 +339,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
-| 6 | 58% | 98% | Median |
-| 7 | 37% | 40% |  |
-| 8 | 4% | 4% |  |
+| 6 | 57% | 98% | Median |
+| 7 | 38% | 42% |  |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
 
