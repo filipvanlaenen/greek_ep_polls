@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Nov 2025 17:53:20 +0100</pubDate>
+    <pubDate>Sat, 22 Nov 2025 19:01:31 +0100</pubDate>
     <item>
       <title>Opinion Poll by MRB for Open TV, 18–20 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-20-MRB.html#seats</link>
@@ -128,6 +128,66 @@
         type="image/png"/>
       <pubDate>Sat, 22 Nov 2025 17:53:20 +0100</pubDate>
       <dc:date>2025-11-22T17:53:20.720894+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Real Polls for Protagon, 9–10 November 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-RealPolls.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Δημοκρατίας (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-RealPolls-seats.png"
+        length="296476"
+        type="image/png"/>
+      <pubDate>Sat, 22 Nov 2025 18:39:21 +0100</pubDate>
+      <dc:date>2025-11-22T18:39:21.081381+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Real Polls for Protagon, 9–10 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-RealPolls.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-RealPolls-coalitions-seats.png"
+        length="179919"
+        type="image/png"/>
+      <pubDate>Sat, 22 Nov 2025 18:39:21 +0100</pubDate>
+      <dc:date>2025-11-22T18:39:21.081381+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Real Polls for Protagon, 9–10 November 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-RealPolls.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 6.5–9.3%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 3.5–5.7%&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 4.4–6.8%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 1.3–2.7%&lt;/li&gt;&lt;li&gt;Κίνημα Δημοκρατίας (RE): 1.8–3.5%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 3.1–5.2%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 1.3–2.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 8.0–11.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 6.3–9.1%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 28.3–33.2%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 11.1–14.6%&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 1.0–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-RealPolls.png"
+        length="387821"
+        type="image/png"/>
+      <pubDate>Sat, 22 Nov 2025 18:39:21 +0100</pubDate>
+      <dc:date>2025-11-22T18:39:21.081381+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 6–10 November 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Κίνημα Δημοκρατίας (RE): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-Interview-seats.png"
+        length="275915"
+        type="image/png"/>
+      <pubDate>Sat, 22 Nov 2025 19:01:31 +0100</pubDate>
+      <dc:date>2025-11-22T19:01:31.434436+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 6–10 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-Interview-coalitions-seats.png"
+        length="185015"
+        type="image/png"/>
+      <pubDate>Sat, 22 Nov 2025 19:01:31 +0100</pubDate>
+      <dc:date>2025-11-22T19:01:31.434436+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Politic.gr, 6–10 November 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 4.9–6.7%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 1.0–1.9%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 3.0–4.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 7.3–9.5%&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 5.5–7.5%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 1.2–2.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 7.1–9.2%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 28.1–31.7%&lt;/li&gt;&lt;li&gt;Κίνημα Δημοκρατίας (RE): 4.2–5.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 13.6–16.4%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 4.2–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-11-10-Interview.png"
+        length="353109"
+        type="image/png"/>
+      <pubDate>Sat, 22 Nov 2025 19:01:31 +0100</pubDate>
+      <dc:date>2025-11-22T19:01:31.434436+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Alco for Alpha TV, 29 October–2 November 2025 – Seat Projections for the Parties</title>
@@ -1569,6 +1629,6 @@
       <pubDate>Sat, 14 Jun 2025 15:13:34 +0200</pubDate>
       <dc:date>2025-06-14T15:13:34.285629+02:00</dc:date>
     </item>
-    <dc:date>2025-11-22T17:53:20.720894+01:00</dc:date>
+    <dc:date>2025-11-22T19:01:31.434436+01:00</dc:date>
   </channel>
 </rss>
