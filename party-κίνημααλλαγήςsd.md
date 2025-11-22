@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.9% | 12.4–15.7% | 11.9–16.2% | 11.6–16.7% | 10.9–17.7% |
+| N/A | [Poll Average](average.html) | 13.9% | 12.2–15.6% | 11.8–16.1% | 11.5–16.6% | 10.9–17.6% |
 | [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV | 13.5% | 12.0–15.2% | 11.6–15.7% | 11.2–16.1% | 10.5–16.9% |
 | [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14.0% | 12.6–15.6% | 12.2–16.0% | 11.9–16.4% | 11.3–17.2% |
 | [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.7% | 10.9–16.5% |
 | [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 | 13.7% | 12.2–15.3% | 11.8–15.7% | 11.5–16.1% | 10.9–16.9% |
-| [9–10 November 2025](2025-11-10-RealPolls.html) | Real Polls <br> Protagon | 12.7% | N/A | N/A | N/A | N/A |
-| [6–10 November 2025](2025-11-10-Interview.html) | Interview <br> Politic.gr | 14.9% | N/A | N/A | N/A | N/A |
+| [9–10 November 2025](2025-11-10-RealPolls.html) | Real Polls <br> Protagon | 12.7% | 11.6–13.9% | 11.3–14.3% | 11.1–14.6% | 10.6–15.2% |
+| [6–10 November 2025](2025-11-10-Interview.html) | Interview <br> Politic.gr | 14.9% | 14.0–15.9% | 13.8–16.2% | 13.6–16.4% | 13.2–16.9% |
 | [29 October–2 November 2025](2025-11-02-Alco.html) | Alco <br> Alpha TV | 14.9% | 13.2–16.7% | 12.8–17.2% | 12.4–17.7% | 11.7–18.6% |
 | [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 13.0% | 11.5–14.7% | 11.1–15.1% | 10.8–15.6% | 10.1–16.4% |
 | [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 16.1% | 15.2–17.0% | 15.0–17.3% | 14.7–17.5% | 14.3–18.0% |
@@ -163,14 +163,14 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.2% | 100% |  |
-| 10.5–11.5% | 2% | 99.8% |  |
-| 11.5–12.5% | 11% | 98% |  |
-| 12.5–13.5% | 25% | 87% |  |
-| 13.5–14.5% | 30% | 62% | Median |
-| 14.5–15.5% | 20% | 31% |  |
-| 15.5–16.5% | 9% | 12% |  |
-| 16.5–17.5% | 3% | 3% |  |
-| 17.5–18.5% | 0.6% | 0.7% |  |
+| 10.5–11.5% | 3% | 99.8% |  |
+| 11.5–12.5% | 12% | 97% |  |
+| 12.5–13.5% | 24% | 85% |  |
+| 13.5–14.5% | 28% | 61% | Median |
+| 14.5–15.5% | 22% | 33% |  |
+| 15.5–16.5% | 9% | 11% |  |
+| 16.5–17.5% | 2% | 3% |  |
+| 17.5–18.5% | 0.4% | 0.5% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -188,8 +188,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3 | 3 | 3 | 2–4 |
 | [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [9–10 November 2025](2025-11-10-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
-| [6–10 November 2025](2025-11-10-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [9–10 November 2025](2025-11-10-RealPolls.html) | Real Polls <br> Protagon | 3 | 3 | 3 | 3 | 2–3 |
+| [6–10 November 2025](2025-11-10-Interview.html) | Interview <br> Politic.gr | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [29 October–2 November 2025](2025-11-02-Alco.html) | Alco <br> Alpha TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -329,9 +329,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 87% | 95% | Median |
-| 4 | 9% | 9% |  |
+| 2 | 4% | 100% |  |
+| 3 | 88% | 96% | Median |
+| 4 | 8% | 8% |  |
 | 5 | 0% | 0% |  |
 
 
