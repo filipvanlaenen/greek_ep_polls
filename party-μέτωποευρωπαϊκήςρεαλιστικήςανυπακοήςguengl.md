@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.3% | 2.2–4.6% | 2.0–4.8% | 1.7–5.2% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.4–4.3% | 2.2–4.6% | 2.0–4.8% | 1.7–5.3% |
+| [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV | 2.6% | 2.0–3.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.5% |
+| [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.6% | 3.0–4.6% | 2.8–4.8% | 2.6–5.1% | 2.3–5.6% |
+| [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.6% | 3.0–4.5% | 2.8–4.8% | 2.7–5.0% | 2.4–5.4% |
+| [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3.4% | 2.7–4.3% | 2.5–4.6% | 2.4–4.8% | 2.1–5.3% |
+| [9–10 November 2025](2025-11-10-RealPolls.html) | Real Polls <br> Protagon | 4.0% | N/A | N/A | N/A | N/A |
+| [6–10 November 2025](2025-11-10-Interview.html) | Interview <br> Politic.gr | 5.0% | N/A | N/A | N/A | N/A |
 | [29 October–2 November 2025](2025-11-02-Alco.html) | Alco <br> Alpha TV | 3.0% | 2.3–4.0% | 2.1–4.3% | 2.0–4.5% | 1.7–5.0% |
 | [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 3.1% | 2.4–4.1% | 2.3–4.4% | 2.1–4.6% | 1.8–5.1% |
 | [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 4.3% | 3.8–4.9% | 3.7–5.0% | 3.6–5.2% | 3.4–5.4% |
@@ -147,12 +153,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 16% | 99.7% |  |
-| 2.5–3.5% | 51% | 84% | Median |
-| 3.5–4.5% | 28% | 33% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 13% | 99.8% |  |
+| 2.5–3.5% | 47% | 87% | Median |
+| 3.5–4.5% | 34% | 40% |  |
 | 4.5–5.5% | 5% | 5% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -165,6 +171,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–2 |
+| [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 0–1 |
+| [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–10 November 2025](2025-11-10-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [6–10 November 2025](2025-11-10-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [29 October–2 November 2025](2025-11-02-Alco.html) | Alco <br> Alpha TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
@@ -302,8 +314,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 39% | 100% | Last Result |
-| 1 | 61% | 61% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 30% | 100% | Last Result |
+| 1 | 70% | 70% | Median |
+| 2 | 0.2% | 0.2% |  |
+| 3 | 0% | 0% |  |
 
 
