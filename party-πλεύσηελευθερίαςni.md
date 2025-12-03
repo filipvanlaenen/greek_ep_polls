@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.5% | 6.0–10.3% | 5.6–10.8% | 5.3–11.2% | 4.9–11.9% |
 | [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV | 9.2% | 8.0–10.7% | 7.7–11.2% | 7.4–11.5% | 6.8–12.3% |
+| [12–19 November 2025](2025-11-19-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 9.7% | N/A | N/A | N/A | N/A |
 | [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 8.5% | 7.4–9.8% | 7.1–10.2% | 6.8–10.5% | 6.4–11.2% |
 | [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 9.9% | 8.7–11.2% | 8.4–11.5% | 8.2–11.8% | 7.7–12.5% |
 | [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 | 9.0% | 7.8–10.4% | 7.5–10.7% | 7.2–11.1% | 6.7–11.8% |
@@ -179,6 +180,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [12–19 November 2025](2025-11-19-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος |  |  |  |  |  |
 | [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 1–2 | 1–3 |
 | [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2 | 2 | 2–3 | 2–3 |
 | [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 2 | 2 | 1–2 | 1–3 |
