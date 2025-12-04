@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Nov 2025 19:01:31 +0100</pubDate>
+    <pubDate>Wed, 03 Dec 2025 22:56:45 +0100</pubDate>
     <item>
       <title>Opinion Poll by MRB for Open TV, 18–20 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-20-MRB.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sat, 22 Nov 2025 13:26:17 +0100</pubDate>
       <dc:date>2025-11-22T13:26:17.020204+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for Ελεύθερος Τύπος, 12–19 November 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-19-PalmosAnalysis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Δημοκρατίας (RE): 0 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-11-19-PalmosAnalysis-seats.png"
+        length="320090"
+        type="image/png"/>
+      <pubDate>Wed, 03 Dec 2025 22:56:45 +0100</pubDate>
+      <dc:date>2025-12-03T22:56:45.807972+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for Ελεύθερος Τύπος, 12–19 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-19-PalmosAnalysis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-11-19-PalmosAnalysis-coalitions-seats.png"
+        length="222089"
+        type="image/png"/>
+      <pubDate>Wed, 03 Dec 2025 22:56:45 +0100</pubDate>
+      <dc:date>2025-12-03T22:56:45.807972+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for Ελεύθερος Τύπος, 12–19 November 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2025-11-19-PalmosAnalysis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 7.8–11.9%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 3.5–6.6%&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 3.9–7.0%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 2.5–5.1%&lt;/li&gt;&lt;li&gt;Κίνημα Δημοκρατίας (RE): 1.0–2.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.5–5.1%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 1.0–2.8%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 8.0–12.2%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 8.4–12.6%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 27.0–33.4%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 10.3–15.0%&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 1.2–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2025-11-19-PalmosAnalysis.png"
+        length="412019"
+        type="image/png"/>
+      <pubDate>Wed, 03 Dec 2025 22:56:45 +0100</pubDate>
+      <dc:date>2025-12-03T22:56:45.807972+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 16–18 November 2025 – Seat Projections for the Parties</title>
@@ -1629,6 +1659,6 @@
       <pubDate>Sat, 14 Jun 2025 15:13:34 +0200</pubDate>
       <dc:date>2025-06-14T15:13:34.285629+02:00</dc:date>
     </item>
-    <dc:date>2025-11-22T19:01:31.434436+01:00</dc:date>
+    <dc:date>2025-12-03T22:56:45.807972+01:00</dc:date>
   </channel>
 </rss>
