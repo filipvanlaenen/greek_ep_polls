@@ -181,7 +181,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–26 November 2025](2025-11-26-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [20–24 November 2025](2025-11-24-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
 | [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–19 November 2025](2025-11-19-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| [12–19 November 2025](2025-11-19-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–2 |
 | [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 0–1 |
 | [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -326,7 +326,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 30% | 100% | Last Result |
 | 1 | 69% | 70% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
 
