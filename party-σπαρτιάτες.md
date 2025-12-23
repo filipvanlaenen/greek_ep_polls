@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 0.6–2.1% | 0.4–2.4% | 0.4–2.6% | 0.2–3.1% |
+| [16–19 December 2025](2025-12-19-Interview.html) | Interview <br> Politic.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 December 2025](2025-12-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.2% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.6% |
 | [9–16 December 2025](2025-12-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% | 0.1–1.4% |
 | [11–14 December 2025](2025-12-14-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.2% | 0.9–1.8% | 0.8–2.0% | 0.7–2.2% | 0.5–2.5% |
@@ -109,7 +110,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [11–16 February 2025](2025-02-16-Alco.html) | Alco <br> Alpha TV | 2.1% | N/A | N/A | N/A | N/A |
 | [10–14 February 2025](2025-02-14-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 February 2025](2025-02-06-RealPolls.html) | Real Polls <br> Protagon | 1.7% | N/A | N/A | N/A | N/A |
-| [30 January–4 February 2025](2025-02-04-Interview.html) | Interview <br> Political | 1.2% | N/A | N/A | N/A | N/A |
+| [27–31 January 2025](2025-01-31-Interview.html) | Interview <br> Political | 1.2% | N/A | N/A | N/A | N/A |
 | [27–29 January 2025](2025-01-29-MRB.html) | MRB <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [28–29 January 2025](2025-01-29-GPO.html) | GPO <br> Παραπολιτικά | 0.0% | N/A | N/A | N/A | N/A |
 | [20–22 January 2025](2025-01-22-GPO.html) | GPO <br> Star TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -187,6 +188,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–19 December 2025](2025-12-19-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [11–16 December 2025](2025-12-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
 | [9–16 December 2025](2025-12-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0 | 0 | 0 | 0 | 0 |
 | [11–14 December 2025](2025-12-14-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
@@ -285,7 +287,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–16 February 2025](2025-02-16-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [10–14 February 2025](2025-02-14-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [4–6 February 2025](2025-02-06-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
-| [30 January–4 February 2025](2025-02-04-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [27–31 January 2025](2025-01-31-Interview.html) | Interview <br> Political |  |  |  |  |  |
 | [27–29 January 2025](2025-01-29-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [28–29 January 2025](2025-01-29-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [20–22 January 2025](2025-01-22-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
