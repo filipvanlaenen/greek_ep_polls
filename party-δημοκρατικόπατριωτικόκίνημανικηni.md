@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.5–3.6% | 1.3–4.0% | 1.2–4.3% | 1.0–5.0% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.1–2.8% | 0.9–3.1% | 0.8–3.3% | 0.6–3.8% |
+| [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2.1% | 1.6–2.9% | 1.4–3.1% | 1.3–3.3% | 1.1–3.8% |
+| [12–15 January 2026](2026-01-15-GPO.html) | GPO <br> Παραπολιτικά | 2.0% | 1.5–2.7% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
+| [11–12 January 2026](2026-01-12-RealPolls.html) | Real Polls <br> Protagon | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.6–1.6% | 0.5–1.8% |
+| [9–12 January 2026](2026-01-12-Interview.html) | Interview <br> Political | 1.9% | 1.5–2.4% | 1.4–2.6% | 1.3–2.7% | 1.1–3.0% |
+| [22–29 December 2025](2025-12-29-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 2.5% | 1.9–3.3% | 1.8–3.6% | 1.6–3.8% | 1.4–4.2% |
 | [16–19 December 2025](2025-12-19-Interview.html) | Interview <br> Politic.gr | 1.4% | 1.2–1.8% | 1.1–1.8% | 1.0–1.9% | 0.9–2.1% |
 | [11–16 December 2025](2025-12-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2.6% | 2.0–3.5% | 1.8–3.7% | 1.7–4.0% | 1.5–4.4% |
 | [9–16 December 2025](2025-12-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
@@ -128,12 +134,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [4–13 December 2024](2024-12-13-MRB.html) | MRB | 3.3% | N/A | N/A | N/A | N/A |
 | [9–13 December 2024](2024-12-13-GPO.html) | GPO <br> Παραπολιτικά | 3.3% | N/A | N/A | N/A | N/A |
 | [3–9 December 2024](2024-12-09-Prorata.html) | Prorata <br> Attica TV | 3.4% | N/A | N/A | N/A | N/A |
+| [4–7 December 2024](2024-12-07-RealPolls.html) | Real Polls <br> Star TV | 2.5% | N/A | N/A | N/A | N/A |
+| [2–7 December 2024](2024-12-07-Alco.html) | Alco <br> Alpha TV | 3.6% | N/A | N/A | N/A | N/A |
 | [25–28 November 2024](2024-11-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.0% | N/A | N/A | N/A | N/A |
 | [24–26 November 2024](2024-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.7% | N/A | N/A | N/A | N/A |
 | [20–26 November 2024](2024-11-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.5% | N/A | N/A | N/A | N/A |
 | [21–25 November 2024](2024-11-25-Interview.html) | Interview <br> Politic.gr | 3.2% | N/A | N/A | N/A | N/A |
 | [18–22 November 2024](2024-11-22-GPO.html) | GPO <br> Παραπολιτικά | 3.8% | N/A | N/A | N/A | N/A |
 | [11–15 November 2024](2024-11-15-GPO.html) | GPO <br> Παραπολιτικά | 3.7% | N/A | N/A | N/A | N/A |
+| [12–13 November 2024](2024-11-13-RealPolls.html) | Real Polls <br> Alpha TV | 2.0% | N/A | N/A | N/A | N/A |
 | [7–12 November 2024](2024-11-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3.0% | N/A | N/A | N/A | N/A |
 | [22–26 October 2024](2024-10-26-Marc.html) | Marc <br> ANT1 | 3.1% | N/A | N/A | N/A | N/A |
 | [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV | 3.8% | N/A | N/A | N/A | N/A |
@@ -171,14 +180,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 40% | 87% | Median |
-| 2.5–3.5% | 35% | 46% |  |
-| 3.5–4.5% | 10% | 12% |  |
-| 4.5–5.5% | 1.4% | 1.5% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 26% | 99.8% |  |
+| 1.5–2.5% | 56% | 74% | Median |
+| 2.5–3.5% | 17% | 18% |  |
+| 3.5–4.5% | 1.2% | 1.2% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -189,7 +196,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
+| [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [12–15 January 2026](2026-01-15-GPO.html) | GPO <br> Παραπολιτικά | 0 | 0 | 0 | 0 | 0–1 |
+| [11–12 January 2026](2026-01-12-RealPolls.html) | Real Polls <br> Protagon | 0 | 0 | 0 | 0 | 0 |
+| [9–12 January 2026](2026-01-12-Interview.html) | Interview <br> Political | 0 | 0 | 0 | 0 | 0–1 |
+| [22–29 December 2025](2025-12-29-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16–19 December 2025](2025-12-19-Interview.html) | Interview <br> Politic.gr | 0 | 0 | 0 | 0 | 0 |
 | [11–16 December 2025](2025-12-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–16 December 2025](2025-12-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -307,12 +320,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–13 December 2024](2024-12-13-MRB.html) | MRB |  |  |  |  |  |
 | [9–13 December 2024](2024-12-13-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [3–9 December 2024](2024-12-09-Prorata.html) | Prorata <br> Attica TV |  |  |  |  |  |
+| [4–7 December 2024](2024-12-07-RealPolls.html) | Real Polls <br> Star TV |  |  |  |  |  |
+| [2–7 December 2024](2024-12-07-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [25–28 November 2024](2024-11-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [24–26 November 2024](2024-11-26-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [20–26 November 2024](2024-11-26-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [21–25 November 2024](2024-11-25-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [18–22 November 2024](2024-11-22-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [11–15 November 2024](2024-11-15-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [12–13 November 2024](2024-11-13-RealPolls.html) | Real Polls <br> Alpha TV |  |  |  |  |  |
 | [7–12 November 2024](2024-11-12-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
 | [22–26 October 2024](2024-10-26-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
 | [21–23 October 2024](2024-10-23-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
@@ -352,8 +368,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 26% | 26% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 
 
