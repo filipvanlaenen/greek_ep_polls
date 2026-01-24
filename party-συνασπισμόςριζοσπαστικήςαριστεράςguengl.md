@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 3.9–6.9% | 3.6–7.5% | 3.4–7.9% | 3.0–8.7% |
+| N/A | [Poll Average](average.html) | 4.9% | 3.7–6.8% | 3.4–7.4% | 3.2–7.8% | 2.8–8.6% |
+| [14–20 January 2026](2026-01-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
 | [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.6% | 4.7–6.7% | 4.5–7.0% | 4.3–7.3% | 3.9–7.8% |
 | [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.2% | 3.4–5.2% | 3.2–5.5% | 3.0–5.8% | 2.7–6.4% |
 | [12–15 January 2026](2026-01-15-GPO.html) | GPO <br> Παραπολιτικά | 5.0% | 4.2–6.2% | 3.9–6.5% | 3.7–6.8% | 3.4–7.3% |
@@ -182,15 +183,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 27% | 96% |  |
-| 4.5–5.5% | 35% | 69% | Median |
-| 5.5–6.5% | 20% | 34% |  |
-| 6.5–7.5% | 10% | 14% |  |
-| 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.7% | 0.7% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 8% | 99.9% |  |
+| 3.5–4.5% | 31% | 92% |  |
+| 4.5–5.5% | 32% | 61% | Median |
+| 5.5–6.5% | 17% | 30% |  |
+| 6.5–7.5% | 8% | 12% |  |
+| 7.5–8.5% | 3% | 4% |  |
+| 8.5–9.5% | 0.6% | 0.6% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -202,7 +203,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [14–20 January 2026](2026-01-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 0–1 | 0–2 |
 | [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 1 | 0–2 |
 | [12–15 January 2026](2026-01-15-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -374,9 +376,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 73% | 99.6% | Median |
-| 2 | 26% | 26% |  |
+| 0 | 1.0% | 100% | Last Result |
+| 1 | 76% | 99.0% | Median |
+| 2 | 23% | 23% |  |
 | 3 | 0% | 0% |  |
 
 
