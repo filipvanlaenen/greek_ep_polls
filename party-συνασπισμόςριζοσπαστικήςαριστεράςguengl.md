@@ -10,92 +10,99 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 3.7–6.8% | 3.4–7.4% | 3.2–7.8% | 2.8–8.6% |
-| [14–20 January 2026](2026-01-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
-| [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.6% | 4.7–6.7% | 4.5–7.0% | 4.3–7.3% | 3.9–7.8% |
-| [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.2% | 3.4–5.2% | 3.2–5.5% | 3.0–5.8% | 2.7–6.4% |
-| [12–15 January 2026](2026-01-15-GPO.html) | GPO <br> Παραπολιτικά | 5.0% | 4.2–6.2% | 3.9–6.5% | 3.7–6.8% | 3.4–7.3% |
-| [11–12 January 2026](2026-01-12-RealPolls.html) | Real Polls <br> Protagon | 5.0% | 4.4–5.8% | 4.2–6.1% | 4.1–6.3% | 3.8–6.7% |
-| [9–12 January 2026](2026-01-12-Interview.html) | Interview <br> Political | 4.2% | 3.6–4.9% | 3.4–5.2% | 3.2–5.3% | 3.0–5.7% |
-| [22–29 December 2025](2025-12-29-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 6.9% | 5.9–8.1% | 5.6–8.5% | 5.3–8.8% | 4.9–9.4% |
-| [16–19 December 2025](2025-12-19-Interview.html) | Interview <br> Politic.gr | 3.8% | 3.4–4.4% | 3.3–4.5% | 3.2–4.6% | 3.0–4.9% |
-| [11–16 December 2025](2025-12-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.5% | 3.7–5.6% | 3.4–5.9% | 3.2–6.1% | 2.9–6.7% |
-| [9–16 December 2025](2025-12-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.4% | 4.6–6.5% | 4.4–6.8% | 4.2–7.0% | 3.8–7.5% |
-| [11–14 December 2025](2025-12-14-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.7% | 5.8–7.9% | 5.5–8.3% | 5.3–8.6% | 4.9–9.2% |
-| [10–13 December 2025](2025-12-13-GPO.html) | GPO <br> Παραπολιτικά | 5.1% | 4.2–6.2% | 4.0–6.5% | 3.8–6.8% | 3.4–7.4% |
-| [10–13 December 2025](2025-12-13-Alco.html) | Alco <br> Alpha TV | 5.9% | 5.0–7.2% | 4.7–7.5% | 4.5–7.8% | 4.1–8.4% |
-| [4–12 December 2025](2025-12-12-MRB.html) | MRB <br> Open TV | 7.7% | 6.9–8.7% | 6.7–8.9% | 6.5–9.2% | 6.1–9.7% |
-| [6–8 December 2025](2025-12-08-RealPolls.html) | Real Polls <br> Protagon | 8.1% | 7.3–9.2% | 7.0–9.4% | 6.8–9.7% | 6.4–10.2% |
-| [4–8 December 2025](2025-12-08-Interview.html) | Interview <br> Political | 4.0% | 3.6–4.6% | 3.5–4.7% | 3.4–4.8% | 3.2–5.1% |
-| [18–26 November 2025](2025-11-26-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.2% | 6.3–8.2% | 6.1–8.5% | 5.9–8.8% | 5.5–9.3% |
-| [24–26 November 2025](2025-11-26-GPO.html) | GPO <br> Star TV | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
-| [20–24 November 2025](2025-11-24-Interview.html) | Interview <br> Politic.gr | 3.6% | 3.2–4.1% | 3.1–4.3% | 3.0–4.4% | 2.8–4.7% |
-| [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV | 4.8% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.1% |
-| [12–19 November 2025](2025-11-19-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 4.8% | 4.0–6.0% | 3.7–6.3% | 3.5–6.6% | 3.2–7.1% |
-| [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.7% | 5.8–7.9% | 5.5–8.3% | 5.3–8.6% | 4.8–9.2% |
-| [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.8–6.0% | 3.6–6.4% | 3.5–6.8% | 3.2–7.4% |
+| [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> Η Εφημερίδα των Συντακτών | 5.6% | 4.7–6.7% | 4.4–7.1% | 4.2–7.4% | 3.8–8.0% |
+| [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon | 4.9% | 4.3–5.8% | 4.1–6.0% | 3.9–6.2% | 3.6–6.6% |
+| [4–9 February 2026](2026-02-09-Interview.html) | Interview <br> Political | 4.0% | 3.6–4.5% | 3.4–4.7% | 3.3–4.8% | 3.1–5.1% |
+| [27–31 January 2026](2026-01-31-Alco.html) | Alco <br> Alpha TV | 4.5% | 3.7–5.6% | 3.5–5.9% | 3.3–6.2% | 3.0–6.8% |
+| [26–28 January 2026](2026-01-28-MRB.html) | MRB <br> Open TV | 4.6% | N/A | N/A | N/A | N/A |
+| [23–27 January 2026](2026-01-27-GPO.html) | GPO <br> Star TV | 5.1% | N/A | N/A | N/A | N/A |
+| [22–26 January 2026](2026-01-26-Interview.html) | Interview <br> Politic.gr | 3.6% | N/A | N/A | N/A | N/A |
+| [14–20 January 2026](2026-01-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3.8% | N/A | N/A | N/A | N/A |
+| [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.6% | N/A | N/A | N/A | N/A |
+| [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.2% | N/A | N/A | N/A | N/A |
+| [12–15 January 2026](2026-01-15-GPO.html) | GPO <br> Παραπολιτικά | 5.0% | N/A | N/A | N/A | N/A |
+| [11–12 January 2026](2026-01-12-RealPolls.html) | Real Polls <br> Protagon | 5.0% | N/A | N/A | N/A | N/A |
+| [9–12 January 2026](2026-01-12-Interview.html) | Interview <br> Political | 4.2% | N/A | N/A | N/A | N/A |
+| [22–29 December 2025](2025-12-29-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 6.9% | N/A | N/A | N/A | N/A |
+| [16–19 December 2025](2025-12-19-Interview.html) | Interview <br> Politic.gr | 3.8% | N/A | N/A | N/A | N/A |
+| [11–16 December 2025](2025-12-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.5% | N/A | N/A | N/A | N/A |
+| [9–16 December 2025](2025-12-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.4% | N/A | N/A | N/A | N/A |
+| [11–14 December 2025](2025-12-14-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.7% | N/A | N/A | N/A | N/A |
+| [10–13 December 2025](2025-12-13-GPO.html) | GPO <br> Παραπολιτικά | 5.1% | N/A | N/A | N/A | N/A |
+| [10–13 December 2025](2025-12-13-Alco.html) | Alco <br> Alpha TV | 5.9% | N/A | N/A | N/A | N/A |
+| [4–12 December 2025](2025-12-12-MRB.html) | MRB <br> Open TV | 7.7% | N/A | N/A | N/A | N/A |
+| [6–8 December 2025](2025-12-08-RealPolls.html) | Real Polls <br> Protagon | 8.1% | N/A | N/A | N/A | N/A |
+| [4–8 December 2025](2025-12-08-Interview.html) | Interview <br> Political | 4.0% | N/A | N/A | N/A | N/A |
+| [18–26 November 2025](2025-11-26-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.2% | N/A | N/A | N/A | N/A |
+| [24–26 November 2025](2025-11-26-GPO.html) | GPO <br> Star TV | 4.8% | N/A | N/A | N/A | N/A |
+| [20–24 November 2025](2025-11-24-Interview.html) | Interview <br> Politic.gr | 3.6% | N/A | N/A | N/A | N/A |
+| [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV | 4.8% | N/A | N/A | N/A | N/A |
+| [12–19 November 2025](2025-11-19-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 4.8% | N/A | N/A | N/A | N/A |
+| [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.7% | N/A | N/A | N/A | N/A |
+| [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6.1% | N/A | N/A | N/A | N/A |
 | [11–18 November 2025](2025-11-18-GPO.html) | GPO <br> Παραπολιτικά | 5.9% | N/A | N/A | N/A | N/A |
-| [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.2% | 3.4–5.2% | 3.2–5.5% | 3.0–5.8% | 2.7–6.3% |
-| [9–10 November 2025](2025-11-10-RealPolls.html) | Real Polls <br> Protagon | 4.5% | 3.8–5.3% | 3.6–5.5% | 3.5–5.7% | 3.2–6.1% |
-| [6–10 November 2025](2025-11-10-Interview.html) | Interview <br> Politic.gr | 3.7% | 3.3–4.3% | 3.2–4.4% | 3.0–4.6% | 2.9–4.8% |
-| [29 October–2 November 2025](2025-11-02-Alco.html) | Alco <br> Alpha TV | 6.4% | 5.3–7.7% | 5.0–8.1% | 4.8–8.4% | 4.3–9.1% |
-| [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 4.7% | 3.8–5.8% | 3.6–6.1% | 3.4–6.4% | 3.0–7.0% |
-| [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 3.2% | 2.8–3.7% | 2.7–3.8% | 2.6–3.9% | 2.4–4.2% |
-| [17–20 October 2025](2025-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.7% | 5.7–7.8% | 5.4–8.2% | 5.2–8.5% | 4.8–9.1% |
-| [14–20 October 2025](2025-10-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.9% | 4.2–5.8% | 4.0–6.0% | 3.9–6.2% | 3.6–6.7% |
-| [13–17 October 2025](2025-10-17-Marc.html) | Marc <br> ANT1 | 7.1% | 6.1–8.4% | 5.9–8.7% | 5.6–9.0% | 5.2–9.6% |
-| [13–15 October 2025](2025-10-15-MRB.html) | MRB <br> Open TV | 4.3% | 3.5–5.4% | 3.3–5.7% | 3.1–6.0% | 2.7–6.6% |
-| [8–11 October 2025](2025-10-11-GPO.html) | GPO <br> Παραπολιτικά | 5.4% | 4.5–6.5% | 4.3–6.8% | 4.1–7.1% | 3.7–7.7% |
-| [7–10 October 2025](2025-10-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.4% | 3.6–5.5% | 3.4–5.8% | 3.2–6.1% | 2.9–6.7% |
-| [1–8 October 2025](2025-10-08-Interview.html) | Interview <br> Political | 3.9% | 3.5–4.5% | 3.4–4.6% | 3.3–4.8% | 3.1–5.0% |
-| [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV | 7.6% | 6.5–9.1% | 6.2–9.4% | 5.9–9.8% | 5.4–10.5% |
-| [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 6.3% | 5.4–7.4% | 5.1–7.7% | 4.9–7.9% | 4.5–8.5% |
-| [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 5.4% | 4.8–6.0% | 4.7–6.2% | 4.6–6.4% | 4.3–6.7% |
-| [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 8.0% | 6.9–9.3% | 6.6–9.6% | 6.4–9.9% | 5.9–10.6% |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 5.8% | 4.8–7.0% | 4.6–7.3% | 4.4–7.6% | 3.9–8.2% |
-| [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 5.2% | 4.3–6.3% | 4.0–6.7% | 3.8–7.0% | 3.4–7.5% |
-| [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.2% | 6.1–8.1% | 5.9–8.4% | 5.6–8.6% | 5.2–9.2% |
-| [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6.2% | 5.3–7.3% | 5.0–7.6% | 4.8–7.8% | 4.5–8.4% |
-| [10–11 September 2025](2025-09-11-RealPolls.html) | Real Polls <br> Protagon | 7.5% | 6.7–8.6% | 6.5–8.8% | 6.2–9.1% | 5.9–9.6% |
-| [8–11 September 2025](2025-09-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.6% | 5.7–7.8% | 5.4–8.1% | 5.2–8.4% | 4.8–8.9% |
-| [8–10 September 2025](2025-09-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.2% | 3.4–5.3% | 3.1–5.6% | 3.0–5.9% | 2.6–6.4% |
-| [8–10 September 2025](2025-09-10-Interview.html) | Interview <br> Political | 4.1% | 3.7–4.6% | 3.6–4.8% | 3.4–4.9% | 3.2–5.2% |
-| [8–10 September 2025](2025-09-10-GPO.html) | GPO <br> Parapolitika | 6.5% | 5.5–7.8% | 5.2–8.1% | 5.0–8.4% | 4.5–9.1% |
+| [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.2% | N/A | N/A | N/A | N/A |
+| [9–10 November 2025](2025-11-10-RealPolls.html) | Real Polls <br> Protagon | 4.5% | N/A | N/A | N/A | N/A |
+| [6–10 November 2025](2025-11-10-Interview.html) | Interview <br> Politic.gr | 3.7% | N/A | N/A | N/A | N/A |
+| [29 October–2 November 2025](2025-11-02-Alco.html) | Alco <br> Alpha TV | 6.4% | N/A | N/A | N/A | N/A |
+| [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 4.7% | N/A | N/A | N/A | N/A |
+| [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 3.2% | N/A | N/A | N/A | N/A |
+| [17–20 October 2025](2025-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.7% | N/A | N/A | N/A | N/A |
+| [14–20 October 2025](2025-10-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 4.9% | N/A | N/A | N/A | N/A |
+| [13–17 October 2025](2025-10-17-Marc.html) | Marc <br> ANT1 | 7.1% | N/A | N/A | N/A | N/A |
+| [13–15 October 2025](2025-10-15-MRB.html) | MRB <br> Open TV | 4.3% | N/A | N/A | N/A | N/A |
+| [8–11 October 2025](2025-10-11-GPO.html) | GPO <br> Παραπολιτικά | 5.4% | N/A | N/A | N/A | N/A |
+| [7–10 October 2025](2025-10-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.4% | N/A | N/A | N/A | N/A |
+| [1–8 October 2025](2025-10-08-Interview.html) | Interview <br> Political | 3.9% | N/A | N/A | N/A | N/A |
+| [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV | 7.6% | N/A | N/A | N/A | N/A |
+| [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 6.3% | N/A | N/A | N/A | N/A |
+| [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 5.4% | N/A | N/A | N/A | N/A |
+| [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 8.0% | N/A | N/A | N/A | N/A |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 5.8% | N/A | N/A | N/A | N/A |
+| [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 5.2% | N/A | N/A | N/A | N/A |
+| [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.2% | N/A | N/A | N/A | N/A |
+| [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6.2% | N/A | N/A | N/A | N/A |
+| [10–11 September 2025](2025-09-11-RealPolls.html) | Real Polls <br> Protagon | 7.5% | N/A | N/A | N/A | N/A |
+| [8–11 September 2025](2025-09-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.6% | N/A | N/A | N/A | N/A |
+| [8–10 September 2025](2025-09-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.2% | N/A | N/A | N/A | N/A |
+| [8–10 September 2025](2025-09-10-Interview.html) | Interview <br> Political | 4.1% | N/A | N/A | N/A | N/A |
+| [8–10 September 2025](2025-09-10-GPO.html) | GPO <br> Parapolitika | 6.5% | N/A | N/A | N/A | N/A |
 | [27 August–2 September 2025](2025-09-02-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.8% | N/A | N/A | N/A | N/A |
-| [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr | 4.5% | 4.0–5.1% | 3.9–5.3% | 3.7–5.4% | 3.5–5.7% |
-| [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 6.3% | 5.3–7.5% | 5.0–7.8% | 4.8–8.2% | 4.3–8.8% |
-| [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 8.2% | 7.1–9.5% | 6.8–9.9% | 6.5–10.2% | 6.0–10.9% |
-| [11–14 July 2025](2025-07-14-RealPolls.html) | Real Polls <br> Protagon | 6.6% | 5.9–7.4% | 5.7–7.7% | 5.5–7.9% | 5.2–8.3% |
-| [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 5.5% | 4.6–6.7% | 4.4–7.0% | 4.2–7.3% | 3.8–7.9% |
-| [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.6% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.7–9.9% |
-| [18–24 June 2025](2025-06-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
-| [19–23 June 2025](2025-06-23-Interview.html) | Interview <br> Politic.gr | 3.5% | 3.0–4.2% | 2.8–4.4% | 2.7–4.5% | 2.5–4.9% |
-| [11–20 June 2025](2025-06-20-MRB.html) | MRB <br> Open TV | 6.3% | 5.6–7.2% | 5.4–7.4% | 5.2–7.6% | 4.9–8.1% |
+| [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr | 4.5% | N/A | N/A | N/A | N/A |
+| [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 6.3% | N/A | N/A | N/A | N/A |
+| [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 8.2% | N/A | N/A | N/A | N/A |
+| [11–14 July 2025](2025-07-14-RealPolls.html) | Real Polls <br> Protagon | 6.6% | N/A | N/A | N/A | N/A |
+| [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 5.5% | N/A | N/A | N/A | N/A |
+| [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.6% | N/A | N/A | N/A | N/A |
+| [18–24 June 2025](2025-06-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 5.9% | N/A | N/A | N/A | N/A |
+| [19–23 June 2025](2025-06-23-Interview.html) | Interview <br> Politic.gr | 3.5% | N/A | N/A | N/A | N/A |
+| [11–20 June 2025](2025-06-20-MRB.html) | MRB <br> Open TV | 6.3% | N/A | N/A | N/A | N/A |
 | [13–16 June 2025](2025-06-16-RealPolls.html) | Real Polls <br> Protagon | 6.1% | N/A | N/A | N/A | N/A |
-| [10–14 June 2025](2025-06-14-Alco.html) | Alco <br> Alpha TV | 6.1% | 5.1–7.4% | 4.8–7.7% | 4.6–8.0% | 4.1–8.7% |
-| [10–13 June 2025](2025-06-13-GPO.html) | GPO <br> Παραπολιτικά | 6.1% | 5.1–7.2% | 4.9–7.6% | 4.6–7.9% | 4.2–8.5% |
-| [4–9 June 2025](2025-06-09-Interview.html) | Interview <br> Political | 4.2% | 3.6–4.9% | 3.4–5.1% | 3.3–5.3% | 3.0–5.7% |
-| [2–5 June 2025](2025-06-05-OpinionPoll.html) | Opinion Poll <br> Libre | 5.8% | 4.8–7.0% | 4.6–7.3% | 4.3–7.7% | 3.9–8.3% |
-| [30 May–3 June 2025](2025-06-03-GPO.html) | GPO <br> Star TV | 6.7% | 5.8–7.8% | 5.6–8.2% | 5.4–8.4% | 5.0–9.0% |
-| [29 May–3 June 2025](2025-06-03-Alco.html) | Alco <br> Epikaira.gr | 8.1% | 7.0–9.4% | 6.7–9.8% | 6.4–10.2% | 5.9–10.8% |
-| [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV | 5.5% | 4.6–6.7% | 4.3–7.0% | 4.1–7.3% | 3.7–8.0% |
-| [24–27 May 2025](2025-05-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
-| [21–26 May 2025](2025-05-26-Interview.html) | Interview <br> Politic.gr | 5.3% | 4.6–6.1% | 4.5–6.3% | 4.3–6.5% | 4.0–6.9% |
-| [19–21 May 2025](2025-05-21-OpinionPoll.html) | Opinion Poll <br> Action 24 | 5.7% | 4.8–6.9% | 4.6–7.2% | 4.3–7.5% | 3.9–8.1% |
+| [10–14 June 2025](2025-06-14-Alco.html) | Alco <br> Alpha TV | 6.1% | N/A | N/A | N/A | N/A |
+| [10–13 June 2025](2025-06-13-GPO.html) | GPO <br> Παραπολιτικά | 6.1% | N/A | N/A | N/A | N/A |
+| [4–9 June 2025](2025-06-09-Interview.html) | Interview <br> Political | 4.2% | N/A | N/A | N/A | N/A |
+| [2–5 June 2025](2025-06-05-OpinionPoll.html) | Opinion Poll <br> Libre | 5.8% | N/A | N/A | N/A | N/A |
+| [30 May–3 June 2025](2025-06-03-GPO.html) | GPO <br> Star TV | 6.7% | N/A | N/A | N/A | N/A |
+| [29 May–3 June 2025](2025-06-03-Alco.html) | Alco <br> Epikaira.gr | 8.1% | N/A | N/A | N/A | N/A |
+| [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV | 5.5% | N/A | N/A | N/A | N/A |
+| [24–27 May 2025](2025-05-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 6.5% | N/A | N/A | N/A | N/A |
+| [21–26 May 2025](2025-05-26-Interview.html) | Interview <br> Politic.gr | 5.3% | N/A | N/A | N/A | N/A |
+| [19–21 May 2025](2025-05-21-OpinionPoll.html) | Opinion Poll <br> Action 24 | 5.7% | N/A | N/A | N/A | N/A |
 | [14–20 May 2025](2025-05-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6.2% | N/A | N/A | N/A | N/A |
-| [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5.8% | 4.9–6.8% | 4.6–7.2% | 4.5–7.4% | 4.1–8.0% |
+| [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5.8% | N/A | N/A | N/A | N/A |
 | [9–12 May 2025](2025-05-12-RealPolls.html) | Real Polls <br> Protagon | 4.7% | N/A | N/A | N/A | N/A |
 | [6–11 May 2025](2025-05-11-Interview.html) | Interview <br> Political | 4.8% | N/A | N/A | N/A | N/A |
-| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 8.0% | 6.8–9.4% | 6.5–9.8% | 6.2–10.1% | 5.7–10.8% |
+| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 8.0% | N/A | N/A | N/A | N/A |
 | [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 | 6.0% | N/A | N/A | N/A | N/A |
-| [28–30 April 2025](2025-04-30-GPO.html) | GPO <br> Παραπολιτικά | 6.6% | 5.7–7.8% | 5.4–8.2% | 5.2–8.5% | 4.7–9.1% |
+| [28–30 April 2025](2025-04-30-GPO.html) | GPO <br> Παραπολιτικά | 6.6% | N/A | N/A | N/A | N/A |
 | [25–28 April 2025](2025-04-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7.2% | N/A | N/A | N/A | N/A |
 | [24–28 April 2025](2025-04-28-Interview.html) | Interview <br> Politic.gr | 4.6% | N/A | N/A | N/A | N/A |
 | [7–9 April 2025](2025-04-09-MRB.html) | MRB <br> Open TV | 6.6% | N/A | N/A | N/A | N/A |
 | [2–8 April 2025](2025-04-08-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6.9% | N/A | N/A | N/A | N/A |
 | [4–8 April 2025](2025-04-08-Interview.html) | Interview <br> Political | 5.4% | N/A | N/A | N/A | N/A |
-| [4–7 April 2025](2025-04-07-RealPolls.html) | Real Polls <br> Protagon | 6.3% | 5.5–7.2% | 5.3–7.4% | 5.1–7.7% | 4.8–8.1% |
-| [3–7 April 2025](2025-04-07-Prorata.html) | Prorata <br> Attica TV | 7.3% | 6.3–8.6% | 6.0–8.9% | 5.8–9.2% | 5.3–9.8% |
+| [4–7 April 2025](2025-04-07-RealPolls.html) | Real Polls <br> Protagon | 6.3% | N/A | N/A | N/A | N/A |
+| [3–7 April 2025](2025-04-07-Prorata.html) | Prorata <br> Attica TV | 7.3% | N/A | N/A | N/A | N/A |
 | [31 March–4 April 2025](2025-04-04-GPO.html) | GPO <br> Παραπολιτικά | 6.5% | N/A | N/A | N/A | N/A |
 | [27 March–1 April 2025](2025-04-01-Marc.html) | Marc <br> ANT1 | 7.5% | N/A | N/A | N/A | N/A |
 | [21–26 March 2025](2025-03-26-Interview.html) | Interview <br> Politic.gr | 6.3% | N/A | N/A | N/A | N/A |
@@ -183,16 +190,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 8% | 99.9% |  |
-| 3.5–4.5% | 31% | 92% |  |
-| 4.5–5.5% | 32% | 61% | Median |
-| 5.5–6.5% | 17% | 30% |  |
-| 6.5–7.5% | 8% | 12% |  |
-| 7.5–8.5% | 3% | 4% |  |
-| 8.5–9.5% | 0.6% | 0.6% |  |
-| 9.5–10.5% | 0% | 0% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 4% | 100% |  |
+| 3.5–4.5% | 38% | 96% |  |
+| 4.5–5.5% | 37% | 58% | Median |
+| 5.5–6.5% | 17% | 21% |  |
+| 6.5–7.5% | 3% | 4% |  |
+| 7.5–8.5% | 0.4% | 0.4% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -203,92 +208,99 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [14–20 January 2026](2026-01-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 0–1 | 0–2 |
-| [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 1 | 0–2 |
-| [12–15 January 2026](2026-01-15-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–12 January 2026](2026-01-12-RealPolls.html) | Real Polls <br> Protagon | 1 | 1 | 1 | 1 | 1 |
-| [9–12 January 2026](2026-01-12-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 0–1 |
-| [22–29 December 2025](2025-12-29-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [16–19 December 2025](2025-12-19-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 0–1 |
-| [11–16 December 2025](2025-12-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 1–2 | 0–2 |
-| [9–16 December 2025](2025-12-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [11–14 December 2025](2025-12-14-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–13 December 2025](2025-12-13-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–13 December 2025](2025-12-13-Alco.html) | Alco <br> Alpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [4–12 December 2025](2025-12-12-MRB.html) | MRB <br> Open TV | 2 | 2 | 2 | 1–2 | 1–2 |
-| [6–8 December 2025](2025-12-08-RealPolls.html) | Real Polls <br> Protagon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [4–8 December 2025](2025-12-08-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 1 |
-| [18–26 November 2025](2025-11-26-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [24–26 November 2025](2025-11-26-GPO.html) | GPO <br> Star TV | 1 | 1 | 1 | 1 | 1–2 |
-| [20–24 November 2025](2025-11-24-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 0–1 |
-| [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 1–2 |
-| [12–19 November 2025](2025-11-19-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 1 | 1 | 1 | 1–2 | 0–2 |
-| [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> Η Εφημερίδα των Συντακτών | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon | 1 | 1 | 1 | 1 | 1–2 |
+| [4–9 February 2026](2026-02-09-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 0–1 |
+| [27–31 January 2026](2026-01-31-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 1 | 0–1 | 0–2 |
+| [26–28 January 2026](2026-01-28-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [23–27 January 2026](2026-01-27-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
+| [22–26 January 2026](2026-01-26-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [14–20 January 2026](2026-01-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [12–15 January 2026](2026-01-15-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [11–12 January 2026](2026-01-12-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [9–12 January 2026](2026-01-12-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [22–29 December 2025](2025-12-29-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος |  |  |  |  |  |
+| [16–19 December 2025](2025-12-19-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [11–16 December 2025](2025-12-16-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [9–16 December 2025](2025-12-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [11–14 December 2025](2025-12-14-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [10–13 December 2025](2025-12-13-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [10–13 December 2025](2025-12-13-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [4–12 December 2025](2025-12-12-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [6–8 December 2025](2025-12-08-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [4–8 December 2025](2025-12-08-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [18–26 November 2025](2025-11-26-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [24–26 November 2025](2025-11-26-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
+| [20–24 November 2025](2025-11-24-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [12–19 November 2025](2025-11-19-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος |  |  |  |  |  |
+| [16–18 November 2025](2025-11-18-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [11–18 November 2025](2025-11-18-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [11–18 November 2025](2025-11-18-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
-| [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 0–1 | 0–1 |
-| [9–10 November 2025](2025-11-10-RealPolls.html) | Real Polls <br> Protagon | 1 | 1 | 1 | 1 | 1 |
-| [6–10 November 2025](2025-11-10-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 0–1 | 0–1 |
-| [29 October–2 November 2025](2025-11-02-Alco.html) | Alco <br> Alpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος | 1 | 1 | 1 | 1 | 0–2 |
-| [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–20 October 2025](2025-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [14–20 October 2025](2025-10-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1 | 1 | 1 | 1–2 |
-| [13–17 October 2025](2025-10-17-Marc.html) | Marc <br> ANT1 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [13–15 October 2025](2025-10-15-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 0–2 |
-| [8–11 October 2025](2025-10-11-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [7–10 October 2025](2025-10-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 1 | 0–2 |
-| [1–8 October 2025](2025-10-08-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 1 |
-| [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
-| [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1–2 | 1–2 |
-| [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–11 September 2025](2025-09-11-RealPolls.html) | Real Polls <br> Protagon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [8–11 September 2025](2025-09-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [8–10 September 2025](2025-09-10-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1 | 1 | 1 | 0–2 |
-| [8–10 September 2025](2025-09-10-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 1 |
-| [8–10 September 2025](2025-09-10-GPO.html) | GPO <br> Parapolitika | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–11 November 2025](2025-11-11-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [9–10 November 2025](2025-11-10-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [6–10 November 2025](2025-11-10-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [29 October–2 November 2025](2025-11-02-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [24–29 October 2025](2025-10-29-MRB.html) | MRB <br> Ελεύθερος Τύπος |  |  |  |  |  |
+| [23–28 October 2025](2025-10-28-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [17–20 October 2025](2025-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [14–20 October 2025](2025-10-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [13–17 October 2025](2025-10-17-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
+| [13–15 October 2025](2025-10-15-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [8–11 October 2025](2025-10-11-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [7–10 October 2025](2025-10-10-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [1–8 October 2025](2025-10-08-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [23–27 September 2025](2025-09-27-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [22–24 September 2025](2025-09-24-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
+| [18–22 September 2025](2025-09-22-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [15–19 September 2025](2025-09-19-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [15–19 September 2025](2025-09-19-PalmosAnalysis.html) | Palmos Analysis <br> The Opinion |  |  |  |  |  |
+| [15–17 September 2025](2025-09-17-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [14–16 September 2025](2025-09-16-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [10–16 September 2025](2025-09-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [10–11 September 2025](2025-09-11-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [8–11 September 2025](2025-09-11-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [8–10 September 2025](2025-09-10-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [8–10 September 2025](2025-09-10-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [8–10 September 2025](2025-09-10-GPO.html) | GPO <br> Parapolitika |  |  |  |  |  |
 | [27 August–2 September 2025](2025-09-02-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1 |
-| [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [11–14 July 2025](2025-07-14-RealPolls.html) | Real Polls <br> Protagon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–24 June 2025](2025-06-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [19–23 June 2025](2025-06-23-Interview.html) | Interview <br> Politic.gr | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–20 June 2025](2025-06-20-MRB.html) | MRB <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21–25 August 2025](2025-08-25-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [21–23 July 2025](2025-07-23-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [11–16 July 2025](2025-07-16-Prorata.html) | Prorata <br> Newsbomb |  |  |  |  |  |
+| [11–14 July 2025](2025-07-14-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [2–4 July 2025](2025-07-04-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [27 June–1 July 2025](2025-07-01-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [18–24 June 2025](2025-06-24-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [19–23 June 2025](2025-06-23-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [11–20 June 2025](2025-06-20-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [13–16 June 2025](2025-06-16-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
-| [10–14 June 2025](2025-06-14-Alco.html) | Alco <br> Alpha TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–13 June 2025](2025-06-13-GPO.html) | GPO <br> Παραπολιτικά | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [4–9 June 2025](2025-06-09-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 1 |
-| [2–5 June 2025](2025-06-05-OpinionPoll.html) | Opinion Poll <br> Libre | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [30 May–3 June 2025](2025-06-03-GPO.html) | GPO <br> Star TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [29 May–3 June 2025](2025-06-03-Alco.html) | Alco <br> Epikaira.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [24–27 May 2025](2025-05-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [21–26 May 2025](2025-05-26-Interview.html) | Interview <br> Politic.gr | 1 | 1 | 1 | 1 | 1–2 |
-| [19–21 May 2025](2025-05-21-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–14 June 2025](2025-06-14-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [10–13 June 2025](2025-06-13-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
+| [4–9 June 2025](2025-06-09-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [2–5 June 2025](2025-06-05-OpinionPoll.html) | Opinion Poll <br> Libre |  |  |  |  |  |
+| [30 May–3 June 2025](2025-06-03-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
+| [29 May–3 June 2025](2025-06-03-Alco.html) | Alco <br> Epikaira.gr |  |  |  |  |  |
+| [26–28 May 2025](2025-05-28-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [24–27 May 2025](2025-05-27-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [21–26 May 2025](2025-05-26-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [19–21 May 2025](2025-05-21-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
 | [14–20 May 2025](2025-05-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
-| [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–15 May 2025](2025-05-15-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [9–12 May 2025](2025-05-12-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
 | [6–11 May 2025](2025-05-11-Interview.html) | Interview <br> Political |  |  |  |  |  |
-| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28 April–3 May 2025](2025-05-03-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [28 April–2 May 2025](2025-05-02-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
-| [28–30 April 2025](2025-04-30-GPO.html) | GPO <br> Παραπολιτικά | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28–30 April 2025](2025-04-30-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [25–28 April 2025](2025-04-28-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [24–28 April 2025](2025-04-28-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [7–9 April 2025](2025-04-09-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [2–8 April 2025](2025-04-08-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
 | [4–8 April 2025](2025-04-08-Interview.html) | Interview <br> Political |  |  |  |  |  |
-| [4–7 April 2025](2025-04-07-RealPolls.html) | Real Polls <br> Protagon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [3–7 April 2025](2025-04-07-Prorata.html) | Prorata <br> Attica TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [4–7 April 2025](2025-04-07-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [3–7 April 2025](2025-04-07-Prorata.html) | Prorata <br> Attica TV |  |  |  |  |  |
 | [31 March–4 April 2025](2025-04-04-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
 | [27 March–1 April 2025](2025-04-01-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
 | [21–26 March 2025](2025-03-26-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
@@ -376,9 +388,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.0% | 100% | Last Result |
-| 1 | 76% | 99.0% | Median |
-| 2 | 23% | 23% |  |
+| 0 | 1.1% | 100% | Last Result |
+| 1 | 90% | 98.9% | Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 
