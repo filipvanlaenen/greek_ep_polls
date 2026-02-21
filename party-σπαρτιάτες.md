@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.3% |
-| [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.5% | 0.3–0.8% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
+| [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0.4% | 0.2–0.8% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
 | [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon | 0.5% | 0.3–0.9% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% |
 | [4–9 February 2026](2026-02-09-Interview.html) | Interview <br> Political | 0.0% | N/A | N/A | N/A | N/A |
@@ -189,9 +189,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 47% | 100% | Last Result |
-| 0.5–1.5% | 53% | 53% | Median |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 54% | 100% | Last Result |
+| 0.5–1.5% | 46% | 46% | Median |
+| 1.5–2.5% | 0.1% | 0.1% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -204,7 +204,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 0 | 0 | 0 | 0 | 0 |
 | [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon | 0 | 0 | 0 | 0 | 0 |
 | [4–9 February 2026](2026-02-09-Interview.html) | Interview <br> Political |  |  |  |  |  |
