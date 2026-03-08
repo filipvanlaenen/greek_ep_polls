@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.9% | 11.0–14.8% | 10.5–15.2% | 10.1–15.5% | 9.5–16.1% |
+| N/A | [Poll Average](average.html) | 13.0% | 11.0–14.7% | 10.5–15.1% | 10.2–15.4% | 9.5–16.1% |
+| [18–23 February 2026](2026-02-23-Interview.html) | Interview <br> Politic | 14.4% | 13.6–15.3% | 13.4–15.5% | 13.2–15.7% | 12.8–16.1% |
+| [9–18 February 2026](2026-02-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 13.3% | 12.0–14.7% | 11.7–15.1% | 11.4–15.5% | 10.8–16.2% |
 | [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 12.8% | 11.5–14.3% | 11.1–14.7% | 10.8–15.1% | 10.2–15.8% |
 | [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> Η Εφημερίδα των Συντακτών | 13.2% | 11.8–14.8% | 11.4–15.3% | 11.1–15.7% | 10.4–16.5% |
 | [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon | 11.0% | 10.0–12.1% | 9.7–12.5% | 9.4–12.8% | 8.9–13.3% |
@@ -199,12 +201,12 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.6% | 100% |  |
-| 9.5–10.5% | 5% | 99.4% |  |
-| 10.5–11.5% | 13% | 95% |  |
-| 11.5–12.5% | 21% | 82% |  |
-| 12.5–13.5% | 25% | 60% | Median |
-| 13.5–14.5% | 22% | 35% |  |
-| 14.5–15.5% | 11% | 14% |  |
+| 9.5–10.5% | 4% | 99.4% |  |
+| 10.5–11.5% | 12% | 95% |  |
+| 11.5–12.5% | 20% | 83% |  |
+| 12.5–13.5% | 26% | 62% | Median |
+| 13.5–14.5% | 24% | 37% |  |
+| 14.5–15.5% | 11% | 13% |  |
 | 15.5–16.5% | 2% | 2% |  |
 | 16.5–17.5% | 0.2% | 0.2% |  |
 | 17.5–18.5% | 0% | 0% |  |
@@ -219,6 +221,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [18–23 February 2026](2026-02-23-Interview.html) | Interview <br> Politic | 3 | 3 | 3 | 3 | 3 |
+| [9–18 February 2026](2026-02-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3 | 3 | 3 | 3–4 | 2–4 |
 | [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 3 | 3 | 3 | 2–3 | 2–3 |
 | [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> Η Εφημερίδα των Συντακτών | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -403,7 +407,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 14% | 100% |  |
 | 3 | 84% | 86% | Median |
-| 4 | 1.4% | 1.4% |  |
+| 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
 
