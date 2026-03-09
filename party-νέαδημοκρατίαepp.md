@@ -241,9 +241,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 6–8 | 6–9 |
-| [18–23 February 2026](2026-02-23-Interview.html) | Interview <br> Politic | 7 | 7 | 6–7 | 6–7 | 6–7 |
-| [9–18 February 2026](2026-02-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [18–23 February 2026](2026-02-23-Interview.html) | Interview <br> Politic | 7 | 7 | 7 | 6–7 | 6–7 |
+| [9–18 February 2026](2026-02-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
 | [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> Η Εφημερίδα των Συντακτών | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon | 7 | 7 | 6–7 | 6–7 | 6–8 |
@@ -431,9 +431,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.4% | 100% |  |
 | 6 | 30% | 99.6% |  |
-| 7 | 61% | 70% | Median |
-| 8 | 8% | 9% |  |
-| 9 | 0.6% | 0.6% |  |
+| 7 | 62% | 70% | Median |
+| 8 | 8% | 8% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 
