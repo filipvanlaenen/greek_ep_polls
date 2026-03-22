@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.1% | 6.3–11.9% | 5.8–12.3% | 5.5–12.7% | 5.1–13.5% |
+| N/A | [Poll Average](average.html) | 9.9% | 6.3–11.5% | 5.8–11.9% | 5.5–12.3% | 5.1–13.0% |
+| [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV | 10.5% | 9.2–12.0% | 8.9–12.4% | 8.6–12.8% | 8.0–13.6% |
+| [11–17 March 2026](2026-03-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.5% | 8.2–13.2% |
+| [8–10 March 2026](2026-03-10-RealPolls.html) | Real Polls <br> Protagon | 10.1% | 9.1–11.3% | 8.8–11.6% | 8.6–11.9% | 8.1–12.5% |
 | [7–10 March 2026](2026-03-10-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.7% | 8.5–11.1% | 8.2–11.5% | 7.9–11.9% | 7.4–12.6% |
 | [5–9 March 2026](2026-03-09-Interview.html) | Interview <br> Political | 5.9% | 5.3–6.5% | 5.2–6.7% | 5.0–6.8% | 4.8–7.2% |
 | [2–7 March 2026](2026-03-07-Alco.html) | Alco <br> Alpha TV | 8.8% | 7.6–10.3% | 7.3–10.7% | 7.0–11.1% | 6.4–11.8% |
@@ -205,14 +208,13 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 9% | 97% |  |
 | 6.5–7.5% | 2% | 88% |  |
 | 7.5–8.5% | 7% | 86% |  |
-| 8.5–9.5% | 16% | 80% |  |
-| 9.5–10.5% | 25% | 64% | Median |
-| 10.5–11.5% | 24% | 39% |  |
-| 11.5–12.5% | 11% | 15% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.5% | 0.5% |  |
+| 8.5–9.5% | 20% | 79% |  |
+| 9.5–10.5% | 29% | 59% | Median |
+| 10.5–11.5% | 21% | 30% |  |
+| 11.5–12.5% | 7% | 9% |  |
+| 12.5–13.5% | 1.3% | 1.5% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
-| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -223,7 +225,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [11–17 March 2026](2026-03-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [8–10 March 2026](2026-03-10-RealPolls.html) | Real Polls <br> Protagon | 2 | 2 | 2 | 2 | 2–3 |
 | [7–10 March 2026](2026-03-10-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5–9 March 2026](2026-03-09-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 1–2 |
 | [2–7 March 2026](2026-03-07-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 1–2 | 1–2 | 1–3 |
@@ -413,8 +418,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 13% | 100% |  |
-| 2 | 70% | 87% | Median |
-| 3 | 17% | 17% |  |
+| 2 | 77% | 87% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 
