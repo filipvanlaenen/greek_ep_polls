@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 6.3–11.5% | 5.8–11.9% | 5.5–12.3% | 5.1–13.0% |
+| N/A | [Poll Average](average.html) | 9.7% | 5.2–11.3% | 4.8–11.7% | 4.5–12.1% | 4.2–12.9% |
+| [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 4.9% | 4.3–5.4% | 4.2–5.6% | 4.1–5.8% | 3.9–6.1% |
+| [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 9.6% | 8.4–11.1% | 8.1–11.5% | 7.8–11.8% | 7.3–12.6% |
 | [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV | 10.5% | 9.2–12.0% | 8.9–12.4% | 8.6–12.8% | 8.0–13.6% |
 | [11–17 March 2026](2026-03-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.5% | 8.2–13.2% |
 | [8–10 March 2026](2026-03-10-RealPolls.html) | Real Polls <br> Protagon | 10.1% | 9.1–11.3% | 8.8–11.6% | 8.6–11.9% | 8.1–12.5% |
@@ -203,16 +205,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 3% | 100% |  |
-| 5.5–6.5% | 9% | 97% |  |
-| 6.5–7.5% | 2% | 88% |  |
-| 7.5–8.5% | 7% | 86% |  |
-| 8.5–9.5% | 20% | 79% |  |
-| 9.5–10.5% | 29% | 59% | Median |
-| 10.5–11.5% | 21% | 30% |  |
-| 11.5–12.5% | 7% | 9% |  |
-| 12.5–13.5% | 1.3% | 1.5% |  |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 9% | 97% |  |
+| 5.5–6.5% | 0.9% | 88% |  |
+| 6.5–7.5% | 1.5% | 87% |  |
+| 7.5–8.5% | 9% | 86% |  |
+| 8.5–9.5% | 23% | 77% |  |
+| 9.5–10.5% | 30% | 54% | Median |
+| 10.5–11.5% | 18% | 25% |  |
+| 11.5–12.5% | 5% | 7% |  |
+| 12.5–13.5% | 0.9% | 1.0% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -226,6 +228,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 1 | 1 | 1 | 1 | 1 |
+| [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–17 March 2026](2026-03-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–10 March 2026](2026-03-10-RealPolls.html) | Real Polls <br> Protagon | 2 | 2 | 2 | 2 | 2–3 |
@@ -418,7 +422,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 13% | 100% |  |
-| 2 | 77% | 87% | Median |
+| 2 | 78% | 87% | Median |
 | 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
