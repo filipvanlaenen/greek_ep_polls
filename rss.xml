@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 25 Mar 2026 22:37:22 +0100</pubDate>
+    <pubDate>Thu, 26 Mar 2026 19:55:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Interview for Politic, 18–22 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-03-22-Interview.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-03-22-Interview-seats.png"
         length="276244"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 21:12:25 +0100</pubDate>
-      <dc:date>2026-03-25T21:12:25.593743+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 18:44:09 +0100</pubDate>
+      <dc:date>2026-03-26T18:44:09.484534+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Politic, 18–22 March 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-03-22-Interview-coalitions-seats.png"
         length="184210"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 21:12:25 +0100</pubDate>
-      <dc:date>2026-03-25T21:12:25.593743+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 18:44:09 +0100</pubDate>
+      <dc:date>2026-03-26T18:44:09.484534+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Interview for Politic, 18–22 March 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-03-22-Interview.png"
         length="348400"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 21:12:25 +0100</pubDate>
-      <dc:date>2026-03-25T21:12:25.593743+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 18:44:09 +0100</pubDate>
+      <dc:date>2026-03-26T18:44:09.484534+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for iEfimerida, 17–20 March 2026 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-03-20-GPO-seats.png"
         length="286646"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 22:37:22 +0100</pubDate>
-      <dc:date>2026-03-25T22:37:22.498896+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 19:55:10 +0100</pubDate>
+      <dc:date>2026-03-26T19:55:10.406309+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for iEfimerida, 17–20 March 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-03-20-GPO-coalitions-seats.png"
         length="200770"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 22:37:22 +0100</pubDate>
-      <dc:date>2026-03-25T22:37:22.498896+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 19:55:10 +0100</pubDate>
+      <dc:date>2026-03-26T19:55:10.406309+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for iEfimerida, 17–20 March 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-03-20-GPO.png"
         length="383459"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 22:37:22 +0100</pubDate>
-      <dc:date>2026-03-25T22:37:22.498896+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 19:55:10 +0100</pubDate>
+      <dc:date>2026-03-26T19:55:10.406309+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MRB for Open TV, 16–18 March 2026 – Seat Projections for the Parties</title>
@@ -759,6 +759,6 @@
       <pubDate>Sat, 21 Feb 2026 22:28:10 +0100</pubDate>
       <dc:date>2026-02-21T22:28:10.097513+01:00</dc:date>
     </item>
-    <dc:date>2026-03-25T22:37:22.498896+01:00</dc:date>
+    <dc:date>2026-03-26T19:55:10.406309+01:00</dc:date>
   </channel>
 </rss>
