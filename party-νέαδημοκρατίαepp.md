@@ -253,7 +253,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 7 | 7 | 6–8 | 6–8 | 6–8 |
+| [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [11–17 March 2026](2026-03-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [8–10 March 2026](2026-03-10-RealPolls.html) | Real Polls <br> Protagon | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
@@ -452,7 +452,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 13% | 100% |  |
 | 7 | 68% | 87% | Median |
-| 8 | 19% | 19% |  |
+| 8 | 18% | 18% |  |
 | 9 | 0% | 0% |  |
 
 
