@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.9% | 29.5–34.7% | 28.9–35.3% | 28.4–35.7% | 27.4–36.6% |
+| N/A | [Poll Average](average.html) | 32.0% | 29.5–34.7% | 28.9–35.3% | 28.4–35.7% | 27.3–36.6% |
+| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 30.8% | 28.8–32.9% | 28.2–33.5% | 27.7–34.0% | 26.8–35.0% |
+| [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 32.1% | 30.2–34.0% | 29.7–34.6% | 29.2–35.1% | 28.3–36.0% |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 34.7% | 33.6–36.0% | 33.2–36.3% | 32.9–36.6% | 32.4–37.2% |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 31.4% | 29.4–33.5% | 28.8–34.1% | 28.3–34.7% | 27.4–35.7% |
 | [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV | 31.0% | 28.9–33.1% | 28.3–33.7% | 27.8–34.3% | 26.9–35.3% |
@@ -231,12 +233,12 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0.6% | 99.9% |  |
 | 27.5–28.5% | 2% | 99.3% |  |
 | 28.5–29.5% | 7% | 97% |  |
-| 29.5–30.5% | 14% | 90% |  |
-| 30.5–31.5% | 19% | 76% |  |
-| 31.5–32.5% | 20% | 57% | Median |
-| 32.5–33.5% | 15% | 37% |  |
-| 33.5–34.5% | 11% | 22% |  |
-| 34.5–35.5% | 7% | 11% |  |
+| 29.5–30.5% | 13% | 90% |  |
+| 30.5–31.5% | 19% | 77% |  |
+| 31.5–32.5% | 20% | 58% | Median |
+| 32.5–33.5% | 16% | 38% |  |
+| 33.5–34.5% | 12% | 23% |  |
+| 34.5–35.5% | 8% | 11% |  |
 | 35.5–36.5% | 3% | 3% |  |
 | 36.5–37.5% | 0.5% | 0.5% |  |
 | 37.5–38.5% | 0% | 0% |  |
@@ -252,6 +254,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 7 | 7 | 6–7 | 6–8 | 6–8 |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
@@ -450,8 +454,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 13% | 100% |  |
-| 7 | 68% | 87% | Median |
+| 6 | 12% | 100% |  |
+| 7 | 70% | 88% | Median |
 | 8 | 18% | 18% |  |
 | 9 | 0% | 0% |  |
 
