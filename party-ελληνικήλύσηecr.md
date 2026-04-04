@@ -231,7 +231,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2–3 | 2–3 |
 | [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
