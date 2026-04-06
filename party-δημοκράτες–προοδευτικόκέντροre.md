@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.1–3.1% | 1.0–3.3% | 0.9–3.5% | 0.7–4.0% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.1–3.0% | 1.0–3.3% | 0.9–3.5% | 0.7–4.0% |
 | [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.2% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% | 0.5–2.5% |
+| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 1.5% | 1.1–2.3% | 1.0–2.5% | 0.9–2.6% | 0.7–3.0% |
 | [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.9–2.4% | 0.7–2.7% |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 2.9% | 2.5–3.4% | 2.4–3.5% | 2.3–3.6% | 2.1–3.9% |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 1.8% | 1.3–2.6% | 1.2–2.8% | 1.1–3.0% | 0.9–3.4% |
@@ -204,9 +205,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 33% | 99.9% |  |
-| 1.5–2.5% | 42% | 67% | Median |
-| 2.5–3.5% | 23% | 25% |  |
+| 0.5–1.5% | 34% | 99.9% |  |
+| 1.5–2.5% | 43% | 66% | Median |
+| 2.5–3.5% | 20% | 22% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -222,6 +223,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
+| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 0 | 0 | 0 | 0 | 0 |
 | [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 0 | 0 | 0 | 0 | 0 |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -415,8 +417,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 6% | 6% |  |
 | 2 | 0% | 0% |  |
 
 

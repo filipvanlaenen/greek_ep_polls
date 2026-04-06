@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.2% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
+| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 0.0% | N/A | N/A | N/A | N/A |
 | [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 0.0% | N/A | N/A | N/A | N/A |
@@ -221,6 +222,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion |  |  |  |  |  |
 | [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic |  |  |  |  |  |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida |  |  |  |  |  |
