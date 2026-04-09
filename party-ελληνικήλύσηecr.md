@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.4% | 6.6–11.7% | 6.0–12.2% | 5.7–12.7% | 5.3–13.6% |
+| N/A | [Poll Average](average.html) | 9.6% | 7.4–11.8% | 6.9–12.4% | 6.6–12.8% | 6.1–13.7% |
+| [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr | 6.9% | 6.3–7.7% | 6.1–7.8% | 6.0–8.0% | 5.7–8.4% |
+| [31 March–4 April 2026](2026-04-04-ALCO.html) | ALCO <br> Alpha TV | 10.5% | 9.2–12.1% | 8.8–12.6% | 8.5–12.9% | 7.9–13.7% |
 | [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.1% | 6.7–11.8% |
 | [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 9.0% | 7.9–10.4% | 7.6–10.8% | 7.3–11.2% | 6.8–11.9% |
 | [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 10.9% | 9.7–12.2% | 9.3–12.6% | 9.1–13.0% | 8.5–13.7% |
@@ -209,16 +211,16 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.4% | 100% |  |
-| 5.5–6.5% | 8% | 98.6% |  |
-| 6.5–7.5% | 4% | 90% |  |
-| 7.5–8.5% | 15% | 86% |  |
-| 8.5–9.5% | 25% | 71% | Median |
-| 9.5–10.5% | 20% | 46% |  |
-| 10.5–11.5% | 15% | 26% |  |
-| 11.5–12.5% | 8% | 11% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.5% | 0.6% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 10% | 98% |  |
+| 7.5–8.5% | 15% | 88% |  |
+| 8.5–9.5% | 22% | 73% |  |
+| 9.5–10.5% | 21% | 51% | Median |
+| 10.5–11.5% | 17% | 30% |  |
+| 11.5–12.5% | 9% | 13% |  |
+| 12.5–13.5% | 3% | 4% |  |
+| 13.5–14.5% | 0.6% | 0.7% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -231,7 +233,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [31 March–4 April 2026](2026-04-04-ALCO.html) | ALCO <br> Alpha TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 2 | 2 | 2–3 | 2–3 |
 | [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 2 | 2 | 2 | 2 | 2–3 |
 | [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -428,9 +432,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 11% | 100% |  |
-| 2 | 75% | 89% | Median |
-| 3 | 14% | 14% |  |
+| 1 | 7% | 100% |  |
+| 2 | 78% | 93% | Median |
+| 3 | 15% | 15% |  |
 | 4 | 0% | 0% |  |
 
 
