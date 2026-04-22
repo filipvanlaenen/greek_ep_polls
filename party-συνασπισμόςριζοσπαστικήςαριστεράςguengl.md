@@ -234,9 +234,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 1 | 1 | 1 | 1 | 0–1 |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
 | [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 1 | 1 | 1 | 1–2 | 1–2 |
+| [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 1 | 1 | 1 | 1 | 1 |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida |  |  |  |  |  |
 | [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
@@ -429,9 +429,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 85% | 99.5% | Median |
-| 2 | 14% | 14% |  |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 88% | 99.6% | Median |
+| 2 | 12% | 12% |  |
 | 3 | 0% | 0% |  |
 
 

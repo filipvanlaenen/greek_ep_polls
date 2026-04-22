@@ -258,14 +258,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
-| [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 7 | 7 | 6–7 | 6–8 | 6–8 |
+| [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 7 | 7 | 7–8 | 6–8 | 6–8 |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida |  |  |  |  |  |
 | [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
@@ -463,10 +463,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 21% | 99.9% |  |
-| 7 | 68% | 79% | Median |
-| 8 | 11% | 11% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 20% | 99.8% |  |
+| 7 | 70% | 80% | Median |
+| 8 | 9% | 9% |  |
 | 9 | 0% | 0% |  |
 
 
