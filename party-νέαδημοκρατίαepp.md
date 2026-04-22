@@ -10,38 +10,40 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.7% | 29.0–33.9% | 28.3–34.5% | 27.6–35.1% | 26.4–36.3% |
-| [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr | 32.8% | 31.6–34.0% | 31.3–34.4% | 31.0–34.7% | 30.4–35.3% |
-| [31 March–4 April 2026](2026-04-04-ALCO.html) | ALCO <br> Alpha TV | 29.2% | 27.1–31.4% | 26.6–32.0% | 26.0–32.6% | 25.1–33.6% |
-| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 30.8% | 28.8–32.9% | 28.2–33.5% | 27.7–34.0% | 26.8–35.0% |
-| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 33.3% | 31.3–35.4% | 30.7–36.0% | 30.2–36.6% | 29.2–37.6% |
-| [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 32.1% | 30.2–34.0% | 29.7–34.6% | 29.2–35.1% | 28.3–36.0% |
-| [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 34.7% | 33.6–36.0% | 33.2–36.3% | 32.9–36.6% | 32.4–37.2% |
-| [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 31.4% | 29.4–33.5% | 28.8–34.1% | 28.3–34.7% | 27.4–35.7% |
-| [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV | 31.0% | 28.9–33.1% | 28.3–33.7% | 27.8–34.3% | 26.9–35.3% |
-| [11–17 March 2026](2026-03-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 31.1% | 29.3–33.0% | 28.8–33.6% | 28.3–34.0% | 27.5–35.0% |
-| [8–10 March 2026](2026-03-10-RealPolls.html) | Real Polls <br> Protagon | 32.6% | 30.9–34.3% | 30.5–34.8% | 30.1–35.2% | 29.3–36.0% |
-| [7–10 March 2026](2026-03-10-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 31.1% | 29.1–33.1% | 28.5–33.7% | 28.1–34.2% | 27.1–35.2% |
-| [5–9 March 2026](2026-03-09-Interview.html) | Interview <br> Political | 34.1% | 32.9–35.3% | 32.6–35.6% | 32.3–35.9% | 31.8–36.5% |
-| [2–7 March 2026](2026-03-07-Alco.html) | Alco <br> Alpha TV | 31.0% | 28.9–33.3% | 28.3–33.9% | 27.8–34.4% | 26.8–35.5% |
-| [4–6 March 2026](2026-03-06-OpinionPoll.html) | Opinion Poll <br> Action 24 | 32.6% | 30.6–34.8% | 30.0–35.4% | 29.5–35.9% | 28.5–37.0% |
-| [18–23 February 2026](2026-02-23-Interview.html) | Interview <br> Politic | 31.7% | 30.6–32.8% | 30.3–33.1% | 30.0–33.4% | 29.5–33.9% |
-| [9–18 February 2026](2026-02-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 34.4% | 32.6–36.4% | 32.1–36.9% | 31.6–37.4% | 30.8–38.3% |
-| [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 29.5% | 27.6–31.4% | 27.1–32.0% | 26.6–32.4% | 25.8–33.4% |
-| [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> iEfimerida | 30.1% | 28.2–32.3% | 27.6–32.8% | 27.1–33.4% | 26.2–34.4% |
-| [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon | 30.9% | 29.4–32.6% | 28.9–33.0% | 28.5–33.4% | 27.8–34.2% |
-| [4–9 February 2026](2026-02-09-Interview.html) | Interview <br> Political | 32.6% | 31.5–33.8% | 31.2–34.1% | 30.9–34.4% | 30.3–34.9% |
-| [27–31 January 2026](2026-01-31-Alco.html) | Alco <br> Alpha TV | 28.9% | 26.8–30.9% | 26.3–31.5% | 25.8–32.0% | 24.9–33.0% |
-| [26–28 January 2026](2026-01-28-MRB.html) | MRB <br> Open TV | 29.2% | 27.1–31.4% | 26.6–32.0% | 26.1–32.5% | 25.1–33.6% |
-| [23–27 January 2026](2026-01-27-GPO.html) | GPO <br> Star TV | 30.2% | 28.4–32.2% | 27.8–32.7% | 27.4–33.2% | 26.5–34.1% |
-| [22–26 January 2026](2026-01-26-Interview.html) | Interview <br> Politic.gr | 32.3% | 31.1–33.5% | 30.8–33.9% | 30.5–34.1% | 30.0–34.7% |
-| [14–20 January 2026](2026-01-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 28.5% | 26.7–30.3% | 26.2–30.9% | 25.8–31.3% | 25.0–32.2% |
-| [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.5% | 27.6–31.5% | 27.1–32.1% | 26.6–32.6% | 25.8–33.5% |
-| [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 30.0% | 28.2–32.3% | 27.6–32.9% | 27.1–33.5% | 26.2–34.5% |
+| N/A | [Poll Average](average.html) | 30.7% | 29.4–32.8% | 29.1–33.4% | 28.8–33.9% | 28.3–34.8% |
+| [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 31.7% | 30.0–33.4% | 29.6–33.9% | 29.2–34.3% | 28.4–35.1% |
+| [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 30.2% | 29.2–31.1% | 28.9–31.4% | 28.7–31.7% | 28.3–32.1% |
+| [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr | 32.8% | N/A | N/A | N/A | N/A |
+| [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV | 29.2% | N/A | N/A | N/A | N/A |
+| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 30.8% | N/A | N/A | N/A | N/A |
+| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 33.3% | N/A | N/A | N/A | N/A |
+| [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 32.1% | N/A | N/A | N/A | N/A |
+| [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 34.7% | N/A | N/A | N/A | N/A |
+| [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 31.4% | N/A | N/A | N/A | N/A |
+| [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV | 31.0% | N/A | N/A | N/A | N/A |
+| [11–17 March 2026](2026-03-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 31.1% | N/A | N/A | N/A | N/A |
+| [8–10 March 2026](2026-03-10-RealPolls.html) | Real Polls <br> Protagon | 32.6% | N/A | N/A | N/A | N/A |
+| [7–10 March 2026](2026-03-10-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 31.1% | N/A | N/A | N/A | N/A |
+| [5–9 March 2026](2026-03-09-Interview.html) | Interview <br> Political | 34.1% | N/A | N/A | N/A | N/A |
+| [2–7 March 2026](2026-03-07-Alco.html) | Alco <br> Alpha TV | 31.0% | N/A | N/A | N/A | N/A |
+| [4–6 March 2026](2026-03-06-OpinionPoll.html) | Opinion Poll <br> Action 24 | 32.6% | N/A | N/A | N/A | N/A |
+| [18–23 February 2026](2026-02-23-Interview.html) | Interview <br> Politic | 31.7% | N/A | N/A | N/A | N/A |
+| [9–18 February 2026](2026-02-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 34.4% | N/A | N/A | N/A | N/A |
+| [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 29.5% | N/A | N/A | N/A | N/A |
+| [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> iEfimerida | 30.1% | N/A | N/A | N/A | N/A |
+| [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon | 30.9% | N/A | N/A | N/A | N/A |
+| [4–9 February 2026](2026-02-09-Interview.html) | Interview <br> Political | 32.6% | N/A | N/A | N/A | N/A |
+| [27–31 January 2026](2026-01-31-Alco.html) | Alco <br> Alpha TV | 28.9% | N/A | N/A | N/A | N/A |
+| [26–28 January 2026](2026-01-28-MRB.html) | MRB <br> Open TV | 29.2% | N/A | N/A | N/A | N/A |
+| [23–27 January 2026](2026-01-27-GPO.html) | GPO <br> Star TV | 30.2% | N/A | N/A | N/A | N/A |
+| [22–26 January 2026](2026-01-26-Interview.html) | Interview <br> Politic.gr | 32.3% | N/A | N/A | N/A | N/A |
+| [14–20 January 2026](2026-01-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 28.5% | N/A | N/A | N/A | N/A |
+| [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.5% | N/A | N/A | N/A | N/A |
+| [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 30.0% | N/A | N/A | N/A | N/A |
 | [12–15 January 2026](2026-01-15-GPO.html) | GPO <br> Παραπολιτικά | 28.8% | N/A | N/A | N/A | N/A |
-| [11–12 January 2026](2026-01-12-RealPolls.html) | Real Polls <br> Protagon | 30.0% | 28.5–31.5% | 28.1–31.9% | 27.7–32.3% | 27.0–33.0% |
+| [11–12 January 2026](2026-01-12-RealPolls.html) | Real Polls <br> Protagon | 30.0% | N/A | N/A | N/A | N/A |
 | [9–12 January 2026](2026-01-12-Interview.html) | Interview <br> Political | 32.4% | N/A | N/A | N/A | N/A |
-| [22–29 December 2025](2025-12-29-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 29.5% | 27.6–31.6% | 27.0–32.2% | 26.6–32.7% | 25.6–33.7% |
+| [22–29 December 2025](2025-12-29-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 29.5% | N/A | N/A | N/A | N/A |
 | [16–19 December 2025](2025-12-19-Interview.html) | Interview <br> Politic.gr | 29.6% | N/A | N/A | N/A | N/A |
 | [11–16 December 2025](2025-12-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 29.7% | N/A | N/A | N/A | N/A |
 | [9–16 December 2025](2025-12-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 27.0% | N/A | N/A | N/A | N/A |
@@ -51,7 +53,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [4–12 December 2025](2025-12-12-MRB.html) | MRB <br> Open TV | 29.2% | N/A | N/A | N/A | N/A |
 | [6–8 December 2025](2025-12-08-RealPolls.html) | Real Polls <br> Protagon | 29.1% | N/A | N/A | N/A | N/A |
 | [4–8 December 2025](2025-12-08-Interview.html) | Interview <br> Political | 31.5% | N/A | N/A | N/A | N/A |
-| [18–26 November 2025](2025-11-26-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 33.2% | 29.3–32.7% | 28.9–33.2% | 28.5–33.6% | 27.7–34.4% |
+| [18–26 November 2025](2025-11-26-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 33.2% | N/A | N/A | N/A | N/A |
 | [24–26 November 2025](2025-11-26-GPO.html) | GPO <br> Star TV | 29.5% | N/A | N/A | N/A | N/A |
 | [20–24 November 2025](2025-11-24-Interview.html) | Interview <br> Politic.gr | 30.1% | N/A | N/A | N/A | N/A |
 | [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV | 29.1% | N/A | N/A | N/A | N/A |
@@ -231,21 +233,19 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.5% | 99.9% |  |
-| 26.5–27.5% | 2% | 99.3% |  |
-| 27.5–28.5% | 4% | 98% |  |
-| 28.5–29.5% | 9% | 93% |  |
-| 29.5–30.5% | 14% | 85% |  |
-| 30.5–31.5% | 18% | 71% |  |
-| 31.5–32.5% | 21% | 53% | Median |
-| 32.5–33.5% | 17% | 32% |  |
-| 33.5–34.5% | 10% | 14% |  |
-| 34.5–35.5% | 3% | 5% |  |
-| 35.5–36.5% | 1.1% | 1.4% |  |
-| 36.5–37.5% | 0.3% | 0.3% |  |
-| 37.5–38.5% | 0.1% | 0.1% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0% | 100% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 1.0% | 100% |  |
+| 28.5–29.5% | 12% | 98.9% |  |
+| 29.5–30.5% | 31% | 87% |  |
+| 30.5–31.5% | 27% | 56% | Median |
+| 31.5–32.5% | 16% | 29% |  |
+| 32.5–33.5% | 9% | 13% |  |
+| 33.5–34.5% | 3% | 4% |  |
+| 34.5–35.5% | 0.7% | 0.8% |  |
+| 35.5–36.5% | 0.1% | 0.1% |  |
+| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -256,38 +256,40 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr | 7 | 7 | 7–8 | 7–8 | 7–8 |
-| [31 March–4 April 2026](2026-04-04-ALCO.html) | ALCO <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 7 | 7 | 7–8 | 6–8 | 6–8 |
-| [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
-| [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [11–17 March 2026](2026-03-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [8–10 March 2026](2026-03-10-RealPolls.html) | Real Polls <br> Protagon | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [7–10 March 2026](2026-03-10-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [5–9 March 2026](2026-03-09-Interview.html) | Interview <br> Political | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
-| [2–7 March 2026](2026-03-07-Alco.html) | Alco <br> Alpha TV | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
-| [4–6 March 2026](2026-03-06-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [18–23 February 2026](2026-02-23-Interview.html) | Interview <br> Politic | 7 | 7 | 7 | 6–7 | 6–7 |
-| [9–18 February 2026](2026-02-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–8 | 7–8 | 7–9 |
-| [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> iEfimerida | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon | 7 | 7 | 6–7 | 6–7 | 6–8 |
-| [4–9 February 2026](2026-02-09-Interview.html) | Interview <br> Political | 7 | 7 | 7 | 7 | 6–8 |
-| [27–31 January 2026](2026-01-31-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [26–28 January 2026](2026-01-28-MRB.html) | MRB <br> Open TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [23–27 January 2026](2026-01-27-GPO.html) | GPO <br> Star TV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [22–26 January 2026](2026-01-26-Interview.html) | Interview <br> Politic.gr | 7 | 7 | 7 | 7 | 6–8 |
-| [14–20 January 2026](2026-01-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
+| [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion |  |  |  |  |  |
+| [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
+| [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic |  |  |  |  |  |
+| [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida |  |  |  |  |  |
+| [16–18 March 2026](2026-03-18-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [11–17 March 2026](2026-03-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [8–10 March 2026](2026-03-10-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [7–10 March 2026](2026-03-10-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [5–9 March 2026](2026-03-09-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [2–7 March 2026](2026-03-07-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [4–6 March 2026](2026-03-06-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [18–23 February 2026](2026-02-23-Interview.html) | Interview <br> Politic |  |  |  |  |  |
+| [9–18 February 2026](2026-02-18-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [11–17 February 2026](2026-02-17-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [12–14 February 2026](2026-02-14-GPO.html) | GPO <br> iEfimerida |  |  |  |  |  |
+| [7–9 February 2026](2026-02-09-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [4–9 February 2026](2026-02-09-Interview.html) | Interview <br> Political |  |  |  |  |  |
+| [27–31 January 2026](2026-01-31-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
+| [26–28 January 2026](2026-01-28-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [23–27 January 2026](2026-01-27-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
+| [22–26 January 2026](2026-01-26-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
+| [14–20 January 2026](2026-01-20-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
+| [16–19 January 2026](2026-01-19-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
+| [14–16 January 2026](2026-01-16-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
 | [12–15 January 2026](2026-01-15-GPO.html) | GPO <br> Παραπολιτικά |  |  |  |  |  |
-| [11–12 January 2026](2026-01-12-RealPolls.html) | Real Polls <br> Protagon | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [11–12 January 2026](2026-01-12-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
 | [9–12 January 2026](2026-01-12-Interview.html) | Interview <br> Political |  |  |  |  |  |
-| [22–29 December 2025](2025-12-29-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [22–29 December 2025](2025-12-29-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος |  |  |  |  |  |
 | [16–19 December 2025](2025-12-19-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [11–16 December 2025](2025-12-16-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
 | [9–16 December 2025](2025-12-16-MetronAnalysis.html) | Metron Analysis <br> Mega TV |  |  |  |  |  |
@@ -297,7 +299,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–12 December 2025](2025-12-12-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [6–8 December 2025](2025-12-08-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
 | [4–8 December 2025](2025-12-08-Interview.html) | Interview <br> Political |  |  |  |  |  |
-| [18–26 November 2025](2025-11-26-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [18–26 November 2025](2025-11-26-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [24–26 November 2025](2025-11-26-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [20–24 November 2025](2025-11-24-Interview.html) | Interview <br> Politic.gr |  |  |  |  |  |
 | [18–20 November 2025](2025-11-20-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
@@ -459,10 +461,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.1% | 100% |  |
-| 6 | 17% | 99.9% |  |
-| 7 | 74% | 83% | Median |
-| 8 | 9% | 9% |  |
+| 5 | 0% | 100% |  |
+| 6 | 14% | 100% |  |
+| 7 | 85% | 86% | Median |
+| 8 | 1.3% | 1.3% |  |
 | 9 | 0% | 0% |  |
 
 
