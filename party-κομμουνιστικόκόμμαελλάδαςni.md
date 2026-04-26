@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 6.3–10.1% | 6.0–10.6% | 5.8–11.0% | 5.5–11.8% |
+| N/A | [Poll Average](average.html) | 8.0% | 6.3–10.1% | 6.0–10.7% | 5.8–11.2% | 5.5–12.2% |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 10.0% | 8.7–11.4% | 8.4–11.9% | 8.1–12.2% | 7.5–13.0% |
 | [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 7.0% | 6.1–8.0% | 5.9–8.2% | 5.7–8.5% | 5.3–9.0% |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 6.3% | 5.9–6.9% | 5.7–7.0% | 5.6–7.2% | 5.4–7.4% |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr | 6.3% | N/A | N/A | N/A | N/A |
@@ -218,10 +219,10 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 22% | 83% |  |
 | 7.5–8.5% | 24% | 61% | Median |
 | 8.5–9.5% | 20% | 37% |  |
-| 9.5–10.5% | 12% | 17% |  |
-| 10.5–11.5% | 4% | 5% |  |
-| 11.5–12.5% | 0.8% | 0.9% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 11% | 17% |  |
+| 10.5–11.5% | 5% | 6% |  |
+| 11.5–12.5% | 1.3% | 1.5% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -234,6 +235,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 1 | 1 | 1 | 1 | 1–2 |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
@@ -436,7 +438,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 33% | 100% |  |
 | 2 | 63% | 67% | Median |
-| 3 | 3% | 3% |  |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 

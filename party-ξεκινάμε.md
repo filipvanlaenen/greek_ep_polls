@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.3% | 8.7–9.9% | 8.5–10.1% | 8.4–10.2% | 8.1–10.6% |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 0.0% | N/A | N/A | N/A | N/A |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 9.3% | 8.7–9.9% | 8.5–10.1% | 8.4–10.3% | 8.1–10.6% |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr | 0.0% | N/A | N/A | N/A | N/A |
@@ -232,6 +233,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika |  |  |  |  |  |
 | [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon |  |  |  |  |  |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 2 | 2 | 2 | 2 | 2 |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
