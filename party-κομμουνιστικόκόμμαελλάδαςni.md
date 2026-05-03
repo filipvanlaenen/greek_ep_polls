@@ -236,7 +236,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 2 | 2 | 2 | 1–2 | 1–2 |
+| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 2 | 2 | 2 | 1–2 | 1–3 |
 | [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 1 | 1 | 1 | 1 | 1–2 |
