@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 4.0–11.7% | 3.7–12.6% | 3.6–13.1% | 3.3–14.2% |
+| N/A | [Poll Average](average.html) | 8.6% | 4.0–11.7% | 3.8–12.5% | 3.6–13.0% | 3.3–14.1% |
+| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 10.3% | 9.2–11.7% | 8.8–12.1% | 8.6–12.4% | 8.0–13.1% |
 | [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 8.6% | 7.4–10.0% | 7.1–10.4% | 6.8–10.7% | 6.3–11.4% |
 | [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 7.8% | 6.9–8.9% | 6.7–9.2% | 6.5–9.4% | 6.1–10.0% |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 3.9% | 3.5–4.3% | 3.4–4.4% | 3.3–4.5% | 3.1–4.8% |
@@ -213,17 +214,17 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 14% | 98% |  |
-| 4.5–5.5% | 0.4% | 84% |  |
-| 5.5–6.5% | 2% | 83% |  |
-| 6.5–7.5% | 13% | 81% |  |
-| 7.5–8.5% | 24% | 68% | Median |
-| 8.5–9.5% | 18% | 44% |  |
-| 9.5–10.5% | 9% | 26% |  |
-| 10.5–11.5% | 6% | 17% |  |
-| 11.5–12.5% | 6% | 11% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 1.2% | 1.4% |  |
+| 3.5–4.5% | 12% | 98% |  |
+| 4.5–5.5% | 0.4% | 86% |  |
+| 5.5–6.5% | 2% | 86% |  |
+| 6.5–7.5% | 11% | 84% |  |
+| 7.5–8.5% | 21% | 73% |  |
+| 8.5–9.5% | 18% | 52% | Median |
+| 9.5–10.5% | 13% | 34% |  |
+| 10.5–11.5% | 10% | 21% |  |
+| 11.5–12.5% | 7% | 11% |  |
+| 12.5–13.5% | 3% | 5% |  |
+| 13.5–14.5% | 1.0% | 1.2% |  |
 | 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -237,6 +238,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 2 | 2 | 2 | 2–3 | 1–3 |
 | [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 1 | 1 | 1 | 1 | 1 |
@@ -438,9 +440,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 22% | 100% |  |
-| 2 | 63% | 78% | Median |
-| 3 | 15% | 15% |  |
+| 1 | 19% | 100% |  |
+| 2 | 65% | 81% | Median |
+| 3 | 16% | 16% |  |
 | 4 | 0% | 0% |  |
 
 
