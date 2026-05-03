@@ -459,7 +459,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 1.3% | 100% |  |
-| 3 | 72% | 98.7% | Median |
+| 3 | 73% | 98.7% | Median |
 | 4 | 26% | 26% |  |
 | 5 | 0% | 0% |  |
 
@@ -501,8 +501,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
-| 6 | 31% | 99.7% |  |
-| 7 | 62% | 69% | Median |
+| 6 | 30% | 99.7% |  |
+| 7 | 62% | 70% | Median |
 | 8 | 7% | 7% |  |
 | 9 | 0% | 0% |  |
 
@@ -534,8 +534,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 64% | 64% | Median |
+| 0 | 37% | 100% | Last Result |
+| 1 | 63% | 63% | Median |
 | 2 | 0% | 0% |  |
 
 ### Χρυσή Αυγή (NI)
@@ -566,8 +566,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 26% | 26% |  |
+| 0 | 73% | 100% | Last Result, Median |
+| 1 | 27% | 27% |  |
 | 2 | 0% | 0% |  |
 
 ### Πλεύση Ελευθερίας (NI)
@@ -675,8 +675,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
-| 6 | 31% | 99.7% |  |
-| 7 | 62% | 69% | Median |
+| 6 | 30% | 99.7% |  |
+| 7 | 62% | 70% | Median |
 | 8 | 7% | 7% |  |
 | 9 | 0% | 0% |  |
 
@@ -691,7 +691,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 15% | 100% |  |
 | 3 | 12% | 85% |  |
 | 4 | 42% | 73% | Median |
-| 5 | 22% | 31% |  |
+| 5 | 23% | 31% |  |
 | 6 | 8% | 8% |  |
 | 7 | 0% | 0% |  |
 
@@ -704,7 +704,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 1.3% | 100% |  |
-| 3 | 72% | 98.7% | Median |
+| 3 | 73% | 98.7% | Median |
 | 4 | 26% | 26% |  |
 | 5 | 0% | 0% |  |
 
@@ -728,8 +728,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 30% | 99.9% |  |
-| 2 | 65% | 70% | Median |
-| 3 | 4% | 4% |  |
+| 2 | 67% | 70% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### Αντικαπιταλιστική Αριστερή Συνεργασία για την Ανατροπή (*) – Δημιουργία, Ξανά (*) – ΕΑΝ… (*) – Εθνική Δημιουργία (*) – Εθνικό Κόμμα – Έλληνες (*) – Ξεκινάμε (*) – Πατριώτες (*) – Σπαρτιάτες (*)
@@ -759,8 +759,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 64% | 64% | Median |
+| 0 | 37% | 100% | Last Result |
+| 1 | 63% | 63% | Median |
 | 2 | 0% | 0% |  |
 
 ### Κόσμος (Greens/EFA)
@@ -775,6 +775,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 13,631,488
-+ **Error estimate:** 2.29%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 14,680,064
++ **Error estimate:** 2.68%
