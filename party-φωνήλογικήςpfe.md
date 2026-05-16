@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.1–5.0% | 2.9–5.3% | 2.7–5.6% | 2.4–6.2% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.8–4.6% | 2.5–4.9% | 2.3–5.2% | 1.9–5.8% |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> POLITICAL | 3.7% | 3.3–4.1% | 3.2–4.2% | 3.1–4.3% | 3.0–4.6% |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 3.2% | 2.5–4.2% | 2.3–4.4% | 2.2–4.7% | 1.9–5.2% |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 3.9% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.1% |
@@ -19,9 +19,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.3% | 3.5–5.3% | 3.3–5.6% | 3.1–5.9% | 2.7–6.4% |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.1% | 3.4–5.1% | 3.2–5.4% | 3.0–5.6% | 2.7–6.1% |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.4% | 2.8–4.3% | 2.6–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 3.5% | N/A | N/A | N/A | N/A |
-| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 2.7% | N/A | N/A | N/A | N/A |
-| [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 3.5% | N/A | N/A | N/A | N/A |
+| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 3.5% | 2.8–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 2.7% | 2.1–3.6% | 2.0–3.9% | 1.8–4.1% | 1.6–4.6% |
+| [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 3.5% | 2.9–4.2% | 2.7–4.5% | 2.6–4.6% | 2.3–5.0% |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 3.4% | N/A | N/A | N/A | N/A |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr | 4.4% | N/A | N/A | N/A | N/A |
 | [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV | 3.7% | N/A | N/A | N/A | N/A |
@@ -220,13 +220,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.4% | 100% |  |
-| 2.5–3.5% | 25% | 98.6% |  |
-| 3.5–4.5% | 49% | 74% | Median |
-| 4.5–5.5% | 22% | 25% |  |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 39% | 95% |  |
+| 3.5–4.5% | 45% | 56% | Median |
+| 4.5–5.5% | 10% | 11% |  |
+| 5.5–6.5% | 0.9% | 1.0% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -237,18 +236,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> POLITICAL | 1 | 1 | 1 | 1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> POLITICAL | 1 | 1 | 1 | 1 | 1 |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 1 | 1 | 1 | 0–1 | 0–1 |
-| [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 0–1 | 0–1 |
-| [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 0–1 | 0–1 |
+| [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 1 | 1 | 1 | 0–1 |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |
-| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika |  |  |  |  |  |
-| [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon |  |  |  |  |  |
+| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr |  |  |  |  |  |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
 | [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
@@ -447,9 +446,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 94% | 94% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 0 | 16% | 100% | Last Result |
+| 1 | 84% | 84% | Median |
+| 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
 
