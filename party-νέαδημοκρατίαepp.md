@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 35.2% | 33.2–37.3% | 32.7–37.8% | 32.2–38.3% | 31.3–39.3% |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 28.6% | 26.8–30.5% | 26.3–31.1% | 25.9–31.6% | 25.0–32.5% |
 | [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 29.6% | 27.6–31.8% | 27.1–32.4% | 26.6–32.9% | 25.6–33.9% |
-| [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 31.7% | 30.0–33.4% | 29.6–33.9% | 29.2–34.3% | 28.4–35.1% |
+| [18–20 April 2026](2026-04-20-RealPolls.html) | Real Polls <br> Protagon | 31.7% | 30.0–33.4% | 29.6–33.9% | 29.2–34.3% | 28.4–35.1% |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 30.2% | 29.2–31.1% | 28.9–31.4% | 28.7–31.7% | 28.3–32.1% |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr | 32.8% | N/A | N/A | N/A | N/A |
 | [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV | 29.2% | 27.1–31.4% | 26.6–32.0% | 26.0–32.6% | 25.1–33.6% |
@@ -280,7 +280,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [18–20 April 2026](2026-04-20-ReallPolls.html) | Reall Polls <br> Protagon | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [18–20 April 2026](2026-04-20-RealPolls.html) | Real Polls <br> Protagon | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
 | [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
