@@ -10,13 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.4% | 12.6–16.3% | 12.1–16.9% | 11.7–17.4% | 11.0–18.4% |
-| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> POLITICAL | 14.8% | 14.0–15.5% | 13.8–15.7% | 13.7–15.9% | 13.3–16.3% |
+| N/A | [Poll Average](average.html) | 14.5% | 12.7–16.3% | 12.2–16.8% | 11.8–17.4% | 11.0–18.4% |
+| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 14.8% | 14.0–15.5% | 13.8–15.7% | 13.7–15.9% | 13.3–16.3% |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 15.0% | 13.5–16.8% | 13.1–17.3% | 12.7–17.7% | 12.1–18.5% |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 13.9% | 12.4–15.7% | 12.0–16.2% | 11.7–16.6% | 11.0–17.5% |
 | [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 14.5% | 13.0–16.2% | 12.5–16.7% | 12.2–17.1% | 11.5–18.0% |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 14.5% | 13.1–16.2% | 12.7–16.6% | 12.3–17.0% | 11.7–17.8% |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 14.4% | 12.9–16.1% | 12.5–16.6% | 12.1–17.0% | 11.5–17.8% |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 15.0% | 13.8–16.4% | 13.5–16.8% | 13.2–17.1% | 12.6–17.8% |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 12.9% | 11.6–14.4% | 11.2–14.8% | 10.9–15.2% | 10.3–15.9% |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 13.7% | 12.3–15.2% | 11.9–15.7% | 11.6–16.0% | 11.0–16.8% |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 15.0% | 13.6–16.6% | 13.3–17.0% | 12.9–17.4% | 12.3–18.2% |
@@ -229,16 +230,16 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 2% | 99.9% |  |
+| 10.5–11.5% | 1.4% | 99.9% |  |
 | 11.5–12.5% | 7% | 98% |  |
-| 12.5–13.5% | 18% | 91% |  |
-| 13.5–14.5% | 27% | 73% | Median |
-| 14.5–15.5% | 26% | 46% |  |
-| 15.5–16.5% | 13% | 21% |  |
+| 12.5–13.5% | 17% | 92% |  |
+| 13.5–14.5% | 27% | 75% |  |
+| 14.5–15.5% | 27% | 49% | Median |
+| 15.5–16.5% | 14% | 22% |  |
 | 16.5–17.5% | 5% | 7% |  |
 | 17.5–18.5% | 2% | 2% |  |
 | 18.5–19.5% | 0.3% | 0.4% |  |
-| 19.5–20.5% | 0% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -251,12 +252,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> POLITICAL | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3 | 3 | 3 | 3–4 | 2–4 |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 3 | 3–4 | 3–4 | 3–4 | 3–4 |

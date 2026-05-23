@@ -10,13 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.6–2.3% | 0.6–2.6% | 0.5–2.8% | 0.4–3.3% |
-| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> POLITICAL | 0.7% | 0.5–0.9% | 0.5–0.9% | 0.5–1.0% | 0.4–1.1% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.6–2.2% | 0.5–2.6% | 0.4–2.8% | 0.3–3.3% |
+| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 0.7% | 0.5–0.9% | 0.5–0.9% | 0.5–1.0% | 0.4–1.1% |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 1.2% | 0.9–1.9% | 0.7–2.1% | 0.7–2.3% | 0.5–2.6% |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 0.8% | 0.5–1.4% | 0.4–1.6% | 0.4–1.7% | 0.3–2.1% |
 | [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 1.2% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% | 0.5–2.5% |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.7–2.2% | 0.6–2.6% |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–1.9% | 0.4–2.3% |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 0.5% | 0.3–0.9% | 0.3–0.9% | 0.2–1.1% | 0.2–1.2% |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.9% | 0.9–3.2% |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.4–1.7% | 0.3–2.0% |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
@@ -218,10 +219,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 63% | 96% | Median |
-| 1.5–2.5% | 27% | 33% |  |
-| 2.5–3.5% | 5% | 6% |  |
+| 0.0–0.5% | 9% | 100% | Last Result |
+| 0.5–1.5% | 61% | 91% | Median |
+| 1.5–2.5% | 25% | 30% |  |
+| 2.5–3.5% | 5% | 5% |  |
 | 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -235,12 +236,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
-| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> POLITICAL | 0 | 0 | 0 | 0 | 0 |
+| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 0 | 0 | 0 | 0 | 0 |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 0 | 0 | 0 | 0 | 0 |
 | [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 0 | 0 | 0 | 0 | 0 |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 0 | 0 | 0 | 0 | 0 |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0 | 0 | 0 | 0–1 |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

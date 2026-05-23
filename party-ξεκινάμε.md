@@ -10,13 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 8.2–9.3% | 8.0–9.5% | 7.9–9.7% | 7.6–10.0% |
-| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> POLITICAL | 8.7% | 8.2–9.3% | 8.0–9.5% | 7.9–9.7% | 7.6–10.0% |
+| N/A | [Poll Average](average.html) | 10.8% | 8.4–15.4% | 8.2–15.8% | 8.0–16.2% | 7.7–16.9% |
+| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 8.7% | 8.2–9.3% | 8.0–9.5% | 7.9–9.7% | 7.6–10.0% |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0.0% | N/A | N/A | N/A | N/A |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 14.5% | 13.3–15.8% | 12.9–16.2% | 12.6–16.6% | 12.1–17.2% |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 0.0% | N/A | N/A | N/A | N/A |
@@ -225,11 +226,19 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 33% | 99.7% |  |
-| 8.5–9.5% | 62% | 66% | Median |
-| 9.5–10.5% | 4% | 4% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.2% | 100% |  |
+| 7.5–8.5% | 17% | 99.8% |  |
+| 8.5–9.5% | 31% | 83% |  |
+| 9.5–10.5% | 2% | 52% |  |
+| 10.5–11.5% | 0% | 50% | Median |
+| 11.5–12.5% | 0.9% | 50% |  |
+| 12.5–13.5% | 7% | 49% |  |
+| 13.5–14.5% | 18% | 42% |  |
+| 14.5–15.5% | 16% | 24% |  |
+| 15.5–16.5% | 7% | 8% |  |
+| 16.5–17.5% | 1.1% | 1.2% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -240,13 +249,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
-| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> POLITICAL | 2 | 2 | 2 | 2 | 2 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 2 | 2 | 2 | 2 | 2 |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr |  |  |  |  |  |
 | [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 3 | 3 | 3 | 3 | 3–4 |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |
@@ -452,8 +462,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 99.5% | 100% | Median |
-| 3 | 0.5% | 0.5% |  |
-| 4 | 0% | 0% |  |
+| 2 | 50% | 100% |  |
+| 3 | 50% | 50% | Median |
+| 4 | 0.6% | 0.6% |  |
+| 5 | 0% | 0% |  |
 
 
