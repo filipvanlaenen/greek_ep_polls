@@ -8,9 +8,9 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 18 May 2026 17:36:45 +0200</pubDate>
+    <pubDate>Sat, 23 May 2026 20:50:36 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Interview for POLITICAL, 5–11 May 2026 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Interview for Political, 5–11 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-05-11-Interview.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Κόμμα Αλέξη Τσίπρα (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Ξεκινάμε (*): 2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-05-11-Interview-seats.png"
@@ -20,7 +20,7 @@
       <dc:date>2026-05-15T22:17:49.936476+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Interview for POLITICAL, 5–11 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Interview for Political, 5–11 May 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-05-11-Interview.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-05-11-Interview-coalitions-seats.png"
@@ -30,7 +30,7 @@
       <dc:date>2026-05-15T22:17:49.936476+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Interview for POLITICAL, 5–11 May 2026 – Voting Intentions</title>
+      <title>Opinion Poll by Interview for Political, 5–11 May 2026 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-05-11-Interview.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 4.8–6.2%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0.7–1.4%&lt;/li&gt;&lt;li&gt;Κόμμα Αλέξη Τσίπρα (*): 14.2–16.5%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0.6–1.2%&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 3.1–4.3%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.5–3.6%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0.5–1.0%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 5.0–6.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.1–6.6%&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 1.6–2.5%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 13.7–15.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 28.5–31.4%&lt;/li&gt;&lt;li&gt;Ξεκινάμε (*): 7.9–9.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-05-11-Interview.png"
@@ -188,6 +188,36 @@
         type="image/png"/>
       <pubDate>Fri, 15 May 2026 23:10:47 +0200</pubDate>
       <dc:date>2026-05-15T23:10:47.317474+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Καρδούλας for Aftodioikisi, 25–29 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-04-29-Καρδούλας.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Κόμμα Αλέξη Τσίπρα (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 0 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0 seats&lt;/li&gt;&lt;li&gt;Ξεκινάμε (*): 3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-04-29-Καρδούλας-seats.png"
+        length="345484"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 20:50:36 +0200</pubDate>
+      <dc:date>2026-05-23T20:50:36.147926+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Καρδούλας for Aftodioikisi, 25–29 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-04-29-Καρδούλας.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-04-29-Καρδούλας-coalitions-seats.png"
+        length="228320"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 20:50:36 +0200</pubDate>
+      <dc:date>2026-05-23T20:50:36.147926+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Καρδούλας for Aftodioikisi, 25–29 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-04-29-Καρδούλας.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 3.0–5.2%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 1.8–3.5%&lt;/li&gt;&lt;li&gt;Κόμμα Αλέξη Τσίπρα (*): 9.4–12.9%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 3.5–5.8%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.8–3.5%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 5.7–8.6%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 5.2–8.0%&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 13.2–17.1%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 21.2–26.0%&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Ξεκινάμε (*): 12.6–16.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-04-29-Καρδούλας.png"
+        length="449378"
+        type="image/png"/>
+      <pubDate>Sat, 23 May 2026 20:50:36 +0200</pubDate>
+      <dc:date>2026-05-23T20:50:36.147926+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata for Η Εφημερίδα των Συντακτών, 22–28 April 2026 – Seat Projections for the Parties</title>
@@ -519,6 +549,6 @@
       <pubDate>Sat, 16 May 2026 13:03:37 +0200</pubDate>
       <dc:date>2026-05-16T13:03:37.725294+02:00</dc:date>
     </item>
-    <dc:date>2026-05-18T17:36:45.85636+02:00</dc:date>
+    <dc:date>2026-05-23T20:50:36.147926+02:00</dc:date>
   </channel>
 </rss>
