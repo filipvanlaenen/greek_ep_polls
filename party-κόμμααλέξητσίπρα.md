@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.7% | 10.4–15.8% | 10.0–16.1% | 9.7–16.3% | 9.1–16.7% |
+| N/A | [Poll Average](average.html) | 14.6% | 10.6–16.5% | 10.2–17.0% | 9.9–17.4% | 9.3–18.2% |
+| [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 16.0% | 14.8–17.3% | 14.5–17.6% | 14.2–18.0% | 13.7–18.6% |
+| [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 14.7% | 13.8–15.6% | 13.6–15.8% | 13.4–16.0% | 13.0–16.5% |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 15.3% | 14.6–16.1% | 14.4–16.3% | 14.2–16.5% | 13.9–16.9% |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 0.0% | N/A | N/A | N/A | N/A |
@@ -227,17 +229,19 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 12% | 98% |  |
-| 10.5–11.5% | 21% | 86% |  |
-| 11.5–12.5% | 12% | 65% |  |
-| 12.5–13.5% | 3% | 53% |  |
-| 13.5–14.5% | 5% | 50% | Median |
-| 14.5–15.5% | 28% | 45% |  |
-| 15.5–16.5% | 17% | 17% |  |
-| 16.5–17.5% | 1.0% | 1.0% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 1.2% | 100% |  |
+| 9.5–10.5% | 8% | 98.8% |  |
+| 10.5–11.5% | 14% | 91% |  |
+| 11.5–12.5% | 8% | 77% |  |
+| 12.5–13.5% | 3% | 69% |  |
+| 13.5–14.5% | 15% | 65% |  |
+| 14.5–15.5% | 24% | 51% | Median |
+| 15.5–16.5% | 17% | 27% |  |
+| 16.5–17.5% | 8% | 10% |  |
+| 17.5–18.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.2% | 0.2% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -248,7 +252,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 3 | 3 | 3 | 3–4 | 3–4 |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr |  |  |  |  |  |
@@ -461,9 +467,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 11% | 100% |  |
-| 3 | 80% | 89% | Median |
-| 4 | 9% | 9% |  |
+| 2 | 7% | 100% |  |
+| 3 | 61% | 93% | Median |
+| 4 | 31% | 31% |  |
 | 5 | 0% | 0% |  |
 
 
