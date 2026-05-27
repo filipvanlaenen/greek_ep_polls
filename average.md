@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 0–8% <br> 0–2 | N/A <br> N/A | 2–4% <br> 0–1 | 0–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 9–17% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0–1 | 23–36% <br> 6–8 | N/A <br> N/A | 5–12% <br> 1–3 | 3–5% <br> 0–1 | N/A <br> N/A | 5–10% <br> 1–2 | 1–3% <br> 0–1 | 3–12% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–17% <br> 2–4 | 8–16% <br> 2–3 | N/A <br> N/A | 0–2% <br> 0 |
-| [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 29–34% <br> 6–7 | N/A <br> N/A | 4–6% <br> 1 | 3–6% <br> 1 | N/A <br> N/A | 5–7% <br> 1–2 | 1–3% <br> 0 | 3–5% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 14–18% <br> 3–4 | 11–15% <br> 3 | N/A <br> N/A | 0–1% <br> 0 |
+| [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 1–2% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 29–34% <br> 6–7 | N/A <br> N/A | 4–6% <br> 1–2 | 3–6% <br> 1 | N/A <br> N/A | 5–7% <br> 1–2 | 1–3% <br> 0 | 3–5% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 14–18% <br> 3–4 | 11–15% <br> 3 | N/A <br> N/A | 0–1% <br> 0 |
 | [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 0–1% <br> 0 | N/A <br> N/A | 3–4% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–15% <br> 3 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–1 | 28–32% <br> 6–7 | N/A <br> N/A | 6–8% <br> 1–2 | 4–5% <br> 1 | N/A <br> N/A | 5–7% <br> 1–2 | 0–1% <br> 0 | 3–4% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–16% <br> 3–4 | 8–10% <br> 2 | N/A <br> N/A | N/A <br> N/A |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 3–6% <br> 0–1 | N/A <br> N/A | 2–5% <br> 0–1 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 25–31% <br> 5–7 | N/A <br> N/A | 8–12% <br> 2–3 | 2–5% <br> 0–1 | N/A <br> N/A | 7–11% <br> 1–2 | 2–4% <br> 0–1 | 5–9% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 3–5% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0–1 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 12–17% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 28–35% <br> 6–8 | N/A <br> N/A | 8–12% <br> 2–3 | 3–6% <br> 0–1 | N/A <br> N/A | 6–9% <br> 1–2 | 1–3% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 |
@@ -425,7 +425,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#εθνική-δημιουργία-(*)">Εθνική Δημιουργία (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#εθνικό-κόμμα-–-έλληνες-(*)">Εθνικό Κόμμα – Έλληνες (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#κόμμα-αλέξη-τσίπρα-(*)">Κόμμα Αλέξη Τσίπρα (*)</a> | 0 | 3 | 3–4 |2–4 | 2–4 | 2–4 |
-| <a href="#ξεκινάμε-(*)">Ξεκινάμε (*)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
+| <a href="#ξεκινάμε-(*)">Ξεκινάμε (*)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–4 |
 | <a href="#πατριώτες-(*)">Πατριώτες (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#σπαρτιάτες-(*)">Σπαρτιάτες (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 
@@ -494,8 +494,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 81% | 94% | Median |
+| 2 | 8% | 100% |  |
+| 3 | 80% | 92% | Median |
 | 4 | 12% | 12% |  |
 | 5 | 0% | 0% |  |
 
@@ -591,8 +591,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 26% | 100% |  |
-| 2 | 74% | 74% | Median |
+| 1 | 24% | 100% |  |
+| 2 | 75% | 76% | Median |
 | 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
@@ -663,8 +663,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 7% | 100% |  |
-| 3 | 61% | 93% | Median |
-| 4 | 31% | 31% |  |
+| 3 | 63% | 93% | Median |
+| 4 | 30% | 30% |  |
 | 5 | 0% | 0% |  |
 
 ### Ξεκινάμε (*)
@@ -678,7 +678,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.3% | 100% |  |
 | 2 | 33% | 99.7% |  |
-| 3 | 66% | 67% | Median |
+| 3 | 66% | 66% | Median |
 | 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
@@ -759,8 +759,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.2% | 100% |  |
-| 2 | 28% | 99.8% |  |
-| 3 | 10% | 72% |  |
+| 2 | 27% | 99.8% |  |
+| 3 | 11% | 73% |  |
 | 4 | 53% | 62% | Median |
 | 5 | 9% | 9% |  |
 | 6 | 0% | 0% |  |
@@ -773,8 +773,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 81% | 94% | Median |
+| 2 | 8% | 100% |  |
+| 3 | 80% | 92% | Median |
 | 4 | 12% | 12% |  |
 | 5 | 0% | 0% |  |
 
@@ -835,6 +835,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 10
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 19,922,944
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 20,971,520
 + **Error estimate:** 2.68%
