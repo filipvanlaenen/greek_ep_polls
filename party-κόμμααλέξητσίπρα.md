@@ -253,7 +253,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 3 | 3 | 3 | 3–4 | 3–4 |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
@@ -468,8 +468,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 7% | 100% |  |
-| 3 | 61% | 93% | Median |
-| 4 | 31% | 31% |  |
+| 3 | 63% | 93% | Median |
+| 4 | 30% | 30% |  |
 | 5 | 0% | 0% |  |
 
 

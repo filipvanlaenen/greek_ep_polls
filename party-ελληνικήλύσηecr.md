@@ -248,7 +248,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 1 | 1 | 1 | 1 | 1–2 |
+| [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 1 | 1 | 1 | 1–2 | 1–2 |
 | [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 2–3 | 2–3 | 2–3 |
