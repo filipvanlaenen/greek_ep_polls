@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 0.9–6.5% | 0.6–7.1% | 0.5–7.5% | 0.4–8.3% |
+| N/A | [Poll Average](average.html) | 1.8% | 0.6–4.9% | 0.5–5.5% | 0.5–5.9% | 0.4–6.7% |
+| [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2.3% | 1.8–3.0% | 1.6–3.3% | 1.5–3.5% | 1.3–3.9% |
+| [27–29 May 2026](2026-05-29-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.7% | 1.2–2.4% | 1.1–2.6% | 1.0–2.8% | 0.8–3.2% |
+| [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr | 1.8% | 1.3–2.6% | 1.2–2.8% | 1.1–3.0% | 0.9–3.4% |
 | [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 1.4% | 1.0–1.8% | 0.9–2.0% | 0.9–2.1% | 0.7–2.3% |
 | [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.4–0.9% | 0.3–1.1% |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 1.0% | 0.8–1.2% | 0.8–1.3% | 0.7–1.4% | 0.6–1.5% |
@@ -221,17 +224,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 13% | 96% |  |
-| 1.5–2.5% | 8% | 83% |  |
-| 2.5–3.5% | 10% | 75% |  |
-| 3.5–4.5% | 19% | 64% | Median |
-| 4.5–5.5% | 21% | 45% |  |
-| 5.5–6.5% | 15% | 24% |  |
-| 6.5–7.5% | 7% | 10% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 0.0–0.5% | 6% | 100% | Last Result |
+| 0.5–1.5% | 32% | 94% |  |
+| 1.5–2.5% | 37% | 62% | Median |
+| 2.5–3.5% | 9% | 25% |  |
+| 3.5–4.5% | 4% | 17% |  |
+| 4.5–5.5% | 8% | 13% |  |
+| 5.5–6.5% | 4% | 5% |  |
+| 6.5–7.5% | 0.6% | 0.7% |  |
+| 7.5–8.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -242,7 +244,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [27–29 May 2026](2026-05-29-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
+| [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr | 0 | 0 | 0 | 0–1 | 0–1 |
 | [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 0 | 0 | 0 | 0 | 0 |
 | [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 0 | 0 | 0 | 0 | 0 |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 0 | 0 | 0 | 0 | 0 |
@@ -455,9 +460,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% | Last Result |
-| 1 | 59% | 69% | Median |
-| 2 | 11% | 11% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
+| 2 | 0.6% | 0.6% |  |
 | 3 | 0% | 0% |  |
 
 
