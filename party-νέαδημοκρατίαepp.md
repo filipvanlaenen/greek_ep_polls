@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.3% | 26.9–31.6% | 26.3–32.2% | 25.8–32.8% | 24.8–33.8% |
+| N/A | [Poll Average](average.html) | 29.0% | 26.8–31.1% | 26.2–31.8% | 25.7–32.4% | 24.8–33.6% |
 | [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 27.4% | 25.7–29.2% | 25.2–29.8% | 24.8–30.2% | 24.0–31.1% |
 | [25 May–2 June 2026](2026-06-02-MetronAnalysis.html) | Metron Analysis <br> Mega | 28.5% | 26.7–30.3% | 26.2–30.8% | 25.8–31.3% | 25.0–32.2% |
 | [28 May–2 June 2026](2026-06-02-GPO.html) | GPO <br> Star TV | 28.6% | 26.9–30.5% | 26.4–31.0% | 26.0–31.4% | 25.1–32.3% |
 | [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.5% | 27.7–31.5% | 27.2–32.0% | 26.7–32.5% | 25.9–33.5% |
 | [27–29 May 2026](2026-05-29-OpinionPoll.html) | Opinion Poll <br> Action 24 | 30.6% | 28.6–32.7% | 28.1–33.3% | 27.6–33.8% | 26.7–34.8% |
 | [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr | 28.4% | 26.4–30.5% | 25.9–31.0% | 25.4–31.6% | 24.5–32.6% |
-| [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 31.2% | 29.7–32.8% | 29.2–33.2% | 28.9–33.6% | 28.1–34.4% |
+| [23–25 May 2026](2026-05-25-RealPolls.html) | Real Polls <br> Protagon | 31.2% | N/A | N/A | N/A | N/A |
 | [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 29.9% | 28.8–31.0% | 28.5–31.3% | 28.2–31.6% | 27.7–32.2% |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 29.9% | 29.0–30.9% | 28.7–31.2% | 28.5–31.4% | 28.0–31.9% |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 28.1% | 26.2–30.2% | 25.6–30.8% | 25.1–31.3% | 24.2–32.3% |
@@ -252,16 +252,16 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.3% | 100% |  |
-| 24.5–25.5% | 1.4% | 99.7% |  |
-| 25.5–26.5% | 5% | 98% |  |
-| 26.5–27.5% | 11% | 93% |  |
-| 27.5–28.5% | 17% | 82% |  |
-| 28.5–29.5% | 21% | 65% | Median |
-| 29.5–30.5% | 20% | 44% |  |
-| 30.5–31.5% | 14% | 24% |  |
-| 31.5–32.5% | 7% | 10% |  |
-| 32.5–33.5% | 3% | 3% |  |
-| 33.5–34.5% | 0.7% | 0.8% |  |
+| 24.5–25.5% | 2% | 99.7% |  |
+| 25.5–26.5% | 6% | 98% |  |
+| 26.5–27.5% | 12% | 92% |  |
+| 27.5–28.5% | 19% | 80% |  |
+| 28.5–29.5% | 23% | 61% | Median |
+| 29.5–30.5% | 20% | 38% |  |
+| 30.5–31.5% | 11% | 18% |  |
+| 31.5–32.5% | 4% | 7% |  |
+| 32.5–33.5% | 2% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.5% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -275,13 +275,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 6 | 6 | 5–6 | 5–6 | 5–7 |
+| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [25 May–2 June 2026](2026-06-02-MetronAnalysis.html) | Metron Analysis <br> Mega | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [28 May–2 June 2026](2026-06-02-GPO.html) | GPO <br> Star TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [27–29 May 2026](2026-05-29-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 7 | 7 | 7 | 6–7 |
 | [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [23–25 May 2026](2026-05-25-RealPolls.html) | RealPolls <br> Protagon | 7 | 7 | 7 | 6–7 | 6–8 |
+| [23–25 May 2026](2026-05-25-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
 | [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 7 | 7 | 6–7 | 6–7 | 6–7 |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
@@ -499,9 +499,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 1.2% | 100% |  |
-| 6 | 52% | 98.8% | Median |
-| 7 | 47% | 47% |  |
-| 8 | 0.3% | 0.3% |  |
+| 6 | 58% | 98.8% | Median |
+| 7 | 41% | 41% |  |
+| 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
 
