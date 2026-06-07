@@ -6,12 +6,28 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 20 Jul 2024 14:44:20 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Palmos Analysis for Ελεύθερος Τύπος, 3–5 June 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Palmos Analysis for Ελεύθερος Τύπος, 3–5 June 2026<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis-seating-plan.png" length="312809" type="image/png"/>
+      <pubDate>Sun, 7 Jun 2026 22:59:58 +0200</pubDate>
+      <dc:date>2026-06-07T22:59:58.979551219+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Palmos Analysis for Ελεύθερος Τύπος, 3–5 June 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>11 seats needed for a majority<br/>Opinion poll by Palmos Analysis for Ελεύθερος Τύπος, 3–5 June 2026<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis-seats.png" length="336586" type="image/png"/>
+      <pubDate>Sun, 7 Jun 2026 22:59:58 +0200</pubDate>
+      <dc:date>2026-06-07T22:59:58.979551219+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Palmos Analysis for Ελεύθερος Τύπος, 3–5 June 2026 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Palmos Analysis for Ελεύθερος Τύπος, 3–5 June 2026<br/>Details on https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.html<br/><img src="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.png" length="455232" type="image/png"/>
-      <pubDate>Sun, 7 Jun 2026 22:52:50 +0200</pubDate>
-      <dc:date>2026-06-07T22:52:50.957665145+02:00</dc:date>
+      <pubDate>Sun, 7 Jun 2026 22:59:58 +0200</pubDate>
+      <dc:date>2026-06-07T22:59:58.979551219+02:00</dc:date>
     </item>
   </channel>
 </rss>
