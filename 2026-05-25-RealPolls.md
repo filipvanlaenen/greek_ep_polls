@@ -1,4 +1,4 @@
-# Opinion Poll by RealPolls for Protagon, 23–25 May 2026
+# Opinion Poll by Real Polls for Protagon, 23–25 May 2026
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -279,7 +279,7 @@
 
 ### Opinion Poll
 
-+ **Polling firm:** RealPolls
++ **Polling firm:** Real Polls
 + **Commissioner(s):** Protagon
 + **Fieldwork period:** 23–25 May 2026
 
