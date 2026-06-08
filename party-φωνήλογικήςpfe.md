@@ -10,21 +10,21 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.5–5.3% | 3.3–5.6% | 3.1–5.8% | 2.8–6.4% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.2–4.8% | 1.7–5.1% | 1.5–5.3% | 1.1–5.8% |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 4.3% | 3.5–5.3% | 3.3–5.6% | 3.1–5.9% | 2.8–6.4% |
-| [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.8% | N/A | N/A | N/A | N/A |
-| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 4.0% | N/A | N/A | N/A | N/A |
-| [25 May–2 June 2026](2026-06-02-MetronAnalysis.html) | Metron Analysis <br> Mega | 3.3% | N/A | N/A | N/A | N/A |
-| [28 May–2 June 2026](2026-06-02-GPO.html) | GPO <br> Star TV | 2.4% | N/A | N/A | N/A | N/A |
-| [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.4% | N/A | N/A | N/A | N/A |
-| [27–29 May 2026](2026-05-29-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.7% | N/A | N/A | N/A | N/A |
-| [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr | 3.3% | N/A | N/A | N/A | N/A |
-| [23–25 May 2026](2026-05-25-RealPolls.html) | Real Polls <br> Protagon | 4.4% | N/A | N/A | N/A | N/A |
-| [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 4.5% | N/A | N/A | N/A | N/A |
+| [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.8% | 3.2–4.6% | 3.0–4.8% | 2.9–5.0% | 2.7–5.4% |
+| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
+| [25 May–2 June 2026](2026-06-02-MetronAnalysis.html) | Metron Analysis <br> Mega | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.3–4.6% | 2.1–5.0% |
+| [28 May–2 June 2026](2026-06-02-GPO.html) | GPO <br> Star TV | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.4% | 2.8–4.3% | 2.6–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [27–29 May 2026](2026-05-29-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.7% | 1.2–2.4% | 1.1–2.6% | 1.0–2.8% | 0.8–3.2% |
+| [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr | 3.3% | 2.6–4.2% | 2.4–4.5% | 2.3–4.7% | 2.0–5.2% |
+| [23–25 May 2026](2026-05-25-RealPolls.html) | Real Polls <br> Protagon | 4.4% | 3.8–5.2% | 3.6–5.4% | 3.5–5.6% | 3.2–6.0% |
+| [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 4.5% | 4.0–5.0% | 3.9–5.2% | 3.7–5.3% | 3.6–5.6% |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political | 3.7% | N/A | N/A | N/A | N/A |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV | 3.2% | N/A | N/A | N/A | N/A |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr | 3.9% | N/A | N/A | N/A | N/A |
-| [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 4.0% | N/A | N/A | N/A | N/A |
+| [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.1% |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 3.7% | N/A | N/A | N/A | N/A |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.3% | N/A | N/A | N/A | N/A |
 | [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 4.5% | N/A | N/A | N/A | N/A |
@@ -230,13 +230,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 11% | 99.9% |  |
-| 3.5–4.5% | 51% | 89% | Median |
-| 4.5–5.5% | 33% | 39% |  |
-| 5.5–6.5% | 5% | 6% |  |
-| 6.5–7.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 12% | 97% |  |
+| 2.5–3.5% | 26% | 84% |  |
+| 3.5–4.5% | 40% | 58% | Median |
+| 4.5–5.5% | 16% | 18% |  |
+| 5.5–6.5% | 1.2% | 1.3% |  |
+| 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -248,21 +248,21 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
-| [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn |  |  |  |  |  |
-| [25 May–2 June 2026](2026-06-02-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |
-| [28 May–2 June 2026](2026-06-02-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
-| [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [27–29 May 2026](2026-05-29-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
-| [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr |  |  |  |  |  |
-| [23–25 May 2026](2026-05-25-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
-| [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic |  |  |  |  |  |
+| [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1 | 0–1 | 0–1 |
+| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 1 | 1 | 1 | 0–1 | 0–1 |
+| [25 May–2 June 2026](2026-06-02-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28 May–2 June 2026](2026-06-02-GPO.html) | GPO <br> Star TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [27–29 May 2026](2026-05-29-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
+| [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23–25 May 2026](2026-05-25-RealPolls.html) | Real Polls <br> Protagon | 1 | 1 | 1 | 1 | 1 |
+| [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 1 | 1 | 1 | 1 | 1 |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political |  |  |  |  |  |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr |  |  |  |  |  |
-| [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
+| [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
 | [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi |  |  |  |  |  |
@@ -469,9 +469,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 73% | 98% | Median |
-| 2 | 25% | 25% |  |
+| 0 | 29% | 100% | Last Result |
+| 1 | 69% | 71% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
