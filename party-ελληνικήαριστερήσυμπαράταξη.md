@@ -27,7 +27,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0.0% | N/A | N/A | N/A | N/A |
-| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 11.0% | N/A | N/A | N/A | N/A |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 11.0% | 10.0–12.3% | 9.7–12.6% | 9.4–12.9% | 8.9–13.5% |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0.0% | N/A | N/A | N/A | N/A |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.0% | N/A | N/A | N/A | N/A |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 0.0% | N/A | N/A | N/A | N/A |
@@ -278,7 +278,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
-| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi |  |  |  |  |  |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |

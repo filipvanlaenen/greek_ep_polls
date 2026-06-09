@@ -27,17 +27,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 5.0% | 4.1–6.2% | 3.9–6.5% | 3.7–6.8% | 3.3–7.4% |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.2% | N/A | N/A | N/A | N/A |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 | 4.3% | N/A | N/A | N/A | N/A |
-| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 2.5% | N/A | N/A | N/A | N/A |
-| [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 5.8% | N/A | N/A | N/A | N/A |
-| [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.8% | N/A | N/A | N/A | N/A |
-| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 5.3% | N/A | N/A | N/A | N/A |
-| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 5.9% | N/A | N/A | N/A | N/A |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 2.5% | 2.0–3.2% | 1.9–3.3% | 1.8–3.5% | 1.5–3.9% |
+| [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 5.8% | 5.0–7.0% | 4.7–7.3% | 4.5–7.5% | 4.1–8.1% |
+| [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 6.8% | 5.8–8.0% | 5.6–8.3% | 5.3–8.6% | 4.9–9.2% |
+| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 5.3% | 4.5–6.4% | 4.3–6.7% | 4.1–6.9% | 3.7–7.4% |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 5.9% | 4.9–7.1% | 4.6–7.4% | 4.4–7.7% | 4.0–8.3% |
 | [18–20 April 2026](2026-04-20-RealPolls.html) | Real Polls <br> Protagon | 4.9% | N/A | N/A | N/A | N/A |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr | 3.6% | N/A | N/A | N/A | N/A |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr | 3.7% | N/A | N/A | N/A | N/A |
 | [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV | 5.6% | N/A | N/A | N/A | N/A |
 | [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4.9% | N/A | N/A | N/A | N/A |
-| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 6.5% | N/A | N/A | N/A | N/A |
+| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 6.5% | 5.6–7.8% | 5.3–8.1% | 5.1–8.4% | 4.6–9.1% |
 | [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV | 4.7% | N/A | N/A | N/A | N/A |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic | 4.4% | N/A | N/A | N/A | N/A |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida | 5.5% | N/A | N/A | N/A | N/A |
@@ -262,20 +262,20 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political |  |  |  |  |  |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr |  |  |  |  |  |
-| [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1–2 | 1–2 |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
-| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi |  |  |  |  |  |
-| [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
-| [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
-| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |
-| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika |  |  |  |  |  |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–20 April 2026](2026-04-20-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr |  |  |  |  |  |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
 | [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion |  |  |  |  |  |
+| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic |  |  |  |  |  |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida |  |  |  |  |  |
@@ -471,7 +471,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 87% | 100% | Last Result, Median |
 | 1 | 12% | 13% |  |
-| 2 | 0.2% | 0.2% |  |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 
