@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 0.9–3.3% | 0.6–5.0% | 0.5–5.6% | 0.4–6.4% |
+| N/A | [Poll Average](average.html) | 1.8% | 0.9–2.6% | 0.7–2.9% | 0.6–3.1% | 0.5–3.5% |
+| [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 0.7% | 0.5–0.9% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 1.7% | 1.3–2.5% | 1.2–2.7% | 1.1–2.9% | 0.9–3.2% |
 | [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.1–2.5% | 1.0–2.8% |
 | [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
@@ -229,15 +230,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 30% | 97% |  |
-| 1.5–2.5% | 46% | 67% | Median |
-| 2.5–3.5% | 11% | 20% |  |
-| 3.5–4.5% | 2% | 9% |  |
-| 4.5–5.5% | 4% | 7% |  |
-| 5.5–6.5% | 2% | 3% |  |
-| 6.5–7.5% | 0.4% | 0.4% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 35% | 98% |  |
+| 1.5–2.5% | 51% | 63% | Median |
+| 2.5–3.5% | 12% | 12% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -248,7 +246,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 0 | 0 | 0 | 0 | 0 |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
 | [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -469,9 +468,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 12% | 13% |  |
-| 2 | 0.4% | 0.4% |  |
-| 3 | 0% | 0% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
+| 2 | 0% | 0% |  |
 
 

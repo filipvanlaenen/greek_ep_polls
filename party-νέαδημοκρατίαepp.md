@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.6% | 27.1–31.8% | 26.5–32.5% | 25.9–33.0% | 24.9–34.0% |
+| N/A | [Poll Average](average.html) | 29.9% | 27.2–32.1% | 26.5–32.6% | 25.9–33.1% | 24.9–34.1% |
+| [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 31.5% | 30.6–32.5% | 30.3–32.8% | 30.0–33.1% | 29.6–33.6% |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 30.7% | 28.7–32.7% | 28.2–33.3% | 27.7–33.8% | 26.8–34.8% |
 | [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 30.6% | 29.1–32.3% | 28.6–32.8% | 28.2–33.2% | 27.5–33.9% |
 | [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 27.4% | 25.7–29.2% | 25.2–29.8% | 24.8–30.2% | 24.0–31.1% |
@@ -256,14 +257,14 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0.2% | 100% |  |
 | 24.5–25.5% | 1.2% | 99.8% |  |
 | 25.5–26.5% | 4% | 98.6% |  |
-| 26.5–27.5% | 9% | 94% |  |
-| 27.5–28.5% | 15% | 85% |  |
-| 28.5–29.5% | 20% | 70% |  |
-| 29.5–30.5% | 21% | 50% | Median |
-| 30.5–31.5% | 16% | 29% |  |
-| 31.5–32.5% | 9% | 13% |  |
-| 32.5–33.5% | 3% | 4% |  |
-| 33.5–34.5% | 0.9% | 1.1% |  |
+| 26.5–27.5% | 9% | 95% |  |
+| 27.5–28.5% | 14% | 86% |  |
+| 28.5–29.5% | 17% | 72% |  |
+| 29.5–30.5% | 18% | 55% | Median |
+| 30.5–31.5% | 19% | 37% |  |
+| 31.5–32.5% | 13% | 19% |  |
+| 32.5–33.5% | 4% | 6% |  |
+| 33.5–34.5% | 1.0% | 1.2% |  |
 | 34.5–35.5% | 0.2% | 0.2% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -276,10 +277,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 7 | 7 | 7 | 7 | 6–7 |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 6 | 6 | 5–6 | 5–6 | 5–7 |
+| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [25 May–2 June 2026](2026-06-02-MetronAnalysis.html) | Metron Analysis <br> Mega | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [28 May–2 June 2026](2026-06-02-GPO.html) | GPO <br> Star TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
@@ -502,10 +504,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.1% | 100% |  |
-| 6 | 47% | 98.9% |  |
-| 7 | 49% | 52% | Median |
-| 8 | 3% | 3% |  |
+| 5 | 1.0% | 100% |  |
+| 6 | 38% | 99.0% |  |
+| 7 | 59% | 61% | Median |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 
