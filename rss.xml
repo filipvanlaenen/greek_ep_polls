@@ -8,26 +8,56 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 09 Jun 2026 20:50:20 +0200</pubDate>
+    <pubDate>Thu, 11 Jun 2026 19:43:23 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Interview for Political, 3–8 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-08-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 2 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-08-Interview-seats.png"
+        length="297981"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jun 2026 22:14:09 +0200</pubDate>
+      <dc:date>2026-06-10T22:14:09.167389+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Political, 3–8 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-08-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-08-Interview-coalitions-seats.png"
+        length="173456"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jun 2026 22:14:09 +0200</pubDate>
+      <dc:date>2026-06-10T22:14:09.167389+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for Political, 3–8 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-08-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 2.8–4.0%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0.4–1.0%&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 3.5–4.8%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0.3–0.7%&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 7.3–9.1%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 1.8–2.8%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0.3–0.7%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 7.5–9.3%&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 1.6–2.5%&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 15.1–17.5%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 3.9–5.3%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 12.5–14.8%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 30.0–33.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-08-Interview.png"
+        length="394675"
+        type="image/png"/>
+      <pubDate>Wed, 10 Jun 2026 22:14:09 +0200</pubDate>
+      <dc:date>2026-06-10T22:14:09.167389+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Palmos Analysis for Ελεύθερος Τύπος, 3–5 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis-seats.png"
-        length="336586"
+        length="349485"
         type="image/png"/>
-      <pubDate>Sun, 07 Jun 2026 22:59:58 +0200</pubDate>
-      <dc:date>2026-06-07T22:59:58.979551+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 17:39:57 +0200</pubDate>
+      <dc:date>2026-06-11T17:39:57.221057+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Palmos Analysis for Ελεύθερος Τύπος, 3–5 June 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis-coalitions-seats.png"
-        length="212791"
+        length="245973"
         type="image/png"/>
-      <pubDate>Sun, 07 Jun 2026 22:59:58 +0200</pubDate>
-      <dc:date>2026-06-07T22:59:58.979551+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 17:39:57 +0200</pubDate>
+      <dc:date>2026-06-11T17:39:57.221057+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Palmos Analysis for Ελεύθερος Τύπος, 3–5 June 2026 – Voting Intentions</title>
@@ -36,28 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-05-PalmosAnalysis.png"
         length="455232"
         type="image/png"/>
-      <pubDate>Sun, 07 Jun 2026 22:59:58 +0200</pubDate>
-      <dc:date>2026-06-07T22:59:58.979551+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 17:39:57 +0200</pubDate>
+      <dc:date>2026-06-11T17:39:57.221057+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 27 May–4 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-04-Marc.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Σπαρτιάτες (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-04-Marc-seats.png"
-        length="370539"
+        length="359389"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:07:37 +0200</pubDate>
-      <dc:date>2026-06-08T21:07:37.614917+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 18:42:25 +0200</pubDate>
+      <dc:date>2026-06-11T18:42:25.509694+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 27 May–4 June 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-04-Marc.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-04-Marc-coalitions-seats.png"
-        length="255784"
+        length="236965"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:07:37 +0200</pubDate>
-      <dc:date>2026-06-08T21:07:37.614917+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 18:42:25 +0200</pubDate>
+      <dc:date>2026-06-11T18:42:25.509694+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Marc for Πρώτο ΘΕΜΑ, 27 May–4 June 2026 – Voting Intentions</title>
@@ -66,28 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-04-Marc.png"
         length="438204"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:07:37 +0200</pubDate>
-      <dc:date>2026-06-08T21:07:37.614917+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 18:42:25 +0200</pubDate>
+      <dc:date>2026-06-11T18:42:25.509694+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata for Efsyn, 28 May–3 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-03-Prorata.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 5–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-03-Prorata-seats.png"
-        length="341167"
+        length="356095"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:21:23 +0200</pubDate>
-      <dc:date>2026-06-08T21:21:23.341144+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 18:54:27 +0200</pubDate>
+      <dc:date>2026-06-11T18:54:27.189092+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata for Efsyn, 28 May–3 June 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-03-Prorata.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-03-Prorata-coalitions-seats.png"
-        length="252232"
+        length="268292"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:21:23 +0200</pubDate>
-      <dc:date>2026-06-08T21:21:23.341144+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 18:54:27 +0200</pubDate>
+      <dc:date>2026-06-11T18:54:27.189092+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Prorata for Efsyn, 28 May–3 June 2026 – Voting Intentions</title>
@@ -96,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-03-Prorata.png"
         length="436041"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:21:23 +0200</pubDate>
-      <dc:date>2026-06-08T21:21:23.341144+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 18:54:27 +0200</pubDate>
+      <dc:date>2026-06-11T18:54:27.189092+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Mega, 25 May–2 June 2026 – Seat Projections for the Parties</title>
@@ -106,18 +136,18 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-02-MetronAnalysis-seats.png"
         length="312854"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:32:20 +0200</pubDate>
-      <dc:date>2026-06-08T21:32:20.547448+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 19:33:44 +0200</pubDate>
+      <dc:date>2026-06-11T19:33:44.315533+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Mega, 25 May–2 June 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-02-MetronAnalysis.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-02-MetronAnalysis-coalitions-seats.png"
-        length="263598"
+        length="269956"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:32:20 +0200</pubDate>
-      <dc:date>2026-06-08T21:32:20.547448+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 19:33:44 +0200</pubDate>
+      <dc:date>2026-06-11T19:33:44.315533+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metron Analysis for Mega, 25 May–2 June 2026 – Voting Intentions</title>
@@ -126,28 +156,28 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-02-MetronAnalysis.png"
         length="390721"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:32:20 +0200</pubDate>
-      <dc:date>2026-06-08T21:32:20.547448+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 19:33:44 +0200</pubDate>
+      <dc:date>2026-06-11T19:33:44.315533+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Star TV, 28 May–2 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-02-GPO.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–4 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 2 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 6–7 seats&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 2–3 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-02-GPO-seats.png"
-        length="272985"
+        length="275633"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:43:20 +0200</pubDate>
-      <dc:date>2026-06-08T21:43:20.287523+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 19:43:23 +0200</pubDate>
+      <dc:date>2026-06-11T19:43:23.620788+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Star TV, 28 May–2 June 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-02-GPO.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-02-GPO-coalitions-seats.png"
-        length="214853"
+        length="210005"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:43:20 +0200</pubDate>
-      <dc:date>2026-06-08T21:43:20.287523+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 19:43:23 +0200</pubDate>
+      <dc:date>2026-06-11T19:43:23.620788+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Star TV, 28 May–2 June 2026 – Voting Intentions</title>
@@ -156,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-02-GPO.png"
         length="385098"
         type="image/png"/>
-      <pubDate>Mon, 08 Jun 2026 21:43:20 +0200</pubDate>
-      <dc:date>2026-06-08T21:43:20.287523+02:00</dc:date>
+      <pubDate>Thu, 11 Jun 2026 19:43:23 +0200</pubDate>
+      <dc:date>2026-06-11T19:43:23.620788+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pulse RC for ΣΚΑΪ, 27–31 May 2026 – Seat Projections for the Parties</title>
@@ -519,6 +549,6 @@
       <pubDate>Tue, 09 Jun 2026 20:50:20 +0200</pubDate>
       <dc:date>2026-06-09T20:50:20.8153+02:00</dc:date>
     </item>
-    <dc:date>2026-06-09T20:50:20.8153+02:00</dc:date>
+    <dc:date>2026-06-11T19:43:23.620788+02:00</dc:date>
   </channel>
 </rss>
