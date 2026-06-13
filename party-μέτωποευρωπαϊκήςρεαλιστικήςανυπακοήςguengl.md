@@ -258,7 +258,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–29 May 2026](2026-05-29-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
 | [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–25 May 2026](2026-05-25-RealPolls.html) | Real Polls <br> Protagon | 0 | 0 | 0 | 0 | 0 |
-| [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political |  |  |  |  |  |
 | [5–9 May 2026](2026-05-09-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [6–8 May 2026](2026-05-08-OpinionPoll.html) | Opinion Poll <br> Liberal.gr |  |  |  |  |  |
@@ -469,8 +469,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 29% | 29% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 28% | 28% |  |
 | 2 | 0% | 0% |  |
 
 

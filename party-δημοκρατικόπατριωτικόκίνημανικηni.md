@@ -255,7 +255,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 May–2 June 2026](2026-06-02-GPO.html) | GPO <br> Star TV | 0 | 0 | 0 | 0 | 0 |
 | [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 0 | 0 | 0 | 0 | 0 |
 | [27–29 May 2026](2026-05-29-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
-| [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr | 0 | 0 | 0 | 0–1 | 0–1 |
+| [26–28 May 2026](2026-05-28-Alco.html) | Alco <br> flash.gr | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [23–25 May 2026](2026-05-25-RealPolls.html) | Real Polls <br> Protagon | 0 | 0 | 0 | 0 | 0 |
 | [21–25 May 2026](2026-05-25-Interview.html) | Interview <br> Politic | 0 | 0 | 0 | 0 | 0 |
 | [5–11 May 2026](2026-05-11-Interview.html) | Interview <br> Political |  |  |  |  |  |
@@ -468,8 +468,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0.5% | 0.5% |  |
+| 0 | 99.2% | 100% | Last Result, Median |
+| 1 | 0.8% | 0.8% |  |
 | 2 | 0% | 0% |  |
 
 
