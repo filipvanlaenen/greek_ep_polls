@@ -271,9 +271,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
 | [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2 | 2 | 2–3 |
+| [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 2 | 2 | 2–3 | 2–3 | 1–3 |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 2 | 2 | 2 | 2–3 | 1–3 |
 | [18–20 April 2026](2026-04-20-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr |  |  |  |  |  |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |

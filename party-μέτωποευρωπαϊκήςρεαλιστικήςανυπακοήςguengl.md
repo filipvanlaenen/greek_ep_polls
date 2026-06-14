@@ -265,11 +265,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–6 May 2026](2026-05-06-MRB.html) | MRB <br> Open TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–5 May 2026](2026-05-05-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
-| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 0 | 0 | 0 | 0 | 0–1 |
+| [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 0 | 0 | 0 | 0–1 | 0–1 |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 0 | 0 | 0 | 0–1 | 0–1 |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 0 | 0 | 0 | 0 | 0–1 |
 | [18–20 April 2026](2026-04-20-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr |  |  |  |  |  |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |

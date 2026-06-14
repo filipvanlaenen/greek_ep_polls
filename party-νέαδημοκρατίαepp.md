@@ -297,15 +297,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–30 April 2026](2026-04-30-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
 | [25–29 April 2026](2026-04-29-Καρδούλας.html) | Καρδούλας <br> Aftodioikisi | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [22–28 April 2026](2026-04-28-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [23–28 April 2026](2026-04-28-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [21–27 April 2026](2026-04-27-MetronAnalysis.html) | Metron Analysis <br> Mega | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [20–23 April 2026](2026-04-23-GPO.html) | GPO <br> Parapolitika | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [18–20 April 2026](2026-04-20-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
 | [14–20 April 2026](2026-04-20-Interview.html) | Interview <br> politic.gr |  |  |  |  |  |
 | [1–6 April 2026](2026-04-06-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
 | [31 March–4 April 2026](2026-04-04-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [29–31 March 2026](2026-03-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ |  |  |  |  |  |
-| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 8 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [26–31 March 2026](2026-03-31-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
 | [28–30 March 2026](2026-03-30-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [18–22 March 2026](2026-03-22-Interview.html) | Interview <br> Politic |  |  |  |  |  |
 | [17–20 March 2026](2026-03-20-GPO.html) | GPO <br> iEfimerida |  |  |  |  |  |
