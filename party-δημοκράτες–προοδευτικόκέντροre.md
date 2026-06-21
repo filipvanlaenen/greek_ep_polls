@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.5–2.1% | 0.4–2.3% | 0.3–2.4% | 0.2–2.7% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.5–2.1% | 0.4–2.3% | 0.3–2.4% | 0.2–2.7% |
+| [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 0.8% | 0.5–1.4% | 0.5–1.6% | 0.4–1.7% | 0.3–2.0% |
 | [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 2.0% | 1.7–2.3% | 1.6–2.4% | 1.6–2.5% | 1.5–2.7% |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
 | [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.2–0.9% | 0.1–1.0% |
@@ -230,9 +231,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 12% | 100% | Last Result |
-| 0.5–1.5% | 54% | 88% | Median |
-| 1.5–2.5% | 33% | 34% |  |
+| 0.0–0.5% | 13% | 100% | Last Result |
+| 0.5–1.5% | 54% | 87% | Median |
+| 1.5–2.5% | 31% | 33% |  |
 | 2.5–3.5% | 1.2% | 1.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -246,6 +247,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
 | [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 0 | 0 | 0 | 0 | 0 |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 0 | 0 | 0 | 0 | 0 |
 | [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 0 | 0 | 0 | 0 | 0 |
