@@ -260,7 +260,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 2 | 2–3 | 1–3 |
+| [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 2 | 2 | 2 | 2 | 2 |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -483,8 +483,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 56% | 99.8% | Median |
+| 1 | 0.1% | 100% |  |
+| 2 | 56% | 99.9% | Median |
 | 3 | 44% | 44% |  |
 | 4 | 0% | 0% |  |
 
