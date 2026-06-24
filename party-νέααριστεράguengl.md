@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.3% | 0.3–1.5% | 0.3–1.6% | 0.2–2.0% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.3% | 0.2–1.5% | 0.2–1.7% | 0.2–2.0% |
+| [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 0.2% | N/A | N/A | N/A | N/A |
+| [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 0.3% | 0.2–0.5% | 0.2–0.5% | 0.2–0.6% | 0.1–0.7% |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 0.4% | 0.3–0.6% | 0.3–0.7% | 0.3–0.7% | 0.2–0.8% |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 0.8% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% | 0.3–2.0% |
@@ -231,8 +233,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 40% | 100% | Last Result |
-| 0.5–1.5% | 56% | 60% | Median |
+| 0.0–0.5% | 44% | 100% | Last Result |
+| 0.5–1.5% | 52% | 56% | Median |
 | 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -246,6 +248,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 0 | 0 | 0 | 0 | 0 |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
 | [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 0 | 0 | 0 | 0 | 0 |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 0 | 0 | 0 | 0 | 0 |

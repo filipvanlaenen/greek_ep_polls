@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.7% | 8.5–12.9% | 8.1–13.5% | 7.8–14.0% | 7.4–14.9% |
+| N/A | [Poll Average](average.html) | 10.6% | 6.6–12.4% | 6.0–13.0% | 5.7–13.6% | 5.3–14.7% |
+| [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 10.7% | N/A | N/A | N/A | N/A |
+| [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 6.0% | 5.5–6.6% | 5.3–6.7% | 5.2–6.9% | 5.0–7.2% |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 9.6% | 8.4–11.1% | 8.1–11.5% | 7.8–11.8% | 7.3–12.6% |
 | [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 8.1% | 7.6–8.7% | 7.4–8.9% | 7.3–9.1% | 7.0–9.4% |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 10.1% | 8.9–11.5% | 8.5–11.9% | 8.2–12.3% | 7.7–13.0% |
@@ -236,17 +238,17 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.0% | 100% |  |
-| 7.5–8.5% | 9% | 99.0% |  |
-| 8.5–9.5% | 12% | 90% |  |
-| 9.5–10.5% | 23% | 78% |  |
-| 10.5–11.5% | 25% | 55% | Median |
-| 11.5–12.5% | 16% | 30% |  |
-| 12.5–13.5% | 9% | 14% |  |
-| 13.5–14.5% | 4% | 5% |  |
-| 14.5–15.5% | 0.8% | 0.9% |  |
+| 4.5–5.5% | 2% | 100% |  |
+| 5.5–6.5% | 8% | 98% |  |
+| 6.5–7.5% | 1.3% | 90% |  |
+| 7.5–8.5% | 2% | 89% |  |
+| 8.5–9.5% | 11% | 87% |  |
+| 9.5–10.5% | 25% | 75% |  |
+| 10.5–11.5% | 27% | 50% | Median |
+| 11.5–12.5% | 14% | 23% |  |
+| 12.5–13.5% | 6% | 8% |  |
+| 13.5–14.5% | 2% | 3% |  |
+| 14.5–15.5% | 0.5% | 0.6% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -259,7 +261,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
+| [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 1 | 1 | 1 | 1 | 1–2 |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 2 | 2 | 2 | 2 | 2 |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -483,9 +487,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 56% | 99.9% | Median |
-| 3 | 44% | 44% |  |
+| 1 | 11% | 100% |  |
+| 2 | 51% | 89% | Median |
+| 3 | 38% | 38% |  |
 | 4 | 0% | 0% |  |
 
 
