@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Jun 2026 14:33:45 +0200</pubDate>
+    <pubDate>Wed, 24 Jun 2026 17:51:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Interview for politic.gr, 17–22 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-22-Interview.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0 seats&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 1 seats&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 0–1 seats&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 3–4 seats&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 1 seats&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-22-Interview-seats.png"
+        length="308919"
+        type="image/png"/>
+      <pubDate>Wed, 24 Jun 2026 17:51:11 +0200</pubDate>
+      <dc:date>2026-06-24T17:51:11.959218+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for politic.gr, 17–22 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-22-Interview.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-22-Interview-coalitions-seats.png"
+        length="193957"
+        type="image/png"/>
+      <pubDate>Wed, 24 Jun 2026 17:51:11 +0200</pubDate>
+      <dc:date>2026-06-24T17:51:11.959218+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Interview for politic.gr, 17–22 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-22-Interview.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Πλεύση Ελευθερίας (NI): 2.7–4.0%&lt;/li&gt;&lt;li&gt;Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Φωνή Λογικής (PfE): 3.7–5.2%&lt;/li&gt;&lt;li&gt;Δημοκρατικό Πατριωτικό Κίνημα ΝΙΚΗ (NI): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Ελπίδα για την Δημοκρατία (*): 5.2–6.9%&lt;/li&gt;&lt;li&gt;Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL): 2.6–3.9%&lt;/li&gt;&lt;li&gt;Νέα Αριστερά (GUE/NGL): 0.2–0.6%&lt;/li&gt;&lt;li&gt;Ελληνική Λύση (ECR): 7.3–9.2%&lt;/li&gt;&lt;li&gt;Δημοκράτες–Προοδευτικό Κέντρο (RE): 1.7–2.8%&lt;/li&gt;&lt;li&gt;Ελληνική Αριστερή Συμπαράταξη (*): 14.8–17.4%&lt;/li&gt;&lt;li&gt;Κομμουνιστικό Κόμμα Ελλάδας (NI): 4.3–5.8%&lt;/li&gt;&lt;li&gt;Κίνημα Αλλαγής (S&amp;amp;D): 12.4–14.9%&lt;/li&gt;&lt;li&gt;Νέα Δημοκρατία (EPP): 29.4–32.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-22-Interview.png"
+        length="396445"
+        type="image/png"/>
+      <pubDate>Wed, 24 Jun 2026 17:51:11 +0200</pubDate>
+      <dc:date>2026-06-24T17:51:11.959218+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Alco for Alpha TV, 9–13 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-13-Alco.html#seats</link>
@@ -579,6 +609,6 @@
       <pubDate>Sun, 14 Jun 2026 11:03:18 +0200</pubDate>
       <dc:date>2026-06-14T11:03:18.405348+02:00</dc:date>
     </item>
-    <dc:date>2026-06-21T14:33:45.129042+02:00</dc:date>
+    <dc:date>2026-06-24T17:51:11.959218+02:00</dc:date>
   </channel>
 </rss>
