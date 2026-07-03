@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.5% | 0.2–1.3% | 0.2–1.5% | 0.1–1.6% | 0.1–2.0% |
+| [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 0.0% | N/A | N/A | N/A | N/A |
+| [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 0.0% | N/A | N/A | N/A | N/A |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% |
 | [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 0.3% | 0.2–0.5% | 0.2–0.5% | 0.2–0.6% | 0.1–0.7% |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 0.0% | N/A | N/A | N/A | N/A |
@@ -248,6 +250,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr |  |  |  |  |  |
+| [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika |  |  |  |  |  |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 0 | 0 | 0 | 0 | 0 |
 | [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 0 | 0 | 0 | 0 | 0 |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |

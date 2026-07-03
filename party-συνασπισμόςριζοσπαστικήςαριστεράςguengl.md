@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.7% | 0.8–2.6% | 0.6–2.9% | 0.5–3.1% | 0.4–3.5% |
+| [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 1.5% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.0% |
+| [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 1.2% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.5–2.6% |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.7–1.8% | 0.5–2.1% |
 | [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 0.5% | 0.4–0.8% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 1.3% | 0.9–2.0% | 0.8–2.2% | 0.7–2.3% | 0.6–2.7% |
@@ -234,8 +236,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 39% | 96% |  |
-| 1.5–2.5% | 45% | 57% | Median |
+| 0.5–1.5% | 36% | 96% |  |
+| 1.5–2.5% | 48% | 59% | Median |
 | 2.5–3.5% | 11% | 12% |  |
 | 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -250,6 +252,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 0 | 0 | 0 | 0 | 0 |
+| [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 0 | 0 | 0 | 0 | 0 |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 0 | 0 | 0 | 0 | 0 |
 | [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 0 | 0 | 0 | 0 | 0 |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |

@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.0% | 14.3–19.2% | 13.8–20.8% | 13.4–21.5% | 12.7–22.6% |
+| N/A | [Poll Average](average.html) | 16.2% | 14.5–19.4% | 14.0–20.8% | 13.6–21.5% | 12.8–22.6% |
+| [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 17.4% | 15.9–19.2% | 15.4–19.7% | 15.0–20.1% | 14.3–21.0% |
+| [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 16.3% | 14.8–18.0% | 14.4–18.5% | 14.1–18.9% | 13.4–19.8% |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 20.7% | 19.4–22.2% | 19.0–22.6% | 18.6–23.0% | 18.0–23.7% |
 | [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 16.0% | 15.2–16.9% | 15.0–17.2% | 14.8–17.4% | 14.4–17.8% |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 16.9% | 15.3–18.7% | 14.9–19.2% | 14.5–19.6% | 13.8–20.5% |
@@ -246,15 +248,15 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 3% | 99.7% |  |
-| 13.5–14.5% | 11% | 97% |  |
-| 14.5–15.5% | 23% | 86% |  |
-| 15.5–16.5% | 28% | 63% | Median |
-| 16.5–17.5% | 17% | 35% |  |
-| 17.5–18.5% | 6% | 18% |  |
-| 18.5–19.5% | 3% | 12% |  |
-| 19.5–20.5% | 3% | 9% |  |
-| 20.5–21.5% | 3% | 6% |  |
+| 12.5–13.5% | 2% | 99.7% |  |
+| 13.5–14.5% | 9% | 98% |  |
+| 14.5–15.5% | 21% | 89% |  |
+| 15.5–16.5% | 28% | 68% | Median |
+| 16.5–17.5% | 18% | 40% |  |
+| 17.5–18.5% | 8% | 21% |  |
+| 18.5–19.5% | 4% | 13% |  |
+| 19.5–20.5% | 4% | 9% |  |
+| 20.5–21.5% | 4% | 6% |  |
 | 21.5–22.5% | 2% | 2% |  |
 | 22.5–23.5% | 0.5% | 0.5% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
@@ -270,6 +272,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -497,8 +501,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 43% | 100% |  |
-| 4 | 51% | 57% | Median |
+| 3 | 39% | 100% |  |
+| 4 | 55% | 61% | Median |
 | 5 | 6% | 6% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
