@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/greek_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 04 Jul 2026 14:14:18 +0200</pubDate>
+    <pubDate>Sat, 04 Jul 2026 15:18:51 +0200</pubDate>
     <item>
       <title>Opinion Poll by Alco for flash.gr, 22–26 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-26-Alco.html#seats</link>
@@ -46,18 +46,18 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-24-GPO-seats.png"
         length="291423"
         type="image/png"/>
-      <pubDate>Fri, 03 Jul 2026 21:01:33 +0200</pubDate>
-      <dc:date>2026-07-03T21:01:33.882806+02:00</dc:date>
+      <pubDate>Sat, 04 Jul 2026 15:18:51 +0200</pubDate>
+      <dc:date>2026-07-04T15:18:51.178196+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Parapolitika, 22–24 June 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/greek_ep_polls/2026-06-24-GPO.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-24-GPO-coalitions-seats.png"
-        length="194382"
+        length="224570"
         type="image/png"/>
-      <pubDate>Fri, 03 Jul 2026 21:01:33 +0200</pubDate>
-      <dc:date>2026-07-03T21:01:33.882806+02:00</dc:date>
+      <pubDate>Sat, 04 Jul 2026 15:18:51 +0200</pubDate>
+      <dc:date>2026-07-04T15:18:51.178196+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPO for Parapolitika, 22–24 June 2026 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/greek_ep_polls/2026-06-24-GPO.png"
         length="387740"
         type="image/png"/>
-      <pubDate>Fri, 03 Jul 2026 21:01:33 +0200</pubDate>
-      <dc:date>2026-07-03T21:01:33.882806+02:00</dc:date>
+      <pubDate>Sat, 04 Jul 2026 15:18:51 +0200</pubDate>
+      <dc:date>2026-07-04T15:18:51.178196+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Real Polls for Protagon, 20–22 June 2026 – Seat Projections for the Parties</title>
@@ -699,6 +699,6 @@
       <pubDate>Sun, 14 Jun 2026 11:03:18 +0200</pubDate>
       <dc:date>2026-06-14T11:03:18.405348+02:00</dc:date>
     </item>
-    <dc:date>2026-07-04T14:14:18.761043+02:00</dc:date>
+    <dc:date>2026-07-04T15:18:51.178196+02:00</dc:date>
   </channel>
 </rss>
