@@ -434,8 +434,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Last Result, Median |
-| 1 | 36% | 36% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 37% | 37% |  |
 | 2 | 0% | 0% |  |
 
 ### Νέα Αριστερά (GUE/NGL)
@@ -511,8 +511,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.8% | 100% |  |
-| 6 | 43% | 99.2% |  |
-| 7 | 55% | 57% | Median |
+| 6 | 42% | 99.2% |  |
+| 7 | 56% | 57% | Median |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
@@ -533,7 +533,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 30% | 100% |  |
 | 2 | 69% | 70% | Median |
-| 3 | 0.9% | 0.9% |  |
+| 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
 ### Φωνή Λογικής (PfE)
@@ -650,8 +650,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 11% | 100% |  |
-| 2 | 53% | 89% | Median |
+| 1 | 12% | 100% |  |
+| 2 | 52% | 88% | Median |
 | 3 | 36% | 36% |  |
 | 4 | 0% | 0% |  |
 
@@ -704,8 +704,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.8% | 100% |  |
-| 6 | 43% | 99.2% |  |
-| 7 | 55% | 57% | Median |
+| 6 | 42% | 99.2% |  |
+| 7 | 56% | 57% | Median |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
@@ -720,8 +720,8 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 9% | 100% |  |
-| 5 | 21% | 91% |  |
-| 6 | 38% | 70% | Median |
+| 5 | 22% | 91% |  |
+| 6 | 38% | 69% | Median |
 | 7 | 30% | 31% |  |
 | 8 | 1.2% | 1.3% |  |
 | 9 | 0.1% | 0.1% |  |
@@ -762,7 +762,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 30% | 100% |  |
 | 2 | 69% | 70% | Median |
-| 3 | 0.9% | 0.9% |  |
+| 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
 ### Λαϊκή Ενότητα (GUE/NGL) – Μέτωπο Ευρωπαϊκής Ρεαλιστικής Ανυπακοής (GUE/NGL) – Νέα Αριστερά (GUE/NGL) – Συνασπισμός Ριζοσπαστικής Αριστεράς (GUE/NGL)
@@ -807,6 +807,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 10
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 19,922,944
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 20,971,520
 + **Error estimate:** 3.87%

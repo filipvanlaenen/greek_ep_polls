@@ -284,7 +284,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 7 | 7 | 7 | 7 | 6–7 |
 | [9–13 June 2026](2026-06-13-Alco.html) | Alco <br> Alpha TV | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -515,8 +515,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.8% | 100% |  |
-| 6 | 43% | 99.2% |  |
-| 7 | 55% | 57% | Median |
+| 6 | 42% | 99.2% |  |
+| 7 | 56% | 57% | Median |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
