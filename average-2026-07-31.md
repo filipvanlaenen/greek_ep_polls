@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 0–3% <br> 0–1 | N/A <br> N/A | 1–4% <br> 0–1 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 9–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 26–33% <br> 6–7 | N/A <br> N/A | 5–10% <br> 1–2 | 1–5% <br> 0–1 | N/A <br> N/A | 5–10% <br> 1–2 | 0–2% <br> 0 | 3–7% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 14–22% <br> 3–5 | 6–14% <br> 1–3 | N/A <br> N/A | 0–2% <br> 0 |
-| [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 26–32% <br> 6–7 | N/A <br> N/A | 6–10% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A | 6–10% <br> 1–2 | 1–3% <br> 0 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 15–20% <br> 3–4 | 7–11% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
+| [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–15% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 26–32% <br> 6–7 | N/A <br> N/A | 6–10% <br> 1–2 | 2–4% <br> 0–1 | N/A <br> N/A | 6–10% <br> 1–2 | 1–3% <br> 0 | 3–5% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 15–20% <br> 3–5 | 7–11% <br> 2–3 | N/A <br> N/A | N/A <br> N/A |
 | [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 26–32% <br> 6–7 | N/A <br> N/A | 7–11% <br> 2 | 2–4% <br> 0–1 | N/A <br> N/A | 7–11% <br> 2 | 1–2% <br> 0 | 3–6% <br> 1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 14–19% <br> 3–4 | 6–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 1–2% <br> 0 | N/A <br> N/A | 2–3% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2–3 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 27–32% <br> 6–7 | N/A <br> N/A | 4–6% <br> 1–2 | 3–5% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1–2 | 1–2% <br> 0 | 2–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 19–23% <br> 4–5 | 9–12% <br> 2–3 | N/A <br> N/A | 0–1% <br> 0 |
 | [17–22 June 2026](2026-06-22-Interview.html) | Interview <br> politic.gr | 0–1% <br> 0 | N/A <br> N/A | 3–4% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 12–15% <br> 3 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | 29–33% <br> 7 | N/A <br> N/A | 7–9% <br> 2 | 4–5% <br> 1 | N/A <br> N/A | 4–6% <br> 1 | 0–1% <br> 0 | 3–4% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 15–17% <br> 3–4 | 5–7% <br> 1 | N/A <br> N/A | N/A <br> N/A |
@@ -434,8 +434,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Last Result, Median |
-| 1 | 37% | 37% |  |
+| 0 | 64% | 100% | Last Result, Median |
+| 1 | 36% | 36% |  |
 | 2 | 0% | 0% |  |
 
 ### Νέα Αριστερά (GUE/NGL)
@@ -472,7 +472,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 55% | 100% | Median |
 | 3 | 45% | 45% |  |
-| 4 | 0% | 0% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Δημοκράτες (RE)
 
@@ -511,7 +512,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0.8% | 100% |  |
 | 6 | 43% | 99.2% |  |
-| 7 | 54% | 56% | Median |
+| 7 | 55% | 57% | Median |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
@@ -531,7 +532,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 30% | 100% |  |
-| 2 | 70% | 70% | Median |
+| 2 | 69% | 70% | Median |
 | 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
@@ -588,8 +589,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% | Last Result |
-| 1 | 88% | 95% | Median |
+| 0 | 6% | 100% | Last Result |
+| 1 | 88% | 94% | Median |
 | 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
@@ -635,8 +636,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 39% | 100% |  |
-| 4 | 55% | 61% | Median |
-| 5 | 6% | 6% |  |
+| 4 | 54% | 61% | Median |
+| 5 | 7% | 7% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -704,7 +705,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0.8% | 100% |  |
 | 6 | 43% | 99.2% |  |
-| 7 | 54% | 56% | Median |
+| 7 | 55% | 57% | Median |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
@@ -720,8 +721,8 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 100% |  |
 | 4 | 9% | 100% |  |
 | 5 | 21% | 91% |  |
-| 6 | 39% | 69% | Median |
-| 7 | 29% | 30% |  |
+| 6 | 38% | 70% | Median |
+| 7 | 30% | 31% |  |
 | 8 | 1.2% | 1.3% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
@@ -749,7 +750,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 55% | 100% | Median |
 | 3 | 45% | 45% |  |
-| 4 | 0% | 0% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Ανεξάρτητοι Έλληνες (ECR) – Ελληνική Λύση (ECR)
 
@@ -759,7 +761,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 30% | 100% |  |
-| 2 | 70% | 70% | Median |
+| 2 | 69% | 70% | Median |
 | 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
@@ -806,5 +808,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 10
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 18,874,368
++ **Total number of simulations done in the polls included in this average:** 19,922,944
 + **Error estimate:** 3.87%
