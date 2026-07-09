@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.1–4.7% | 1.7–4.9% | 1.4–5.2% | 1.1–5.7% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.4–4.9% | 2.2–5.2% | 2.0–5.4% | 1.7–6.0% |
+| [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
+| [24–30 June 2026](2026-06-30-MetronAnalysis.html) | Metron Analysis <br> Mega | 3.7% | 3.1–4.6% | 2.9–4.8% | 2.7–5.1% | 2.5–5.5% |
+| [23–28 June 2026](2026-06-28-Marc.html) | Marc <br> Ant1 | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.1% |
 | [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 2.7% | 2.1–3.6% | 2.0–3.8% | 1.8–4.1% | 1.6–4.5% |
 | [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 2.6% | 2.0–3.4% | 1.9–3.7% | 1.7–3.9% | 1.5–4.3% |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 3.8% | 3.2–4.5% | 3.0–4.7% | 2.9–4.9% | 2.6–5.3% |
@@ -236,13 +239,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 14% | 97% |  |
-| 2.5–3.5% | 31% | 82% |  |
-| 3.5–4.5% | 39% | 51% | Median |
-| 4.5–5.5% | 12% | 13% |  |
-| 5.5–6.5% | 0.7% | 0.8% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 14% | 99.8% |  |
+| 2.5–3.5% | 30% | 86% |  |
+| 3.5–4.5% | 37% | 55% | Median |
+| 4.5–5.5% | 17% | 19% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -254,6 +258,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 1 | 1 | 1 | 1 |
+| [24–30 June 2026](2026-06-30-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23–28 June 2026](2026-06-28-Marc.html) | Marc <br> Ant1 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -480,8 +487,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% | Last Result |
-| 1 | 64% | 65% | Median |
+| 0 | 29% | 100% | Last Result |
+| 1 | 69% | 71% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 

@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.5–2.1% | 0.4–2.3% | 0.3–2.5% | 0.2–2.7% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.2% | 0.7–2.4% | 0.6–2.5% | 0.5–2.8% |
+| [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.7–2.0% | 0.5–2.3% |
+| [24–30 June 2026](2026-06-30-MetronAnalysis.html) | Metron Analysis <br> Mega | 0.0% | N/A | N/A | N/A | N/A |
+| [23–28 June 2026](2026-06-28-Marc.html) | Marc <br> Ant1 | 1.4% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.7–2.6% |
 | [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 1.2% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% | 0.5–2.5% |
 | [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika | 0.0% | N/A | N/A | N/A | N/A |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 0.8% | 0.6–1.2% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% |
@@ -235,9 +238,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 13% | 100% | Last Result |
-| 0.5–1.5% | 63% | 87% | Median |
-| 1.5–2.5% | 23% | 24% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 63% | 98% | Median |
+| 1.5–2.5% | 33% | 35% |  |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -251,6 +254,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0 | 0 | 0 | 0 |
+| [24–30 June 2026](2026-06-30-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |
+| [23–28 June 2026](2026-06-28-Marc.html) | Marc <br> Ant1 | 0 | 0 | 0 | 0 | 0 |
 | [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 0 | 0 | 0 | 0 | 0 |
 | [22–24 June 2026](2026-06-24-GPO.html) | GPO <br> Parapolitika |  |  |  |  |  |
 | [20–22 June 2026](2026-06-22-RealPolls.html) | Real Polls <br> Protagon | 0 | 0 | 0 | 0 | 0 |
