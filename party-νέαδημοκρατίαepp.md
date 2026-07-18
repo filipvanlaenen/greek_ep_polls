@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.9% | 27.6–31.9% | 27.0–32.5% | 26.4–32.9% | 25.4–34.0% |
+| N/A | [Poll Average](average.html) | 29.6% | 27.6–31.5% | 27.0–32.0% | 26.5–32.5% | 25.5–33.6% |
+| [3–7 July 2026](2026-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 29.7% | 27.9–31.7% | 27.4–32.2% | 27.0–32.7% | 26.1–33.6% |
+| [2–6 July 2026](2026-07-06-Interview.html) | Interview <br> Political | 30.3% | 29.4–31.4% | 29.1–31.6% | 28.9–31.9% | 28.4–32.4% |
 | [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 28.4% | 26.7–30.2% | 26.2–30.8% | 25.8–31.2% | 25.0–32.1% |
+| [24 June–3 July 2026](2026-07-03-MRB.html) | MRB <br> Open TV | 29.0% | 27.6–30.5% | 27.2–30.9% | 26.9–31.3% | 26.2–32.0% |
 | [24–30 June 2026](2026-06-30-MetronAnalysis.html) | Metron Analysis <br> Mega | 30.3% | 28.6–32.2% | 28.1–32.7% | 27.7–33.2% | 26.8–34.1% |
 | [23–28 June 2026](2026-06-28-Marc.html) | Marc <br> Ant1 | 30.7% | 28.9–32.5% | 28.4–33.0% | 28.0–33.5% | 27.2–34.4% |
 | [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 28.5% | 26.5–30.5% | 26.0–31.1% | 25.5–31.6% | 24.6–32.6% |
@@ -266,14 +269,14 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0.5% | 99.9% |  |
 | 25.5–26.5% | 2% | 99.4% |  |
 | 26.5–27.5% | 7% | 97% |  |
-| 27.5–28.5% | 13% | 90% |  |
-| 28.5–29.5% | 20% | 77% |  |
-| 29.5–30.5% | 22% | 58% | Median |
-| 30.5–31.5% | 20% | 35% |  |
-| 31.5–32.5% | 11% | 15% |  |
-| 32.5–33.5% | 3% | 4% |  |
-| 33.5–34.5% | 0.8% | 1.0% |  |
-| 34.5–35.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 15% | 90% |  |
+| 28.5–29.5% | 23% | 75% |  |
+| 29.5–30.5% | 25% | 51% | Median |
+| 30.5–31.5% | 17% | 26% |  |
+| 31.5–32.5% | 7% | 9% |  |
+| 32.5–33.5% | 2% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.5% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
 
@@ -285,8 +288,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [3–7 July 2026](2026-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [2–6 July 2026](2026-07-06-Interview.html) | Interview <br> Political | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [24 June–3 July 2026](2026-07-03-MRB.html) | MRB <br> Open TV | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [24–30 June 2026](2026-06-30-MetronAnalysis.html) | Metron Analysis <br> Mega | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [23–28 June 2026](2026-06-28-Marc.html) | Marc <br> Ant1 | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
@@ -521,9 +527,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
-| 6 | 37% | 99.7% |  |
-| 7 | 60% | 63% | Median |
-| 8 | 2% | 2% |  |
+| 6 | 43% | 99.7% |  |
+| 7 | 56% | 56% | Median |
+| 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
 
