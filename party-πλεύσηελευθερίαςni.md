@@ -261,9 +261,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [3–7 July 2026](2026-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1–2 | 1–2 |
-| [2–6 July 2026](2026-07-06-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [3–7 July 2026](2026-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [2–6 July 2026](2026-07-06-Interview.html) | Interview <br> Political | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24 June–3 July 2026](2026-07-03-MRB.html) | MRB <br> Open TV | 1 | 1 | 1 | 1 | 1–2 |
 | [24–30 June 2026](2026-06-30-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -495,8 +495,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% | Last Result |
-| 1 | 91% | 92% | Median |
-| 2 | 2% | 2% |  |
+| 1 | 89% | 92% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 

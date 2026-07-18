@@ -281,7 +281,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3–7 July 2026](2026-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [2–6 July 2026](2026-07-06-Interview.html) | Interview <br> Political | 4 | 4 | 4 | 3–4 | 3–4 |
 | [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4 | 4 | 4 | 3–4 | 3–4 |
-| [24 June–3 July 2026](2026-07-03-MRB.html) | MRB <br> Open TV | 4 | 4 | 4 | 3–4 | 3–4 |
+| [24 June–3 July 2026](2026-07-03-MRB.html) | MRB <br> Open TV | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [24–30 June 2026](2026-06-30-MetronAnalysis.html) | Metron Analysis <br> Mega | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [23–28 June 2026](2026-06-28-Marc.html) | Marc <br> Ant1 | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 4 | 3–5 | 3–5 | 3–5 | 3–5 |

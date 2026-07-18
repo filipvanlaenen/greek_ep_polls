@@ -269,7 +269,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3–7 July 2026](2026-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–6 July 2026](2026-07-06-Interview.html) | Interview <br> Political | 1 | 1 | 1 | 1 | 1–2 |
 | [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [24 June–3 July 2026](2026-07-03-MRB.html) | MRB <br> Open TV | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [24 June–3 July 2026](2026-07-03-MRB.html) | MRB <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [24–30 June 2026](2026-06-30-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–28 June 2026](2026-06-28-Marc.html) | Marc <br> Ant1 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–26 June 2026](2026-06-26-Alco.html) | Alco <br> flash.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -499,8 +499,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 46% | 100% |  |
-| 2 | 53% | 54% | Median |
+| 1 | 47% | 100% |  |
+| 2 | 53% | 53% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
