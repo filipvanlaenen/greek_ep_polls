@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.1–5.9% | 2.9–6.3% | 2.7–6.6% | 2.4–7.2% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.3–6.1% | 3.1–6.4% | 2.9–6.7% | 2.7–7.3% |
+| [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5.5% | 4.7–6.5% | 4.5–6.7% | 4.3–7.0% | 4.0–7.5% |
+| [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 3.2% | 2.8–3.6% | 2.7–3.7% | 2.6–3.9% | 2.5–4.1% |
+| [6–9 July 2026](2026-07-09-GPO.html) | GPO <br> iefimerida.gr | 4.6% | 3.8–5.6% | 3.6–5.9% | 3.4–6.2% | 3.0–6.7% |
+| [6–9 July 2026](2026-07-09-Alco.html) | Alco <br> Η Εφημερίδα των Συντακτών | 4.3% | 3.5–5.3% | 3.3–5.7% | 3.1–5.9% | 2.8–6.4% |
 | [3–7 July 2026](2026-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | 4.4–6.2% | 4.1–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [2–6 July 2026](2026-07-06-Interview.html) | Interview <br> Political | 3.2% | 2.8–3.6% | 2.7–3.7% | 2.6–3.8% | 2.5–4.0% |
 | [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
@@ -25,7 +29,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 3.3% | 3.0–3.8% | 2.9–3.9% | 2.8–4.0% | 2.6–4.2% |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 5.1% | 4.3–6.2% | 4.0–6.5% | 3.8–6.8% | 3.4–7.3% |
 | [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 5.4% | 4.7–6.3% | 4.5–6.6% | 4.3–6.8% | 4.0–7.2% |
-| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
+| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
 | [25 May–2 June 2026](2026-06-02-MetronAnalysis.html) | Metron Analysis <br> Mega | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.0% |
 | [28 May–2 June 2026](2026-06-02-GPO.html) | GPO <br> Star TV | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.6–6.1% | 3.2–6.6% |
 | [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 5.2% | 4.4–6.3% | 4.2–6.6% | 4.0–6.8% | 3.6–7.4% |
@@ -243,12 +247,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.0% | 100% |  |
-| 2.5–3.5% | 25% | 99.0% |  |
-| 3.5–4.5% | 27% | 74% | Median |
-| 4.5–5.5% | 29% | 47% |  |
-| 5.5–6.5% | 15% | 17% |  |
-| 6.5–7.5% | 2% | 3% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 15% | 99.8% |  |
+| 3.5–4.5% | 26% | 85% |  |
+| 4.5–5.5% | 36% | 59% | Median |
+| 5.5–6.5% | 19% | 23% |  |
+| 6.5–7.5% | 3% | 3% |  |
 | 7.5–8.5% | 0.2% | 0.2% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -261,7 +265,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–9 July 2026](2026-07-09-GPO.html) | GPO <br> iefimerida.gr | 1 | 1 | 1 | 1 | 1–2 |
+| [6–9 July 2026](2026-07-09-Alco.html) | Alco <br> Η Εφημερίδα των Συντακτών | 1 | 1 | 1 | 1 | 0–2 |
 | [3–7 July 2026](2026-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–6 July 2026](2026-07-06-Interview.html) | Interview <br> Political | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -276,7 +284,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3–8 June 2026](2026-06-08-Interview.html) | Interview <br> Political | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–5 June 2026](2026-06-05-PalmosAnalysis.html) | Palmos Analysis <br> Ελεύθερος Τύπος | 1 | 1 | 1 | 1–2 | 1–2 |
 | [27 May–4 June 2026](2026-06-04-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 1 | 1 | 1–2 | 1–2 |
-| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Efsyn | 1 | 1 | 1 | 0–1 | 0–1 |
+| [28 May–3 June 2026](2026-06-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 1 | 1 | 0–1 | 0–1 |
 | [25 May–2 June 2026](2026-06-02-MetronAnalysis.html) | Metron Analysis <br> Mega | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [28 May–2 June 2026](2026-06-02-GPO.html) | GPO <br> Star TV | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [27–31 May 2026](2026-05-31-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 1 | 1 | 1 | 1–2 | 1–2 |
@@ -494,9 +502,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 89% | 92% | Median |
-| 2 | 3% | 3% |  |
+| 0 | 11% | 100% | Last Result |
+| 1 | 85% | 89% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 
