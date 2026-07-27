@@ -283,7 +283,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 4 | 4 | 4 | 4 | 3–4 |
 | [6–9 July 2026](2026-07-09-GPO.html) | GPO <br> iefimerida.gr | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [6–9 July 2026](2026-07-09-Alco.html) | Alco <br> Η Εφημερίδα των Συντακτών | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [6–9 July 2026](2026-07-09-Alco.html) | Alco <br> Η Εφημερίδα των Συντακτών | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [3–7 July 2026](2026-07-07-PulseRC.html) | Pulse RC <br> ΣΚΑΪ | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [2–6 July 2026](2026-07-06-Interview.html) | Interview <br> Political | 4 | 4 | 4 | 3–4 | 3–4 |
 | [29 June–3 July 2026](2026-07-03-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -521,7 +521,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 15% | 100% |  |
 | 4 | 84% | 85% | Median |
-| 5 | 2% | 2% |  |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
 
