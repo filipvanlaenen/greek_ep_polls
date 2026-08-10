@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 5.9–9.8% | 5.6–10.2% | 5.4–10.7% | 5.1–11.5% |
-| [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 7.9% | 6.0–9.7% | 5.7–10.2% | 5.4–10.6% | 5.1–11.4% |
+| [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.4% | 6.4–8.6% | 6.2–8.9% | 6.0–9.2% | 5.5–9.7% |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 5.8% | 5.3–6.4% | 5.2–6.6% | 5.0–6.7% | 4.8–7.0% |
 | [6–9 July 2026](2026-07-09-GPO.html) | GPO <br> iefimerida.gr | 7.0% | 6.0–8.2% | 5.7–8.6% | 5.5–8.9% | 5.0–9.5% |
 | [6–9 July 2026](2026-07-09-Alco.html) | Alco <br> Η Εφημερίδα των Συντακτών | 7.7% | 6.6–9.0% | 6.3–9.3% | 6.0–9.7% | 5.6–10.3% |
@@ -252,12 +252,12 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 4% | 100% |  |
 | 5.5–6.5% | 16% | 96% |  |
-| 6.5–7.5% | 19% | 80% |  |
-| 7.5–8.5% | 26% | 61% | Median |
-| 8.5–9.5% | 22% | 35% |  |
-| 9.5–10.5% | 10% | 13% |  |
-| 10.5–11.5% | 3% | 3% |  |
-| 11.5–12.5% | 0.4% | 0.4% |  |
+| 6.5–7.5% | 22% | 81% |  |
+| 7.5–8.5% | 27% | 59% | Median |
+| 8.5–9.5% | 20% | 32% |  |
+| 9.5–10.5% | 9% | 11% |  |
+| 10.5–11.5% | 2% | 3% |  |
+| 11.5–12.5% | 0.3% | 0.4% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -270,7 +270,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
+| [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 1 | 1 | 1 | 1–2 | 1–2 |
 | [6–9 July 2026](2026-07-09-GPO.html) | GPO <br> iefimerida.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–9 July 2026](2026-07-09-Alco.html) | Alco <br> Η Εφημερίδα των Συντακτών | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -507,8 +507,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 21% | 100% |  |
-| 2 | 76% | 79% | Median |
+| 1 | 19% | 100% |  |
+| 2 | 78% | 81% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
