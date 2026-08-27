@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 15.8–18.9% | 15.3–19.4% | 14.9–19.9% | 14.2–20.9% |
+| N/A | [Poll Average](average.html) | 16.9% | 15.5–18.9% | 15.1–19.5% | 14.7–20.1% | 14.0–21.1% |
+| [18–24 August 2026](2026-08-24-Interview.html) | Interview <br> POLITIC | 16.2% | 15.5–17.0% | 15.2–17.3% | 15.1–17.5% | 14.7–17.8% |
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.6–19.1% | 13.9–19.9% |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 17.4% | 16.5–18.3% | 16.3–18.5% | 16.1–18.7% | 15.7–19.2% |
 | [6–9 July 2026](2026-07-09-GPO.html) | GPO <br> iefimerida.gr | 16.6% | 15.0–18.3% | 14.6–18.7% | 14.2–19.2% | 13.5–20.0% |
@@ -259,15 +260,15 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.1% | 99.9% |  |
-| 14.5–15.5% | 6% | 98.8% |  |
-| 15.5–16.5% | 18% | 93% |  |
-| 16.5–17.5% | 32% | 75% | Median |
-| 17.5–18.5% | 27% | 43% |  |
-| 18.5–19.5% | 11% | 16% |  |
-| 19.5–20.5% | 3% | 4% |  |
-| 20.5–21.5% | 0.8% | 0.9% |  |
-| 21.5–22.5% | 0.1% | 0.2% |  |
+| 13.5–14.5% | 2% | 99.9% |  |
+| 14.5–15.5% | 9% | 98% |  |
+| 15.5–16.5% | 29% | 89% |  |
+| 16.5–17.5% | 28% | 60% | Median |
+| 17.5–18.5% | 18% | 32% |  |
+| 18.5–19.5% | 9% | 14% |  |
+| 19.5–20.5% | 4% | 5% |  |
+| 20.5–21.5% | 1.0% | 1.2% |  |
+| 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -280,6 +281,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [18–24 August 2026](2026-08-24-Interview.html) | Interview <br> POLITIC | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 4 | 4 | 4 | 4 | 3–4 |
 | [6–9 July 2026](2026-07-09-GPO.html) | GPO <br> iefimerida.gr | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -519,9 +521,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 17% | 100% |  |
-| 4 | 82% | 83% | Median |
-| 5 | 1.1% | 1.1% |  |
+| 3 | 32% | 100% |  |
+| 4 | 66% | 68% | Median |
+| 5 | 1.4% | 1.4% |  |
 | 6 | 0% | 0% |  |
 
 
