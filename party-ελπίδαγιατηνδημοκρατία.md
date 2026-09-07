@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 4.0–9.0% | 3.8–9.4% | 3.7–9.8% | 3.4–10.5% |
+| N/A | [Poll Average](average.html) | 7.3% | 4.5–9.0% | 4.3–9.4% | 4.1–9.8% | 3.9–10.5% |
+| [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 4.5% | 4.1–5.0% | 3.9–5.1% | 3.9–5.2% | 3.7–5.5% |
 | [18–24 August 2026](2026-08-24-Interview.html) | Interview <br> POLITIC | 4.0% | 3.6–4.5% | 3.5–4.6% | 3.4–4.7% | 3.2–5.0% |
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 7.4% | 6.4–8.6% | 6.2–8.9% | 6.0–9.2% | 5.5–9.7% |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 5.8% | 5.3–6.4% | 5.2–6.6% | 5.0–6.7% | 4.8–7.0% |
@@ -249,9 +250,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.1% | 100% |  |
-| 3.5–4.5% | 18% | 98.9% |  |
-| 4.5–5.5% | 2% | 81% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 11% | 100% |  |
+| 4.5–5.5% | 10% | 89% |  |
 | 5.5–6.5% | 9% | 79% |  |
 | 6.5–7.5% | 26% | 70% | Median |
 | 7.5–8.5% | 27% | 44% |  |
@@ -270,6 +271,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 1 | 1 | 1 | 1 | 1 |
 | [18–24 August 2026](2026-08-24-Interview.html) | Interview <br> POLITIC | 1 | 1 | 1 | 1 | 1 |
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 1 | 1 | 1 | 1–2 | 1–2 |

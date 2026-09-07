@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.0% | 1.8–3.8% | 1.5–4.0% | 1.3–4.3% | 1.0–4.8% |
+| [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 3.1% | 2.8–3.6% | 2.7–3.7% | 2.6–3.8% | 2.5–4.0% |
 | [18–24 August 2026](2026-08-24-Interview.html) | Interview <br> POLITIC | 3.1% | 2.8–3.5% | 2.7–3.6% | 2.6–3.7% | 2.5–3.9% |
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 3.4% | 3.0–3.9% | 2.9–4.0% | 2.8–4.1% | 2.7–4.3% |
@@ -264,6 +265,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–24 August 2026](2026-08-24-Interview.html) | Interview <br> POLITIC | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -501,8 +503,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Last Result, Median |
-| 1 | 40% | 40% |  |
+| 0 | 54% | 100% | Last Result, Median |
+| 1 | 46% | 46% |  |
 | 2 | 0% | 0% |  |
 
 
