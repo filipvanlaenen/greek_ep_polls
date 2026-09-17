@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.6% | 10.0–13.5% | 9.6–13.9% | 9.3–14.1% | 8.7–14.6% |
+| N/A | [Poll Average](average.html) | 11.8% | 9.8–13.8% | 9.4–14.1% | 9.0–14.4% | 8.4–15.1% |
+| [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 10.2% | 9.1–11.6% | 8.7–12.0% | 8.5–12.3% | 7.9–13.0% |
+| [7–8 September 2026](2026-09-08-GPO.html) | GPO <br> Star TV | 12.8% | 11.6–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.8% |
 | [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 13.4% | 12.7–14.1% | 12.5–14.3% | 12.3–14.5% | 12.0–14.9% |
 | [18–24 August 2026](2026-08-24-Interview.html) | Interview <br> POLITIC | 11.2% | 10.5–11.9% | 10.3–12.1% | 10.2–12.3% | 9.9–12.6% |
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 10.8% | 9.6–12.1% | 9.3–12.5% | 9.0–12.8% | 8.5–13.5% |
@@ -255,15 +257,16 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.3% | 100% |  |
-| 8.5–9.5% | 4% | 99.7% |  |
-| 9.5–10.5% | 17% | 96% |  |
-| 10.5–11.5% | 28% | 79% |  |
-| 11.5–12.5% | 22% | 50% | Median |
-| 12.5–13.5% | 19% | 29% |  |
-| 13.5–14.5% | 9% | 10% |  |
-| 14.5–15.5% | 0.6% | 0.7% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.7% | 100% |  |
+| 8.5–9.5% | 6% | 99.3% |  |
+| 9.5–10.5% | 16% | 93% |  |
+| 10.5–11.5% | 21% | 77% |  |
+| 11.5–12.5% | 19% | 55% | Median |
+| 12.5–13.5% | 23% | 37% |  |
+| 13.5–14.5% | 12% | 14% |  |
+| 14.5–15.5% | 2% | 2% |  |
+| 15.5–16.5% | 0.2% | 0.2% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -275,6 +278,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [7–8 September 2026](2026-09-08-GPO.html) | GPO <br> Star TV | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 3 | 3 | 3 | 3 | 3 |
 | [18–24 August 2026](2026-08-24-Interview.html) | Interview <br> POLITIC | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -515,9 +520,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 43% | 100% |  |
-| 3 | 57% | 57% | Median |
-| 4 | 0.1% | 0.1% |  |
+| 2 | 50% | 100% |  |
+| 3 | 50% | 50% | Median |
+| 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 
