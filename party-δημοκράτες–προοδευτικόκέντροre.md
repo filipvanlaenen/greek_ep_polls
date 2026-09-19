@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.6–1.8% | 0.5–2.0% | 0.4–2.1% | 0.3–2.3% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.7–1.9% | 0.6–2.0% | 0.5–2.1% | 0.4–2.4% |
+| [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
+| [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 0.0% | N/A | N/A | N/A | N/A |
+| [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.3% | 0.9–2.0% | 0.8–2.2% | 0.7–2.3% | 0.6–2.7% |
 | [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1.1% | 0.8–1.7% | 0.7–1.9% | 0.6–2.0% | 0.5–2.3% |
 | [7–8 September 2026](2026-09-08-GPO.html) | GPO <br> Star TV | 0.0% | N/A | N/A | N/A | N/A |
 | [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 1.7% | 1.4–2.0% | 1.4–2.1% | 1.3–2.2% | 1.2–2.3% |
@@ -249,10 +252,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 8% | 100% | Last Result |
-| 0.5–1.5% | 62% | 92% | Median |
-| 1.5–2.5% | 30% | 30% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 65% | 97% | Median |
+| 1.5–2.5% | 32% | 32% |  |
+| 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -265,6 +268,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 0 | 0 | 0 | 0 | 0 |
+| [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV |  |  |  |  |  |
+| [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
 | [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0 | 0 | 0 | 0 |
 | [7–8 September 2026](2026-09-08-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
 | [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 0 | 0 | 0 | 0 | 0 |
