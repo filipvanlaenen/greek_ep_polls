@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 6.1–8.8% | 5.8–9.4% | 5.5–9.8% | 5.1–10.6% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.9–8.5% | 5.6–9.1% | 5.4–9.6% | 4.9–10.5% |
+| [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 6.6% | 5.6–7.8% | 5.3–8.1% | 5.1–8.4% | 4.6–9.1% |
 | [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 6.8% | 5.9–7.9% | 5.7–8.2% | 5.5–8.5% | 5.1–9.0% |
+| [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 6.7% | 5.7–8.0% | 5.4–8.3% | 5.2–8.6% | 4.7–9.3% |
+| [14–16 September 2026](2026-09-16-GPO.html) | GPO <br> Parapolitika | 8.7% | 7.6–10.0% | 7.2–10.4% | 7.0–10.8% | 6.5–11.5% |
 | [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 6.8% | 5.9–8.0% | 5.6–8.3% | 5.4–8.6% | 5.0–9.2% |
 | [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 6.8% | 5.8–8.0% | 5.5–8.4% | 5.3–8.7% | 4.8–9.4% |
 | [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6.8% | 5.9–8.0% | 5.6–8.3% | 5.4–8.6% | 5.0–9.2% |
@@ -256,15 +259,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 3% | 100% |  |
-| 5.5–6.5% | 22% | 97% |  |
-| 6.5–7.5% | 43% | 75% | Median |
-| 7.5–8.5% | 20% | 32% |  |
-| 8.5–9.5% | 9% | 12% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.5% | 0.6% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 4% | 99.9% |  |
+| 5.5–6.5% | 25% | 96% |  |
+| 6.5–7.5% | 43% | 71% | Median |
+| 7.5–8.5% | 19% | 28% |  |
+| 8.5–9.5% | 7% | 9% |  |
+| 9.5–10.5% | 2% | 3% |  |
+| 10.5–11.5% | 0.4% | 0.5% |  |
 | 11.5–12.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -276,7 +280,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [14–16 September 2026](2026-09-16-GPO.html) | GPO <br> Parapolitika | 2 | 2 | 2 | 2 | 1–2 |
 | [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -520,8 +527,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 30% | 100% |  |
-| 2 | 70% | 70% | Median |
+| 1 | 33% | 100% |  |
+| 2 | 67% | 67% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 

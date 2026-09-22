@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.2% | 28.4–32.5% | 27.8–33.1% | 27.3–33.6% | 26.3–34.6% |
+| N/A | [Poll Average](average.html) | 30.3% | 28.2–33.0% | 27.5–33.8% | 27.0–34.5% | 25.9–35.8% |
+| [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 32.8% | 30.8–34.9% | 30.2–35.5% | 29.8–36.1% | 28.8–37.1% |
 | [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 31.5% | 29.7–33.3% | 29.2–33.8% | 28.8–34.3% | 28.0–35.2% |
+| [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 29.0% | 27.1–31.1% | 26.5–31.7% | 26.0–32.2% | 25.1–33.3% |
+| [14–16 September 2026](2026-09-16-GPO.html) | GPO <br> Parapolitika | 30.3% | 28.3–32.4% | 27.8–33.0% | 27.3–33.5% | 26.4–34.5% |
 | [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 30.3% | 28.4–32.2% | 27.9–32.8% | 27.5–33.2% | 26.6–34.2% |
 | [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 30.9% | 28.9–33.0% | 28.3–33.6% | 27.9–34.1% | 26.9–35.1% |
 | [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 29.0% | 27.2–31.0% | 26.7–31.5% | 26.2–32.0% | 25.4–32.9% |
@@ -277,19 +280,20 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.7% | 99.9% |  |
-| 26.5–27.5% | 3% | 99.2% |  |
-| 27.5–28.5% | 8% | 96% |  |
-| 28.5–29.5% | 20% | 88% |  |
-| 29.5–30.5% | 25% | 68% | Median |
-| 30.5–31.5% | 20% | 43% |  |
-| 31.5–32.5% | 13% | 22% |  |
-| 32.5–33.5% | 6% | 9% |  |
-| 33.5–34.5% | 2% | 3% |  |
-| 34.5–35.5% | 0.5% | 0.6% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.2% | 100% |  |
+| 25.5–26.5% | 1.1% | 99.8% |  |
+| 26.5–27.5% | 4% | 98.7% |  |
+| 27.5–28.5% | 9% | 95% |  |
+| 28.5–29.5% | 19% | 86% |  |
+| 29.5–30.5% | 22% | 67% | Median |
+| 30.5–31.5% | 18% | 45% |  |
+| 31.5–32.5% | 13% | 27% |  |
+| 32.5–33.5% | 8% | 14% |  |
+| 33.5–34.5% | 4% | 6% |  |
+| 34.5–35.5% | 2% | 2% |  |
+| 35.5–36.5% | 0.5% | 0.7% |  |
+| 36.5–37.5% | 0.1% | 0.2% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -300,8 +304,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| N/A | [Poll Average](average.html) | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
 | [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [14–16 September 2026](2026-09-16-GPO.html) | GPO <br> Parapolitika | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
@@ -549,10 +556,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.2% | 100% |  |
-| 6 | 33% | 99.8% |  |
-| 7 | 66% | 67% | Median |
-| 8 | 0.8% | 0.8% |  |
+| 5 | 0.4% | 100% |  |
+| 6 | 38% | 99.6% |  |
+| 7 | 58% | 62% | Median |
+| 8 | 4% | 4% |  |
 | 9 | 0% | 0% |  |
 
 

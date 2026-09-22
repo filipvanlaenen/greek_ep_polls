@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.2–2.7% | 1.1–2.9% | 1.0–3.0% | 0.8–3.4% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.1–2.6% | 1.0–2.8% | 0.9–3.0% | 0.7–3.4% |
+| [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 1.4% | 1.0–2.1% | 0.9–2.3% | 0.8–2.5% | 0.7–2.8% |
 | [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 1.5% | 1.1–2.1% | 1.0–2.3% | 1.0–2.4% | 0.8–2.8% |
+| [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 1.2% | 0.9–1.9% | 0.7–2.1% | 0.7–2.2% | 0.5–2.6% |
+| [14–16 September 2026](2026-09-16-GPO.html) | GPO <br> Parapolitika | 1.5% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.0% |
 | [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.8% | 1.3–2.5% | 1.2–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.2% |
@@ -252,11 +255,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 28% | 100% |  |
-| 1.5–2.5% | 56% | 72% | Median |
-| 2.5–3.5% | 15% | 16% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 34% | 99.9% |  |
+| 1.5–2.5% | 53% | 66% | Median |
+| 2.5–3.5% | 12% | 12% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -269,7 +272,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 0 | 0 | 0 | 0 | 0–1 |
 | [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 0 | 0 | 0 | 0 | 0 |
+| [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 0 | 0 | 0 | 0 | 0 |
+| [14–16 September 2026](2026-09-16-GPO.html) | GPO <br> Parapolitika | 0 | 0 | 0 | 0 | 0 |
 | [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0–1 |
 | [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 0 | 0 | 0 | 0 | 0–1 |
