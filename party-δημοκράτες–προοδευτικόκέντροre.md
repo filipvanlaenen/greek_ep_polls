@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.6–1.9% | 0.5–2.1% | 0.4–2.3% | 0.3–2.7% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.6–1.8% | 0.5–2.0% | 0.4–2.2% | 0.3–2.6% |
+| [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
+| [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% |
+| [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 0.8% | 0.5–1.4% | 0.5–1.6% | 0.4–1.7% | 0.3–2.0% |
 | [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.2–1.4% | 0.2–1.7% |
 | [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 1.6% | 1.1–2.3% | 1.0–2.5% | 0.9–2.7% | 0.8–3.1% |
@@ -256,9 +259,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 7% | 100% | Last Result |
-| 0.5–1.5% | 61% | 93% | Median |
-| 1.5–2.5% | 31% | 32% |  |
-| 2.5–3.5% | 0.9% | 0.9% |  |
+| 0.5–1.5% | 69% | 93% | Median |
+| 1.5–2.5% | 24% | 24% |  |
+| 2.5–3.5% | 0.6% | 0.6% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -271,6 +274,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 0 | 0 | 0 | 0 | 0 |
+| [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 0 | 0 | 0 | 0 | 0 |
+| [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 0 | 0 | 0 | 0 | 0 |
 | [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 0 | 0 | 0 | 0 | 0 |
 | [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 0 | 0 | 0 | 0 | 0 |
 | [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 0 | 0 | 0 | 0 | 0–1 |
@@ -517,8 +523,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 
