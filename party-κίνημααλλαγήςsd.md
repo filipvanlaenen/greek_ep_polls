@@ -290,7 +290,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 3 | 3 | 2–3 | 2–4 | 2–4 |
+| [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -540,7 +540,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 26% | 100% |  |
-| 3 | 73% | 74% | Median |
+| 3 | 74% | 74% | Median |
 | 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
