@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.9% | 14.3–17.5% | 13.9–18.0% | 13.5–18.4% | 12.8–19.3% |
+| N/A | [Poll Average](average.html) | 15.7% | 14.6–17.1% | 14.2–17.6% | 13.8–18.0% | 13.1–18.9% |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 15.8% | 14.3–17.5% | 13.9–18.0% | 13.5–18.4% | 12.8–19.3% |
-| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 15.7% | N/A | N/A | N/A | N/A |
+| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 15.7% | 14.8–16.6% | 14.5–16.9% | 14.4–17.1% | 13.9–17.6% |
 | [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 15.7% | N/A | N/A | N/A | N/A |
 | [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 18.0% | N/A | N/A | N/A | N/A |
 | [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 17.0% | N/A | N/A | N/A | N/A |
@@ -272,15 +272,15 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.2% | 100% |  |
-| 12.5–13.5% | 2% | 99.8% |  |
-| 13.5–14.5% | 11% | 97% |  |
-| 14.5–15.5% | 26% | 86% |  |
-| 15.5–16.5% | 31% | 60% | Median |
-| 16.5–17.5% | 20% | 30% |  |
-| 17.5–18.5% | 8% | 10% |  |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.3% | 0.3% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 1.2% | 99.9% |  |
+| 13.5–14.5% | 8% | 98.6% |  |
+| 14.5–15.5% | 30% | 91% |  |
+| 15.5–16.5% | 41% | 61% | Median |
+| 16.5–17.5% | 15% | 20% |  |
+| 17.5–18.5% | 4% | 5% |  |
+| 18.5–19.5% | 0.9% | 1.0% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -547,8 +547,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 29% | 100% |  |
-| 4 | 71% | 71% | Median |
+| 3 | 41% | 100% |  |
+| 4 | 59% | 59% | Median |
 | 5 | 0% | 0% |  |
 
 

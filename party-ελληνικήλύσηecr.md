@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.9–8.1% | 5.6–8.4% | 5.3–8.8% | 4.9–9.4% |
+| N/A | [Poll Average](average.html) | 7.3% | 6.2–8.2% | 5.9–8.4% | 5.6–8.7% | 5.1–9.2% |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 6.8% | 5.9–8.1% | 5.6–8.4% | 5.3–8.8% | 4.9–9.4% |
-| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 7.6% | N/A | N/A | N/A | N/A |
+| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 7.6% | 7.0–8.3% | 6.8–8.5% | 6.6–8.6% | 6.4–9.0% |
 | [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 6.8% | N/A | N/A | N/A | N/A |
 | [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 5.7% | N/A | N/A | N/A | N/A |
 | [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 7.6% | N/A | N/A | N/A | N/A |
@@ -265,12 +265,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 5% | 99.9% |  |
-| 5.5–6.5% | 29% | 95% |  |
-| 6.5–7.5% | 42% | 66% | Median |
-| 7.5–8.5% | 20% | 24% |  |
+| 4.5–5.5% | 2% | 99.9% |  |
+| 5.5–6.5% | 15% | 98% |  |
+| 6.5–7.5% | 44% | 82% | Median |
+| 7.5–8.5% | 35% | 39% |  |
 | 8.5–9.5% | 4% | 4% |  |
-| 9.5–10.5% | 0.3% | 0.3% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -535,8 +535,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 79% | 100% | Median |
-| 2 | 21% | 21% |  |
+| 1 | 68% | 100% | Median |
+| 2 | 32% | 32% |  |
 | 3 | 0% | 0% |  |
 
 

@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.6–2.0% | 0.4–2.3% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.5% | 0.3–1.7% | 0.3–1.9% | 0.3–2.2% |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.6–2.0% | 0.4–2.3% |
-| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 0.5% | N/A | N/A | N/A | N/A |
+| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–0.9% | 0.3–1.1% |
 | [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 1.7% | N/A | N/A | N/A | N/A |
 | [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 0.9% | N/A | N/A | N/A | N/A |
 | [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 1.5% | N/A | N/A | N/A | N/A |
@@ -260,10 +260,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 83% | 98% | Median |
-| 1.5–2.5% | 15% | 15% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 24% | 100% | Last Result |
+| 0.5–1.5% | 69% | 76% | Median |
+| 1.5–2.5% | 8% | 8% |  |
+| 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
