@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.5% | 0.3–1.7% | 0.3–1.9% | 0.3–2.2% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.5% | 0.4–1.7% | 0.4–1.9% | 0.3–2.2% |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.6–2.0% | 0.4–2.3% |
-| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–0.9% | 0.3–1.1% |
+| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 0.5% | 0.4–0.8% | 0.4–0.8% | 0.3–0.9% | 0.3–1.0% |
 | [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 1.7% | N/A | N/A | N/A | N/A |
 | [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 0.9% | N/A | N/A | N/A | N/A |
 | [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 1.5% | N/A | N/A | N/A | N/A |
@@ -277,7 +277,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0 | 0 | 0 | 0 |
-| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
+| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 0 | 0 | 0 | 0 | 0 |
 | [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |
 | [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
 | [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |

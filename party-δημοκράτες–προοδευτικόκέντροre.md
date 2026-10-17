@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.5% | 1.4–2.8% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0.0% | N/A | N/A | N/A | N/A |
-| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 2.0% | 1.6–2.4% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% |
+| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% | 1.4–2.8% |
 | [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 1.2% | N/A | N/A | N/A | N/A |
 | [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 0.8% | N/A | N/A | N/A | N/A |
 | [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 0.8% | N/A | N/A | N/A | N/A |
@@ -261,9 +261,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 96% | 98% | Median |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 94% | 97% | Median |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -275,9 +275,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
-| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr |  |  |  |  |  |
+| [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 0 | 0 | 0 | 0 | 0–1 |
 | [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |
 | [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
 | [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
@@ -524,4 +524,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-δημοκράτες–προοδευτικόκέντροre.png "Seats Probability Mass Function")
 
 The following table shows the probability mass function per seat for the [poll average](average.html) for Δημοκράτες–Προοδευτικό Κέντρο (RE).
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
+| 2 | 0% | 0% |  |
+
 
