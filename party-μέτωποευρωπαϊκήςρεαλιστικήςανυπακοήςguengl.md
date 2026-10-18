@@ -10,21 +10,21 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.3–3.7% | 2.1–3.9% | 2.0–4.0% | 1.7–4.4% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.1–3.8% | 1.9–4.1% | 1.7–4.3% | 1.4–4.8% |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2.7% | 2.1–3.6% | 2.0–3.8% | 1.8–4.1% | 1.6–4.5% |
 | [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.5–4.3% |
-| [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 3.6% | N/A | N/A | N/A | N/A |
-| [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 2.8% | N/A | N/A | N/A | N/A |
-| [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 3.1% | N/A | N/A | N/A | N/A |
-| [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 2.6% | N/A | N/A | N/A | N/A |
-| [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 3.3% | N/A | N/A | N/A | N/A |
-| [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 2.3% | N/A | N/A | N/A | N/A |
-| [14–16 September 2026](2026-09-16-GPO.html) | GPO <br> Parapolitika | 2.1% | N/A | N/A | N/A | N/A |
-| [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 2.9% | N/A | N/A | N/A | N/A |
-| [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2.5% | N/A | N/A | N/A | N/A |
-| [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.4% | N/A | N/A | N/A | N/A |
+| [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 3.6% | 3.0–4.4% | 2.8–4.7% | 2.6–4.9% | 2.4–5.3% |
+| [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 2.8% | 2.3–3.5% | 2.2–3.7% | 2.1–3.9% | 1.8–4.2% |
+| [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 3.1% | 2.4–4.0% | 2.3–4.2% | 2.1–4.5% | 1.8–4.9% |
+| [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 2.6% | 2.0–3.4% | 1.8–3.7% | 1.7–3.9% | 1.5–4.3% |
+| [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 3.3% | 2.7–4.1% | 2.6–4.4% | 2.4–4.6% | 2.2–5.0% |
+| [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 2.3% | 1.8–3.2% | 1.6–3.4% | 1.5–3.6% | 1.3–4.0% |
+| [14–16 September 2026](2026-09-16-GPO.html) | GPO <br> Parapolitika | 2.1% | 1.6–2.9% | 1.5–3.1% | 1.3–3.3% | 1.1–3.7% |
+| [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.2% | 1.8–4.6% |
+| [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
+| [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.8% | 2.2–5.2% |
 | [7–8 September 2026](2026-09-08-GPO.html) | GPO <br> Star TV | 2.2% | N/A | N/A | N/A | N/A |
-| [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 3.1% | N/A | N/A | N/A | N/A |
+| [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 3.1% | 2.8–3.6% | 2.7–3.7% | 2.6–3.8% | 2.5–4.0% |
 | [18–24 August 2026](2026-08-24-Interview.html) | Interview <br> POLITIC | 3.1% | N/A | N/A | N/A | N/A |
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ | 3.2% | N/A | N/A | N/A | N/A |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr | 3.4% | N/A | N/A | N/A | N/A |
@@ -261,11 +261,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 17% | 99.8% |  |
-| 2.5–3.5% | 66% | 83% | Median |
-| 3.5–4.5% | 17% | 17% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 1.3% | 100% |  |
+| 1.5–2.5% | 26% | 98.7% |  |
+| 2.5–3.5% | 53% | 72% | Median |
+| 3.5–4.5% | 18% | 19% |  |
+| 4.5–5.5% | 1.2% | 1.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -277,21 +277,21 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 1 | 1 | 1 | 0–1 | 0–1 |
-| [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega |  |  |  |  |  |
-| [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon |  |  |  |  |  |
-| [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV |  |  |  |  |  |
-| [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr |  |  |  |  |  |
-| [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 |  |  |  |  |  |
-| [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV |  |  |  |  |  |
-| [14–16 September 2026](2026-09-16-GPO.html) | GPO <br> Parapolitika |  |  |  |  |  |
-| [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV |  |  |  |  |  |
-| [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 |  |  |  |  |  |
-| [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών |  |  |  |  |  |
+| [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–18 September 2026](2026-09-18-PalmosAnalysis.html) | Palmos Analysis <br> TheOpinion.gr | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–16 September 2026](2026-09-16-Marc.html) | Marc <br> ANT1 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–16 September 2026](2026-09-16-MRB.html) | MRB <br> Open TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–16 September 2026](2026-09-16-GPO.html) | GPO <br> Parapolitika | 0 | 0 | 0 | 0–1 | 0–1 |
+| [13–15 September 2026](2026-09-15-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–15 September 2026](2026-09-15-OpinionPoll.html) | Opinion Poll <br> Action 24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–10 September 2026](2026-09-10-Prorata.html) | Prorata <br> Η Εφημερίδα των Συντακτών | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–8 September 2026](2026-09-08-GPO.html) | GPO <br> Star TV |  |  |  |  |  |
-| [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL |  |  |  |  |  |
+| [26 August–1 September 2026](2026-09-01-Interview.html) | Interview <br> POLITICAL | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–24 August 2026](2026-08-24-Interview.html) | Interview <br> POLITIC |  |  |  |  |  |
 | [20–23 July 2026](2026-07-23-Marc.html) | Marc <br> Πρώτο ΘΕΜΑ |  |  |  |  |  |
 | [15–20 July 2026](2026-07-20-Interview.html) | Interview <br> politic.gr |  |  |  |  |  |
@@ -529,8 +529,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 39% | 100% | Last Result |
-| 1 | 61% | 61% | Median |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 43% | 43% |  |
 | 2 | 0% | 0% |  |
 
 
