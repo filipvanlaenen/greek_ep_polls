@@ -10,9 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 5.9–9.5% | 5.6–10.1% | 5.3–10.5% | 4.7–11.4% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.7–8.5% | 5.3–9.0% | 5.1–9.5% | 4.6–10.4% |
+| [17–20 October 2026](2026-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 7.4% | 6.4–8.6% | 6.2–9.0% | 5.9–9.3% | 5.5–9.9% |
+| [14–20 October 2026](2026-10-20-MetronAnalysis.html) | Metron Analysis <br> Mega | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–7.9% | 4.6–8.5% |
+| [16–19 October 2026](2026-10-19-GPO.html) | GPO <br> iefimerida.gr | 8.5% | 7.4–9.9% | 7.1–10.2% | 6.8–10.6% | 6.3–11.2% |
+| [12–14 October 2026](2026-10-14-Marc.html) | Marc <br> ANT1 | 7.0% | 6.2–8.1% | 5.9–8.4% | 5.7–8.6% | 5.3–9.1% |
+| [8–13 October 2026](2026-10-13-Alco.html) | Alco <br> flash.gr | 6.6% | 5.7–7.9% | 5.4–8.2% | 5.2–8.5% | 4.7–9.2% |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 6.8% | 5.9–8.1% | 5.6–8.4% | 5.3–8.8% | 4.9–9.4% |
 | [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 7.6% | 7.0–8.3% | 6.8–8.4% | 6.6–8.6% | 6.4–9.0% |
+| [23–28 September 2026](2026-09-28-Interview.html) | Interview <br> Politic | 8.7% | 8.2–9.3% | 8.0–9.4% | 7.9–9.6% | 7.7–9.8% |
 | [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 6.8% | 5.9–7.9% | 5.7–8.2% | 5.5–8.5% | 5.1–9.0% |
 | [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 5.7% | 5.0–6.6% | 4.8–6.9% | 4.6–7.1% | 4.3–7.6% |
 | [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 7.6% | 6.5–8.9% | 6.2–9.2% | 6.0–9.5% | 5.5–10.2% |
@@ -264,16 +270,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 5% | 99.8% |  |
-| 5.5–6.5% | 16% | 95% |  |
-| 6.5–7.5% | 28% | 79% |  |
-| 7.5–8.5% | 26% | 50% | Median |
-| 8.5–9.5% | 15% | 24% |  |
-| 9.5–10.5% | 7% | 9% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.3% | 0.4% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 7% | 99.7% |  |
+| 5.5–6.5% | 25% | 92% |  |
+| 6.5–7.5% | 34% | 67% | Median |
+| 7.5–8.5% | 23% | 33% |  |
+| 8.5–9.5% | 7% | 9% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -284,9 +289,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [17–20 October 2026](2026-10-20-PulseRC.html) | Pulse RC <br> ΣΚΑΪ TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [14–20 October 2026](2026-10-20-MetronAnalysis.html) | Metron Analysis <br> Mega | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [16–19 October 2026](2026-10-19-GPO.html) | GPO <br> iefimerida.gr | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| [12–14 October 2026](2026-10-14-Marc.html) | Marc <br> ANT1 | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–13 October 2026](2026-10-13-Alco.html) | Alco <br> flash.gr | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–12 October 2026](2026-10-12-OpinionPoll.html) | Opinion Poll <br> Action 24 | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–10 October 2026](2026-10-10-Interview.html) | Interview <br> Political.gr | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [23–28 September 2026](2026-09-28-Interview.html) | Interview <br> Politic | 2 | 2 | 2 | 2 | 2 |
 | [16–22 September 2026](2026-09-22-MetronAnalysis.html) | Metron Analysis <br> Mega | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–21 September 2026](2026-09-21-RealPolls.html) | Real Polls <br> Protagon | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [15–19 September 2026](2026-09-19-Alco.html) | Alco <br> Alpha TV | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -537,9 +548,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 27% | 100% |  |
-| 2 | 73% | 73% | Median |
-| 3 | 0.6% | 0.6% |  |
+| 1 | 42% | 100% |  |
+| 2 | 58% | 58% | Median |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 
